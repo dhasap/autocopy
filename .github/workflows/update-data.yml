@@ -1,0 +1,31 @@
+name: Perbarui Data Komik per Genre Secara Otomatis
+
+on:
+  schedule:
+    - cron: '0 22 * * *' # Jam 5 pagi WIB
+  workflow_dispatch:
+
+jobs:
+  build-and-commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run script to generate JSON files
+        run: node generator.js
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: 'chore: Perbarui data komik genre secara otomatis'
+          file_pattern: hasil_json/*.json
+          add_options: '--all'
