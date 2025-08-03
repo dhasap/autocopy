@@ -1,31 +1,52 @@
+# Nama workflow yang akan muncul di tab "Actions" di GitHub
 name: Perbarui Data Komik per Genre Secara Otomatis
 
+# Pemicu (trigger) untuk menjalankan workflow ini
 on:
   schedule:
-    - cron: '0 22 * * *' # Jam 5 pagi WIB
+    # Menjalankan workflow setiap hari pada pukul 22:00 UTC (jam 5 pagi WIB)
+    # Anda bisa mengubah jadwalnya menggunakan format cron
+    - cron: '0 22 * * *'
+  # Menambahkan "workflow_dispatch" agar Anda bisa menjalankannya manual dari tab Actions
   workflow_dispatch:
 
+# Daftar pekerjaan (jobs) yang akan dijalankan
 jobs:
   build-and-commit:
+    # Menjalankan di lingkungan virtual Ubuntu terbaru
     runs-on: ubuntu-latest
+
+    # [FIX] Tambahkan baris ini untuk memberikan izin tulis ke bot
+    permissions:
+      contents: write
+
+    # Langkah-langkah yang akan dieksekusi
     steps:
+      # 1. Mengunduh kode dari repositori Anda
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      # 2. Menyiapkan lingkungan Node.js
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '18' # Menggunakan Node.js versi 18
 
+      # 3. Menginstall dependensi (axios dan cheerio)
       - name: Install dependencies
         run: npm install
 
+      # 4. Menjalankan skrip generator.js untuk membuat file-file JSON
       - name: Run script to generate JSON files
         run: node generator.js
 
+      # 5. Melakukan commit dan push file JSON yang baru dibuat/diperbarui ke repo
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
+          # Pesan commit yang akan digunakan
           commit_message: 'chore: Perbarui data komik genre secara otomatis'
+          # Nama folder/file yang akan di-commit. Sesuaikan jika nama folder Anda berbeda.
           file_pattern: hasil_json/*.json
+          # Opsi untuk menambahkan file yang belum terlacak (untracked files)
           add_options: '--all'
