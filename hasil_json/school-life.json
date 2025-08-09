@@ -2,6 +2,27 @@
   "success": true,
   "data": [
     {
+      "judul": "Hima-Ten!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhima-ten_%2Fimg_684bcf86a4e403.12656040.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hima-ten/"
+    },
+    {
+      "judul": "Mercenary Enrollment",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmercenary-enrollment%2Fmanga_img_horizontal-Komik-Mercenary-Enrollment-scaled.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mercenary-enrollment/"
+    },
+    {
+      "judul": "Necromancer Academy’s Genius Summoner",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnecromancer-academys-genius-summoner%2Fmanga_img_horizontal-Back-Necromancer-Academys-Genius-Summoner.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/necromancer-academys-genius-summoner/"
+    },
+    {
       "judul": "Star Ginseng Store",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fstar_ginseng_store%2Fimg_682a5c5c7d5ee3.01173196.jpg",
@@ -9,11 +30,18 @@
       "url": "https://komiku.org/manga/star-ginseng-store/"
     },
     {
-      "judul": "A Neat and Pretty Girl at My New School Is a Childhood Friend Who I Used To Play With Thinking She Was a Boy",
+      "judul": "The Cuckoo’s Fiancee",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fa-neat-and-pretty-girl-at-my-new-school-is-a-childhood-friend-who-i-used-to-play-with-thinking-she-was-a-boy%2Fmanga_img_horizontal-Komik-A-Neat-and-Pretty-Girl-at-My-New-School-Is-a-Childhood-Friend-Who-I-Used-To-Play-With-Thinking-She-Was-a-Boy.png",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-cuckoos-fiancee%2Fmanga_img_horizontal-Manga-The-Cuckoos-Fiancee.jpg",
       "tipe": "",
-      "url": "https://komiku.org/manga/a-neat-and-pretty-girl-at-my-new-school-is-a-childhood-friend-who-i-used-to-play-with-thinking-she-was-a-boy/"
+      "url": "https://komiku.org/manga/the-cuckoos-fiancee/"
+    },
+    {
+      "judul": "Become the Strongest Hero Through the Cheat System",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fbecome_the_strongest_hero_through_the_cheat_system%2Fimg_68396389eee974.22018231.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/become-the-strongest-hero-through-the-cheat-system/"
     },
     {
       "judul": "Tokidoki Bosotto Roshiago de Dereru Tonari no Alya-san",
@@ -23,11 +51,11 @@
       "url": "https://komiku.org/manga/tokidoki-bosotto-roshiago-de-dereru-tonari-no-alya-san/"
     },
     {
-      "judul": "Osoraku Kanojo wa Ore no Aniki wo Neratteru",
+      "judul": "A Neat and Pretty Girl at My New School Is a Childhood Friend Who I Used To Play With Thinking She Was a Boy",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fosoraku_kanojo_wa_ore_no_aniki_wo_neratteru%2Fimg_683415ad059552.63518866.jpg",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fa-neat-and-pretty-girl-at-my-new-school-is-a-childhood-friend-who-i-used-to-play-with-thinking-she-was-a-boy%2Fmanga_img_horizontal-Komik-A-Neat-and-Pretty-Girl-at-My-New-School-Is-a-Childhood-Friend-Who-I-Used-To-Play-With-Thinking-She-Was-a-Boy.png",
       "tipe": "",
-      "url": "https://komiku.org/manga/osoraku-kanojo-wa-ore-no-aniki-wo-neratteru/"
+      "url": "https://komiku.org/manga/a-neat-and-pretty-girl-at-my-new-school-is-a-childhood-friend-who-i-used-to-play-with-thinking-she-was-a-boy/"
     },
     {
       "judul": "Jirai nandesu ka? Chihara-san (That Girl Is Cute… But Dangerous?)",
@@ -35,6 +63,41 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fjirai_nandesu_ka__chihara-san%2Fimg_684fcc82ded9d6.84615583.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/jirai-nandesu-ka-chihara-san-that-girl-is-cute-but-dangerous/"
+    },
+    {
+      "judul": "Osananajimi wo Onnanoko ni Shiteshimatta Hanashi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fosananajimi-wo-onnanoko-ni-shiteshimatta-hanashi%2Fmanga_img_horizontal-Komik-Osananajimi-wo-Onnanoko-ni-Shiteshimatta-Hanashi.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/osananajimi-wo-onnanoko-ni-shiteshimatta-hanashi/"
+    },
+    {
+      "judul": "Chasing Spica",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fchasing-spica%2Fmanga_img_horizontal-Komik-Chasing-Spica.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/chasing-spica/"
+    },
+    {
+      "judul": "Aitsu no Kanojo (His Girlfriend)",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Faitsu_no_kanojo__his_girlfriend_%2Fimg_68970c0877e7c6.05209150.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/aitsu-no-kanojo-his-girlfriend/"
+    },
+    {
+      "judul": "Koukousei WEB Sakka no Mote Seikatsu “Anta ga Kami Sakka na Wakenai desho” to Boku wo Futta Osananajimi ga Koukaishiteru kedo Mou Osoi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkoukousei_web_sakka_no_mote_seikatsu____anta_ga_kami_sakka_na_wakenai_desho____to_boku_wo_futta_osananajimi_ga_koukaishiteru_kedo_mou_osoi%2Fimg_68970ad3498b17.78932454.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/koukousei-web-sakka-no-mote-seikatsu-anta-ga-kami-sakka-na-wakenai-desho-to-boku-wo-futta-osananajimi-ga-koukaishiteru-kedo-mou-osoi/"
+    },
+    {
+      "judul": "Osoraku Kanojo wa Ore no Aniki wo Neratteru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fosoraku_kanojo_wa_ore_no_aniki_wo_neratteru%2Fimg_683415ad059552.63518866.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/osoraku-kanojo-wa-ore-no-aniki-wo-neratteru/"
     },
     {
       "judul": "Ore no Haitoku Meshi o Onedari Sezu ni Irarenai, Otonari no Top Idol-sama",
@@ -56,13 +119,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
       "tipe": "",
       "url": "https://komiku.org/manga/legend-of-star-general/"
-    },
-    {
-      "judul": "Hima-Ten!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhima-ten_%2Fimg_684bcf86a4e403.12656040.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hima-ten/"
     },
     {
       "judul": "High School Musical Genius Is Paganini Reincarnated",
@@ -128,6 +184,13 @@
       "url": "https://komiku.org/manga/yuumei-vtuber-no-ani-dakedo-nazeka-ore-ga-yuumei-ni-natteita/"
     },
     {
+      "judul": "Houkago, Bokura wa Uchuu ni Madou",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhoukago__bokura_wa_uchuu_ni_madou%2Fimg_68970ca949cec9.22324821.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/houkago-bokura-wa-uchuu-ni-madou/"
+    },
+    {
       "judul": "Saijo no Osewa ~Takane no Hana Darakena Meimon Kou de, Gakuin Ichi no Ojou-sama (Seikatsu Noryoku Kaimu) o Kagenagara Osewa suru Koto ni Narimashita~",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsaijo-no-osewa-takane-no-hana-darakena-meimon-kou-de-gakuin-ichi-no-ojou-sama-seikatsu-noryoku-kaimu-o-kagenagara-osewa-suru-koto-ni-narimashita%2Fmanga_img_horizontal-Komik-Saijo-no-Osewa-Takane-no-Hana-Darakena-Meimon-Kou-de-Gakuin-Ichi-no-Ojou-sama-Seikatsu-Noryoku-Kaimu-o-Kagenagara-Osewa-suru-Koto-ni-Narimashita.jpg",
@@ -147,13 +210,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsaijo_no_osewa_takane_no_hana-darakena_meimon-kou_de%2Fimg_6853be81ab82c4.35910930.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/saijo-no-osewa-takane-no-hana-darakena-meimon-kou-de-gakuin-ichi-no-ojou-sama-seikatsu-nouryoku-kaimu-wo-kagenagara-osewa-suru-koto-ni-narimashita/"
-    },
-    {
-      "judul": "The Cuckoo’s Fiancee",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-cuckoos-fiancee%2Fmanga_img_horizontal-Manga-The-Cuckoos-Fiancee.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-cuckoos-fiancee/"
     },
     {
       "judul": "Shiunji-ke no Kodomo-Tachi",
@@ -205,13 +261,6 @@
       "url": "https://komiku.org/manga/transcension-academy/"
     },
     {
-      "judul": "Become the Strongest Hero Through the Cheat System",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fbecome_the_strongest_hero_through_the_cheat_system%2Fimg_68396389eee974.22018231.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/become-the-strongest-hero-through-the-cheat-system/"
-    },
-    {
       "judul": "Bouryoku Banzai",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fbouryoku_banzai%2Fimg_682d64d9687f09.14983611.jpg",
@@ -231,13 +280,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-fox-eyed-villain-of-the-demon-academy%2Fmanga_img_horizontal-A1-The-Fox-Eyed-Villain-Of-The-Demon-Academy.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-fox-eyed-villain-of-the-demon-academy/"
-    },
-    {
-      "judul": "Necromancer Academy’s Genius Summoner",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnecromancer-academys-genius-summoner%2Fmanga_img_horizontal-Back-Necromancer-Academys-Genius-Summoner.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/necromancer-academys-genius-summoner/"
     },
     {
       "judul": "Kanojo no Imouto to Kisu wo Shita",
@@ -336,13 +378,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkeiken-zumi-na-kimi-to-keikein-zero-na-ore-ga-otsukiai-suru-hanashi%2Fmanga_img_horizontal-Komik-Keiken-Zumi-na-Kimi-to-Keikein-Zero-na-Ore-ga-Otsukiai-Suru-Hanashi.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/keiken-zumi-na-kimi-to-keikein-zero-na-ore-ga-otsukiai-suru-hanashi/"
-    },
-    {
-      "judul": "Mercenary Enrollment",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmercenary-enrollment%2Fmanga_img_horizontal-Komik-Mercenary-Enrollment-scaled.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mercenary-enrollment/"
     },
     {
       "judul": "Kill The Dragon",
@@ -940,13 +975,6 @@
       "url": "https://komiku.org/manga/boyish-kanojo-ga-kawai-sugiru/"
     },
     {
-      "judul": "Osananajimi wo Onnanoko ni Shiteshimatta Hanashi",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fosananajimi-wo-onnanoko-ni-shiteshimatta-hanashi%2Fmanga_img_horizontal-Komik-Osananajimi-wo-Onnanoko-ni-Shiteshimatta-Hanashi.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/osananajimi-wo-onnanoko-ni-shiteshimatta-hanashi/"
-    },
-    {
       "judul": "Himegasaki Sakurako wa Kyoumo Fubin Kawaii!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhimegasaki-sakurako-wa-kyoumo-fubin-kawaii%2Fmanga_img_horizontal-Komik-Himegasaki-Sakurako-wa-Kyoumo-Fubin-Kawaii.jpg",
@@ -1290,20 +1318,6 @@
       "url": "https://komiku.org/manga/assassination-classroom/"
     },
     {
-      "judul": "Hard Luck Woman",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hard-luck-woman/"
-    },
-    {
-      "judul": "Watch Dog",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/watch-dog/"
-    },
-    {
       "judul": "Hundred",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
@@ -1316,6 +1330,20 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/houkago-no-cinderella-kun/"
+    },
+    {
+      "judul": "Hard Luck Woman",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hard-luck-woman/"
+    },
+    {
+      "judul": "Watch Dog",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/watch-dog/"
     },
     {
       "judul": "Koi wo Shiranai Bokutachi wa",
@@ -5250,13 +5278,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fa-novel-way-of-escaping-death%2Fmanga_img_horizontal-Komik-A-Novel-Way-of-Escaping-Death.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/a-novel-way-of-escaping-death/"
-    },
-    {
-      "judul": "Chasing Spica",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fchasing-spica%2Fmanga_img_horizontal-Komik-Chasing-Spica.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/chasing-spica/"
     },
     {
       "judul": "Night Of Shadows",
