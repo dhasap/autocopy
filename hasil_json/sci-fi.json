@@ -2,6 +2,20 @@
   "success": true,
   "data": [
     {
+      "judul": "Rebuild World",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Frebuild-world%2Fmanga_img_horizontal-Manga-Rebuild-World.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/rebuild-world/"
+    },
+    {
+      "judul": "The Kingdom of Ruin",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-kingdom-of-ruin%2Fmanga_img_horizontal-Manga-The-Kingdom-of-Ruin.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-kingdom-of-ruin/"
+    },
+    {
       "judul": "Time-stop Ugly Old Man",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftime-stop_ugly_old_man%2Fimg_687751c8edcd76.20491329.png",
@@ -240,25 +254,11 @@
       "url": "https://komiku.org/manga/shinsou-no-raputa/"
     },
     {
-      "judul": "The Kingdom of Ruin",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-kingdom-of-ruin%2Fmanga_img_horizontal-Manga-The-Kingdom-of-Ruin.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-kingdom-of-ruin/"
-    },
-    {
       "judul": "Myther",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmyther%2Fimg_6836b7647898f8.48817367.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/myther/"
-    },
-    {
-      "judul": "Rebuild World",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Frebuild-world%2Fmanga_img_horizontal-Manga-Rebuild-World.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/rebuild-world/"
     },
     {
       "judul": "The Marshal King",
