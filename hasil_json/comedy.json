@@ -2,11 +2,165 @@
   "success": true,
   "data": [
     {
+      "judul": "Pick Me Up",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fpick-me-up%2Fmanga_img_horizontal-Pick-Me-Up-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/pick-me-up/"
+    },
+    {
       "judul": "Mairimashita! Iruma-kun",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmairimashita-iruma-kun%2Fmanga_img_horizontal-Manga-Mairimashita-Iruma-kun.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/mairimashita-iruma-kun/"
+    },
+    {
+      "judul": "Isshou Senkin",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisshou-senkin%2Fmanga_img_horizontal-A1-Isshou-Senkin.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isshou-senkin/"
+    },
+    {
+      "judul": "Ming Dynasty’s Failure",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fming-dynastys-failure%2Fmanga_img_horizontal-Komik-Ming-Dynastys-Failure.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ming-dynastys-failure/"
+    },
+    {
+      "judul": "The Delusional Hunter in Another World",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_delusional_hunter_in_another_world%2Fimg_6864c2be731811.24099557.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-delusional-hunter-in-another-world/"
+    },
+    {
+      "judul": "The Player Hides His Past",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-player-hides-his-past%2Fmanga_img_horizontal-Back-The-Player-Hides-His-Past.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-player-hides-his-past/"
+    },
+    {
+      "judul": "Maou ga Inaka ni Totsuidara",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmaou_ga_inaka_ni_totsuidara%2Fimg_68316771962920.59125225.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/maou-ga-inaka-ni-totsuidara/"
+    },
+    {
+      "judul": "The Unyielding Will to Die",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_unyielding_will_to_die%2Fimg_685cfb684fc9e6.43206123.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-unyielding-will-to-die/"
+    },
+    {
+      "judul": "Star Ginseng Store",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fstar_ginseng_store%2Fimg_682a5c5c7d5ee3.01173196.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/star-ginseng-store/"
+    },
+    {
+      "judul": "Kanojo no Imouto to Kisu wo Shita",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkanojo-no-imouto-to-kisu-wo-shita%2Fmanga_img_horizontal-Komik-Kanojo-no-Imouto-to-Kisu-wo-Shita.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kanojo-no-imouto-to-kisu-wo-shita/"
+    },
+    {
+      "judul": "Jirai nandesu ka? Chihara-san (That Girl Is Cute… But Dangerous?)",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fjirai_nandesu_ka__chihara-san%2Fimg_684fcc82ded9d6.84615583.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/jirai-nandesu-ka-chihara-san-that-girl-is-cute-but-dangerous/"
+    },
+    {
+      "judul": "Arakure Ojousama Wa MonMon Shiteiru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Farakure-ojousama-wa-monmon-shiteiru%2Fmanga_img_horizontal-Manga-Arakure-Ojousama-Wa-MonMon-Shiteiru.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/arakure-ojousama-wa-monmon-shiteiru/"
+    },
+    {
+      "judul": "Marriage Gray",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmarriage-gray%2Fmanga_img_horizontal-Marriage-Gray-Panjang.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/marriage-gray/"
+    },
+    {
+      "judul": "Isekai Tensei Soudouki",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-tensei-soudouki%2Fmanga_img_horizontal-Manga-Isekai-Tensei-Soudouki.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-tensei-soudouki/"
+    },
+    {
+      "judul": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fboukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta%2Fmanga_img_horizontal-Komik-Boukensha-ni-Naritai-to-Miyako-ni-Deteitta-Musume-ga-S-Rank-ni-Natteta.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta/"
+    },
+    {
+      "judul": "Youchien Wars",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fyouchien-wars%2Fmanga_img_horizontal-Youchien-Wars-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/youchien-wars/"
+    },
+    {
+      "judul": "I Become a Fool When It Comes to My Daughter",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-become-a-fool-when-it-comes-to-my-daughter%2Fmanga_img_horizontal-A1-I-Become-a-Fool-When-It-Comes-to-My-Daughter.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/i-become-a-fool-when-it-comes-to-my-daughter/"
+    },
+    {
+      "judul": "Saeki-san wa Nemutteru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsaeki-san-wa-nemutteru%2Fmanga_img_horizontal-Manga-Saeki-san-wa-Nemutteru.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/saeki-san-wa-nemutteru/"
+    },
+    {
+      "judul": "Isshiki-san wa Koi wo Shiritai",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisshiki-san-wa-koi-wo-shiritai%2Fmanga_img_horizontal-Isshiki-san-wa-Koi-wo-Shiritai-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isshiki-san-wa-koi-wo-shiritai/"
+    },
+    {
+      "judul": "There Are No Bad Heroes In This World",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthere-are-no-bad-heroes-in-this-world%2Fmanga_img_horizontal-A1-There-Are-No-Bad-Heroes-In-This-World.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/there-are-no-bad-heroes-in-this-world/"
+    },
+    {
+      "judul": "Monster no Niku wo Kutte Itara Oui no Tsuita Ken",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmonster_no_niku_wo_kutte_itara_oui_no_tsuita_ken%2Fimg_689300b808e4f6.45793842.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/monster-no-niku-wo-kutte-itara-oui-no-tsuita-ken/"
+    },
+    {
+      "judul": "Spare Me, Great Lord!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fspare-me-great-lord%2Fmanga_img_horizontal-Komik-Spare-Me-Great-Lord.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/spare-me-great-lord/"
+    },
+    {
+      "judul": "Chainsaw Man",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2F123213-chainsaw-man%2Fmanga_img_horizontal-Komik-Chainsaw-Man.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/123213-chainsaw-man/"
     },
     {
       "judul": "Amai-san wa Tsumetakute Amai",
@@ -51,13 +205,6 @@
       "url": "https://komiku.org/manga/stuck-in-a-glitch-novel-as-an-extra/"
     },
     {
-      "judul": "Maou ga Inaka ni Totsuidara",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmaou_ga_inaka_ni_totsuidara%2Fimg_68316771962920.59125225.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/maou-ga-inaka-ni-totsuidara/"
-    },
-    {
       "judul": "Irozuku Monochrome",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Firozuku_monochrome%2Fimg_683414b864e274.28896258.jpg",
@@ -77,13 +224,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhitoribocchi-no-isekai-kouryaku%2Fmanga_img_horizontal-A1-Hitoribocchi-no-Isekai-Kouryaku.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/hitoribocchi-no-isekai-kouryaku/"
-    },
-    {
-      "judul": "The Unyielding Will to Die",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_unyielding_will_to_die%2Fimg_685cfb684fc9e6.43206123.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-unyielding-will-to-die/"
     },
     {
       "judul": "Kokou no Ou to Hidamari no Hanayome ga Saikou no Fuufu ni Naru made",
@@ -107,13 +247,6 @@
       "url": "https://komiku.org/manga/next-life/"
     },
     {
-      "judul": "Moto Ansatsusha, Tensei shita Kizoku no Reijou ni narimashita",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmoto-ansatsusha-tensei-shita-kizoku-no-reijou-ni-narimashita%2Fmanga_img_horizontal-Back-Moto-Ansatsusha.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/moto-ansatsusha-tensei-shita-kizoku-no-reijou-ni-narimashita/"
-    },
-    {
       "judul": "Okitsune Gal Katabami-san",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fokitsune-gal-katabami-san%2Fmanga_img_horizontal-A1-Okitsune-Gal-Katabami-san.jpg",
@@ -121,18 +254,18 @@
       "url": "https://komiku.org/manga/okitsune-gal-katabami-san/"
     },
     {
+      "judul": "Moto Ansatsusha, Tensei shita Kizoku no Reijou ni narimashita",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmoto-ansatsusha-tensei-shita-kizoku-no-reijou-ni-narimashita%2Fmanga_img_horizontal-Back-Moto-Ansatsusha.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/moto-ansatsusha-tensei-shita-kizoku-no-reijou-ni-narimashita/"
+    },
+    {
       "judul": "Tokimori-san ga Muboubi desu!!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftokimori-san-ga-muboubi-desu%2Fmanga_img_horizontal-Tokimori-san-2.png",
       "tipe": "",
       "url": "https://komiku.org/manga/tokimori-san-ga-muboubi-desu/"
-    },
-    {
-      "judul": "Jirai nandesu ka? Chihara-san (That Girl Is Cute… But Dangerous?)",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fjirai_nandesu_ka__chihara-san%2Fimg_684fcc82ded9d6.84615583.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/jirai-nandesu-ka-chihara-san-that-girl-is-cute-but-dangerous/"
     },
     {
       "judul": "Magic Lord",
@@ -161,13 +294,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgacha-wo-mawashite-nakama-wo-fuyasu-saikyou-no-bishoujo-gundan-wo-tsukuriagero%2Fmanga_img_horizontal-Komik-Gacha-wo-Mawashite-Nakama-wo-Fuyasu-Saikyou-no-Bishoujo-Gundan-wo-Tsukuriagero.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/gacha-wo-mawashite-nakama-wo-fuyasu-saikyou-no-bishoujo-gundan-wo-tsukuriagero/"
-    },
-    {
-      "judul": "Youchien Wars",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fyouchien-wars%2Fmanga_img_horizontal-Youchien-Wars-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/youchien-wars/"
     },
     {
       "judul": "The Game’s Addict Reset",
@@ -219,13 +345,6 @@
       "url": "https://komiku.org/manga/from-monday-to-weekend/"
     },
     {
-      "judul": "Star Ginseng Store",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fstar_ginseng_store%2Fimg_682a5c5c7d5ee3.01173196.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/star-ginseng-store/"
-    },
-    {
       "judul": "I Regressed, but the World didn’t End",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-regressed-but-the-world-didnt-end%2Fmanga_img_horizontal-A1-I-Regressed-but-the-World-didnt-End.jpg",
@@ -245,13 +364,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fosoraku_kanojo_wa_ore_no_aniki_wo_neratteru%2Fimg_683415ad059552.63518866.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/osoraku-kanojo-wa-ore-no-aniki-wo-neratteru/"
-    },
-    {
-      "judul": "Isekai Tensei Soudouki",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-tensei-soudouki%2Fmanga_img_horizontal-Manga-Isekai-Tensei-Soudouki.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isekai-tensei-soudouki/"
     },
     {
       "judul": "Wasteland Domination",
@@ -392,13 +504,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmushi_mezuru_himegimi_no_kekkon%2Fimg_682ae34cf339f3.84066302.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/mushi-mezuru-himegimi-no-kekkon/"
-    },
-    {
-      "judul": "Spare Me, Great Lord!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fspare-me-great-lord%2Fmanga_img_horizontal-Komik-Spare-Me-Great-Lord.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/spare-me-great-lord/"
     },
     {
       "judul": "Academy’s Undercover Professor",
@@ -555,13 +660,6 @@
       "url": "https://komiku.org/manga/the-turn-bound-mage/"
     },
     {
-      "judul": "Isshou Senkin",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisshou-senkin%2Fmanga_img_horizontal-A1-Isshou-Senkin.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isshou-senkin/"
-    },
-    {
       "judul": "Uragirareta S Rank Boukensha no Ore wa, Aisuru Dorei no Kanojora to Tomoni Dorei dake no Harem Guild o Tsukuru",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Furagirareta-s-rank-boukensha-no-ore-wa-aisuru-dorei-no-kanojora-to-tomoni-dorei-dake-no-harem-guild-o-tsukuru%2Fmanga_img_horizontal-Back-Uragirareta-S-Rank-Boukensha-no-Ore-wa.jpg",
@@ -646,13 +744,6 @@
       "url": "https://komiku.org/manga/kimi-wa-yakamashi-tojite-yo-kuchi-wo/"
     },
     {
-      "judul": "Isshiki-san wa Koi wo Shiritai",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisshiki-san-wa-koi-wo-shiritai%2Fmanga_img_horizontal-Isshiki-san-wa-Koi-wo-Shiritai-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isshiki-san-wa-koi-wo-shiritai/"
-    },
-    {
       "judul": "Kyouran Reijou Nia Liston – Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkyouran_reijou_nia_liston_____byoujaku_reijou_ni_tensei_shita_kamigoroshi_no_bujin_no_karei_naru_musouroku%2Fimg_6894cb5c2907d1.87110950.jpg",
@@ -723,25 +814,11 @@
       "url": "https://komiku.org/manga/playing-the-perfect-fox-eyed-villain/"
     },
     {
-      "judul": "Ming Dynasty’s Failure",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fming-dynastys-failure%2Fmanga_img_horizontal-Komik-Ming-Dynastys-Failure.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ming-dynastys-failure/"
-    },
-    {
       "judul": "Tyranno Noh Kyung-Soo",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftyranno_noh_kyung-soo%2Fimg_6836b9a6633908.90833495.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/tyranno-noh-kyung-soo/"
-    },
-    {
-      "judul": "Pick Me Up",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fpick-me-up%2Fmanga_img_horizontal-Pick-Me-Up-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/pick-me-up/"
     },
     {
       "judul": "The Heavenly Path Is Not Stupid",
@@ -826,13 +903,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmay_i_ask_for_one_final_thing_%2Fimg_68930141a08176.80566158.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/may-i-ask-for-one-final-thing/"
-    },
-    {
-      "judul": "Monster no Niku wo Kutte Itara Oui no Tsuita Ken",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmonster_no_niku_wo_kutte_itara_oui_no_tsuita_ken%2Fimg_689300b808e4f6.45793842.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/monster-no-niku-wo-kutte-itara-oui-no-tsuita-ken/"
     },
     {
       "judul": "Nanase-san no Koi ga Ijou",
@@ -954,25 +1024,11 @@
       "url": "https://komiku.org/manga/gokurakugai/"
     },
     {
-      "judul": "The Player Hides His Past",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-player-hides-his-past%2Fmanga_img_horizontal-Back-The-Player-Hides-His-Past.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-player-hides-his-past/"
-    },
-    {
       "judul": "Maou Toubatsu Shita Ato, Medachitakunai node Guild Master ni Natta",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmaou-toubatsu-shita-ato-medachitakunai-node-guild-master-ni-natta%2Fmanga_img_horizontal-Manga-Maou-Toubatsu-Shita-Ato-Medachitakunai-node-Guild-Master-ni-Natta.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/maou-toubatsu-shita-ato-medachitakunai-node-guild-master-ni-natta/"
-    },
-    {
-      "judul": "Kanojo no Imouto to Kisu wo Shita",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkanojo-no-imouto-to-kisu-wo-shita%2Fmanga_img_horizontal-Komik-Kanojo-no-Imouto-to-Kisu-wo-Shita.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kanojo-no-imouto-to-kisu-wo-shita/"
     },
     {
       "judul": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
@@ -1050,13 +1106,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkoori_no_hime_wa_chiisana_hidamari_de_tokasaretai%2Fimg_684bda271703f8.78715303.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/koori-no-hime-wa-chiisana-hidamari-de-tokasaretai/"
-    },
-    {
-      "judul": "There Are No Bad Heroes In This World",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthere-are-no-bad-heroes-in-this-world%2Fmanga_img_horizontal-A1-There-Are-No-Bad-Heroes-In-This-World.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/there-are-no-bad-heroes-in-this-world/"
     },
     {
       "judul": "I Became the World’s Strongest Witch, ~I Will Live Freely in a World Where Only I Can Access the “Guide Site”~",
@@ -1423,13 +1472,6 @@
       "url": "https://komiku.org/manga/kuso-onna-ni-sachiare/"
     },
     {
-      "judul": "Chainsaw Man",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2F123213-chainsaw-man%2Fmanga_img_horizontal-Komik-Chainsaw-Man.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/123213-chainsaw-man/"
-    },
-    {
       "judul": "Jitsu wa Ore, Saikyou deshita?",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjitsu-wa-ore-saikyou-deshita%2Fmanga_img_horizontal-A1-Jitsu-wa-Ori-Saikyou-deshita.jpg",
@@ -1463,13 +1505,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-work-nine-to-five-in-the-immortal-cultivation-world%2Fmanga_img_horizontal-Komik-I-Work-Nine-To-Five-In-The-Immortal-Cultivation-World-back.png",
       "tipe": "",
       "url": "https://komiku.org/manga/i-work-nine-to-five-in-the-immortal-cultivation-world/"
-    },
-    {
-      "judul": "Marriage Gray",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmarriage-gray%2Fmanga_img_horizontal-Marriage-Gray-Panjang.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/marriage-gray/"
     },
     {
       "judul": "Trinity Seven",
@@ -2480,13 +2515,6 @@
       "url": "https://komiku.org/manga/saejima-sensei-wa-ikasetai/"
     },
     {
-      "judul": "The Delusional Hunter in Another World",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_delusional_hunter_in_another_world%2Fimg_6864c2be731811.24099557.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-delusional-hunter-in-another-world/"
-    },
-    {
       "judul": "Fate/Grand Order COMIC à la carte PLUS! SP Showdown!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ffate_grand_order_comic%2Fimg_6853d6132b7360.21238294.jpg",
@@ -2669,18 +2697,18 @@
       "url": "https://komiku.org/manga/kabeyaku-nado-fuyou-to-tsuihousareta-s-kyuu-boukensha-skill-wo-kushi-shite-shijou-saikyou-no-kunizukuri/"
     },
     {
-      "judul": "Silent Witch Chinmoku no Majo no Kakushigoto",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsilent-witch-chinmoku-no-majo-no-kakushigoto%2Fmanga_img_horizontal-Silent-Witch-Chinmoku-no-Majo-no-Kakushigoto-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/silent-witch-chinmoku-no-majo-no-kakushigoto/"
-    },
-    {
       "judul": "Kimi no Kokoro wo Kanjitai",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkimi-no-kokoro-wo-kanjitai%2Fmanga_img_horizontal-Back-Kimi-no-Kokoro-wo-Kanjitai.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/kimi-no-kokoro-wo-kanjitai/"
+    },
+    {
+      "judul": "Silent Witch Chinmoku no Majo no Kakushigoto",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsilent-witch-chinmoku-no-majo-no-kakushigoto%2Fmanga_img_horizontal-Silent-Witch-Chinmoku-no-Majo-no-Kakushigoto-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/silent-witch-chinmoku-no-majo-no-kakushigoto/"
     },
     {
       "judul": "Tensei Oujo to Tensai Reijou no Mahou Kakumei",
@@ -2928,18 +2956,18 @@
       "url": "https://komiku.org/manga/anyone-can-see-its-a-beast/"
     },
     {
-      "judul": "Isekai H Eiyuuden ~Bishoujo Senshi-tachi wa Saikyou Gunshi no Muchana Onegai ni Sakaraenai~",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fisekai_h_eiyuuden%2Fimg_684914be9a2e39.93220879.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isekai-h-eiyuuden-bishoujo-senshi-tachi-wa-saikyou-gunshi-no-muchana-onegai-ni-sakaraenai/"
-    },
-    {
       "judul": "The Perks of Being a Villainess",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_perks_of_being_a_villainess%2Fimg_6836b8fe616b63.64655972.png",
       "tipe": "",
       "url": "https://komiku.org/manga/the-perks-of-being-a-villainess/"
+    },
+    {
+      "judul": "Isekai H Eiyuuden ~Bishoujo Senshi-tachi wa Saikyou Gunshi no Muchana Onegai ni Sakaraenai~",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fisekai_h_eiyuuden%2Fimg_684914be9a2e39.93220879.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-h-eiyuuden-bishoujo-senshi-tachi-wa-saikyou-gunshi-no-muchana-onegai-ni-sakaraenai/"
     },
     {
       "judul": "Kill This Love!",
@@ -3416,13 +3444,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fshita_no_kai_ni_sundeiru_hikikomori_bishojo_wa_ote%2Fimg_684bd0095a58e0.92973314.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/shita-no-kai-ni-sundeiru-hikikomori-bishojo-wa-ote-jimusho-no-shinjin-vtuber-deshita/"
-    },
-    {
-      "judul": "I Become a Fool When It Comes to My Daughter",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-become-a-fool-when-it-comes-to-my-daughter%2Fmanga_img_horizontal-A1-I-Become-a-Fool-When-It-Comes-to-My-Daughter.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/i-become-a-fool-when-it-comes-to-my-daughter/"
     },
     {
       "judul": "Wind Breaker (NII Satoru)",
@@ -5140,13 +5161,6 @@
       "url": "https://komiku.org/manga/arafoo-kenja-no-isekai-seikatsu-nikki/"
     },
     {
-      "judul": "Arakure Ojousama Wa MonMon Shiteiru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Farakure-ojousama-wa-monmon-shiteiru%2Fmanga_img_horizontal-Manga-Arakure-Ojousama-Wa-MonMon-Shiteiru.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/arakure-ojousama-wa-monmon-shiteiru/"
-    },
-    {
       "judul": "Arasa Dakedo Hatsukoi desu",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Farasa-dakedo-hatsukoi-desu%2Fmanga_img_horizontal-Manga-Arasa-Dakedo-Hatsukoi-desu.png",
@@ -5712,13 +5726,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fyahari-ore-no-seishun-love-comedy-wa-machigatteiru-monologue%2Fmanga_img_horizontal-Manga-Yahari-Ore-no-Seishun-Love-Comedy-wa-Machigatteiru-Monologue.png",
       "tipe": "",
       "url": "https://komiku.org/manga/yahari-ore-no-seishun-love-comedy-wa-machigatteiru-monologue/"
-    },
-    {
-      "judul": "Boukensha ni Naritai to Miyako ni Deteitta Musume ga S Rank ni Natteta",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fboukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta%2Fmanga_img_horizontal-Komik-Boukensha-ni-Naritai-to-Miyako-ni-Deteitta-Musume-ga-S-Rank-ni-Natteta.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/boukensha-ni-naritai-to-miyako-ni-deteitta-musume-ga-s-rank-ni-natteta/"
     },
     {
       "judul": "Yari no Yuusha no Yarinaoshi",
@@ -6307,13 +6314,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fe-rank-no-kusushi-indonesia%2Fmanga_img_horizontal-Komik-e-rank-no-kusushi.png",
       "tipe": "",
       "url": "https://komiku.org/manga/e-rank-no-kusushi-indonesia/"
-    },
-    {
-      "judul": "Saeki-san wa Nemutteru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsaeki-san-wa-nemutteru%2Fmanga_img_horizontal-Manga-Saeki-san-wa-Nemutteru.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/saeki-san-wa-nemutteru/"
     },
     {
       "judul": "Prince Don’t do This",
@@ -10831,18 +10831,18 @@
       "url": "https://komiku.org/manga/kinsou-no-vermeil-gakeppuchi-majutshi-wa-saikyou-no-yakusai-to-mahou-sekai-o-tsukisusumu/"
     },
     {
-      "judul": "Oji-san ga Joshi●sei ni Warui Koto wo Oshieru hanashi",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2021%2F10%2FKomik-Oji-san-ga-Joshi%E2%97%8Fsei-ni-Warui-Koto-wo-Oshieru-hanashi.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/oji-san-ga-joshi%e2%97%8fsei-ni-warui-koto-wo-oshieru-hanashi/"
-    },
-    {
       "judul": "Evergreen (Kasukabe Akira)",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fevergreen-kasukabe-akira%2Fmanga_img_horizontal-Manga-Evergreen.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/evergreen-kasukabe-akira/"
+    },
+    {
+      "judul": "Oji-san ga Joshi●sei ni Warui Koto wo Oshieru hanashi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2021%2F10%2FKomik-Oji-san-ga-Joshi%E2%97%8Fsei-ni-Warui-Koto-wo-Oshieru-hanashi.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/oji-san-ga-joshi%e2%97%8fsei-ni-warui-koto-wo-oshieru-hanashi/"
     },
     {
       "judul": "Circle Crash!",
