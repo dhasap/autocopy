@@ -2,20 +2,6 @@
   "success": true,
   "data": [
     {
-      "judul": "I Became a Swordsmanship Instructor at the Academy",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fi_became_a_swordsmanship_instructor_at_the_academy%2Fimg_6847f2204b0b33.60747314.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/i-became-a-swordsmanship-instructor-at-the-academy/"
-    },
-    {
-      "judul": "Legend of Star General",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/legend-of-star-general/"
-    },
-    {
       "judul": "Star Ginseng Store",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fstar_ginseng_store%2Fimg_682a5c5c7d5ee3.01173196.jpg",
@@ -37,13 +23,6 @@
       "url": "https://komiku.org/manga/kanojo-no-imouto-to-kisu-wo-shita/"
     },
     {
-      "judul": "Ao no Hako",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-no-hako%2Fmanga_img_horizontal-Komik-Ao-no-Hako.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ao-no-hako/"
-    },
-    {
       "judul": "Jirai nandesu ka? Chihara-san (That Girl Is Cute… But Dangerous?)",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fjirai_nandesu_ka__chihara-san%2Fimg_684fcc82ded9d6.84615583.jpg",
@@ -51,18 +30,53 @@
       "url": "https://komiku.org/manga/jirai-nandesu-ka-chihara-san-that-girl-is-cute-but-dangerous/"
     },
     {
-      "judul": "Gotou-san Wants Me To Turn Around",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgotou-san-wants-me-to-turn-around%2Fmanga_img_horizontal-Komik-Gotou-san-Wants-Me-To-Turn-Around.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/gotou-san-wants-me-to-turn-around/"
-    },
-    {
       "judul": "Arakure Ojousama Wa MonMon Shiteiru",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Farakure-ojousama-wa-monmon-shiteiru%2Fmanga_img_horizontal-Manga-Arakure-Ojousama-Wa-MonMon-Shiteiru.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/arakure-ojousama-wa-monmon-shiteiru/"
+    },
+    {
+      "judul": "Now That We Draw",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnow-that-we-draw%2Fmanga_img_horizontal-A1-Now-That-We-Draw.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/now-that-we-draw/"
+    },
+    {
+      "judul": "Ogami Tsumiki to Kinichijou",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fogami-tsumiki-to-kinichijou%2Fmanga_img_horizontal-A1-Ogami-Tsumiki-to-Kinichijou.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ogami-tsumiki-to-kinichijou/"
+    },
+    {
+      "judul": "I Became a Swordsmanship Instructor at the Academy",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fi_became_a_swordsmanship_instructor_at_the_academy%2Fimg_6847f2204b0b33.60747314.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/i-became-a-swordsmanship-instructor-at-the-academy/"
+    },
+    {
+      "judul": "Legend of Star General",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/legend-of-star-general/"
+    },
+    {
+      "judul": "Ao no Hako",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-no-hako%2Fmanga_img_horizontal-Komik-Ao-no-Hako.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ao-no-hako/"
+    },
+    {
+      "judul": "Gotou-san Wants Me To Turn Around",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgotou-san-wants-me-to-turn-around%2Fmanga_img_horizontal-Komik-Gotou-san-Wants-Me-To-Turn-Around.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/gotou-san-wants-me-to-turn-around/"
     },
     {
       "judul": "Saeki-san wa Nemutteru",
@@ -644,13 +658,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhirasaka-hinako-ga-ero-kawaii-koto-wo-ore-dake-ga-shitteiru%2Fmanga_img_horizontal-2-44.png",
       "tipe": "",
       "url": "https://komiku.org/manga/hirasaka-hinako-ga-ero-kawaii-koto-wo-ore-dake-ga-shitteiru/"
-    },
-    {
-      "judul": "Now That We Draw",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnow-that-we-draw%2Fmanga_img_horizontal-A1-Now-That-We-Draw.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/now-that-we-draw/"
     },
     {
       "judul": "Jitsu wa Gimai (Imouto) deshita. ~Saikin de Kitagiri no Otouto no Kyorikan ga Yatara Chikaiwake~",
@@ -1547,13 +1554,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fvillain_classroom%2Fimg_683568cd2cde49.68703298.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/villain-classroom/"
-    },
-    {
-      "judul": "Ogami Tsumiki to Kinichijou",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fogami-tsumiki-to-kinichijou%2Fmanga_img_horizontal-A1-Ogami-Tsumiki-to-Kinichijou.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ogami-tsumiki-to-kinichijou/"
     },
     {
       "judul": "Uma Musume Pretty Derby: Star Blossom",
