@@ -2,11 +2,60 @@
   "success": true,
   "data": [
     {
+      "judul": "Mercenary Enrollment",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmercenary-enrollment%2Fmanga_img_horizontal-Komik-Mercenary-Enrollment-scaled.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mercenary-enrollment/"
+    },
+    {
       "judul": "My School Life Pretending to Be a Worthless Person",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmy-school-life-pretending-to-be-a-worthless-person%2Fmanga_img_horizontal-Komik-My-School-Life-Pretending-to-Be-a-Worthless-Person.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/my-school-life-pretending-to-be-a-worthless-person/"
+    },
+    {
+      "judul": "Osananajimi wo Onnanoko ni Shiteshimatta Hanashi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fosananajimi-wo-onnanoko-ni-shiteshimatta-hanashi%2Fmanga_img_horizontal-Komik-Osananajimi-wo-Onnanoko-ni-Shiteshimatta-Hanashi.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/osananajimi-wo-onnanoko-ni-shiteshimatta-hanashi/"
+    },
+    {
+      "judul": "The Great War",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-great-war%2Fmanga_img_horizontal-A1-The-Great-War.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-great-war/"
+    },
+    {
+      "judul": "Kanojo no Imouto to Kisu wo Shita",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkanojo-no-imouto-to-kisu-wo-shita%2Fmanga_img_horizontal-Komik-Kanojo-no-Imouto-to-Kisu-wo-Shita.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kanojo-no-imouto-to-kisu-wo-shita/"
+    },
+    {
+      "judul": "Oroka na Tenshi wa Akuma to Odoru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Foroka-na-tenshi-wa-akuma-to-odoru%2Fmanga_img_horizontal-Komik-Oroka-na-Tenshi-wa-Akuma-to-Odoru.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/oroka-na-tenshi-wa-akuma-to-odoru/"
+    },
+    {
+      "judul": "Necromancer Academy’s Genius Summoner",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnecromancer-academys-genius-summoner%2Fmanga_img_horizontal-Back-Necromancer-Academys-Genius-Summoner.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/necromancer-academys-genius-summoner/"
+    },
+    {
+      "judul": "Ghost Story Club (Remake)",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fghost-story-club-remake%2Fmanga_img_horizontal-A1-Ghost-Story-Club-Remake.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ghost-story-club-remake/"
     },
     {
       "judul": "Goo Se Ra",
@@ -16,11 +65,11 @@
       "url": "https://komiku.org/manga/goo-se-ra/"
     },
     {
-      "judul": "Kanojo no Imouto to Kisu wo Shita",
+      "judul": "High School Musical Genius Is Paganini Reincarnated",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkanojo-no-imouto-to-kisu-wo-shita%2Fmanga_img_horizontal-Komik-Kanojo-no-Imouto-to-Kisu-wo-Shita.jpg",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhigh-school-musical-genius-is-paganini-reincarnated%2Fmanga_img_horizontal-A1-High-School-Musical-Genius-Is-Paganini.jpg",
       "tipe": "",
-      "url": "https://komiku.org/manga/kanojo-no-imouto-to-kisu-wo-shita/"
+      "url": "https://komiku.org/manga/high-school-musical-genius-is-paganini-reincarnated/"
     },
     {
       "judul": "Jirai nandesu ka? Chihara-san (That Girl Is Cute… But Dangerous?)",
@@ -142,13 +191,6 @@
       "url": "https://komiku.org/manga/nishuume-cheat-no-tensei-madoushi-%e3%80%9csaikyou-ga-1000-nengo-ni-tensei-shitara-jinsei-yoyu-sugimashita%e3%80%9c/"
     },
     {
-      "judul": "Necromancer Academy’s Genius Summoner",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnecromancer-academys-genius-summoner%2Fmanga_img_horizontal-Back-Necromancer-Academys-Genius-Summoner.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/necromancer-academys-genius-summoner/"
-    },
-    {
       "judul": "Kono Oto Tomare!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkono-oto-tomare%2Fmanga_img_horizontal-Komik-Kono-Oto-Tomare.jpg",
@@ -182,13 +224,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsecret_family%2Fimg_689acebbacfbe2.91928962.png",
       "tipe": "",
       "url": "https://komiku.org/manga/secret-family/"
-    },
-    {
-      "judul": "Ghost Story Club (Remake)",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fghost-story-club-remake%2Fmanga_img_horizontal-A1-Ghost-Story-Club-Remake.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ghost-story-club-remake/"
     },
     {
       "judul": "The Fox-Eyed Villain Of The Demon Academy",
@@ -296,25 +331,11 @@
       "url": "https://komiku.org/manga/ghost-story-club/"
     },
     {
-      "judul": "Mercenary Enrollment",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmercenary-enrollment%2Fmanga_img_horizontal-Komik-Mercenary-Enrollment-scaled.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mercenary-enrollment/"
-    },
-    {
       "judul": "The Cuckoo’s Fiancee",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-cuckoos-fiancee%2Fmanga_img_horizontal-Manga-The-Cuckoos-Fiancee.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-cuckoos-fiancee/"
-    },
-    {
-      "judul": "Osananajimi wo Onnanoko ni Shiteshimatta Hanashi",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fosananajimi-wo-onnanoko-ni-shiteshimatta-hanashi%2Fmanga_img_horizontal-Komik-Osananajimi-wo-Onnanoko-ni-Shiteshimatta-Hanashi.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/osananajimi-wo-onnanoko-ni-shiteshimatta-hanashi/"
     },
     {
       "judul": "Chasing Spica",
@@ -350,13 +371,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftrue-education%2Fmanga_img_horizontal-Komik-True-Education.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/true-education/"
-    },
-    {
-      "judul": "High School Musical Genius Is Paganini Reincarnated",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhigh-school-musical-genius-is-paganini-reincarnated%2Fmanga_img_horizontal-A1-High-School-Musical-Genius-Is-Paganini.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/high-school-musical-genius-is-paganini-reincarnated/"
     },
     {
       "judul": "Taida na Akujo Kizoku ni Tensei Shita Ore, Shinario o Bukko wa Shitara Kikaku-gai no Maryoku de Saikyou ni Natta",
@@ -602,13 +616,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fclass-de-2-banme-ni-kawaii-onna-no-ko-to-tomodachi-ni-natta%2Fmanga_img_horizontal-Class-de-2-Panjang.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/class-de-2-banme-ni-kawaii-onna-no-ko-to-tomodachi-ni-natta/"
-    },
-    {
-      "judul": "Oroka na Tenshi wa Akuma to Odoru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Foroka-na-tenshi-wa-akuma-to-odoru%2Fmanga_img_horizontal-Komik-Oroka-na-Tenshi-wa-Akuma-to-Odoru.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/oroka-na-tenshi-wa-akuma-to-odoru/"
     },
     {
       "judul": "Gimai Seikatsu",
@@ -1003,13 +1010,6 @@
       "url": "https://komiku.org/manga/something-naughty-would-happen-if-they-knew-each-others-thoughts/"
     },
     {
-      "judul": "The Great War",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-great-war%2Fmanga_img_horizontal-A1-The-Great-War.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-great-war/"
-    },
-    {
       "judul": "Katsute no Ansatsusha ha Raise de Chigau Ikikata wo",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkatsute_no_ansatsusha_ha_raise_de_chigau_ikikata_wo%2Fimg_68625af27f0826.46709109.png",
@@ -1360,6 +1360,13 @@
       "url": "https://komiku.org/manga/assassination-classroom/"
     },
     {
+      "judul": "Hard Luck Woman",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hard-luck-woman/"
+    },
+    {
       "judul": "Watch Dog",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
@@ -1379,13 +1386,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/houkago-no-cinderella-kun/"
-    },
-    {
-      "judul": "Hard Luck Woman",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hard-luck-woman/"
     },
     {
       "judul": "Koi wo Shiranai Bokutachi wa",
