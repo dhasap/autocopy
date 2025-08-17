@@ -2,6 +2,34 @@
   "success": true,
   "data": [
     {
+      "judul": "Academy’s Undercover Professor",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Facademys-undercover-professor%2Fmanga_img_horizontal-Komik-Academys-Undercover-Professor.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/academys-undercover-professor/"
+    },
+    {
+      "judul": "Serial Killer Isekai ni Oritatsu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fserial-killer-isekai-ni-oritatsu%2Fmanga_img_horizontal-Serial-Killer-Isekai-ni-Oritatsu-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/serial-killer-isekai-ni-oritatsu/"
+    },
+    {
+      "judul": "The Executed Sage is Reincarnated as a Lich and Starts an All-Out War",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-executed-sage-is-reincarnated-as-a-lich-and-starts-an-all-out-war%2Fmanga_img_horizontal-The-Executed-Sage-is-Reincarnated-as-a-Lich-and-Starts-an-All-Out-War-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-executed-sage-is-reincarnated-as-a-lich-and-starts-an-all-out-war/"
+    },
+    {
+      "judul": "Tsuihou Sarenakatta Otoko ~Nidome no Jinsei wa Dogeza kara Hajimarimashita~",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftsuihou_sarenakatta_otoko%2Fimg_683971c946c970.99311803.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/tsuihou-sarenakatta-otoko-nidome-no-jinsei-wa-dogeza-kara-hajimarimashita/"
+    },
+    {
       "judul": "I Became the Mother of the Supporting Male Lead's Son",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fi_became_the_mother_of_the_supporting_male_lead_s_son%2Fimg_6897973e8baff5.49568908.jpg",
@@ -14,13 +42,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkeep-a-low-profile-sect-leader%2Fmanga_img_horizontal-Komik-Keep-A-Low-Profile-Sect-Leader.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/keep-a-low-profile-sect-leader/"
-    },
-    {
-      "judul": "The Executed Sage is Reincarnated as a Lich and Starts an All-Out War",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-executed-sage-is-reincarnated-as-a-lich-and-starts-an-all-out-war%2Fmanga_img_horizontal-The-Executed-Sage-is-Reincarnated-as-a-Lich-and-Starts-an-All-Out-War-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-executed-sage-is-reincarnated-as-a-lich-and-starts-an-all-out-war/"
     },
     {
       "judul": "Judge Lee Han Young",
@@ -170,13 +191,6 @@
       "url": "https://komiku.org/manga/yarikonda-renai-game-no-akuyaku-ni-tensei-shita-node-gensaku-chishiki-de-hiroin-o-koryaku-shimasu/"
     },
     {
-      "judul": "Academy’s Undercover Professor",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Facademys-undercover-professor%2Fmanga_img_horizontal-Komik-Academys-Undercover-Professor.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/academys-undercover-professor/"
-    },
-    {
       "judul": "Number One Star Instructor Master Baek",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnumber-one-star-instructor-master-baek%2Fmanga_img_horizontal-Komik-Number-One-Star-Instructor-Master-Baek.jpg",
@@ -196,13 +210,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkyouran_reijou_nia_liston_____byoujaku_reijou_ni_tensei_shita_kamigoroshi_no_bujin_no_karei_naru_musouroku%2Fimg_6894cb5c2907d1.87110950.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/kyouran-reijou-nia-liston-byoujaku-reijou-ni-tensei-shita-kamigoroshi-no-bujin-no-karei-naru-musouroku/"
-    },
-    {
-      "judul": "Tsuihou Sarenakatta Otoko ~Nidome no Jinsei wa Dogeza kara Hajimarimashita~",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftsuihou_sarenakatta_otoko%2Fimg_683971c946c970.99311803.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/tsuihou-sarenakatta-otoko-nidome-no-jinsei-wa-dogeza-kara-hajimarimashita/"
     },
     {
       "judul": "Isekai Saikouhou no Guild Leader",
@@ -387,18 +394,18 @@
       "url": "https://komiku.org/manga/i-soon-became-the-contract-daughter-of-a-ruined-family/"
     },
     {
-      "judul": "The Perks of Being a Villainess",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_perks_of_being_a_villainess%2Fimg_6836b8fe616b63.64655972.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-perks-of-being-a-villainess/"
-    },
-    {
       "judul": "Isekai H Eiyuuden ~Bishoujo Senshi-tachi wa Saikyou Gunshi no Muchana Onegai ni Sakaraenai~",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fisekai_h_eiyuuden%2Fimg_684914be9a2e39.93220879.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/isekai-h-eiyuuden-bishoujo-senshi-tachi-wa-saikyou-gunshi-no-muchana-onegai-ni-sakaraenai/"
+    },
+    {
+      "judul": "The Perks of Being a Villainess",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_perks_of_being_a_villainess%2Fimg_6836b8fe616b63.64655972.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-perks-of-being-a-villainess/"
     },
     {
       "judul": "Princess Who Hides Her Fandom",
@@ -1400,13 +1407,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fits-over-the-queens-soft-rice-husband-is-actually-invincible%2Fmanga_img_horizontal-Its-Over-The-Queens-Soft-Rice-Husband-is-Actually-Invincible-2.png",
       "tipe": "",
       "url": "https://komiku.org/manga/its-over-the-queens-soft-rice-husband-is-actually-invincible/"
-    },
-    {
-      "judul": "Serial Killer Isekai ni Oritatsu",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fserial-killer-isekai-ni-oritatsu%2Fmanga_img_horizontal-Serial-Killer-Isekai-ni-Oritatsu-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/serial-killer-isekai-ni-oritatsu/"
     },
     {
       "judul": "Reward 100 Million Lives at the Beginning",
