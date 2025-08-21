@@ -2,6 +2,34 @@
   "success": true,
   "data": [
     {
+      "judul": "Class de 2 Banme ni Kawaii Onna no Ko to Tomodachi ni Natta",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fclass-de-2-banme-ni-kawaii-onna-no-ko-to-tomodachi-ni-natta%2Fmanga_img_horizontal-Class-de-2-Panjang.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/class-de-2-banme-ni-kawaii-onna-no-ko-to-tomodachi-ni-natta/"
+    },
+    {
+      "judul": "Shinobi Undercover",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshinobi-undercover%2Fmanga_img_horizontal-A1-Shinobi-Undercover.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/shinobi-undercover/"
+    },
+    {
+      "judul": "Legend of Star General",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/legend-of-star-general/"
+    },
+    {
+      "judul": "High School Musical Genius Is Paganini Reincarnated",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhigh-school-musical-genius-is-paganini-reincarnated%2Fmanga_img_horizontal-A1-High-School-Musical-Genius-Is-Paganini.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/high-school-musical-genius-is-paganini-reincarnated/"
+    },
+    {
       "judul": "Ano Toki Tasukete Itadaita Monster Musume desu.",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fano_toki_tasukete_itadaita_monster_musume_desu%2Fimg_682d9c8ec50eb1.48153257.jpg",
@@ -184,13 +212,6 @@
       "url": "https://komiku.org/manga/my-school-life-pretending-to-be-a-worthless-person/"
     },
     {
-      "judul": "Legend of Star General",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/legend-of-star-general/"
-    },
-    {
       "judul": "Ghost Story Club (Remake)",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fghost-story-club-remake%2Fmanga_img_horizontal-A1-Ghost-Story-Club-Remake.jpg",
@@ -280,13 +301,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgoo_se_ra%2Fimg_6830222e939ac9.14231811.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/goo-se-ra/"
-    },
-    {
-      "judul": "High School Musical Genius Is Paganini Reincarnated",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhigh-school-musical-genius-is-paganini-reincarnated%2Fmanga_img_horizontal-A1-High-School-Musical-Genius-Is-Paganini.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/high-school-musical-genius-is-paganini-reincarnated/"
     },
     {
       "judul": "Jirai nandesu ka? Chihara-san (That Girl Is Cute… But Dangerous?)",
@@ -688,25 +702,11 @@
       "url": "https://komiku.org/manga/sm-kanojo/"
     },
     {
-      "judul": "Class de 2 Banme ni Kawaii Onna no Ko to Tomodachi ni Natta",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fclass-de-2-banme-ni-kawaii-onna-no-ko-to-tomodachi-ni-natta%2Fmanga_img_horizontal-Class-de-2-Panjang.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/class-de-2-banme-ni-kawaii-onna-no-ko-to-tomodachi-ni-natta/"
-    },
-    {
       "judul": "Gimai Seikatsu",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgimai-seikatsu%2Fmanga_img_horizontal-Komik-Gimai-Seikatsu.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/gimai-seikatsu/"
-    },
-    {
-      "judul": "Shinobi Undercover",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshinobi-undercover%2Fmanga_img_horizontal-A1-Shinobi-Undercover.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/shinobi-undercover/"
     },
     {
       "judul": "Trinity Seven",

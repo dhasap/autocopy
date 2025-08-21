@@ -2,6 +2,27 @@
   "success": true,
   "data": [
     {
+      "judul": "The World’s Best Engineer",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-worlds-best-engineer%2Fmanga_img_horizontal-Komik-The-Worlds-Best-Engineer.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-worlds-best-engineer/"
+    },
+    {
+      "judul": "My Disciples Are All Big Villains",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmy-disciples-are-all-big-villains%2Fmanga_img_horizontal-My-Disciples-Are-All-Big-Villains-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/my-disciples-are-all-big-villains/"
+    },
+    {
+      "judul": "Since My Previous Life Was A Wise Man I Can Afford To Live",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsince-my-previous-life-was-a-wise-man-i-can-afford-to-live%2Fmanga_img_horizontal-Komik-Since-My-Previous-Life-Was-A-Wise-Man-I-Can-Afford-To-Live-scaled.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/since-my-previous-life-was-a-wise-man-i-can-afford-to-live/"
+    },
+    {
       "judul": "Keep A Low Profile, Sect Leader",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkeep-a-low-profile-sect-leader%2Fmanga_img_horizontal-Komik-Keep-A-Low-Profile-Sect-Leader.jpg",
@@ -149,20 +170,6 @@
       "url": "https://komiku.org/manga/koudou-ni-hattatsu-shita-igaku-wa-mahou-to-kubetsu-ga-tsukanai/"
     },
     {
-      "judul": "The World’s Best Engineer",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-worlds-best-engineer%2Fmanga_img_horizontal-Komik-The-Worlds-Best-Engineer.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-worlds-best-engineer/"
-    },
-    {
-      "judul": "My Disciples Are All Big Villains",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmy-disciples-are-all-big-villains%2Fmanga_img_horizontal-My-Disciples-Are-All-Big-Villains-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/my-disciples-are-all-big-villains/"
-    },
-    {
       "judul": "A Revenge Guide for the Terminally",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fa_revenge_guide_for_the_terminally%2Fimg_68958eb08ba116.43332539.jpg",
@@ -252,13 +259,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Freturn-of-the-legend%2Fmanga_img_horizontal-Back-Return-of-the-Legend.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/return-of-the-legend/"
-    },
-    {
-      "judul": "Since My Previous Life Was A Wise Man I Can Afford To Live",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsince-my-previous-life-was-a-wise-man-i-can-afford-to-live%2Fmanga_img_horizontal-Komik-Since-My-Previous-Life-Was-A-Wise-Man-I-Can-Afford-To-Live-scaled.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/since-my-previous-life-was-a-wise-man-i-can-afford-to-live/"
     },
     {
       "judul": "Ore, Yuusha janai desu kara. – VR Sekai no Chouten ni Kunrin Seshi Otoko. Tenseishi, Level 1 no Mushoku kara Restart suru",
@@ -401,18 +401,18 @@
       "url": "https://komiku.org/manga/i-soon-became-the-contract-daughter-of-a-ruined-family/"
     },
     {
-      "judul": "The Perks of Being a Villainess",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_perks_of_being_a_villainess%2Fimg_6836b8fe616b63.64655972.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-perks-of-being-a-villainess/"
-    },
-    {
       "judul": "Isekai H Eiyuuden ~Bishoujo Senshi-tachi wa Saikyou Gunshi no Muchana Onegai ni Sakaraenai~",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fisekai_h_eiyuuden%2Fimg_684914be9a2e39.93220879.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/isekai-h-eiyuuden-bishoujo-senshi-tachi-wa-saikyou-gunshi-no-muchana-onegai-ni-sakaraenai/"
+    },
+    {
+      "judul": "The Perks of Being a Villainess",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_perks_of_being_a_villainess%2Fimg_6836b8fe616b63.64655972.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-perks-of-being-a-villainess/"
     },
     {
       "judul": "Princess Who Hides Her Fandom",
