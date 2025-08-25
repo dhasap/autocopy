@@ -2,6 +2,13 @@
   "success": true,
   "data": [
     {
+      "judul": "Please Bully Me, Miss Villainess!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fplease-bully-me-miss-villainess%2Fmanga_img_horizontal-Komik-Please-Bully-Me-Miss-Villainess.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/please-bully-me-miss-villainess/"
+    },
+    {
       "judul": "Arakure Ojousama Wa MonMon Shiteiru",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Farakure-ojousama-wa-monmon-shiteiru%2Fmanga_img_horizontal-Manga-Arakure-Ojousama-Wa-MonMon-Shiteiru.jpg",
@@ -345,18 +352,18 @@
       "url": "https://komiku.org/manga/villager-a-wants-to-save-the-villainess-no-matter-what/"
     },
     {
-      "judul": "The Great War",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-great-war%2Fmanga_img_horizontal-A1-The-Great-War.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-great-war/"
-    },
-    {
       "judul": "I Took over The Academy With a Single Sashimi Knife",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-took-over-the-academy-with-a-single-sashimi-knife%2Fmanga_img_horizontal-A1-I-Took-over-The-Academy-With-a-Single-Sashimi-Knife.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/i-took-over-the-academy-with-a-single-sashimi-knife/"
+    },
+    {
+      "judul": "The Great War",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-great-war%2Fmanga_img_horizontal-A1-The-Great-War.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-great-war/"
     },
     {
       "judul": "My School Life Pretending to Be a Worthless Person",
@@ -1045,13 +1052,6 @@
       "url": "https://komiku.org/manga/sono-bisque-doll-wa-koi-wo-suru/"
     },
     {
-      "judul": "Please Bully Me, Miss Villainess!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fplease-bully-me-miss-villainess%2Fmanga_img_horizontal-Komik-Please-Bully-Me-Miss-Villainess.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/please-bully-me-miss-villainess/"
-    },
-    {
       "judul": "Something Naughty Would Happen If They Knew Each Other’s Thoughts",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsomething_naughty_would_happen_if_they_knew_each_other___s_thoughts%2Fimg_68625b810a9526.60256306.jpg",
@@ -1409,6 +1409,13 @@
       "url": "https://komiku.org/manga/assassination-classroom/"
     },
     {
+      "judul": "Houkago no Cinderella-kun",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/houkago-no-cinderella-kun/"
+    },
+    {
       "judul": "Hard Luck Woman",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
@@ -1428,13 +1435,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
       "tipe": "",
       "url": "https://komiku.org/manga/hundred/"
-    },
-    {
-      "judul": "Houkago no Cinderella-kun",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/houkago-no-cinderella-kun/"
     },
     {
       "judul": "Koi wo Shiranai Bokutachi wa",
@@ -7135,11 +7135,11 @@
       "url": "https://komiku.org/manga/gaijin-chan-to-mushinkei-boyish-chan/"
     },
     {
-      "judul": "Gakkou Gurashi! – Otayori",
+      "judul": "Gakkou Gurashi!",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2022%2F10%2FGakkou-Gurashi-%E2%80%93-Otayori-2.png",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgakkou-gurashi%2Fmanga_img_horizontal-Gakkou-Gurashi-2.png",
       "tipe": "",
-      "url": "https://komiku.org/manga/gakkou-gurashi-otayori/"
+      "url": "https://komiku.org/manga/gakkou-gurashi/"
     },
     {
       "judul": "Gakkou Gurashi! – Otayori",

@@ -2,25 +2,18 @@
   "success": true,
   "data": [
     {
-      "judul": "Isekai Ojisan",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-ojisan%2Fmanga_img_horizontal-Komik-Isekai-Ojisan.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isekai-ojisan/"
-    },
-    {
-      "judul": "The Sleeping Duke's Bride",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_sleep_dukes_bride%2Fimg_6885d4f5619470.32246428.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-sleeping-dukes-bride/"
-    },
-    {
       "judul": "The Fake Lady and the Knight",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_fake_lady_and_the_knight%2Fimg_68a55ecfa85ab5.54081963.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-fake-lady-and-the-knight/"
+    },
+    {
+      "judul": "Please Bully Me, Miss Villainess!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fplease-bully-me-miss-villainess%2Fmanga_img_horizontal-Komik-Please-Bully-Me-Miss-Villainess.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/please-bully-me-miss-villainess/"
     },
     {
       "judul": "Isshiki-san wa Koi wo Shiritai",
@@ -30,13 +23,6 @@
       "url": "https://komiku.org/manga/isshiki-san-wa-koi-wo-shiritai/"
     },
     {
-      "judul": "Arakure Ojousama Wa MonMon Shiteiru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Farakure-ojousama-wa-monmon-shiteiru%2Fmanga_img_horizontal-Manga-Arakure-Ojousama-Wa-MonMon-Shiteiru.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/arakure-ojousama-wa-monmon-shiteiru/"
-    },
-    {
       "judul": "Koibumi to 13-sai no Joyuu",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkoibumi_to_13-sai_no_joyuu%2Fimg_685f857e489149.35895665.jpg",
@@ -44,11 +30,32 @@
       "url": "https://komiku.org/manga/koibumi-to-13-sai-no-joyuu/"
     },
     {
-      "judul": "Isekai Putin",
+      "judul": "Amai-san wa Tsumetakute Amai",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-putin%2Fmanga_img_horizontal-Manga-Isekai-Putin.jpg",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Famai-san-wa-tsumetakute-amai%2Fmanga_img_horizontal-Back-Amai-san-wa-Tsumetakute-Amai.jpg",
       "tipe": "",
-      "url": "https://komiku.org/manga/isekai-putin/"
+      "url": "https://komiku.org/manga/amai-san-wa-tsumetakute-amai/"
+    },
+    {
+      "judul": "Arakure Ojousama Wa MonMon Shiteiru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Farakure-ojousama-wa-monmon-shiteiru%2Fmanga_img_horizontal-Manga-Arakure-Ojousama-Wa-MonMon-Shiteiru.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/arakure-ojousama-wa-monmon-shiteiru/"
+    },
+    {
+      "judul": "The Sleeping Duke's Bride",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_sleep_dukes_bride%2Fimg_6885d4f5619470.32246428.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-sleeping-dukes-bride/"
+    },
+    {
+      "judul": "Isekai de Kojiin wo Hiraita kedo, Naze ka Darehitori Sudatou to Shinai Ken",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-de-kojiin-wo-hiraita-kedo-naze-ka-darehitori-sudatou-to-shinai-ken%2Fmanga_img_horizontal-Manga-Isekai-de-Kojiin-wo-Hiraita-kedo-Naze-ka-Darehitori-Sudatou-to-Shinai-Ken.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-de-kojiin-wo-hiraita-kedo-naze-ka-darehitori-sudatou-to-shinai-ken/"
     },
     {
       "judul": "Youchien Wars",
@@ -56,6 +63,55 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fyouchien-wars%2Fmanga_img_horizontal-Youchien-Wars-2.png",
       "tipe": "",
       "url": "https://komiku.org/manga/youchien-wars/"
+    },
+    {
+      "judul": "Ookami wa Tsuki ni Koi wo suru (Wolf Falls in Love with Moon)",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fookami_wa_tsuki_ni_koi_wo_suru%2Fimg_685208c6e62941.21504396.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ookami-wa-tsuki-ni-koi-wo-suru-wolf-falls-in-love-with-moon/"
+    },
+    {
+      "judul": "Heart-Pounding Ghostly Poem",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fheart-pounding-ghostly-poem%2Fmanga_img_horizontal-A1-Heart-Pounding-Ghostly-Poem.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/heart-pounding-ghostly-poem/"
+    },
+    {
+      "judul": "The Darkness was Comfortable for Me",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-darkness-was-comfortable-for-me%2Fmanga_img_horizontal-Komik-The-Darkness-was-Comfortable-for-Me.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-darkness-was-comfortable-for-me/"
+    },
+    {
+      "judul": "My Marriage to Saneka",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmy_marriage_to_saneka%2Fimg_684bdb3ac7cc34.60013067.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/my-marriage-to-saneka/"
+    },
+    {
+      "judul": "The Yellow-haired Villain in Female Main Character’s Novel wants Happiness",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_yellow-haired_villain_in_female_main_character___s%2Fimg_68a829f1239c07.85850393.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-yellow-haired-villain-in-female-main-characters-novel-wants-happiness/"
+    },
+    {
+      "judul": "Isekai Ojisan",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-ojisan%2Fmanga_img_horizontal-Komik-Isekai-Ojisan.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-ojisan/"
+    },
+    {
+      "judul": "Isekai Putin",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-putin%2Fmanga_img_horizontal-Manga-Isekai-Putin.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-putin/"
     },
     {
       "judul": "Dragon Master",
@@ -70,13 +126,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsaikyou-no-maou-ni-kitaerareta-yuusha%2Fmanga_img_horizontal-Komik-Saikyou-No-Maou-Ni-Kitaerareta-Yuusha.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/saikyou-no-maou-ni-kitaerareta-yuusha/"
-    },
-    {
-      "judul": "The Darkness was Comfortable for Me",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-darkness-was-comfortable-for-me%2Fmanga_img_horizontal-Komik-The-Darkness-was-Comfortable-for-Me.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-darkness-was-comfortable-for-me/"
     },
     {
       "judul": "Demon’s Sword Master of Excalibur School",
@@ -191,13 +240,6 @@
       "url": "https://komiku.org/manga/eiyuu-to-kenja-no-tensei-kon/"
     },
     {
-      "judul": "The Yellow-haired Villain in Female Main Character’s Novel wants Happiness",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_yellow-haired_villain_in_female_main_character___s%2Fimg_68a829f1239c07.85850393.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-yellow-haired-villain-in-female-main-characters-novel-wants-happiness/"
-    },
-    {
       "judul": "Necromancer Academy’s Genius Summoner",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnecromancer-academys-genius-summoner%2Fmanga_img_horizontal-Back-Necromancer-Academys-Genius-Summoner.jpg",
@@ -254,13 +296,6 @@
       "url": "https://komiku.org/manga/takase-san-wa-doru-katsu-ni-muchuu-desu/"
     },
     {
-      "judul": "Isekai de Kojiin wo Hiraita kedo, Naze ka Darehitori Sudatou to Shinai Ken",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-de-kojiin-wo-hiraita-kedo-naze-ka-darehitori-sudatou-to-shinai-ken%2Fmanga_img_horizontal-Manga-Isekai-de-Kojiin-wo-Hiraita-kedo-Naze-ka-Darehitori-Sudatou-to-Shinai-Ken.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isekai-de-kojiin-wo-hiraita-kedo-naze-ka-darehitori-sudatou-to-shinai-ken/"
-    },
-    {
       "judul": "Shut Up, Evil Dragon, I Don’t Want to Raise a Child With You Anymore",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fshut_up__evil_dragon__i_don___t_want_to_raise_a_child_with_you_anymore%2Fimg_682bfd739e4cd2.61228119.jpg",
@@ -303,18 +338,18 @@
       "url": "https://komiku.org/manga/hisshou-dungeon-unei-houhou/"
     },
     {
-      "judul": "Muboubi Kawaii Pajama Sugata no Bishoujo to Heya de Futarikiri",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmuboubi_kawaii_pajama_sugata_no_bishoujo_to_heya_de_futarikiri%2Fimg_685f84cf8cde65.15278618.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/muboubi-kawaii-pajama-sugata-no-bishoujo-to-heya-de-futarikiri/"
-    },
-    {
       "judul": "Kurotsuki no Yaergnacht",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkurotsuki_no_yaergnacht%2Fimg_6888874f433db1.27798598.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/kurotsuki-no-yaergnacht/"
+    },
+    {
+      "judul": "Muboubi Kawaii Pajama Sugata no Bishoujo to Heya de Futarikiri",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmuboubi_kawaii_pajama_sugata_no_bishoujo_to_heya_de_futarikiri%2Fimg_685f84cf8cde65.15278618.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/muboubi-kawaii-pajama-sugata-no-bishoujo-to-heya-de-futarikiri/"
     },
     {
       "judul": "Houkago, Famiresu de, Kurasu no Ano Ko to",
@@ -625,13 +660,6 @@
       "url": "https://komiku.org/manga/henkyou-mob-kizoku-no-uchi-ni-totsui-de-kita-akuyaku-reijou-ga-mechakucha-dekiru-yoi-yome-nandaga/"
     },
     {
-      "judul": "Heart-Pounding Ghostly Poem",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fheart-pounding-ghostly-poem%2Fmanga_img_horizontal-A1-Heart-Pounding-Ghostly-Poem.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/heart-pounding-ghostly-poem/"
-    },
-    {
       "judul": "Saijo no Osewa ~Takane no Hana Darakena Meimon Kou de, Gakuin Ichi no Ojou-sama (Seikatsu Noryoku Kaimu) o Kagenagara Osewa suru Koto ni Narimashita~",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsaijo-no-osewa-takane-no-hana-darakena-meimon-kou-de-gakuin-ichi-no-ojou-sama-seikatsu-noryoku-kaimu-o-kagenagara-osewa-suru-koto-ni-narimashita%2Fmanga_img_horizontal-Komik-Saijo-no-Osewa-Takane-no-Hana-Darakena-Meimon-Kou-de-Gakuin-Ichi-no-Ojou-sama-Seikatsu-Noryoku-Kaimu-o-Kagenagara-Osewa-suru-Koto-ni-Narimashita.jpg",
@@ -737,11 +765,11 @@
       "url": "https://komiku.org/manga/marriage-gray/"
     },
     {
-      "judul": "Shiro Majutsushi wa Yuusha no Level wo Agetakunai",
+      "judul": "Kuni wo Owareta Ryuushi-san, Hirowareta Ringoku de Ukkari Musou shite Shimau",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshiro-majutsushi-wa-yuusha-no-level-wo-agetakunai%2Fmanga_img_horizontal-Shiro-Majutsushi-wa-Yuusha-no-Level-wo-Agetakunai-2.png",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkuni-wo-owareta-ryuushi-san-hirowareta-ringoku-de-ukkari-musou-shite-shimau%2Fmanga_img_horizontal-A1-Kuni-wo-Owareta-Ryuushi-san-Hirowareta-Ringoku-de-Ukkari-Musou-shite-Shimau.jpg",
       "tipe": "",
-      "url": "https://komiku.org/manga/shiro-majutsushi-wa-yuusha-no-level-wo-agetakunai/"
+      "url": "https://komiku.org/manga/kuni-wo-owareta-ryuushi-san-hirowareta-ringoku-de-ukkari-musou-shite-shimau/"
     },
     {
       "judul": "Kuni wo Owareta Ryuushi-san, Hirowareta Ringoku de Ukkari Musou shite Shimau",
@@ -982,13 +1010,6 @@
       "url": "https://komiku.org/manga/kyou-mo-veranda-de/"
     },
     {
-      "judul": "Amai-san wa Tsumetakute Amai",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Famai-san-wa-tsumetakute-amai%2Fmanga_img_horizontal-Back-Amai-san-wa-Tsumetakute-Amai.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/amai-san-wa-tsumetakute-amai/"
-    },
-    {
       "judul": "Kono Oto Tomare!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkono-oto-tomare%2Fmanga_img_horizontal-Komik-Kono-Oto-Tomare.jpg",
@@ -1101,13 +1122,6 @@
       "url": "https://komiku.org/manga/kajidaikou-no-arbeit-wo-hajimetara-gakuen-ichi-no-bishoujo-no-kazoku-ni-kiniirarechaimashita/"
     },
     {
-      "judul": "Ookami wa Tsuki ni Koi wo suru (Wolf Falls in Love with Moon)",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fookami_wa_tsuki_ni_koi_wo_suru%2Fimg_685208c6e62941.21504396.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ookami-wa-tsuki-ni-koi-wo-suru-wolf-falls-in-love-with-moon/"
-    },
-    {
       "judul": "Shimotsuki-san wa Mob ga Suki",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshimotsuki-san-wa-mob-ga-suki%2Fmanga_img_horizontal-Shimotsuki-Panjang.jpg",
@@ -1218,13 +1232,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-randomly-have-a-new-career-every-week%2Fmanga_img_horizontal-Komik-I-Randomly-Have-A-New-Career-Every-Week.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/i-randomly-have-a-new-career-every-week/"
-    },
-    {
-      "judul": "My Marriage to Saneka",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmy_marriage_to_saneka%2Fimg_684bdb3ac7cc34.60013067.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/my-marriage-to-saneka/"
     },
     {
       "judul": "Ore no Haitoku Meshi o Onedari Sezu ni Irarenai, Otonari no Top Idol-sama",
@@ -2144,13 +2151,6 @@
       "url": "https://komiku.org/manga/sono-bisque-doll-wa-koi-wo-suru/"
     },
     {
-      "judul": "Please Bully Me, Miss Villainess!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fplease-bully-me-miss-villainess%2Fmanga_img_horizontal-Komik-Please-Bully-Me-Miss-Villainess.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/please-bully-me-miss-villainess/"
-    },
-    {
       "judul": "Tsukkomi-machi no Machino-san",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftsukkomi-machi_no_machino-san%2Fimg_68527658b6e3a9.55062724.jpg",
@@ -2725,11 +2725,11 @@
       "url": "https://komiku.org/manga/the-perks-of-being-a-villainess/"
     },
     {
-      "judul": "Kill This Love!",
+      "judul": "Princess Who Hides Her Fandom",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkill_this_love_%2Fimg_684cfe5150a1b8.29928140.jpg",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fprincess_who_hides_her_fandom%2Fimg_684d3f6e1c90c5.38307364.jpg",
       "tipe": "",
-      "url": "https://komiku.org/manga/kill-this-love/"
+      "url": "https://komiku.org/manga/princess-who-hides-her-fandom/"
     },
     {
       "judul": "Kill This Love!",
@@ -3138,18 +3138,18 @@
       "url": "https://komiku.org/manga/watashi-ga-inakute-mo-shiawase-ni-natte-kudasai-nante-fuzaken-na/"
     },
     {
+      "judul": "Houkago no Cinderella-kun",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/houkago-no-cinderella-kun/"
+    },
+    {
       "judul": "Make Heroine wo Katasetai!!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmake-heroine-wo-katasetai%2Fmanga_img_horizontal-Manga-Make-Heroine-wo-Katasetai.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/make-heroine-wo-katasetai/"
-    },
-    {
-      "judul": "Hard Luck Woman",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hard-luck-woman/"
     },
     {
       "judul": "Hundred",
@@ -3341,18 +3341,18 @@
       "url": "https://komiku.org/manga/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e-2-nensei-hen-2nd-stage/"
     },
     {
-      "judul": "Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fyuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita%2Fmanga_img_horizontal-Back-Yuusha-ni-Zenbu-Ubawareta-Ore-wa-Yuusha-no-Hahaoya.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/yuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita/"
-    },
-    {
       "judul": "Oyasumi Punpun",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Foyasumi-punpun%2Fmanga_img_horizontal-Komik-Oyasumi-Punpun.jpeg",
       "tipe": "",
       "url": "https://komiku.org/manga/oyasumi-punpun/"
+    },
+    {
+      "judul": "Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fyuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita%2Fmanga_img_horizontal-Back-Yuusha-ni-Zenbu-Ubawareta-Ore-wa-Yuusha-no-Hahaoya.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/yuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita/"
     },
     {
       "judul": "I Will Break Ties With the Harmful Sister",
@@ -12574,18 +12574,18 @@
       "url": "https://komiku.org/manga/love-cute-short-stories/"
     },
     {
-      "judul": "I Know She’s a Girl Who Cannot Die, but…",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2022%2F09%2FI-Know-Shes-a-Girl-Who-Cannot-Die-but%E2%80%A6-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/i-know-shes-a-girl-who-cannot-die-but/"
-    },
-    {
       "judul": "Henshuu no isshou",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhenshuu-no-isshou%2Fmanga_img_horizontal-Henshuu-no-isshou-2.png",
       "tipe": "",
       "url": "https://komiku.org/manga/henshuu-no-isshou/"
+    },
+    {
+      "judul": "I Know She’s a Girl Who Cannot Die, but…",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2022%2F09%2FI-Know-Shes-a-Girl-Who-Cannot-Die-but%E2%80%A6-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/i-know-shes-a-girl-who-cannot-die-but/"
     },
     {
       "judul": "Uchi Kyaba: Oie de Kyabakura Shite Niichan o Onnanoko ni Nare Saseyou Dai Sakusen",

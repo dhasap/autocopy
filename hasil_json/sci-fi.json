@@ -2,6 +2,20 @@
   "success": true,
   "data": [
     {
+      "judul": "DANDADAN",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdandadan%2Fmanga_img_horizontal-Komik-DANDADAN.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/dandadan/"
+    },
+    {
+      "judul": "A Hero Who Does Everything Well",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fa_hero_who_does_everything_well%2Fimg_68970d201a92a8.13660467.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/a-hero-who-does-everything-well/"
+    },
+    {
       "judul": "Rebuild World",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Frebuild-world%2Fmanga_img_horizontal-Manga-Rebuild-World.jpg",
@@ -56,13 +70,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhiding-a-logistics-center-in-the-apocalypse%2Fmanga_img_horizontal-A1-Hiding-a-Logistics-Center-in-the-Apocalypse.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/hiding-a-logistics-center-in-the-apocalypse/"
-    },
-    {
-      "judul": "DANDADAN",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdandadan%2Fmanga_img_horizontal-Komik-DANDADAN.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/dandadan/"
     },
     {
       "judul": "MAD (OOTORI Yuusuke)",
@@ -126,13 +133,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmanager-kim%2Fmanga_img_horizontal-Komik-Manager-Kim.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/manager-kim/"
-    },
-    {
-      "judul": "A Hero Who Does Everything Well",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fa_hero_who_does_everything_well%2Fimg_68970d201a92a8.13660467.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/a-hero-who-does-everything-well/"
     },
     {
       "judul": "Ougon no Keikenchi",
@@ -1997,18 +1997,18 @@
       "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-yotsuba-keishou-hen/"
     },
     {
-      "judul": "Mahouka Koukou no Rettousei – Steeplechase-hen",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2024%2F04%2FBack-Mahouka-Koukou-no-Rettousei-%E2%80%93-Steeplechase-hen.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-steeplechase-hen/"
-    },
-    {
       "judul": "Mahouka Koukou no Rettousei: Natsuyasumi-hen",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmahouka-koukou-no-rettousei-natsuyasumi-hen%2Fmanga_img_horizontal-Back-Mahouka-Koukou-no-Rettousei-Natsuyasumi-hen.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-natsuyasumi-hen/"
+    },
+    {
+      "judul": "Mahouka Koukou no Rettousei – Steeplechase-hen",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2024%2F04%2FBack-Mahouka-Koukou-no-Rettousei-%E2%80%93-Steeplechase-hen.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-steeplechase-hen/"
     },
     {
       "judul": "Mahouka Koukou no Rettousei: Double Seven-hen",
