@@ -2,6 +2,69 @@
   "success": true,
   "data": [
     {
+      "judul": "To Not Die",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fto_not_die%2Fimg_683023f3d813a9.98505913.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/to-not-die/"
+    },
+    {
+      "judul": "Boku no Suki na Hito ga Suki na Hito",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fboku_no_suki_na_hito_ga_suki_na_hito%2Fimg_687751384cf1f7.96350989.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/boku-no-suki-na-hito-ga-suki-na-hito/"
+    },
+    {
+      "judul": "Gakuen Idolm@ster Gold Rush",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgakuen_idolm_ster_gold_rush%2Fimg_683022ec06a4c0.60361441.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/gakuen-idolmster-gold-rush/"
+    },
+    {
+      "judul": "Mukasete! Ryugasaki-san",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmukasete-ryugasaki-san%2Fmanga_img_horizontal-Komik-Mukasete-Ryugasaki-san.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mukasete-ryugasaki-san/"
+    },
+    {
+      "judul": "Kusunoki-san wa Koukou Debut ni Shippai shite Iru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkusunoki-san_wa_koukou_debut_ni_shippai_shite_iru%2Fimg_6846a332214161.30511923.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kusunoki-san-wa-koukou-debut-ni-shippai-shite-iru/"
+    },
+    {
+      "judul": "Saikyou No Maou Ni Kitaerareta Yuusha",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsaikyou-no-maou-ni-kitaerareta-yuusha%2Fmanga_img_horizontal-Komik-Saikyou-No-Maou-Ni-Kitaerareta-Yuusha.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/saikyou-no-maou-ni-kitaerareta-yuusha/"
+    },
+    {
+      "judul": "Uma Musume: Cinderella Gray",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fuma-musume-cinderella-gray%2Fmanga_img_horizontal-Komik-Uma-Musume-Cinderella-Gray.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/uma-musume-cinderella-gray/"
+    },
+    {
+      "judul": "Shinobi Undercover",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshinobi-undercover%2Fmanga_img_horizontal-A1-Shinobi-Undercover.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/shinobi-undercover/"
+    },
+    {
+      "judul": "High School Musical Genius Is Paganini Reincarnated",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhigh-school-musical-genius-is-paganini-reincarnated%2Fmanga_img_horizontal-A1-High-School-Musical-Genius-Is-Paganini.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/high-school-musical-genius-is-paganini-reincarnated/"
+    },
+    {
       "judul": "Necromancer Academy’s Genius Summoner",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnecromancer-academys-genius-summoner%2Fmanga_img_horizontal-Back-Necromancer-Academys-Genius-Summoner.jpg",
@@ -14,13 +77,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhima-ten_%2Fimg_684bcf86a4e403.12656040.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/hima-ten/"
-    },
-    {
-      "judul": "Boku no Suki na Hito ga Suki na Hito",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fboku_no_suki_na_hito_ga_suki_na_hito%2Fimg_687751384cf1f7.96350989.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/boku-no-suki-na-hito-ga-suki-na-hito/"
     },
     {
       "judul": "44th Period Survival Class",
@@ -49,13 +105,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fstar_ginseng_store%2Fimg_682a5c5c7d5ee3.01173196.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/star-ginseng-store/"
-    },
-    {
-      "judul": "Mukasete! Ryugasaki-san",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmukasete-ryugasaki-san%2Fmanga_img_horizontal-Komik-Mukasete-Ryugasaki-san.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mukasete-ryugasaki-san/"
     },
     {
       "judul": "Ao no Hako",
@@ -105,13 +154,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgakuenmono-no-otome-game-no-sekai-ni-tensei-shita-kedo-cheat-mochi-no-haikei-danshi-seitodatta-you-desu%2Fmanga_img_horizontal-Komik-Gakuenmono-No-Otome-Game-No-Sekai-Ni-Tensei-Shita-Kedo-Cheat-Mochi-No-Haikei-Danshi-Seitodatta-You-Desu.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/gakuenmono-no-otome-game-no-sekai-ni-tensei-shita-kedo-cheat-mochi-no-haikei-danshi-seitodatta-you-desu/"
-    },
-    {
-      "judul": "Saikyou No Maou Ni Kitaerareta Yuusha",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsaikyou-no-maou-ni-kitaerareta-yuusha%2Fmanga_img_horizontal-Komik-Saikyou-No-Maou-Ni-Kitaerareta-Yuusha.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/saikyou-no-maou-ni-kitaerareta-yuusha/"
     },
     {
       "judul": "The Great War",
@@ -191,13 +233,6 @@
       "url": "https://komiku.org/manga/mercenary-enrollment/"
     },
     {
-      "judul": "To Not Die",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fto_not_die%2Fimg_683023f3d813a9.98505913.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/to-not-die/"
-    },
-    {
       "judul": "Legend of Star General",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
@@ -210,13 +245,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Feiyuu-to-kenja-no-tensei-kon%2Fmanga_img_horizontal-Back-Eiyuu-to-Kenja-no-Tensei-Kon.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/eiyuu-to-kenja-no-tensei-kon/"
-    },
-    {
-      "judul": "Gakuen Idolm@ster Gold Rush",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgakuen_idolm_ster_gold_rush%2Fimg_683022ec06a4c0.60361441.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/gakuen-idolmster-gold-rush/"
     },
     {
       "judul": "Remote Jugyou ni Nattara Class 1 no Bishoujo to Doukyo Suru Koto ni Natta",
@@ -301,20 +329,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fclass-de-2-banme-ni-kawaii-onna-no-ko-to-tomodachi-ni-natta%2Fmanga_img_horizontal-Class-de-2-Panjang.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/class-de-2-banme-ni-kawaii-onna-no-ko-to-tomodachi-ni-natta/"
-    },
-    {
-      "judul": "Shinobi Undercover",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshinobi-undercover%2Fmanga_img_horizontal-A1-Shinobi-Undercover.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/shinobi-undercover/"
-    },
-    {
-      "judul": "High School Musical Genius Is Paganini Reincarnated",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhigh-school-musical-genius-is-paganini-reincarnated%2Fmanga_img_horizontal-A1-High-School-Musical-Genius-Is-Paganini.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/high-school-musical-genius-is-paganini-reincarnated/"
     },
     {
       "judul": "Ano Toki Tasukete Itadaita Monster Musume desu.",
@@ -835,13 +849,6 @@
       "url": "https://komiku.org/manga/ankoku-kishi-no-ore-desu-ga-saikyou-no-seikishi-wo-mezashimasu/"
     },
     {
-      "judul": "Kusunoki-san wa Koukou Debut ni Shippai shite Iru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkusunoki-san_wa_koukou_debut_ni_shippai_shite_iru%2Fimg_6846a332214161.30511923.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kusunoki-san-wa-koukou-debut-ni-shippai-shite-iru/"
-    },
-    {
       "judul": "Koko Jidai ni Gomandatta Jou sama to no Dousei Seikatsu wa Igaito Igokochi ga Warukunai",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkoko_jidai_ni_gomandatta_jou_sama_to_no_dousei_seikatsu_wa_igaito_igokochi_ga_warukunai%2Fimg_68397331762141.60953429.jpg",
@@ -1323,13 +1330,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Faishiteru-game-wo-owarasetai%2Fmanga_img_horizontal-Komik-Aishiteru-Game-wo-Owarasetai.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/aishiteru-game-wo-owarasetai/"
-    },
-    {
-      "judul": "Uma Musume: Cinderella Gray",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fuma-musume-cinderella-gray%2Fmanga_img_horizontal-Komik-Uma-Musume-Cinderella-Gray.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/uma-musume-cinderella-gray/"
     },
     {
       "judul": "Gal Gohan",
@@ -8080,18 +8080,18 @@
       "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-yotsuba-keishou-hen/"
     },
     {
-      "judul": "Mahouka Koukou no Rettousei – Steeplechase-hen",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2024%2F04%2FBack-Mahouka-Koukou-no-Rettousei-%E2%80%93-Steeplechase-hen.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-steeplechase-hen/"
-    },
-    {
       "judul": "Mahouka Koukou no Rettousei: Natsuyasumi-hen",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmahouka-koukou-no-rettousei-natsuyasumi-hen%2Fmanga_img_horizontal-Back-Mahouka-Koukou-no-Rettousei-Natsuyasumi-hen.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-natsuyasumi-hen/"
+    },
+    {
+      "judul": "Mahouka Koukou no Rettousei – Steeplechase-hen",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2024%2F04%2FBack-Mahouka-Koukou-no-Rettousei-%E2%80%93-Steeplechase-hen.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-steeplechase-hen/"
     },
     {
       "judul": "Mahouka Koukou no Rettousei: Double Seven-hen",
