@@ -2,6 +2,48 @@
   "success": true,
   "data": [
     {
+      "judul": "God of Martial Arts",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgod-of-martial-arts%2Fmanga_img_horizontal-Manhua-God-of-Martial-Arts.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/god-of-martial-arts/"
+    },
+    {
+      "judul": "Isekai Ojisan",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-ojisan%2Fmanga_img_horizontal-Komik-Isekai-Ojisan.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-ojisan/"
+    },
+    {
+      "judul": "The Heavenly Path Is Not Stupid",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-heavenly-path-is-not-stupid%2Fmanga_img_horizontal-The-Heavenly-Path-Is-Not-Stupid-Panjang.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-heavenly-path-is-not-stupid/"
+    },
+    {
+      "judul": "Kenja no Mago",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkenja-no-mago%2Fmanga_img_horizontal-Manga-Kenja-no-Mago-.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kenja-no-mago/"
+    },
+    {
+      "judul": "Seirei-tachi no Rakuen to Risou no Isekai Seikatsu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fseirei-tachi-no-rakuen-to-risou-no-isekai-seikatsu%2Fmanga_img_horizontal-Manga-Seirei-tachi-no-Rakuen-to-Risou-no-Isekai-Seikatsu.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/seirei-tachi-no-rakuen-to-risou-no-isekai-seikatsu/"
+    },
+    {
+      "judul": "The Darkness was Comfortable for Me",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-darkness-was-comfortable-for-me%2Fmanga_img_horizontal-Komik-The-Darkness-was-Comfortable-for-Me.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-darkness-was-comfortable-for-me/"
+    },
+    {
       "judul": "Trash of the Count’s Family",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftrash-of-the-counts-family%2Fmanga_img_horizontal-Komik-Trash-of-the-Counts-Family.jpg",
@@ -28,13 +70,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhitoribocchi-no-isekai-kouryaku%2Fmanga_img_horizontal-A1-Hitoribocchi-no-Isekai-Kouryaku.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/hitoribocchi-no-isekai-kouryaku/"
-    },
-    {
-      "judul": "The Darkness was Comfortable for Me",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-darkness-was-comfortable-for-me%2Fmanga_img_horizontal-Komik-The-Darkness-was-Comfortable-for-Me.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-darkness-was-comfortable-for-me/"
     },
     {
       "judul": "Saikyou No Maou Ni Kitaerareta Yuusha",
@@ -65,25 +100,11 @@
       "url": "https://komiku.org/manga/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu/"
     },
     {
-      "judul": "God of Martial Arts",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgod-of-martial-arts%2Fmanga_img_horizontal-Manhua-God-of-Martial-Arts.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/god-of-martial-arts/"
-    },
-    {
       "judul": "Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru ~Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru~",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsono-akuyaku-kizoku-mama-heroine-ga-suki-sugiru-shinshi-na-doryoku-de-saikyou-to-nari-fuguu-na-oshi-chara-tasukemakuru%2Fmanga_img_horizontal-A1-Sono-Akuyaku-Kizoku-Mama-Heroine-ga-Suki-Sugiru.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/sono-akuyaku-kizoku-mama-heroine-ga-suki-sugiru-shinshi-na-doryoku-de-saikyou-to-nari-fuguu-na-oshi-chara-tasukemakuru/"
-    },
-    {
-      "judul": "Kenja no Mago",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkenja-no-mago%2Fmanga_img_horizontal-Manga-Kenja-no-Mago-.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kenja-no-mago/"
     },
     {
       "judul": "Isekai de Kojiin wo Hiraita kedo, Naze ka Darehitori Sudatou to Shinai Ken",
@@ -210,13 +231,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkuro-no-shoukanshi%2Fmanga_img_horizontal-Manga-Kuro-no-Shoukanshi.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/kuro-no-shoukanshi/"
-    },
-    {
-      "judul": "Isekai Ojisan",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-ojisan%2Fmanga_img_horizontal-Komik-Isekai-Ojisan.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isekai-ojisan/"
     },
     {
       "judul": "I Was More Overpowered Than The Hero, So I Hid My Power!",
@@ -422,13 +436,6 @@
       "url": "https://komiku.org/manga/drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru/"
     },
     {
-      "judul": "The Heavenly Path Is Not Stupid",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-heavenly-path-is-not-stupid%2Fmanga_img_horizontal-The-Heavenly-Path-Is-Not-Stupid-Panjang.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-heavenly-path-is-not-stupid/"
-    },
-    {
       "judul": "Taidana Akuyaku Kizoku no Ore ni, Konyaku Hakisareta Akuyaku Reijo ga Totsuidara Saikyo no Fufu ni Narimashita",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftaidana_akuyaku_kizoku_no_ore_ni%2Fimg_6835689dc42799.44997744.jpg",
@@ -555,18 +562,18 @@
       "url": "https://komiku.org/manga/isekai-de-slow-life-wo-ganbou/"
     },
     {
-      "judul": "Magi Craft Meister",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmagi-craft-meister%2Fmanga_img_horizontal-Manga-Magi-Craft-Meister.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/magi-craft-meister/"
-    },
-    {
       "judul": "Jitsu wa Ore, Saikyou deshita?",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjitsu-wa-ore-saikyou-deshita%2Fmanga_img_horizontal-A1-Jitsu-wa-Ori-Saikyou-deshita.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/jitsu-wa-ore-saikyou-deshita/"
+    },
+    {
+      "judul": "Magi Craft Meister",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmagi-craft-meister%2Fmanga_img_horizontal-Manga-Magi-Craft-Meister.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/magi-craft-meister/"
     },
     {
       "judul": "Kekkaishi e no Tensei",
@@ -1624,13 +1631,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgirl-and-science%2Fmanga_img_horizontal-Komik-Girl-and-Science.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/girl-and-science/"
-    },
-    {
-      "judul": "Seirei-tachi no Rakuen to Risou no Isekai Seikatsu",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fseirei-tachi-no-rakuen-to-risou-no-isekai-seikatsu%2Fmanga_img_horizontal-Manga-Seirei-tachi-no-Rakuen-to-Risou-no-Isekai-Seikatsu.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/seirei-tachi-no-rakuen-to-risou-no-isekai-seikatsu/"
     },
     {
       "judul": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
