@@ -2,6 +2,20 @@
   "success": true,
   "data": [
     {
+      "judul": "Manager Kim",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmanager-kim%2Fmanga_img_horizontal-Komik-Manager-Kim.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/manager-kim/"
+    },
+    {
+      "judul": "Divine Leveling System",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdivine-leveling-system%2Fmanga_img_horizontal-Super-God-System-2.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/divine-leveling-system/"
+    },
+    {
       "judul": "Mercenary Enrollment",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmercenary-enrollment%2Fmanga_img_horizontal-Komik-Mercenary-Enrollment-scaled.jpg",
@@ -93,13 +107,6 @@
       "url": "https://komiku.org/manga/mad-ootori-yuusuke/"
     },
     {
-      "judul": "Divine Leveling System",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdivine-leveling-system%2Fmanga_img_horizontal-Super-God-System-2.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/divine-leveling-system/"
-    },
-    {
       "judul": "Time-stop Ugly Old Man",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftime-stop_ugly_old_man%2Fimg_687751c8edcd76.20491329.png",
@@ -126,13 +133,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-kingdom-of-ruin%2Fmanga_img_horizontal-Manga-The-Kingdom-of-Ruin.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-kingdom-of-ruin/"
-    },
-    {
-      "judul": "Manager Kim",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmanager-kim%2Fmanga_img_horizontal-Komik-Manager-Kim.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/manager-kim/"
     },
     {
       "judul": "Ougon no Keikenchi",
