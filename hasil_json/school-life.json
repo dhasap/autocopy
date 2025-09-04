@@ -2,6 +2,83 @@
   "success": true,
   "data": [
     {
+      "judul": "Zettai Maken no Duelist",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fzettai-maken-no-duelist%2Fmanga_img_horizontal-A1-Zettai-Maken-no-Duelist.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/zettai-maken-no-duelist/"
+    },
+    {
+      "judul": "Mikadono Sanshimai wa Angai, Choroi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmikadono-sanshimai-wa-angai-choroi%2Fmanga_img_horizontal-Mikadono-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mikadono-sanshimai-wa-angai-choroi/"
+    },
+    {
+      "judul": "Villain Classroom",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fvillain_classroom%2Fimg_683568cd2cde49.68703298.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/villain-classroom/"
+    },
+    {
+      "judul": "Uma Musume: Cinderella Gray",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fuma-musume-cinderella-gray%2Fmanga_img_horizontal-Komik-Uma-Musume-Cinderella-Gray.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/uma-musume-cinderella-gray/"
+    },
+    {
+      "judul": "Kanojo Okarishimasu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkanojo-okarishimasu%2Fmanga_img_horizontal-Komik-Kanojo-Okarishimasu.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kanojo-okarishimasu/"
+    },
+    {
+      "judul": "Hima-Ten!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhima-ten_%2Fimg_684bcf86a4e403.12656040.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hima-ten/"
+    },
+    {
+      "judul": "I am Worried that my Childhood Friend is too Cute!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-am-worried-that-my-childhood-friend-is-too-cute%2Fmanga_img_horizontal-2-75.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/i-am-worried-that-my-childhood-friend-is-too-cute/"
+    },
+    {
+      "judul": "Taida na Akujo Kizoku ni Tensei Shita Ore, Shinario o Bukko wa Shitara Kikaku-gai no Maryoku de Saikyou ni Natta",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftaida_na_akujo_kizoku_ni_tensei_shita_ore%2Fimg_68492db7b9c6a3.13352395.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/taida-na-akujo-kizoku-ni-tensei-shita-ore-shinario-o-bukko-wa-shitara-kikaku-gai-no-maryoku-de-saikyou-ni-natta/"
+    },
+    {
+      "judul": "44th Period Survival Class",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2F44th_period_survival_class%2Fimg_683972d0526489.18008225.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/44th-period-survival-class/"
+    },
+    {
+      "judul": "I Became a Swordsmanship Instructor at the Academy",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fi_became_a_swordsmanship_instructor_at_the_academy%2Fimg_6847f2204b0b33.60747314.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/i-became-a-swordsmanship-instructor-at-the-academy/"
+    },
+    {
+      "judul": "Shinobi Undercover",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshinobi-undercover%2Fmanga_img_horizontal-A1-Shinobi-Undercover.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/shinobi-undercover/"
+    },
+    {
       "judul": "Nishuume Cheat no Tensei Madoushi 〜Saikyou ga 1000-nengo ni Tensei Shitara, Jinsei Yoyū Sugimashita〜",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fnishuume_cheat_no_tensei_madoushi%2Fimg_689b6c9f864d12.01847642.jpg",
@@ -21,13 +98,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fplease-bully-me-miss-villainess%2Fmanga_img_horizontal-Komik-Please-Bully-Me-Miss-Villainess.png",
       "tipe": "",
       "url": "https://komiku.org/manga/please-bully-me-miss-villainess/"
-    },
-    {
-      "judul": "Mikadono Sanshimai wa Angai, Choroi",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmikadono-sanshimai-wa-angai-choroi%2Fmanga_img_horizontal-Mikadono-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mikadono-sanshimai-wa-angai-choroi/"
     },
     {
       "judul": "Watashi Ga Koibito Ni Nareru Wake Naijan, Muri Muri! (Muri Janakatta!?)",
@@ -121,13 +191,6 @@
       "url": "https://komiku.org/manga/kill-the-dragon/"
     },
     {
-      "judul": "Zettai Maken no Duelist",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fzettai-maken-no-duelist%2Fmanga_img_horizontal-A1-Zettai-Maken-no-Duelist.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/zettai-maken-no-duelist/"
-    },
-    {
       "judul": "Urakata de Support Shiteta Geinou Ikka wo Tsuihousareta Boku wa, Futsuu no Seishun wo Ouka Shitai.",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Furakata_de_support_shiteta_geinou_ikka_wo_tsuihousareta_boku_wa__futsuu_no_seishun_wo_ouka_shitai_%2Fimg_682ae0fdbea2c7.84897009.jpg",
@@ -168,20 +231,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmukasete-ryugasaki-san%2Fmanga_img_horizontal-Komik-Mukasete-Ryugasaki-san.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/mukasete-ryugasaki-san/"
-    },
-    {
-      "judul": "I am Worried that my Childhood Friend is too Cute!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-am-worried-that-my-childhood-friend-is-too-cute%2Fmanga_img_horizontal-2-75.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/i-am-worried-that-my-childhood-friend-is-too-cute/"
-    },
-    {
-      "judul": "Uma Musume: Cinderella Gray",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fuma-musume-cinderella-gray%2Fmanga_img_horizontal-Komik-Uma-Musume-Cinderella-Gray.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/uma-musume-cinderella-gray/"
     },
     {
       "judul": "Uso Kareshi Demo Ii Kara Tonikaku Shitai Mashiro-chan",
@@ -359,39 +408,11 @@
       "url": "https://komiku.org/manga/saikyou-no-maou-ni-kitaerareta-yuusha/"
     },
     {
-      "judul": "Shinobi Undercover",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshinobi-undercover%2Fmanga_img_horizontal-A1-Shinobi-Undercover.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/shinobi-undercover/"
-    },
-    {
       "judul": "High School Musical Genius Is Paganini Reincarnated",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhigh-school-musical-genius-is-paganini-reincarnated%2Fmanga_img_horizontal-A1-High-School-Musical-Genius-Is-Paganini.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/high-school-musical-genius-is-paganini-reincarnated/"
-    },
-    {
-      "judul": "Hima-Ten!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhima-ten_%2Fimg_684bcf86a4e403.12656040.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hima-ten/"
-    },
-    {
-      "judul": "44th Period Survival Class",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2F44th_period_survival_class%2Fimg_683972d0526489.18008225.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/44th-period-survival-class/"
-    },
-    {
-      "judul": "I Became a Swordsmanship Instructor at the Academy",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fi_became_a_swordsmanship_instructor_at_the_academy%2Fimg_6847f2204b0b33.60747314.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/i-became-a-swordsmanship-instructor-at-the-academy/"
     },
     {
       "judul": "Isshou Hatarakitakunai Ore ga Classmate no Daininki Idol ni Natsukaretara",
@@ -660,13 +681,6 @@
       "url": "https://komiku.org/manga/eiyuu-to-majo-no-tensei-rabu-kome/"
     },
     {
-      "judul": "Kanojo Okarishimasu",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkanojo-okarishimasu%2Fmanga_img_horizontal-Komik-Kanojo-Okarishimasu.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kanojo-okarishimasu/"
-    },
-    {
       "judul": "Kimi wa Yotsuba no Clover",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkimi-wa-yotsuba-no-clover%2Fmanga_img_horizontal-A1-Kimi-wa-Yotsuba-no-Clover.jpg",
@@ -735,13 +749,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftrue-education%2Fmanga_img_horizontal-Komik-True-Education.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/true-education/"
-    },
-    {
-      "judul": "Taida na Akujo Kizoku ni Tensei Shita Ore, Shinario o Bukko wa Shitara Kikaku-gai no Maryoku de Saikyou ni Natta",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftaida_na_akujo_kizoku_ni_tensei_shita_ore%2Fimg_68492db7b9c6a3.13352395.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/taida-na-akujo-kizoku-ni-tensei-shita-ore-shinario-o-bukko-wa-shitara-kikaku-gai-no-maryoku-de-saikyou-ni-natta/"
     },
     {
       "judul": "Return of the Genius Swordmaster",
@@ -1465,11 +1472,11 @@
       "url": "https://komiku.org/manga/watch-dog/"
     },
     {
-      "judul": "Hundred",
+      "judul": "Watch Dog",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
       "tipe": "",
-      "url": "https://komiku.org/manga/hundred/"
+      "url": "https://komiku.org/manga/watch-dog/"
     },
     {
       "judul": "Koi wo Shiranai Bokutachi wa",
@@ -1617,13 +1624,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fore_ga_kokuhaku_saretekara__ojo_no_yosu_ga_okashii%2Fimg_68356a3109bbf3.99258175.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/ore-ga-kokuhaku-saretekara-ojo-no-yosu-ga-okashii/"
-    },
-    {
-      "judul": "Villain Classroom",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fvillain_classroom%2Fimg_683568cd2cde49.68703298.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/villain-classroom/"
     },
     {
       "judul": "Uma Musume Pretty Derby: Star Blossom",
