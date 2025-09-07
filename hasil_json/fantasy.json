@@ -2,6 +2,496 @@
   "success": true,
   "data": [
     {
+      "judul": "Senmetsumadou no Saikyou Kenja: Musai no Kenja, Madou wo Kiwame Saikyou e Itaru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsenmetsumadou-no-saikyou-kenja-musai-no-kenja-madou-wo-kiwame-saikyou-e-itaru%2Fmanga_img_horizontal-Komik-Senmetsumadou-no-Saikyou-Kenja-Musai-no-Kenja-Madou-wo-Kiwame-Saikyou-e-Itaru.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/senmetsumadou-no-saikyou-kenja-musai-no-kenja-madou-wo-kiwame-saikyou-e-itaru/"
+    },
+    {
+      "judul": "Standard of Reincarnation",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fstandard-of-reincarnation%2Fmanga_img_horizontal-Standard-Reincarnation-Panjang.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/standard-of-reincarnation/"
+    },
+    {
+      "judul": "Monster Eater Adventurer",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmonster-eater-adventurer%2Fmanga_img_horizontal-A1-Monster-Eater-Adventurer.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/monster-eater-adventurer/"
+    },
+    {
+      "judul": "Salaryman Ga Isekai Ni Ittara Shitennou Ni Natta Hanashi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsalaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi%2Fmanga_img_horizontal-Komik-Salaryman-Ga-Isekai-Ni-Ittara-Shitennou-Ni-Natta-Hanashi.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi/"
+    },
+    {
+      "judul": "Sousei no Onmyouji",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsousei-no-onmyouji%2Fmanga_img_horizontal-Manga-Sousei-no-Onmyouji.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/sousei-no-onmyouji/"
+    },
+    {
+      "judul": "Eternally Regressing Knight",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Feternally-regressing-knight%2Fmanga_img_horizontal-A1-Eternally-Regressing-Knight.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/eternally-regressing-knight/"
+    },
+    {
+      "judul": "Evolution Begins With A Big Tree",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fevolution-begins-with-a-big-tree%2Fmanga_img_horizontal-Komik-Evolution-Begins-With-A-Big-Tree.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/evolution-begins-with-a-big-tree/"
+    },
+    {
+      "judul": "Revenge of the Iron-Blooded Sword Hound",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Frevenge-of-the-iron-blooded-sword-hound%2Fmanga_img_horizontal-Back-Revenge-of-the-Iron-Blooded-Sword-Hound.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/revenge-of-the-iron-blooded-sword-hound/"
+    },
+    {
+      "judul": "World Teacher: Isekaishiki Kyouiku Agent",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fworld-teacher-isekaishiki-kyouiku-agent%2Fmanga_img_horizontal-Komik-World-Teacher-Isekaishiki-Kyouiku-Agent.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/world-teacher-isekaishiki-kyouiku-agent/"
+    },
+    {
+      "judul": "Martial Wild West",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmartial-wild-west%2Fmanga_img_horizontal-Martial-Wild-West-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/martial-wild-west/"
+    },
+    {
+      "judul": "The King’s Avatar",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-kings-avatar%2Fmanga_img_horizontal-Back-The-Kings-Avatar.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-kings-avatar/"
+    },
+    {
+      "judul": "Guest Gun (Embodiment of the Assassin in the Murim World)",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fguest-gun-embodiment-of-the-assassin-in-the-murim-world%2Fmanga_img_horizontal-A1-Guest-Gun-1.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/guest-gun-embodiment-of-the-assassin-in-the-murim-world/"
+    },
+    {
+      "judul": "Vallhala Saga",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fvalhala_saga%2Fimg_68b80b6671cb09.30169916.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/vallhala-saga/"
+    },
+    {
+      "judul": "Ruri Dragon",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fruri-dragon%2Fmanga_img_horizontal-Komik-Ruri-Dragon.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ruri-dragon/"
+    },
+    {
+      "judul": "S-kyuu Guild wo Tsuihou saretakedo, Jitsu wa Ore dake Dragon no Kotoba ga Wakaru no de, Kidzuita Toki ni wa Ryuu Kishi no Chouten wo Kiwametemashita",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fs-kyuu-guild-wo-tsuihou-saretakedo-jitsu-wa-ore-dake-dragon-no-kotoba-ga-wakaru-no-de-kidzuita-toki-ni-wa-ryuu-kishi-no-chouten-wo-kiwametemashita%2Fmanga_img_horizontal-Komik-S-kyuu-Guild-wo-Tsuihou-saretakedo-Jitsu-wa-Ore-dake-Dragon-no-Kotoba-ga-Wakaru-no-de-Kidzuita-Toki-ni-wa-Ryuu-Kishi-no-Chouten-wo-Kiwametemashita.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/s-kyuu-guild-wo-tsuihou-saretakedo-jitsu-wa-ore-dake-dragon-no-kotoba-ga-wakaru-no-de-kidzuita-toki-ni-wa-ryuu-kishi-no-chouten-wo-kiwametemashita/"
+    },
+    {
+      "judul": "Spare Me, Great Lord!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fspare-me-great-lord%2Fmanga_img_horizontal-Komik-Spare-Me-Great-Lord.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/spare-me-great-lord/"
+    },
+    {
+      "judul": "Dantoudai no Hanayome – Sekai wo Horobosu Futsutsuka na Tatsuki desu ga",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2024%2F02%2FBack-Dantoudai-no-Hanayome-%E2%80%93-Sekai-wo-Horobosu-Futsutsuka-na-Tatsuki-desu-ga.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/dantoudai-no-hanayome-sekai-wo-horobosu-futsutsuka-na-tatsuki-desu-ga/"
+    },
+    {
+      "judul": "Regressor Of The Fallen Family",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fregressor-of-the-fallen-family%2Fmanga_img_horizontal-Back-Regressor-Of-The-Fallen-Family.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/regressor-of-the-fallen-family/"
+    },
+    {
+      "judul": "Auto-Hunting With Clones",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fauto-hunting-with-clones%2Fmanga_img_horizontal-Auto-Hunting-With-Clones-Panjang.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/auto-hunting-with-clones/"
+    },
+    {
+      "judul": "Death Penalty",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdeath-penalty%2Fmanga_img_horizontal-Back-Death-Penalty.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/death-penalty/"
+    },
+    {
+      "judul": "Lu Bu’s Life Simulator",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flu-bus-life-simulator%2Fmanga_img_horizontal-Lu-Bus-Life-Simulator-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/lu-bus-life-simulator/"
+    },
+    {
+      "judul": "Becoming the Swordmaster Rank Young Lord of the Sichuan Tang Family",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fbecoming-the-swordmaster-rank-young-lord-of-the-sichuan-tang-family%2Fmanga_img_horizontal-Back-BECOMING-THE-SWORDMASTER-RANK-YOUNG-LORD-OF-THE-SICHUAN-TANG-FAMILY.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/becoming-the-swordmaster-rank-young-lord-of-the-sichuan-tang-family/"
+    },
+    {
+      "judul": "Ao no Exorcist",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-no-exorcist%2Fmanga_img_horizontal-Manga-Ao-no-Exorcist.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ao-no-exorcist/"
+    },
+    {
+      "judul": "Global Superpowers: Awakening the Zixiao Divine Thunder at the Beginning",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fglobal_superpowers__awakening_the_zixiao%2Fimg_687e00a5b014a1.26432117.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/global-superpowers-awakening-the-zixiao-divine-thunder-at-the-beginning/"
+    },
+    {
+      "judul": "The Extra is Too Strong",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-extra-is-too-strong%2Fmanga_img_horizontal-Back-The-Extra-is-Too-Strong.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-extra-is-too-strong/"
+    },
+    {
+      "judul": "Becoming a God in Apocalypse Glossary",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fbecoming_a_god_in_apocalypse_glossary%2Fimg_683588623b4fc9.42055119.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/becoming-a-god-in-apocalypse-glossary/"
+    },
+    {
+      "judul": "Don’t Tell Me You Think Cultivating Immortality Is Difficult?",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fdon___t_tell_me_you_think_cultivating_immortality_is_difficult_%2Fimg_68a829c42a2312.32162243.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/dont-tell-me-you-think-cultivating-immortality-is-difficult/"
+    },
+    {
+      "judul": "The Apex of Dragon Mastery",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-apex-of-dragon-mastery%2Fmanga_img_horizontal-Back-The-Apex-of-Dragon-Mastery.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-apex-of-dragon-mastery/"
+    },
+    {
+      "judul": "The Last Adventurer",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-last-adventurer%2Fmanga_img_horizontal-A1-The-Last-Adventurer.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-last-adventurer/"
+    },
+    {
+      "judul": "I’m Trapped in This Day for One Thousand Years",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fim-trapped-in-this-day-for-one-thousand-years%2Fmanga_img_horizontal-Im-Trapped-in-This-Day-for-One-Thousand-Years-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/im-trapped-in-this-day-for-one-thousand-years/"
+    },
+    {
+      "judul": "The King of Ten Thousand Presence",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-king-of-ten-thousand-presence%2Fmanga_img_horizontal-Komik-The-King-of-Ten-Thousand-Presence.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-king-of-ten-thousand-presence/"
+    },
+    {
+      "judul": "Unbeatable Sword Master Cultivator",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Funbeatable-sword-master-cultivator%2Fmanga_img_horizontal-A1-Unbeatable-Sword-Master-Cultivator.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/unbeatable-sword-master-cultivator/"
+    },
+    {
+      "judul": "Survive as a Barbarian in the Game",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsurvive-as-a-barbarian-in-the-game%2Fmanga_img_horizontal-Back-Survive-as-a-Barbarian-in-the-Game.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/survive-as-a-barbarian-in-the-game/"
+    },
+    {
+      "judul": "Howling Dragon",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhowling-dragon%2Fmanga_img_horizontal-Back-Howling-Dragon.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/howling-dragon/"
+    },
+    {
+      "judul": "Trinity Seven",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftrinity-seven%2Fmanga_img_horizontal-Komik-Trinity-Seven.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/trinity-seven/"
+    },
+    {
+      "judul": "I’m Really Not The Villain",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fim-really-not-the-villain%2Fmanga_img_horizontal-ReallyNotVillainPanjang.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/im-really-not-the-villain/"
+    },
+    {
+      "judul": "Black Corporation: Joseon",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fblack-corporation-joseon%2Fmanga_img_horizontal-Back-Black-Corporation-Joseon.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/black-corporation-joseon/"
+    },
+    {
+      "judul": "Ouritsu Mahou Gakuen no Saikasei: Slum Agari no Saikyou Mahoushi, Kizoku darake no Gakuen de Musou suru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fouritsu-mahou-gakuen-no-saikasei-slum-agari-no-saikyou-mahoushi-kizoku-darake-no-gakuen-de-musou-suru%2Fmanga_img_horizontal-Komik-Ouritsu-Mahou-Gakuen-no-Saikasei-Slum-Agari-no-Saikyou-Mahoushi-Kizoku-darake-no-Gakuen-de-Musou-suru.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ouritsu-mahou-gakuen-no-saikasei-slum-agari-no-saikyou-mahoushi-kizoku-darake-no-gakuen-de-musou-suru/"
+    },
+    {
+      "judul": "Majutsushi Kunon wa Miete Iru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmajutsushi-kunon-wa-miete-iru%2Fmanga_img_horizontal-Majutsushi-Kunon-Panjang.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/majutsushi-kunon-wa-miete-iru/"
+    },
+    {
+      "judul": "Chronicle of Runes",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fchronicle_of_runes%2Fimg_68a82a8638c956.69660235.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/chronicle-of-runes/"
+    },
+    {
+      "judul": "Urenokori no Dorei Elf wo Hirotta no de, Musume ni suru Koto ni shita",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Furenokori-no-dorei-elf-wo-hirotta-no-de-musume-ni-suru-koto-ni-shita%2Fmanga_img_horizontal-A1-Urenokori-no-Dorei-Elf-wo-Hirotta-no-de-Musume-ni-suru-Koto-ni-shita.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/urenokori-no-dorei-elf-wo-hirotta-no-de-musume-ni-suru-koto-ni-shita/"
+    },
+    {
+      "judul": "Versatile Sword Cultivator",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fversatile_sword_cultivator%2Fimg_6853c0d16c88c9.78095056.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/versatile-sword-cultivator/"
+    },
+    {
+      "judul": "When The System Opens After The Age Of 100, All Grandchildren Kneel Upon The Mountains!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwhen-the-system-opens-after-the-age-of-100-all-grandchildren-kneel-upon-the-mountains%2Fmanga_img_horizontal-A1-When-The-System-Opens-After-The-Age-Of-100-All-Grandchildren-Kneel-Upon-The-Mountains.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/when-the-system-opens-after-the-age-of-100-all-grandchildren-kneel-upon-the-mountains/"
+    },
+    {
+      "judul": "The Fake Lady and the Knight",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_fake_lady_and_the_knight%2Fimg_68a55ecfa85ab5.54081963.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-fake-lady-and-the-knight/"
+    },
+    {
+      "judul": "Mairimashita! Iruma-kun",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmairimashita-iruma-kun%2Fmanga_img_horizontal-Manga-Mairimashita-Iruma-kun.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mairimashita-iruma-kun/"
+    },
+    {
+      "judul": "Dungeon Architect",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdungeon-architect%2Fmanga_img_horizontal-A1-Dungeon-Architect.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/dungeon-architect/"
+    },
+    {
+      "judul": "Academy’s Undercover Professor",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Facademys-undercover-professor%2Fmanga_img_horizontal-Komik-Academys-Undercover-Professor.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/academys-undercover-professor/"
+    },
+    {
+      "judul": "Start by changing your job to the God of Wealth and taming billions of divine pets!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fstart_by_changing_your_job_to_the_god_of_wealth_and_taming_billions_of_divine_pets_%2Fimg_6836b82d662565.59758909.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/start-by-changing-your-job-to-the-god-of-wealth-and-taming-billions-of-divine-pets/"
+    },
+    {
+      "judul": "Apocalyptic Food stall",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fapocalyptic_food_stall%2Fimg_683165a82a5b51.83263643.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/apocalyptic-food-stall/"
+    },
+    {
+      "judul": "Iken Senki Verndio (Iken Senki Volundio)",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fiken_senki_verndio%2Fimg_68302481871b27.28466994.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/iken-senki-verndio-iken-senki-volundio/"
+    },
+    {
+      "judul": "The Demonic Empress Traveled Through Time And Became My Boss",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_demonic_empress_traveled_through_time%2Fimg_68341439048776.12456042.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-demonic-empress-traveled-through-time-and-became-my-boss/"
+    },
+    {
+      "judul": "Alone Necromancer",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Falone-necromancer%2Fmanga_img_horizontal-Komik-Alone-Necromancer.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/alone-necromancer/"
+    },
+    {
+      "judul": "Heart-Pounding Ghostly Poem",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fheart-pounding-ghostly-poem%2Fmanga_img_horizontal-A1-Heart-Pounding-Ghostly-Poem.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/heart-pounding-ghostly-poem/"
+    },
+    {
+      "judul": "The World’s Best Kunlun Tavern",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-worlds-best-kunlun-tavern%2Fmanga_img_horizontal-A1-The-Worlds-Best-Kunlun-Tavern.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-worlds-best-kunlun-tavern/"
+    },
+    {
+      "judul": "Fairy Tail: 100 Years Quest",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ffairy-tail-100-years-quest%2Fmanga_img_horizontal-Fairy-Tail-100-Years-Quest.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/fairy-tail-100-years-quest/"
+    },
+    {
+      "judul": "Soul Land 2",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsoul-land-2%2Fmanga_img_horizontal-Manhua-Soul-Land-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/soul-land-2/"
+    },
+    {
+      "judul": "Isekai Yurutto Survival Seikatsu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-yurutto-survival-seikatsu%2Fmanga_img_horizontal-Komik-Isekai-Yurutto-Survival-Seikatsu.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-yurutto-survival-seikatsu/"
+    },
+    {
+      "judul": "Academy’s Genius Swordmaster",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2F12321-academys-genius-swordmaster%2Fmanga_img_horizontal-Back-Academys-Genius-Swordmaster.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/12321-academys-genius-swordmaster/"
+    },
+    {
+      "judul": "Swordmaster’s Youngest Son",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fswordmasters-youngest-son%2Fmanga_img_horizontal-Komik-Swordmasters-Youngest-Son.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/swordmasters-youngest-son/"
+    },
+    {
+      "judul": "Global Beast Tamer: I Can See the Path of Evolution",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fglobal-beast-tamer-i-can-see-the-path-of-evolution%2Fmanga_img_horizontal-A1-Global-Beast-Tamer-I-Can-See-the-Path-of-Evolution.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/global-beast-tamer-i-can-see-the-path-of-evolution/"
+    },
+    {
+      "judul": "Wuxian Shitu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwuxian-shitu%2Fmanga_img_horizontal-Komik-Wuxian-Shitu.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/wuxian-shitu/"
+    },
+    {
+      "judul": "God-level Assassin, I’m the Shadow",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgod-level-assassin-im-the-shadow%2Fmanga_img_horizontal-A1-God-level-Assassin-Im-the-Shadow.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/god-level-assassin-im-the-shadow/"
+    },
+    {
+      "judul": "The strongest assassin gets transferred to another world with his whole class",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-strongest-assassin-gets-transferred-to-another-world-with-his-whole-class%2Fmanga_img_horizontal-Back-The-strongest-assassin-gets-transferred-to-another-world-with-his-whole-class.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-strongest-assassin-gets-transferred-to-another-world-with-his-whole-class/"
+    },
+    {
+      "judul": "lightning expert",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flightning-expert%2Fmanga_img_horizontal-Komik-lightning-expert.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/lightning-expert/"
+    },
+    {
+      "judul": "Helmut: The Forsaken Child",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhelmut-the-forsaken-child%2Fmanga_img_horizontal-Helmut-The-Forsaken-Child-Panjang.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/helmut-the-forsaken-child/"
+    },
+    {
+      "judul": "Magic Emperor",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmagic-emperor%2Fmanga_img_horizontal-Manhua-Magic-Emperor.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/magic-emperor/"
+    },
+    {
+      "judul": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fchichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha%2Fmanga_img_horizontal-Komik-Chichi-wa-Eiyuu-Haha-wa-Seirei-Musume-no-Watashi-wa-Tenseisha.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/chichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha/"
+    },
+    {
+      "judul": "Return of the Sword God-Rank Civil Servant",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Freturn-of-the-sword-god-rank-civil-servant%2Fmanga_img_horizontal-A1-Return-of-the-Sword-God-Rank-Civil-Servant.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/return-of-the-sword-god-rank-civil-servant/"
+    },
+    {
+      "judul": "Overgeared",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fovergeared-new%2Fmanga_img_horizontal-Komik-Overgeared-1.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/overgeared-new/"
+    },
+    {
+      "judul": "Skeleton Soldier Couldn’t Protect the Dungeon",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fskeleton-soldier-couldnt-protect-the-dungeon-indonesia%2Fmanga_img_horizontal-Manhwa-Skeleton-Soldier-Couldnt-Protect-the-Dungeon.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/skeleton-soldier-couldnt-protect-the-dungeon-indonesia/"
+    },
+    {
       "judul": "Unveiling the Emperor’s Secret",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Funveiling_the_emperor___s_secret%2Fimg_68774ff68bf2c5.66214934.png",
@@ -44,13 +534,6 @@
       "url": "https://komiku.org/manga/imperial-decree-cheat-at-will/"
     },
     {
-      "judul": "Global Beast Tamer: I Can See the Path of Evolution",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fglobal-beast-tamer-i-can-see-the-path-of-evolution%2Fmanga_img_horizontal-A1-Global-Beast-Tamer-I-Can-See-the-Path-of-Evolution.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/global-beast-tamer-i-can-see-the-path-of-evolution/"
-    },
-    {
       "judul": "I Really Don’t Want to Be Reborn",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-really-dont-want-to-be-reborn%2Fmanga_img_horizontal-Komik-I-Really-Dont-Want-to-Be-Reborn.png",
@@ -79,13 +562,6 @@
       "url": "https://komiku.org/manga/i-created-an-urban-legend/"
     },
     {
-      "judul": "Monster Eater Adventurer",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmonster-eater-adventurer%2Fmanga_img_horizontal-A1-Monster-Eater-Adventurer.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/monster-eater-adventurer/"
-    },
-    {
       "judul": "Demon Lord’s Martial Arts Ascension",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdemon-lords-martial-arts-ascension%2Fmanga_img_horizontal-Demon-Lords-Martial-Arts-Ascension-2.png",
@@ -105,20 +581,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fdungeon_porter%2Fimg_682adeee532439.36989128.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/dungeon-porter/"
-    },
-    {
-      "judul": "Start by changing your job to the God of Wealth and taming billions of divine pets!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fstart_by_changing_your_job_to_the_god_of_wealth_and_taming_billions_of_divine_pets_%2Fimg_6836b82d662565.59758909.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/start-by-changing-your-job-to-the-god-of-wealth-and-taming-billions-of-divine-pets/"
-    },
-    {
-      "judul": "Dantoudai no Hanayome – Sekai wo Horobosu Futsutsuka na Tatsuki desu ga",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2024%2F02%2FBack-Dantoudai-no-Hanayome-%E2%80%93-Sekai-wo-Horobosu-Futsutsuka-na-Tatsuki-desu-ga.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/dantoudai-no-hanayome-sekai-wo-horobosu-futsutsuka-na-tatsuki-desu-ga/"
     },
     {
       "judul": "My School Life Pretending to Be a Worthless Person",
@@ -149,39 +611,11 @@
       "url": "https://komiku.org/manga/the-worlds-best-sect-of-dependency/"
     },
     {
-      "judul": "Guest Gun (Embodiment of the Assassin in the Murim World)",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fguest-gun-embodiment-of-the-assassin-in-the-murim-world%2Fmanga_img_horizontal-A1-Guest-Gun-1.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/guest-gun-embodiment-of-the-assassin-in-the-murim-world/"
-    },
-    {
-      "judul": "Evolution Begins With A Big Tree",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fevolution-begins-with-a-big-tree%2Fmanga_img_horizontal-Komik-Evolution-Begins-With-A-Big-Tree.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/evolution-begins-with-a-big-tree/"
-    },
-    {
-      "judul": "Martial Wild West",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmartial-wild-west%2Fmanga_img_horizontal-Martial-Wild-West-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/martial-wild-west/"
-    },
-    {
       "judul": "Kuni wo Owareta Ryuushi-san, Hirowareta Ringoku de Ukkari Musou shite Shimau",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkuni-wo-owareta-ryuushi-san-hirowareta-ringoku-de-ukkari-musou-shite-shimau%2Fmanga_img_horizontal-A1-Kuni-wo-Owareta-Ryuushi-san-Hirowareta-Ringoku-de-Ukkari-Musou-shite-Shimau.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/kuni-wo-owareta-ryuushi-san-hirowareta-ringoku-de-ukkari-musou-shite-shimau/"
-    },
-    {
-      "judul": "Ouritsu Mahou Gakuen no Saikasei: Slum Agari no Saikyou Mahoushi, Kizoku darake no Gakuen de Musou suru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fouritsu-mahou-gakuen-no-saikasei-slum-agari-no-saikyou-mahoushi-kizoku-darake-no-gakuen-de-musou-suru%2Fmanga_img_horizontal-Komik-Ouritsu-Mahou-Gakuen-no-Saikasei-Slum-Agari-no-Saikyou-Mahoushi-Kizoku-darake-no-Gakuen-de-Musou-suru.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ouritsu-mahou-gakuen-no-saikasei-slum-agari-no-saikyou-mahoushi-kizoku-darake-no-gakuen-de-musou-suru/"
     },
     {
       "judul": "Fukushuu o Koinegau Saikyou Yuusha wa, Yami no Chikara de Senmetsu Musou Suru",
@@ -247,13 +681,6 @@
       "url": "https://komiku.org/manga/the-demon-in-human-form/"
     },
     {
-      "judul": "S-kyuu Guild wo Tsuihou saretakedo, Jitsu wa Ore dake Dragon no Kotoba ga Wakaru no de, Kidzuita Toki ni wa Ryuu Kishi no Chouten wo Kiwametemashita",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fs-kyuu-guild-wo-tsuihou-saretakedo-jitsu-wa-ore-dake-dragon-no-kotoba-ga-wakaru-no-de-kidzuita-toki-ni-wa-ryuu-kishi-no-chouten-wo-kiwametemashita%2Fmanga_img_horizontal-Komik-S-kyuu-Guild-wo-Tsuihou-saretakedo-Jitsu-wa-Ore-dake-Dragon-no-Kotoba-ga-Wakaru-no-de-Kidzuita-Toki-ni-wa-Ryuu-Kishi-no-Chouten-wo-Kiwametemashita.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/s-kyuu-guild-wo-tsuihou-saretakedo-jitsu-wa-ore-dake-dragon-no-kotoba-ga-wakaru-no-de-kidzuita-toki-ni-wa-ryuu-kishi-no-chouten-wo-kiwametemashita/"
-    },
-    {
       "judul": "Dao of the Bizarre Immortal",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fdao_of_the_bizarre_immortal%2Fimg_6834136d2014c6.95950673.png",
@@ -268,13 +695,6 @@
       "url": "https://komiku.org/manga/buta-no-fukushuu/"
     },
     {
-      "judul": "Magic Emperor",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmagic-emperor%2Fmanga_img_horizontal-Manhua-Magic-Emperor.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/magic-emperor/"
-    },
-    {
       "judul": "High School Musical Genius Is Paganini Reincarnated",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhigh-school-musical-genius-is-paganini-reincarnated%2Fmanga_img_horizontal-A1-High-School-Musical-Genius-Is-Paganini.jpg",
@@ -287,20 +707,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-become-invincible-black-dragon-boss-at-the-start%2Fmanga_img_horizontal-Back-I-Become-Invincible-Black-Dragon-Boss-At-The-Start.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/i-become-invincible-black-dragon-boss-at-the-start/"
-    },
-    {
-      "judul": "World Teacher: Isekaishiki Kyouiku Agent",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fworld-teacher-isekaishiki-kyouiku-agent%2Fmanga_img_horizontal-Komik-World-Teacher-Isekaishiki-Kyouiku-Agent.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/world-teacher-isekaishiki-kyouiku-agent/"
-    },
-    {
-      "judul": "Auto-Hunting With Clones",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fauto-hunting-with-clones%2Fmanga_img_horizontal-Auto-Hunting-With-Clones-Panjang.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/auto-hunting-with-clones/"
     },
     {
       "judul": "The Magic Tower's Problem Child",
@@ -338,13 +744,6 @@
       "url": "https://komiku.org/manga/tensei-shitara-saikyoushutachi-ga-sumau-shima-deshita-kono-shima-de-slow-life-wo-tanoshimimasu/"
     },
     {
-      "judul": "The Fake Lady and the Knight",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_fake_lady_and_the_knight%2Fimg_68a55ecfa85ab5.54081963.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-fake-lady-and-the-knight/"
-    },
-    {
       "judul": "Apex Future Martial Arts",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fapex-future-martial-arts%2Fmanga_img_horizontal-Apex-Future-Martial-Arts-2.png",
@@ -373,13 +772,6 @@
       "url": "https://komiku.org/manga/how-to-live-as-an-illegal-healer/"
     },
     {
-      "judul": "The King’s Avatar",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-kings-avatar%2Fmanga_img_horizontal-Back-The-Kings-Avatar.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-kings-avatar/"
-    },
-    {
       "judul": "There Are No Bad Heroes In This World",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthere-are-no-bad-heroes-in-this-world%2Fmanga_img_horizontal-A1-There-Are-No-Bad-Heroes-In-This-World.png",
@@ -406,13 +798,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-unbeatable-dungeons-lazy-boss%2Fmanga_img_horizontal-Back-The-Unbeatable-Dungeons-Lazy-Boss.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-unbeatable-dungeons-lazy-boss/"
-    },
-    {
-      "judul": "The King of Ten Thousand Presence",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-king-of-ten-thousand-presence%2Fmanga_img_horizontal-Komik-The-King-of-Ten-Thousand-Presence.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-king-of-ten-thousand-presence/"
     },
     {
       "judul": "Weapon-Eating Bastard",
@@ -534,13 +919,6 @@
       "url": "https://komiku.org/manga/after-rebirth-i-used-mirror-reversal-for-vengeance/"
     },
     {
-      "judul": "I’m Really Not The Villain",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fim-really-not-the-villain%2Fmanga_img_horizontal-ReallyNotVillainPanjang.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/im-really-not-the-villain/"
-    },
-    {
       "judul": "Shinsoo Kindergarten",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fshinsoo_kindergarten%2Fimg_682d58bcd97c26.83552703.jpg",
@@ -651,13 +1029,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdivine-delivery%2Fmanga_img_horizontal-A1-Divine-Delivery.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/divine-delivery/"
-    },
-    {
-      "judul": "Urenokori no Dorei Elf wo Hirotta no de, Musume ni suru Koto ni shita",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Furenokori-no-dorei-elf-wo-hirotta-no-de-musume-ni-suru-koto-ni-shita%2Fmanga_img_horizontal-A1-Urenokori-no-Dorei-Elf-wo-Hirotta-no-de-Musume-ni-suru-Koto-ni-shita.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/urenokori-no-dorei-elf-wo-hirotta-no-de-musume-ni-suru-koto-ni-shita/"
     },
     {
       "judul": "Zettai Maken no Duelist",
@@ -870,13 +1241,6 @@
       "url": "https://komiku.org/manga/han-dae-sung-returned-from-hell/"
     },
     {
-      "judul": "Spare Me, Great Lord!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fspare-me-great-lord%2Fmanga_img_horizontal-Komik-Spare-Me-Great-Lord.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/spare-me-great-lord/"
-    },
-    {
       "judul": "Absolute Regression",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fabsolute-regression%2Fmanga_img_horizontal-A1-Absolute-Regression.jpg",
@@ -931,13 +1295,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fpick-me-up%2Fmanga_img_horizontal-Pick-Me-Up-2.png",
       "tipe": "",
       "url": "https://komiku.org/manga/pick-me-up/"
-    },
-    {
-      "judul": "Global Superpowers: Awakening the Zixiao Divine Thunder at the Beginning",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fglobal_superpowers__awakening_the_zixiao%2Fimg_687e00a5b014a1.26432117.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/global-superpowers-awakening-the-zixiao-divine-thunder-at-the-beginning/"
     },
     {
       "judul": "Ming Dynasty’s Failure",
@@ -1017,13 +1374,6 @@
       "url": "https://komiku.org/manga/dominating-with-the-price-collapse-system/"
     },
     {
-      "judul": "The Demonic Empress Traveled Through Time And Became My Boss",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_demonic_empress_traveled_through_time%2Fimg_68341439048776.12456042.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-demonic-empress-traveled-through-time-and-became-my-boss/"
-    },
-    {
       "judul": "Please Bully Me, Miss Villainess!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fplease-bully-me-miss-villainess%2Fmanga_img_horizontal-Komik-Please-Bully-Me-Miss-Villainess.png",
@@ -1066,13 +1416,6 @@
       "url": "https://komiku.org/manga/omniscient-readers-viewpoint/"
     },
     {
-      "judul": "Vallhala Saga",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fvalhala_saga%2Fimg_68b80b6671cb09.30169916.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/vallhala-saga/"
-    },
-    {
       "judul": "Sword King",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fotherworldly-sword-kings-survival-records%2Fmanga_img_horizontal-Komik-Sword-King.png",
@@ -1092,13 +1435,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmy-gift-lvl-9999-unlimited-gacha%2Fmanga_img_horizontal-Komik-My-Gift-LVL-9999-Unlimited-Gacha.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/my-gift-lvl-9999-unlimited-gacha/"
-    },
-    {
-      "judul": "God-level Assassin, I’m the Shadow",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgod-level-assassin-im-the-shadow%2Fmanga_img_horizontal-A1-God-level-Assassin-Im-the-Shadow.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/god-level-assassin-im-the-shadow/"
     },
     {
       "judul": "Transmigrating to the Otherworld Once More",
@@ -1148,13 +1484,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ffull-time_awakening%2Fimg_687dfc3d42b6e8.30164857.png",
       "tipe": "",
       "url": "https://komiku.org/manga/full-time-awakening/"
-    },
-    {
-      "judul": "The strongest assassin gets transferred to another world with his whole class",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-strongest-assassin-gets-transferred-to-another-world-with-his-whole-class%2Fmanga_img_horizontal-Back-The-strongest-assassin-gets-transferred-to-another-world-with-his-whole-class.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-strongest-assassin-gets-transferred-to-another-world-with-his-whole-class/"
     },
     {
       "judul": "Desugemu ni Makikomareta Yamamoto-san, Kimama ni Gemu Baransu wo Hokai Saseru",
@@ -1213,13 +1542,6 @@
       "url": "https://komiku.org/manga/become-the-strongest-hero-through-the-cheat-system/"
     },
     {
-      "judul": "Don’t Tell Me You Think Cultivating Immortality Is Difficult?",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fdon___t_tell_me_you_think_cultivating_immortality_is_difficult_%2Fimg_68a829c42a2312.32162243.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/dont-tell-me-you-think-cultivating-immortality-is-difficult/"
-    },
-    {
       "judul": "Black Haze (Reboot)",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fblack-haze-reboot%2Fmanga_img_horizontal-A1-Black-Haze-Reboot.jpg",
@@ -1267,13 +1589,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Frankers-return-remake%2Fmanga_img_horizontal-Komik-Rankers-Return-Remake.png",
       "tipe": "",
       "url": "https://komiku.org/manga/rankers-return-remake/"
-    },
-    {
-      "judul": "Regressor Of The Fallen Family",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fregressor-of-the-fallen-family%2Fmanga_img_horizontal-Back-Regressor-Of-The-Fallen-Family.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/regressor-of-the-fallen-family/"
     },
     {
       "judul": "Apocalypse: Cockroaches Gives Me Buff",
@@ -1409,13 +1724,6 @@
       "url": "https://komiku.org/manga/dragon-devouring-mage/"
     },
     {
-      "judul": "Lu Bu’s Life Simulator",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flu-bus-life-simulator%2Fmanga_img_horizontal-Lu-Bus-Life-Simulator-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/lu-bus-life-simulator/"
-    },
-    {
       "judul": "The Joseon Prince Who Went to America and Never Returned",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-joseon-prince-who-went-to-america-and-never-returned%2Fmanga_img_horizontal-A1-The-Joseon-Prince-Who-Went-to-America-and-Never-Returned.jpg",
@@ -1456,13 +1764,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_game___s_addict_reset%2Fimg_68341477054789.90429586.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-games-addict-reset/"
-    },
-    {
-      "judul": "Mairimashita! Iruma-kun",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmairimashita-iruma-kun%2Fmanga_img_horizontal-Manga-Mairimashita-Iruma-kun.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mairimashita-iruma-kun/"
     },
     {
       "judul": "Saikyou Kyuutei Shinan-yaku no Ossan, Tsuihousareta Hekichi de Musou Suru ~Maboroshi to Natta Shuzoku no Bishoujo-tachi wo Sodatete Henkyou wo Kaitaku~",
@@ -1668,13 +1969,6 @@
       "url": "https://komiku.org/manga/bouken-ka-ni-narou-sukiruboudo-de-dungeon-kouryaku/"
     },
     {
-      "judul": "Senmetsumadou no Saikyou Kenja: Musai no Kenja, Madou wo Kiwame Saikyou e Itaru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsenmetsumadou-no-saikyou-kenja-musai-no-kenja-madou-wo-kiwame-saikyou-e-itaru%2Fmanga_img_horizontal-Komik-Senmetsumadou-no-Saikyou-Kenja-Musai-no-Kenja-Madou-wo-Kiwame-Saikyou-e-Itaru.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/senmetsumadou-no-saikyou-kenja-musai-no-kenja-madou-wo-kiwame-saikyou-e-itaru/"
-    },
-    {
       "judul": "I Build an Industrial Empire on the Magic Continent",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fi_build_an_industrial_empire_on_the_magic_continent%2Fimg_68318f151eff29.37448540.jpg",
@@ -1682,18 +1976,18 @@
       "url": "https://komiku.org/manga/i-build-an-industrial-empire-on-the-magic-continent/"
     },
     {
-      "judul": "The Strongest Dull Prince’s Secret Battle for the Throne",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-strongest-dull-princes-secret-battle-for-the-throne%2Fmanga_img_horizontal-Komik-The-Strongest-Dull-Princes-Secret-Battle-for-the-Throne.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-strongest-dull-princes-secret-battle-for-the-throne/"
-    },
-    {
       "judul": "The Regressed Genius Player’s Legendary Weapon Creation",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-regressed-genius-players-legendary-weapon-creation%2Fmanga_img_horizontal-A1-The-Regressed-Genius-Players-Legendary-Weapon-Creation.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-regressed-genius-players-legendary-weapon-creation/"
+    },
+    {
+      "judul": "The Strongest Dull Prince’s Secret Battle for the Throne",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-strongest-dull-princes-secret-battle-for-the-throne%2Fmanga_img_horizontal-Komik-The-Strongest-Dull-Princes-Secret-Battle-for-the-Throne.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-strongest-dull-princes-secret-battle-for-the-throne/"
     },
     {
       "judul": "Myriad Tribes Invasion: Rearguard’s Resolute Unity",
@@ -1724,13 +2018,6 @@
       "url": "https://komiku.org/manga/the-second-eunuch-regains-his-manhood/"
     },
     {
-      "judul": "The Extra is Too Strong",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-extra-is-too-strong%2Fmanga_img_horizontal-Back-The-Extra-is-Too-Strong.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-extra-is-too-strong/"
-    },
-    {
       "judul": "The Regressed Son Of A Duke Is An Assassin",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-regressed-son-of-a-duke-is-an-assassin%2Fmanga_img_horizontal-Back-The-Regressed-Son-Of-A-Duke-Is-An-Assassin.jpg",
@@ -1743,13 +2030,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_regressed_life_of_a_back_alley_mage%2Fimg_68907562e2a151.50787151.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-regressed-life-of-a-back-alley-mage/"
-    },
-    {
-      "judul": "Howling Dragon",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhowling-dragon%2Fmanga_img_horizontal-Back-Howling-Dragon.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/howling-dragon/"
     },
     {
       "judul": "The Great Mage Returns After 4000 Years",
@@ -1771,13 +2051,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdevious-son-of-heaven%2Fmanga_img_horizontal-Back-Devious-Son-Of-Heaven.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/devious-son-of-heaven/"
-    },
-    {
-      "judul": "Revenge of the Iron-Blooded Sword Hound",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Frevenge-of-the-iron-blooded-sword-hound%2Fmanga_img_horizontal-Back-Revenge-of-the-Iron-Blooded-Sword-Hound.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/revenge-of-the-iron-blooded-sword-hound/"
     },
     {
       "judul": "Return Of The Martial Arts Genius",
@@ -1836,13 +2109,6 @@
       "url": "https://komiku.org/manga/reverend-insanity-remake/"
     },
     {
-      "judul": "Black Corporation: Joseon",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fblack-corporation-joseon%2Fmanga_img_horizontal-Back-Black-Corporation-Joseon.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/black-corporation-joseon/"
-    },
-    {
       "judul": "I Am the Strongest Awakeners, Recognized by All of the World’s Cheat Masters",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-am-the-strongest-awakeners-recognized-by-all-of-the-worlds-cheat-masters%2Fmanga_img_horizontal-A1-I-Am-the-Strongest-Awakeners-Recognized-by-All-of-the-Worlds-Cheat-Masters.jpg",
@@ -1869,13 +2135,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkenja-no-mago%2Fmanga_img_horizontal-Manga-Kenja-no-Mago-.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/kenja-no-mago/"
-    },
-    {
-      "judul": "Majutsushi Kunon wa Miete Iru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmajutsushi-kunon-wa-miete-iru%2Fmanga_img_horizontal-Majutsushi-Kunon-Panjang.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/majutsushi-kunon-wa-miete-iru/"
     },
     {
       "judul": "Monster Onna Kanbu wa Osanaki Yuusha wo Dekiaisuru",
@@ -1920,39 +2179,11 @@
       "url": "https://komiku.org/manga/superstar-from-age-0/"
     },
     {
-      "judul": "Apocalyptic Food stall",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fapocalyptic_food_stall%2Fimg_683165a82a5b51.83263643.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/apocalyptic-food-stall/"
-    },
-    {
-      "judul": "Heart-Pounding Ghostly Poem",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fheart-pounding-ghostly-poem%2Fmanga_img_horizontal-A1-Heart-Pounding-Ghostly-Poem.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/heart-pounding-ghostly-poem/"
-    },
-    {
       "judul": "Negatte mo Nai Tsuihou Go kara no Slow Life? Intai Shita Hazu ga Nariyuki de Bishoujo Gal no Shishou ni Nattara Naze ka Mechakucha Natsukareta",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fnegatte_mo_nai_tsuihou_go_kara_no_slow_life%2Fimg_682c2003ae04b0.08215220.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/negatte-mo-nai-tsuihou-go-kara-no-slow-life-intai-shita-hazu-ga-nariyuki-de-bishoujo-gal-no-shishou-ni-nattara-naze-ka-mechakucha-natsukareta/"
-    },
-    {
-      "judul": "Academy’s Genius Swordmaster",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2F12321-academys-genius-swordmaster%2Fmanga_img_horizontal-Back-Academys-Genius-Swordmaster.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/12321-academys-genius-swordmaster/"
-    },
-    {
-      "judul": "The Last Adventurer",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-last-adventurer%2Fmanga_img_horizontal-A1-The-Last-Adventurer.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-last-adventurer/"
     },
     {
       "judul": "Isekai Shoukan Oji-san no Juumusou Life – Sabage Suki Salaryman wa Kaisha Owari ni Isekai e Chokki suru",
@@ -1976,20 +2207,6 @@
       "url": "https://komiku.org/manga/marchen-crown/"
     },
     {
-      "judul": "Alone Necromancer",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Falone-necromancer%2Fmanga_img_horizontal-Komik-Alone-Necromancer.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/alone-necromancer/"
-    },
-    {
-      "judul": "Isekai Yurutto Survival Seikatsu",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-yurutto-survival-seikatsu%2Fmanga_img_horizontal-Komik-Isekai-Yurutto-Survival-Seikatsu.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isekai-yurutto-survival-seikatsu/"
-    },
-    {
       "judul": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhell-mode-yarikomi-suki-no-gamer-wa-hai-settei-no-isekai-de-musou-suru%2Fmanga_img_horizontal-Komik-Hell-Mode-Yarikomi-Suki-no-Gamer-wa-Hai-Settei-no-Isekai-de-Musou-Suru-fix.jpg",
@@ -2009,13 +2226,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fbrother-am-i-cute%2Fmanga_img_horizontal-Back-Brother-Am-I-Cute.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/brother-am-i-cute/"
-    },
-    {
-      "judul": "Eternally Regressing Knight",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Feternally-regressing-knight%2Fmanga_img_horizontal-A1-Eternally-Regressing-Knight.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/eternally-regressing-knight/"
     },
     {
       "judul": "Dungeon ni Hisomu Yandere na Kanojo ni Ore wa Nando mo Korosareru",
@@ -2039,25 +2249,11 @@
       "url": "https://komiku.org/manga/elven-queen/"
     },
     {
-      "judul": "Survive as a Barbarian in the Game",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsurvive-as-a-barbarian-in-the-game%2Fmanga_img_horizontal-Back-Survive-as-a-Barbarian-in-the-Game.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/survive-as-a-barbarian-in-the-game/"
-    },
-    {
       "judul": "Ore No Ie Ga Maryoku Spot Datta Ken: Sundeiru Dake De Sekai Saikyou",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fore-no-ie-ga-maryoku-spot-datta-ken-sundeiru-dake-de-sekai-saikyou%2Fmanga_img_horizontal-Manga-Ore-No-Ie-Ga-Maryoku-Spot-Datta-Ken-Sundeiru-Dake-De-Sekai-Saikyou.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/ore-no-ie-ga-maryoku-spot-datta-ken-sundeiru-dake-de-sekai-saikyou/"
-    },
-    {
-      "judul": "Chronicle of Runes",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fchronicle_of_runes%2Fimg_68a82a8638c956.69660235.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/chronicle-of-runes/"
     },
     {
       "judul": "Magic Academy’s Genius Blinker",
@@ -2067,39 +2263,11 @@
       "url": "https://komiku.org/manga/magic-academys-genius-blinker/"
     },
     {
-      "judul": "Academy’s Undercover Professor",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Facademys-undercover-professor%2Fmanga_img_horizontal-Komik-Academys-Undercover-Professor.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/academys-undercover-professor/"
-    },
-    {
       "judul": "Catastrophic Priest",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fcatastrophic-priest%2Fmanga_img_horizontal-A2-Catastrophic-Priest.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/catastrophic-priest/"
-    },
-    {
-      "judul": "Helmut: The Forsaken Child",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhelmut-the-forsaken-child%2Fmanga_img_horizontal-Helmut-The-Forsaken-Child-Panjang.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/helmut-the-forsaken-child/"
-    },
-    {
-      "judul": "Swordmaster’s Youngest Son",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fswordmasters-youngest-son%2Fmanga_img_horizontal-Komik-Swordmasters-Youngest-Son.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/swordmasters-youngest-son/"
-    },
-    {
-      "judul": "The Apex of Dragon Mastery",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-apex-of-dragon-mastery%2Fmanga_img_horizontal-Back-The-Apex-of-Dragon-Mastery.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-apex-of-dragon-mastery/"
     },
     {
       "judul": "Mount Hua Sect’s Genius Phantom Swordsman",
@@ -2121,13 +2289,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shit%2Fmanga_img_horizontal-Manga-Tensei-Kizoku-no-Isekai-Boukenroku-Jichou-wo-Shiranai-Kamigami-no-Shit.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shit/"
-    },
-    {
-      "judul": "Standard of Reincarnation",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fstandard-of-reincarnation%2Fmanga_img_horizontal-Standard-Reincarnation-Panjang.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/standard-of-reincarnation/"
     },
     {
       "judul": "Ice Lord",
@@ -2156,13 +2317,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_regalia_of_the_underdog%2Fimg_68663135d52b88.13784044.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-regalia-of-the-underdog/"
-    },
-    {
-      "judul": "Skeleton Soldier Couldn’t Protect the Dungeon",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fskeleton-soldier-couldnt-protect-the-dungeon-indonesia%2Fmanga_img_horizontal-Manhwa-Skeleton-Soldier-Couldnt-Protect-the-Dungeon.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/skeleton-soldier-couldnt-protect-the-dungeon-indonesia/"
     },
     {
       "judul": "Nido Tensei Shita Shounen wa S Rank Boukensha Toshite Heion ni Sugosu",
@@ -2242,13 +2396,6 @@
       "url": "https://komiku.org/manga/shadow-agents-suit-up/"
     },
     {
-      "judul": "Return of the Sword God-Rank Civil Servant",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Freturn-of-the-sword-god-rank-civil-servant%2Fmanga_img_horizontal-A1-Return-of-the-Sword-God-Rank-Civil-Servant.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/return-of-the-sword-god-rank-civil-servant/"
-    },
-    {
       "judul": "The Hero Starts Over at the Academy",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_hero_starts_over_at_the_academy%2Fimg_68356306b049c3.20382032.jpg",
@@ -2261,20 +2408,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fbad-born-blood%2Fmanga_img_horizontal-A1-Bad-Born-Blood.png",
       "tipe": "",
       "url": "https://komiku.org/manga/bad-born-blood/"
-    },
-    {
-      "judul": "Overgeared",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fovergeared-new%2Fmanga_img_horizontal-Komik-Overgeared-1.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/overgeared-new/"
-    },
-    {
-      "judul": "Death Penalty",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdeath-penalty%2Fmanga_img_horizontal-Back-Death-Penalty.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/death-penalty/"
     },
     {
       "judul": "Villain To Kill",
@@ -2473,13 +2606,6 @@
       "url": "https://komiku.org/manga/the-yellow-haired-villain-in-female-main-characters-novel-wants-happiness/"
     },
     {
-      "judul": "Becoming the Swordmaster Rank Young Lord of the Sichuan Tang Family",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fbecoming-the-swordmaster-rank-young-lord-of-the-sichuan-tang-family%2Fmanga_img_horizontal-Back-BECOMING-THE-SWORDMASTER-RANK-YOUNG-LORD-OF-THE-SICHUAN-TANG-FAMILY.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/becoming-the-swordmaster-rank-young-lord-of-the-sichuan-tang-family/"
-    },
-    {
       "judul": "Hitoribocchi no Isekai Kouryaku",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhitoribocchi-no-isekai-kouryaku%2Fmanga_img_horizontal-A1-Hitoribocchi-no-Isekai-Kouryaku.jpg",
@@ -2583,13 +2709,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-kaeri-no-ossan-wa-shuumatsu-de-sekai-de-musou-suru%2Fmanga_img_horizontal-Komik-Isekai-Kaeri-no-Ossan-wa-Shuumatsu-de-Sekai-de-Musou-Suru.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/isekai-kaeri-no-ossan-wa-shuumatsu-de-sekai-de-musou-suru/"
-    },
-    {
-      "judul": "lightning expert",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flightning-expert%2Fmanga_img_horizontal-Komik-lightning-expert.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/lightning-expert/"
     },
     {
       "judul": "Frozen Frontiers",
@@ -2781,13 +2900,6 @@
       "url": "https://komiku.org/manga/the-demonic-cult-instructor-returns/"
     },
     {
-      "judul": "Ruri Dragon",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fruri-dragon%2Fmanga_img_horizontal-Komik-Ruri-Dragon.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ruri-dragon/"
-    },
-    {
       "judul": "I Was More Overpowered Than The Hero, So I Hid My Power!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-was-more-overpowered-than-the-hero-so-i-hid-my-power%2Fmanga_img_horizontal-Back-I-Was-More-Overpowered-Than-The-Hero-So-I-Hid-My-Power.jpg",
@@ -2891,13 +3003,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-white-mage-who-was-banished-from-the-heros-party-is-picked-up-by-an-s-rank-adventurer-this-white-mage-is-too-out-of-the-ordinary%2Fmanga_img_horizontal-Komik-The-White-Mage-Who-Was-Banished-From-the-Heros-Party-Is-Picked-up-by-an-S-Rank-Adventurer-This-White-Mage-Is-Too-Out-of-the-Ordinary.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-white-mage-who-was-banished-from-the-heros-party-is-picked-up-by-an-s-rank-adventurer-this-white-mage-is-too-out-of-the-ordinary/"
-    },
-    {
-      "judul": "Unbeatable Sword Master Cultivator",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Funbeatable-sword-master-cultivator%2Fmanga_img_horizontal-A1-Unbeatable-Sword-Master-Cultivator.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/unbeatable-sword-master-cultivator/"
     },
     {
       "judul": "Alcafus",
@@ -3047,13 +3152,6 @@
       "url": "https://komiku.org/manga/the-incompetent-prince-who-has-been-banished-wants-to-hide-his-abilities/"
     },
     {
-      "judul": "The World’s Best Kunlun Tavern",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-worlds-best-kunlun-tavern%2Fmanga_img_horizontal-A1-The-Worlds-Best-Kunlun-Tavern.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-worlds-best-kunlun-tavern/"
-    },
-    {
       "judul": "Final Reincarnation ~Me and the Strongest Companions in Each Other World, Keeping Pulling at the Bad Skills~",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ffinal_reincarnation%2Fimg_68a82989d9cb39.34857621.png",
@@ -3115,13 +3213,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fblack-killer-whale-baby%2Fmanga_img_horizontal-A1-Black-Killer-Whale-Baby.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/black-killer-whale-baby/"
-    },
-    {
-      "judul": "Becoming a God in Apocalypse Glossary",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fbecoming_a_god_in_apocalypse_glossary%2Fimg_683588623b4fc9.42055119.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/becoming-a-god-in-apocalypse-glossary/"
     },
     {
       "judul": "Ore, Yuusha janai desu kara. – VR Sekai no Chouten ni Kunrin Seshi Otoko. Tenseishi, Level 1 no Mushoku kara Restart suru",
@@ -3222,13 +3313,6 @@
       "url": "https://komiku.org/manga/i-reincarnated-as-a-legendary-surgeon/"
     },
     {
-      "judul": "Versatile Sword Cultivator",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fversatile_sword_cultivator%2Fimg_6853c0d16c88c9.78095056.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/versatile-sword-cultivator/"
-    },
-    {
       "judul": "Cultivation Record Of The Undead King",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fcultivation-record-of-the-undead-king%2Fmanga_img_horizontal-Komik-Cultivation-Record-Of-The-Undead-King.jpg",
@@ -3290,20 +3374,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Frecord-of-the-mightiest-lord%2Fmanga_img_horizontal-Komik-Record-of-The-Mightiest-Lord.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/record-of-the-mightiest-lord/"
-    },
-    {
-      "judul": "Soul Land 2",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsoul-land-2%2Fmanga_img_horizontal-Manhua-Soul-Land-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/soul-land-2/"
-    },
-    {
-      "judul": "I’m Trapped in This Day for One Thousand Years",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fim-trapped-in-this-day-for-one-thousand-years%2Fmanga_img_horizontal-Im-Trapped-in-This-Day-for-One-Thousand-Years-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/im-trapped-in-this-day-for-one-thousand-years/"
     },
     {
       "judul": "Ano Toki Tasukete Itadaita Monster Musume desu.",
@@ -3502,13 +3572,6 @@
       "url": "https://komiku.org/manga/the-executed-sage-is-reincarnated-as-a-lich-and-starts-an-all-out-war/"
     },
     {
-      "judul": "Sousei no Onmyouji",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsousei-no-onmyouji%2Fmanga_img_horizontal-Manga-Sousei-no-Onmyouji.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/sousei-no-onmyouji/"
-    },
-    {
       "judul": "Villager A Wants to Save the Villainess no Matter What!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fvillager-a-wants-to-save-the-villainess-no-matter-what%2Fmanga_img_horizontal-Villager-Panjang.png",
@@ -3549,13 +3612,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-first-ancestor-in-history%2Fmanga_img_horizontal-Komik-The-First-Ancestor-in-History.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-first-ancestor-in-history/"
-    },
-    {
-      "judul": "Salaryman Ga Isekai Ni Ittara Shitennou Ni Natta Hanashi",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsalaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi%2Fmanga_img_horizontal-Komik-Salaryman-Ga-Isekai-Ni-Ittara-Shitennou-Ni-Natta-Hanashi.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi/"
     },
     {
       "judul": "God’s Desire Game",
@@ -4041,13 +4097,6 @@
       "url": "https://komiku.org/manga/isekai-ntr/"
     },
     {
-      "judul": "Ao no Exorcist",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-no-exorcist%2Fmanga_img_horizontal-Manga-Ao-no-Exorcist.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ao-no-exorcist/"
-    },
-    {
       "judul": "Kami ni Aisareta Ko",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkami-ni-aisareta-ko%2Fmanga_img_horizontal-Komik-Kami-ni-Aisareta-Ko.jpg",
@@ -4279,13 +4328,6 @@
       "url": "https://komiku.org/manga/esteemed-female-masters-all-want-to-possess-me/"
     },
     {
-      "judul": "Fairy Tail: 100 Years Quest",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ffairy-tail-100-years-quest%2Fmanga_img_horizontal-Fairy-Tail-100-Years-Quest.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/fairy-tail-100-years-quest/"
-    },
-    {
       "judul": "Please don’t show your son",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fplease-dont-show-your-son%2Fmanga_img_horizontal-Back-Please-dont-show-your-son.jpg",
@@ -4473,13 +4515,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-work-nine-to-five-in-the-immortal-cultivation-world%2Fmanga_img_horizontal-Komik-I-Work-Nine-To-Five-In-The-Immortal-Cultivation-World-back.png",
       "tipe": "",
       "url": "https://komiku.org/manga/i-work-nine-to-five-in-the-immortal-cultivation-world/"
-    },
-    {
-      "judul": "Trinity Seven",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftrinity-seven%2Fmanga_img_horizontal-Komik-Trinity-Seven.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/trinity-seven/"
     },
     {
       "judul": "Heroes, Demons & Villains",
@@ -5455,13 +5490,6 @@
       "url": "https://komiku.org/manga/the-ghostly-doctor/"
     },
     {
-      "judul": "Dungeon Architect",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdungeon-architect%2Fmanga_img_horizontal-A1-Dungeon-Architect.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/dungeon-architect/"
-    },
-    {
       "judul": "Kabeyaku Nado Fuyou to Tsuihousareta S-kyuu Boukensha, Skill wo Kushi shite Shijou Saikyou no Kunizukuri",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkabeyaku_nado_fuyou_to_tsuihousareta_s-kyuu_boukensha%2Fimg_684bd0b68d7ce5.92305177.jpg",
@@ -5735,11 +5763,18 @@
       "url": "https://komiku.org/manga/kyuubo-suterareteta-dragon-hirotta/"
     },
     {
-      "judul": "A Strange But Effective Villainess Life",
+      "judul": "Yamu ni Yamarenu!",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fa_strange_but_effective_villainess_life%2Fimg_682d64a69b1518.78295471.jpg",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fyamu_ni_yamarenu_%2Fimg_682d588b478f97.65425828.jpg",
       "tipe": "",
-      "url": "https://komiku.org/manga/a-strange-but-effective-villainess-life/"
+      "url": "https://komiku.org/manga/yamu-ni-yamarenu/"
+    },
+    {
+      "judul": "Since The Red Moon Appeared (Hongyue Start)",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsince_the_red_moon_appeared%2Fimg_682ef363268d29.49926153.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/since-the-red-moon-appeared-hongyue-start/"
     },
     {
       "judul": "A Strange But Effective Villainess Life",
@@ -5754,13 +5789,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fi_became_the_daughter_of_a_ghost_duke%2Fimg_682d9fcd813439.33961855.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/i-became-the-daughter-of-a-ghost-duke/"
-    },
-    {
-      "judul": "Yamu ni Yamarenu!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fyamu_ni_yamarenu_%2Fimg_682d588b478f97.65425828.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/yamu-ni-yamarenu/"
     },
     {
       "judul": "A Maid Was More of a Calling Than a Princess",
@@ -5812,18 +5840,18 @@
       "url": "https://komiku.org/manga/i-soon-became-the-contract-daughter-of-a-ruined-family/"
     },
     {
-      "judul": "The Acting Empress Still Spends the First Night",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_acting_empress_still_spends_the_first_night%2Fimg_6836b5c3c2fab0.95018578.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-acting-empress-still-spends-the-first-night/"
-    },
-    {
       "judul": "The Perks of Being a Villainess",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_perks_of_being_a_villainess%2Fimg_6836b8fe616b63.64655972.png",
       "tipe": "",
       "url": "https://komiku.org/manga/the-perks-of-being-a-villainess/"
+    },
+    {
+      "judul": "The Acting Empress Still Spends the First Night",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_acting_empress_still_spends_the_first_night%2Fimg_6836b5c3c2fab0.95018578.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-acting-empress-still-spends-the-first-night/"
     },
     {
       "judul": "Princess Who Hides Her Fandom",
@@ -5868,13 +5896,6 @@
       "url": "https://komiku.org/manga/god-girls/"
     },
     {
-      "judul": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fchichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha%2Fmanga_img_horizontal-Komik-Chichi-wa-Eiyuu-Haha-wa-Seirei-Musume-no-Watashi-wa-Tenseisha.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/chichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha/"
-    },
-    {
       "judul": "The Descendant of the Spiritual Diety",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-descendant-of-the-spiritual-diety%2Fmanga_img_horizontal-Komik-The-Descendant-of-the-Spiritual-Diety.jpg",
@@ -5889,18 +5910,18 @@
       "url": "https://komiku.org/manga/royal-agent/"
     },
     {
-      "judul": "Dorei kara no Kitai to Hyouka no sei de Sakushu dekinai no daga",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fdorei_kara_no_kitai_to_hyouka_no_sei_de_sakushu%2Fimg_68333bc34c96e5.68799307.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/dorei-kara-no-kitai-to-hyouka-no-sei-de-sakushu-dekinai-no-daga/"
-    },
-    {
       "judul": "The World Is Full of Monsters Now, Therefore I Want to Live As I Wish",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_world_is_full_of_monsters_now%2Fimg_684a88eb5e2cf7.01160524.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-world-is-full-of-monsters-now-therefore-i-want-to-live-as-i-wish/"
+    },
+    {
+      "judul": "Dorei kara no Kitai to Hyouka no sei de Sakushu dekinai no daga",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fdorei_kara_no_kitai_to_hyouka_no_sei_de_sakushu%2Fimg_68333bc34c96e5.68799307.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/dorei-kara-no-kitai-to-hyouka-no-sei-de-sakushu-dekinai-no-daga/"
     },
     {
       "judul": "Ane Kui Yuusha to Teisou Gyakuten Teikoku no Onee-chan!",
@@ -6477,18 +6498,18 @@
       "url": "https://komiku.org/manga/musai-no-reijou-jobu-maou-de-juurin-suru/"
     },
     {
-      "judul": "The God of War",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-god-of-war%2Fmanga_img_horizontal-Komik-The-God-of-War.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-god-of-war/"
-    },
-    {
       "judul": "Dragon King of the World",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdragon-king-of-the-world%2Fmanga_img_horizontal-Komik-Dragon-King-of-the-World.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/dragon-king-of-the-world/"
+    },
+    {
+      "judul": "The God of War",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-god-of-war%2Fmanga_img_horizontal-Komik-The-God-of-War.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-god-of-war/"
     },
     {
       "judul": "Martial Peak Part 1",
@@ -6706,13 +6727,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fyuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita%2Fmanga_img_horizontal-Back-Yuusha-ni-Zenbu-Ubawareta-Ore-wa-Yuusha-no-Hahaoya.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/yuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita/"
-    },
-    {
-      "judul": "Iken Senki Verndio (Iken Senki Volundio)",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fiken_senki_verndio%2Fimg_68302481871b27.28466994.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/iken-senki-verndio-iken-senki-volundio/"
     },
     {
       "judul": "Youheidan No Ryouiban",
@@ -11111,13 +11125,6 @@
       "url": "https://komiku.org/manga/miss-sister-dont-mess-with-me/"
     },
     {
-      "judul": "Wuxian Shitu",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwuxian-shitu%2Fmanga_img_horizontal-Komik-Wuxian-Shitu.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/wuxian-shitu/"
-    },
-    {
       "judul": "Xiu Tian Chuan",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fxiu-tian-chuan%2Fmanga_img_horizontal-Komik-Xiu-Tian-Chuan.jpg",
@@ -11741,18 +11748,18 @@
       "url": "https://komiku.org/manga/nankoufuraku-no-maoujou-e-youkoso/"
     },
     {
-      "judul": "Tomorrow’s God Land",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2020%2F07%2FKomik-Tomorrow%E2%80%99s-God-Land.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/tomorrows-god-land/"
-    },
-    {
       "judul": "Super Keyboard Man",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsuper-keyboard-man%2Fmanga_img_horizontal-Komik-Super-Keyboard-Man-1.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/super-keyboard-man/"
+    },
+    {
+      "judul": "Tomorrow’s God Land",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2020%2F07%2FKomik-Tomorrow%E2%80%99s-God-Land.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/tomorrows-god-land/"
     },
     {
       "judul": "Jikan Teishi Yuusha",
@@ -20918,11 +20925,11 @@
       "url": "https://komiku.org/manga/meiou-sama-ga-tooru-no-desu-yo/"
     },
     {
-      "judul": "This Human Immortal Is Too Serious",
+      "judul": "From now on, I will be the father of the mage",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2022%2F12%2F%E8%BF%99%E4%B8%AA%E4%BA%BA%E4%BB%99%E5%A4%AA%E8%BF%87%E6%AD%A3%E7%BB%8F-2.png",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2022%2F12%2F%E6%88%91%E5%B0%B1%E6%98%AF%E6%B3%95%E5%B8%88%E7%9A%84%E7%88%B9-%E6%88%91%E7%9C%9F%E6%B2%A1%E9%92%88%E5%AF%B9%E6%B3%95%E7%88%B7-2.png",
       "tipe": "",
-      "url": "https://komiku.org/manga/this-human-immortal-is-too-serious/"
+      "url": "https://komiku.org/manga/from-now-on-i-will-be-the-father-of-the-mage/"
     },
     {
       "judul": "After School Special Supplementary Class",
@@ -22619,18 +22626,18 @@
       "url": "https://komiku.org/manga/cultivate-for-72-hours/"
     },
     {
-      "judul": "Resurrection of Reiki – Awakening of the God-Slaying Eye",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2023%2F07%2FBack-Resurrection-of-Reiki-%E2%80%93-Awakening-of-the-God-Slaying-Eye.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/resurrection-of-reiki-awakening-of-the-god-slaying-eye/"
-    },
-    {
       "judul": "I Rely on Tomb-Raiding to Cultivate and Become a God",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-rely-on-tomb-raiding-to-cultivate-and-become-a-god%2Fmanga_img_horizontal-Back-I-Rely-on-Tomb-Raiding-to-Cultivate-and-Become-a-God.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/i-rely-on-tomb-raiding-to-cultivate-and-become-a-god/"
+    },
+    {
+      "judul": "Resurrection of Reiki – Awakening of the God-Slaying Eye",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2023%2F07%2FBack-Resurrection-of-Reiki-%E2%80%93-Awakening-of-the-God-Slaying-Eye.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/resurrection-of-reiki-awakening-of-the-god-slaying-eye/"
     },
     {
       "judul": "Dead Rock",
@@ -24395,13 +24402,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-young-master-of-namgung-is-an-impersonal-person%2Fmanga_img_horizontal-A1-The-Young-Master-of-Namgung-Is-an-Impersonal-Person.png",
       "tipe": "",
       "url": "https://komiku.org/manga/the-young-master-of-namgung-is-an-impersonal-person/"
-    },
-    {
-      "judul": "When The System Opens After The Age Of 100, All Grandchildren Kneel Upon The Mountains!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwhen-the-system-opens-after-the-age-of-100-all-grandchildren-kneel-upon-the-mountains%2Fmanga_img_horizontal-A1-When-The-System-Opens-After-The-Age-Of-100-All-Grandchildren-Kneel-Upon-The-Mountains.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/when-the-system-opens-after-the-age-of-100-all-grandchildren-kneel-upon-the-mountains/"
     },
     {
       "judul": "An Idea Is Free and Unfettered (Overmortal)",
