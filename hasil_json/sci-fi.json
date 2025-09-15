@@ -2,6 +2,13 @@
   "success": true,
   "data": [
     {
+      "judul": "DANDADAN",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdandadan%2Fmanga_img_horizontal-Komik-DANDADAN.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/dandadan/"
+    },
+    {
       "judul": "Hiding a Logistics Center in the Apocalypse",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhiding-a-logistics-center-in-the-apocalypse%2Fmanga_img_horizontal-A1-Hiding-a-Logistics-Center-in-the-Apocalypse.jpg",
@@ -77,13 +84,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fcosmic_heavenly_demon_3077%2Fimg_682ef652800800.11159864.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/cosmic-heavenly-demon-3077/"
-    },
-    {
-      "judul": "DANDADAN",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdandadan%2Fmanga_img_horizontal-Komik-DANDADAN.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/dandadan/"
     },
     {
       "judul": "Ranger Reject (Sentai Daishikkaku)",
