@@ -2,6 +2,48 @@
   "success": true,
   "data": [
     {
+      "judul": "Legend of Star General",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/legend-of-star-general/"
+    },
+    {
+      "judul": "Star Ginseng Store",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fstar_ginseng_store%2Fimg_682a5c5c7d5ee3.01173196.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/star-ginseng-store/"
+    },
+    {
+      "judul": "1-nen A-gumi no Monster",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2F1-nen-a-gumi-no-monster%2Fmanga_img_horizontal-Manga-1-nen-A-gumi-no-Monster.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/1-nen-a-gumi-no-monster/"
+    },
+    {
+      "judul": "VTuber wa Mama Naranai!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fvtuber-wa-mama-naranai%2Fmanga_img_horizontal-Komik-VTuber-wa-Mama-Naranai.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/vtuber-wa-mama-naranai/"
+    },
+    {
+      "judul": "Boku wa Ayashii Kimi no Mono",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fboku-wa-ayashii-kimi-no-mono%2Fmanga_img_horizontal-Komik-Boku-wa-Ayashii-Kimi-no-Mono.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/boku-wa-ayashii-kimi-no-mono/"
+    },
+    {
+      "judul": "Temple",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftemple%2Fmanga_img_horizontal-Manga-Temple.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/temple/"
+    },
+    {
       "judul": "Kanojo Okarishimasu",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkanojo-okarishimasu%2Fmanga_img_horizontal-Komik-Kanojo-Okarishimasu.jpg",
@@ -21,13 +63,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgods_of_all_people%2Fimg_682ef1cdc4f871.40335843.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/gods-of-all-people-i-sacrificed-hundreds-of-millions-of-living-beings-to-become-a-god/"
-    },
-    {
-      "judul": "Star Ginseng Store",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fstar_ginseng_store%2Fimg_682a5c5c7d5ee3.01173196.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/star-ginseng-store/"
     },
     {
       "judul": "Ryoushin no Shakkin wo Katagawari Shite Morau Jouken wa Nihon’ichi Kawaii Joshikousei to Issho ni Kurasu Koto Deshita",
@@ -58,13 +93,6 @@
       "url": "https://komiku.org/manga/tsumi-to-batsu-no-spica/"
     },
     {
-      "judul": "Temple",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftemple%2Fmanga_img_horizontal-Manga-Temple.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/temple/"
-    },
-    {
       "judul": "Secret Family",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsecret_family%2Fimg_689acebbacfbe2.91928962.png",
@@ -84,13 +112,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnecromancer-academys-genius-summoner%2Fmanga_img_horizontal-Back-Necromancer-Academys-Genius-Summoner.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/necromancer-academys-genius-summoner/"
-    },
-    {
-      "judul": "Boku wa Ayashii Kimi no Mono",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fboku-wa-ayashii-kimi-no-mono%2Fmanga_img_horizontal-Komik-Boku-wa-Ayashii-Kimi-no-Mono.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/boku-wa-ayashii-kimi-no-mono/"
     },
     {
       "judul": "Saikyou No Maou Ni Kitaerareta Yuusha",
@@ -154,13 +175,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmy-ruined-academy-life%2Fmanga_img_horizontal-A1-My-Ruined-Academy-Life.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/my-ruined-academy-life/"
-    },
-    {
-      "judul": "VTuber wa Mama Naranai!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fvtuber-wa-mama-naranai%2Fmanga_img_horizontal-Komik-VTuber-wa-Mama-Naranai.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/vtuber-wa-mama-naranai/"
     },
     {
       "judul": "Ao no Hako",
@@ -338,13 +352,6 @@
       "url": "https://komiku.org/manga/seishun-wa-sankakkei-no-loop/"
     },
     {
-      "judul": "Legend of Star General",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/legend-of-star-general/"
-    },
-    {
       "judul": "Ore wa Shiranai Uchi ni Gakkou Ichi no Bishoujo wo Kudoite Itarashii",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fore_wa_shiranai_uchi_ni_gakkou_ichi_no_bishoujo_wo_kudoite_itarashii%2Fimg_6843f1041bd0a8.74729858.jpg",
@@ -406,13 +413,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fi_became_a_swordsmanship_instructor_at_the_academy%2Fimg_6847f2204b0b33.60747314.png",
       "tipe": "",
       "url": "https://komiku.org/manga/i-became-a-swordsmanship-instructor-at-the-academy/"
-    },
-    {
-      "judul": "1-nen A-gumi no Monster",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2F1-nen-a-gumi-no-monster%2Fmanga_img_horizontal-Manga-1-nen-A-gumi-no-Monster.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/1-nen-a-gumi-no-monster/"
     },
     {
       "judul": "44th Period Survival Class",
@@ -1584,6 +1584,13 @@
       "url": "https://komiku.org/manga/assassination-classroom/"
     },
     {
+      "judul": "Hundred",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hundred/"
+    },
+    {
       "judul": "Houkago no Cinderella-kun",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
@@ -1603,13 +1610,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/watch-dog/"
-    },
-    {
-      "judul": "Hundred",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hundred/"
     },
     {
       "judul": "Koi wo Shiranai Bokutachi wa",
