@@ -2,6 +2,20 @@
   "success": true,
   "data": [
     {
+      "judul": "Jungle Juice",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjungle-juice%2Fmanga_img_horizontal-Komik-Jungle-Juice.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/jungle-juice/"
+    },
+    {
+      "judul": "Steel Covenant",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsteel_covenant%2Fimg_68356b870caba7.41140790.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/steel-covenant/"
+    },
+    {
       "judul": "Hiding a Logistics Center in the Apocalypse",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhiding-a-logistics-center-in-the-apocalypse%2Fmanga_img_horizontal-A1-Hiding-a-Logistics-Center-in-the-Apocalypse.jpg",
@@ -65,13 +79,6 @@
       "url": "https://komiku.org/manga/gate-jietai-kare-no-chi-nite-kaku-tatakeri/"
     },
     {
-      "judul": "Jungle Juice",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjungle-juice%2Fmanga_img_horizontal-Komik-Jungle-Juice.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/jungle-juice/"
-    },
-    {
       "judul": "MAD (OOTORI Yuusuke)",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmad-ootori-yuusuke%2Fmanga_img_horizontal-A1-MAD-OOTORI-Yuusuke.jpg",
@@ -112,13 +119,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fa_hero_who_does_everything_well%2Fimg_68970d201a92a8.13660467.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/a-hero-who-does-everything-well/"
-    },
-    {
-      "judul": "Steel Covenant",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsteel_covenant%2Fimg_68356b870caba7.41140790.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/steel-covenant/"
     },
     {
       "judul": "Rebuild World",

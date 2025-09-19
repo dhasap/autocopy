@@ -2,6 +2,48 @@
   "success": true,
   "data": [
     {
+      "judul": "To Not Die",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fto_not_die%2Fimg_683023f3d813a9.98505913.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/to-not-die/"
+    },
+    {
+      "judul": "The Cuckoo’s Fiancee",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-cuckoos-fiancee%2Fmanga_img_horizontal-Manga-The-Cuckoos-Fiancee.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-cuckoos-fiancee/"
+    },
+    {
+      "judul": "Ouritsu Mahou Gakuen no Saikasei: Slum Agari no Saikyou Mahoushi, Kizoku darake no Gakuen de Musou suru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fouritsu-mahou-gakuen-no-saikasei-slum-agari-no-saikyou-mahoushi-kizoku-darake-no-gakuen-de-musou-suru%2Fmanga_img_horizontal-Komik-Ouritsu-Mahou-Gakuen-no-Saikasei-Slum-Agari-no-Saikyou-Mahoushi-Kizoku-darake-no-Gakuen-de-Musou-suru.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ouritsu-mahou-gakuen-no-saikasei-slum-agari-no-saikyou-mahoushi-kizoku-darake-no-gakuen-de-musou-suru/"
+    },
+    {
+      "judul": "Necromancer Academy’s Genius Summoner",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnecromancer-academys-genius-summoner%2Fmanga_img_horizontal-Back-Necromancer-Academys-Genius-Summoner.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/necromancer-academys-genius-summoner/"
+    },
+    {
+      "judul": "Onee-chan wa Game o Suruto Hito ga Kawaru Onee-chan",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fonee-chan-wa-game-o-suruto-hito-ga-kawaru-onee-chan%2Fmanga_img_horizontal-A1-Onee-chan-wa-Game-o-Suruto-Hito-ga-Kawaru-Onee-chan.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/onee-chan-wa-game-o-suruto-hito-ga-kawaru-onee-chan/"
+    },
+    {
+      "judul": "Tonari no Seki no Inkya Joshi ga Oshi Utaite Datta – Ore no Kyoku wo Uttatekure!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftonari_no_seki_no_inkya_joshi_ga_oshi_utaite_datta_____ore_no_kyoku_wo_uttatekure_%2Fimg_6878a9373a48d7.21767958.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/tonari-no-seki-no-inkya-joshi-ga-oshi-utaite-datta-ore-no-kyoku-wo-uttatekure/"
+    },
+    {
       "judul": "Reality Quest",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Freality-quest%2Fmanga_img_horizontal-Komik-Reality-Quest.png",
@@ -21,13 +63,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-no-hako%2Fmanga_img_horizontal-Komik-Ao-no-Hako.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/ao-no-hako/"
-    },
-    {
-      "judul": "Tonari no Seki no Inkya Joshi ga Oshi Utaite Datta – Ore no Kyoku wo Uttatekure!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftonari_no_seki_no_inkya_joshi_ga_oshi_utaite_datta_____ore_no_kyoku_wo_uttatekure_%2Fimg_6878a9373a48d7.21767958.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/tonari-no-seki-no-inkya-joshi-ga-oshi-utaite-datta-ore-no-kyoku-wo-uttatekure/"
     },
     {
       "judul": "Hima-Ten!",
@@ -93,13 +128,6 @@
       "url": "https://komiku.org/manga/kanojo-okarishimasu/"
     },
     {
-      "judul": "Onee-chan wa Game o Suruto Hito ga Kawaru Onee-chan",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fonee-chan-wa-game-o-suruto-hito-ga-kawaru-onee-chan%2Fmanga_img_horizontal-A1-Onee-chan-wa-Game-o-Suruto-Hito-ga-Kawaru-Onee-chan.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/onee-chan-wa-game-o-suruto-hito-ga-kawaru-onee-chan/"
-    },
-    {
       "judul": "Gods of All People: I Sacrificed Hundreds of Millions of Living Beings To Become a God",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgods_of_all_people%2Fimg_682ef1cdc4f871.40335843.jpg",
@@ -112,13 +140,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fryoushin-no-shakkin-wo-katagawari-shite-morau-jouken-wa-nihonichi-kawaii-joshikousei-to-issho-ni-kurasu-koto-deshita%2Fmanga_img_horizontal-Komik-Ryoushin-no-Shakkin-wo-Katagawari-Shite-Morau-Jouken-wa-Nihonichi-Kawaii-Joshikousei-to-Issho-ni-Kurasu-Koto-Deshita.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/ryoushin-no-shakkin-wo-katagawari-shite-morau-jouken-wa-nihonichi-kawaii-joshikousei-to-issho-ni-kurasu-koto-deshita/"
-    },
-    {
-      "judul": "Ouritsu Mahou Gakuen no Saikasei: Slum Agari no Saikyou Mahoushi, Kizoku darake no Gakuen de Musou suru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fouritsu-mahou-gakuen-no-saikasei-slum-agari-no-saikyou-mahoushi-kizoku-darake-no-gakuen-de-musou-suru%2Fmanga_img_horizontal-Komik-Ouritsu-Mahou-Gakuen-no-Saikasei-Slum-Agari-no-Saikyou-Mahoushi-Kizoku-darake-no-Gakuen-de-Musou-suru.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ouritsu-mahou-gakuen-no-saikasei-slum-agari-no-saikyou-mahoushi-kizoku-darake-no-gakuen-de-musou-suru/"
     },
     {
       "judul": "Kimi wa Yotsuba no Clover",
@@ -142,13 +163,6 @@
       "url": "https://komiku.org/manga/secret-family/"
     },
     {
-      "judul": "Necromancer Academy’s Genius Summoner",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnecromancer-academys-genius-summoner%2Fmanga_img_horizontal-Back-Necromancer-Academys-Genius-Summoner.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/necromancer-academys-genius-summoner/"
-    },
-    {
       "judul": "Saikyou No Maou Ni Kitaerareta Yuusha",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsaikyou-no-maou-ni-kitaerareta-yuusha%2Fmanga_img_horizontal-Komik-Saikyou-No-Maou-Ni-Kitaerareta-Yuusha.jpg",
@@ -168,13 +182,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fboku-to-kimi-gyaru-ga-fufu-ni-naru-made%2Fmanga_img_horizontal-Back-Boku-to-kimi.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/boku-to-kimi-gyaru-ga-fufu-ni-naru-made/"
-    },
-    {
-      "judul": "The Cuckoo’s Fiancee",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-cuckoos-fiancee%2Fmanga_img_horizontal-Manga-The-Cuckoos-Fiancee.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-cuckoos-fiancee/"
     },
     {
       "judul": "Ankle Breaker",
@@ -315,13 +322,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmake_heroine_o_katasetai__%2Fimg_68c51d5b7da5f1.64553432.png",
       "tipe": "",
       "url": "https://komiku.org/manga/make-heroine-o-katasetai/"
-    },
-    {
-      "judul": "To Not Die",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fto_not_die%2Fimg_683023f3d813a9.98505913.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/to-not-die/"
     },
     {
       "judul": "Kiyoubinbou, Jou wo Tateru – Kaitaku Gakuen no Rettousei na no ni, Joukyuu-shoku no Skill to Mahou ga Subete Tsukaemasu",
