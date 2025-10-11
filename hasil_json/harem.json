@@ -2,6 +2,48 @@
   "success": true,
   "data": [
     {
+      "judul": "Vallhala Saga",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fimg%2Fupload%2Fvalhala_saga%2Fimg_68b80b6671cb09.30169916.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/vallhala-saga/"
+    },
+    {
+      "judul": "Mikadono Sanshimai wa Angai, Choroi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fmikadono-sanshimai-wa-angai-choroi%2Fmanga_img_horizontal-Mikadono-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mikadono-sanshimai-wa-angai-choroi/"
+    },
+    {
+      "judul": "Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fyuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita%2Fmanga_img_horizontal-Back-Yuusha-ni-Zenbu-Ubawareta-Ore-wa-Yuusha-no-Hahaoya.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/yuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita/"
+    },
+    {
+      "judul": "Moto Sekai Ichi’i Subchara Ikusei Nikki: Hai Player Isekai wo Kouryakuchuu!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fmoto-sekai-ichii-subchara-ikusei-nikki-hai-player-isekai-wo-kouryakuchuu%2Fmanga_img_horizontal-Manga-Moto-Sekai-Ichii-Subchara-Ikusei-Nikki-Hai-Player-Isekai-wo-Kouryakuchuu.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/moto-sekai-ichii-subchara-ikusei-nikki-hai-player-isekai-wo-kouryakuchuu/"
+    },
+    {
+      "judul": "Nade Nade Skill de Maryoku Chuunyuu!!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fimg%2Fupload%2Fnade_nade_skill_de_maryoku_chuunyuu__%2Fimg_68a827601f7845.14880681.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/nade-nade-skill-de-maryoku-chuunyuu/"
+    },
+    {
+      "judul": "VTuber wa Mama Naranai!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fvtuber-wa-mama-naranai%2Fmanga_img_horizontal-Komik-VTuber-wa-Mama-Naranai.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/vtuber-wa-mama-naranai/"
+    },
+    {
       "judul": "Maou ni Natte node – Dungeon Tsukutte Jingai Musume to Honobono suru",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fmaou-ni-natte-node-dungeon-tsukutte-jingai-musume-to-honobono-suru%2Fmanga_img_horizontal-Manga-Maou-ni-Natte-node--Dungeon-Tsukutte-Jingai-Musume-to-Honobono-suru.jpg",
@@ -30,27 +72,6 @@
       "url": "https://komiku.org/manga/51233-isekai-nonbiri-nouka/"
     },
     {
-      "judul": "Mikadono Sanshimai wa Angai, Choroi",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fmikadono-sanshimai-wa-angai-choroi%2Fmanga_img_horizontal-Mikadono-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mikadono-sanshimai-wa-angai-choroi/"
-    },
-    {
-      "judul": "Moto Sekai Ichi’i Subchara Ikusei Nikki: Hai Player Isekai wo Kouryakuchuu!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fmoto-sekai-ichii-subchara-ikusei-nikki-hai-player-isekai-wo-kouryakuchuu%2Fmanga_img_horizontal-Manga-Moto-Sekai-Ichii-Subchara-Ikusei-Nikki-Hai-Player-Isekai-wo-Kouryakuchuu.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/moto-sekai-ichii-subchara-ikusei-nikki-hai-player-isekai-wo-kouryakuchuu/"
-    },
-    {
-      "judul": "VTuber wa Mama Naranai!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fvtuber-wa-mama-naranai%2Fmanga_img_horizontal-Komik-VTuber-wa-Mama-Naranai.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/vtuber-wa-mama-naranai/"
-    },
-    {
       "judul": "Megami no Kafeterasu (Goddess Café Terrace)",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fmegami-no-kafeterasu-goddess-cafe-terrace%2Fmanga_img_horizontal-Komik-Megami-no-Kafeterasu.png",
@@ -70,13 +91,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fthe-incompetent-prince-who-has-been-banished-wants-to-hide-his-abilities%2Fmanga_img_horizontal-IncompetentPanjang.png",
       "tipe": "",
       "url": "https://komiku.org/manga/the-incompetent-prince-who-has-been-banished-wants-to-hide-his-abilities/"
-    },
-    {
-      "judul": "Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fyuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita%2Fmanga_img_horizontal-Back-Yuusha-ni-Zenbu-Ubawareta-Ore-wa-Yuusha-no-Hahaoya.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/yuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita/"
     },
     {
       "judul": "Mayonaka Heart Tune",
@@ -217,20 +231,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fimg%2Fupload%2Fkabeyaku_nado_fuyou_to_tsuihousareta_s-kyuu_boukensha%2Fimg_684bd0b68d7ce5.92305177.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/kabeyaku-nado-fuyou-to-tsuihousareta-s-kyuu-boukensha-skill-wo-kushi-shite-shijou-saikyou-no-kunizukuri/"
-    },
-    {
-      "judul": "Vallhala Saga",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fimg%2Fupload%2Fvalhala_saga%2Fimg_68b80b6671cb09.30169916.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/vallhala-saga/"
-    },
-    {
-      "judul": "Nade Nade Skill de Maryoku Chuunyuu!!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fimg%2Fupload%2Fnade_nade_skill_de_maryoku_chuunyuu__%2Fimg_68a827601f7845.14880681.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/nade-nade-skill-de-maryoku-chuunyuu/"
     },
     {
       "judul": "My Wife Comes From the Thousand-Year-Old Underworld",
