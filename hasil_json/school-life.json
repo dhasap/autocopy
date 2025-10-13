@@ -2,6 +2,41 @@
   "success": true,
   "data": [
     {
+      "judul": "Star Ginseng Store",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fimg%2Fupload%2Fstar_ginseng_store%2Fimg_682a5c5c7d5ee3.01173196.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/star-ginseng-store/"
+    },
+    {
+      "judul": "Mikadono Sanshimai wa Angai, Choroi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fmikadono-sanshimai-wa-angai-choroi%2Fmanga_img_horizontal-Mikadono-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mikadono-sanshimai-wa-angai-choroi/"
+    },
+    {
+      "judul": "Academy’s Undercover Professor",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Facademys-undercover-professor%2Fmanga_img_horizontal-Komik-Academys-Undercover-Professor.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/academys-undercover-professor/"
+    },
+    {
+      "judul": "Shinobi Undercover",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fshinobi-undercover%2Fmanga_img_horizontal-A1-Shinobi-Undercover.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/shinobi-undercover/"
+    },
+    {
+      "judul": "Necromancer Academy’s Genius Summoner",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fnecromancer-academys-genius-summoner%2Fmanga_img_horizontal-Back-Necromancer-Academys-Genius-Summoner.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/necromancer-academys-genius-summoner/"
+    },
+    {
       "judul": "Hima-Ten!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fimg%2Fupload%2Fhima-ten_%2Fimg_684bcf86a4e403.12656040.jpg",
@@ -21,20 +56,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fvtuber-wa-mama-naranai%2Fmanga_img_horizontal-Komik-VTuber-wa-Mama-Naranai.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/vtuber-wa-mama-naranai/"
-    },
-    {
-      "judul": "Star Ginseng Store",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fimg%2Fupload%2Fstar_ginseng_store%2Fimg_682a5c5c7d5ee3.01173196.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/star-ginseng-store/"
-    },
-    {
-      "judul": "Mikadono Sanshimai wa Angai, Choroi",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fmikadono-sanshimai-wa-angai-choroi%2Fmanga_img_horizontal-Mikadono-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mikadono-sanshimai-wa-angai-choroi/"
     },
     {
       "judul": "Momogusa-san ga Monogusa Sugiru!!",
@@ -100,13 +121,6 @@
       "url": "https://komiku.org/manga/renai-no-jugyou/"
     },
     {
-      "judul": "Shinobi Undercover",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fshinobi-undercover%2Fmanga_img_horizontal-A1-Shinobi-Undercover.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/shinobi-undercover/"
-    },
-    {
       "judul": "Onee-chan wa Game o Suruto Hito ga Kawaru Onee-chan",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fonee-chan-wa-game-o-suruto-hito-ga-kawaru-onee-chan%2Fmanga_img_horizontal-A1-Onee-chan-wa-Game-o-Suruto-Hito-ga-Kawaru-Onee-chan.jpg",
@@ -133,13 +147,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fthe-great-war%2Fmanga_img_horizontal-A1-The-Great-War.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-great-war/"
-    },
-    {
-      "judul": "Necromancer Academy’s Genius Summoner",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fnecromancer-academys-genius-summoner%2Fmanga_img_horizontal-Back-Necromancer-Academys-Genius-Summoner.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/necromancer-academys-genius-summoner/"
     },
     {
       "judul": "1-nen A-gumi no Monster",
@@ -329,13 +336,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fimg%2Fupload%2Fgendai_shakai_de_otome_game_no_akuyaku_reijou%2Fimg_6835888f785778.97058743.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/gendai-shakai-de-otome-game-no-akuyaku-reijou-wo-suru-no-wa-chotto-taihen/"
-    },
-    {
-      "judul": "Academy’s Undercover Professor",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Facademys-undercover-professor%2Fmanga_img_horizontal-Komik-Academys-Undercover-Professor.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/academys-undercover-professor/"
     },
     {
       "judul": "Aitsu no Kanojo (His Girlfriend)",
@@ -1654,13 +1654,6 @@
       "url": "https://komiku.org/manga/assassination-classroom/"
     },
     {
-      "judul": "Houkago no Cinderella-kun",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/houkago-no-cinderella-kun/"
-    },
-    {
       "judul": "Hard Luck Woman",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
@@ -1680,6 +1673,13 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
       "tipe": "",
       "url": "https://komiku.org/manga/hundred/"
+    },
+    {
+      "judul": "Houkago no Cinderella-kun",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail-id.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/houkago-no-cinderella-kun/"
     },
     {
       "judul": "Koi wo Shiranai Bokutachi wa",
