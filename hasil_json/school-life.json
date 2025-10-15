@@ -2,6 +2,55 @@
   "success": true,
   "data": [
     {
+      "judul": "Akuyaku Reijoutachi wa Yuruganai",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fakuyaku_reijoutachi_wa_yuruganai%2Fimg_682a5ed65dd4f4.25454181.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/akuyaku-reijoutachi-wa-yuruganai/"
+    },
+    {
+      "judul": "Secret Family",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsecret_family%2Fimg_689acebbacfbe2.91928962.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/secret-family/"
+    },
+    {
+      "judul": "Ghost Story Club (Remake)",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fghost-story-club-remake%2Fmanga_img_horizontal-A1-Ghost-Story-Club-Remake.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ghost-story-club-remake/"
+    },
+    {
+      "judul": "Mikadono Sanshimai wa Angai, Choroi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmikadono-sanshimai-wa-angai-choroi%2Fmanga_img_horizontal-Mikadono-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mikadono-sanshimai-wa-angai-choroi/"
+    },
+    {
+      "judul": "1-nen A-gumi no Monster",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2F1-nen-a-gumi-no-monster%2Fmanga_img_horizontal-Manga-1-nen-A-gumi-no-Monster.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/1-nen-a-gumi-no-monster/"
+    },
+    {
+      "judul": "VTuber wa Mama Naranai!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fvtuber-wa-mama-naranai%2Fmanga_img_horizontal-Komik-VTuber-wa-Mama-Naranai.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/vtuber-wa-mama-naranai/"
+    },
+    {
+      "judul": "Tsue to Tsurugi no Wistoria",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftsue-to-tsurugi-no-wistoria%2Fmanga_img_horizontal-Komik-Tsue-to-Tsurugi-no-Wistoria.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/tsue-to-tsurugi-no-wistoria/"
+    },
+    {
       "judul": "The Fox-Eyed Villain Of The Demon Academy",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-fox-eyed-villain-of-the-demon-academy%2Fmanga_img_horizontal-A1-The-Fox-Eyed-Villain-Of-The-Demon-Academy.jpg",
@@ -21,20 +70,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fstar_ginseng_store%2Fimg_682a5c5c7d5ee3.01173196.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/star-ginseng-store/"
-    },
-    {
-      "judul": "Mikadono Sanshimai wa Angai, Choroi",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmikadono-sanshimai-wa-angai-choroi%2Fmanga_img_horizontal-Mikadono-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mikadono-sanshimai-wa-angai-choroi/"
-    },
-    {
-      "judul": "VTuber wa Mama Naranai!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fvtuber-wa-mama-naranai%2Fmanga_img_horizontal-Komik-VTuber-wa-Mama-Naranai.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/vtuber-wa-mama-naranai/"
     },
     {
       "judul": "Eiyuu to Kenja no Tensei Kon",
@@ -163,13 +198,6 @@
       "url": "https://komiku.org/manga/the-great-war/"
     },
     {
-      "judul": "1-nen A-gumi no Monster",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2F1-nen-a-gumi-no-monster%2Fmanga_img_horizontal-Manga-1-nen-A-gumi-no-Monster.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/1-nen-a-gumi-no-monster/"
-    },
-    {
       "judul": "Tenkou-saki no Seiso Karen na Bishoujo ga, Mukashi Danshi to Omotte Issho ni Asonda Osananajimi datta Ken",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftenkou-saki-no-seiso-karen-na-bishoujo-ga-mukashi-danshi-to-omotte-issho-ni-asonda-osananajimi-datta-ken%2Fmanga_img_horizontal-BACKTE1.jpg",
@@ -210,13 +238,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fi_became_a_swordsmanship_instructor_at_the_academy%2Fimg_6847f2204b0b33.60747314.png",
       "tipe": "",
       "url": "https://komiku.org/manga/i-became-a-swordsmanship-instructor-at-the-academy/"
-    },
-    {
-      "judul": "Secret Family",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsecret_family%2Fimg_689acebbacfbe2.91928962.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/secret-family/"
     },
     {
       "judul": "Eiyuu Kyoushitsu",
@@ -464,13 +485,6 @@
       "url": "https://komiku.org/manga/gotou-san-wants-me-to-turn-around/"
     },
     {
-      "judul": "Tsue to Tsurugi no Wistoria",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftsue-to-tsurugi-no-wistoria%2Fmanga_img_horizontal-Komik-Tsue-to-Tsurugi-no-Wistoria.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/tsue-to-tsurugi-no-wistoria/"
-    },
-    {
       "judul": "Hallym Gymnasium",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhallym-gymnasium%2Fmanga_img_horizontal-Komik-Hallym-Gymnasium.jpg",
@@ -686,13 +700,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fghost-story-club%2Fmanga_img_horizontal-Komik-Ghost-Story-Club.png",
       "tipe": "",
       "url": "https://komiku.org/manga/ghost-story-club/"
-    },
-    {
-      "judul": "Ghost Story Club (Remake)",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fghost-story-club-remake%2Fmanga_img_horizontal-A1-Ghost-Story-Club-Remake.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ghost-story-club-remake/"
     },
     {
       "judul": "When Trying to Get Back at the Hometown Bullies, Another Battle Began",
@@ -1619,13 +1626,6 @@
       "url": "https://komiku.org/manga/kong-suxing/"
     },
     {
-      "judul": "Akuyaku Reijoutachi wa Yuruganai",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fakuyaku_reijoutachi_wa_yuruganai%2Fimg_682a5ed65dd4f4.25454181.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/akuyaku-reijoutachi-wa-yuruganai/"
-    },
-    {
       "judul": "Miyu-chan wa Zutto Tomodachi",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmiyu-chan-wa-zutto-tomodachi%2Fmanga_img_horizontal-A1-Miyu-chan-wa-Zutto-Tomodachi.jpg",
@@ -1654,20 +1654,6 @@
       "url": "https://komiku.org/manga/assassination-classroom/"
     },
     {
-      "judul": "Houkago no Cinderella-kun",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/houkago-no-cinderella-kun/"
-    },
-    {
-      "judul": "Hard Luck Woman",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hard-luck-woman/"
-    },
-    {
       "judul": "Watch Dog",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
@@ -1680,6 +1666,20 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
       "tipe": "",
       "url": "https://komiku.org/manga/hundred/"
+    },
+    {
+      "judul": "Houkago no Cinderella-kun",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/houkago-no-cinderella-kun/"
+    },
+    {
+      "judul": "Hard Luck Woman",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hard-luck-woman/"
     },
     {
       "judul": "Koi wo Shiranai Bokutachi wa",
