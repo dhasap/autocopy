@@ -2,6 +2,62 @@
   "success": true,
   "data": [
     {
+      "judul": "Mikadono Sanshimai wa Angai, Choroi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmikadono-sanshimai-wa-angai-choroi%2Fmanga_img_horizontal-Mikadono-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mikadono-sanshimai-wa-angai-choroi/"
+    },
+    {
+      "judul": "Cool na Megami-sama to Issho ni Sundara, Amayakashi Sugite Ponkotsu ni shite Shimatta Ken ni Tsuite",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fcool_na_megami-sama_to_issho_ni_sundara__amayakashi_sugite_ponkotsu_ni_shite_shimatta_ken_ni_tsuite%2Fimg_684bdb973417e0.34196628.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/cool-na-megami-sama-to-issho-ni-sundara-amayakashi-sugite-ponkotsu-ni-shite-shimatta-ken-ni-tsuite/"
+    },
+    {
+      "judul": "Magic Academy Survival Guide",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmagic-academy-survival-guide%2Fmanga_img_horizontal-Magic-Academy-Survival-Guide-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/magic-academy-survival-guide/"
+    },
+    {
+      "judul": "Kamiyama-san no Kami Bukuro no Naka ni wa",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkamiyama-san-no-kami-bukuro-no-naka-ni-wa%2Fmanga_img_horizontal-Komik-Kamiyama-san-no-Kami-Bukuro-no-Naka-ni-wa.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kamiyama-san-no-kami-bukuro-no-naka-ni-wa/"
+    },
+    {
+      "judul": "VTuber wa Mama Naranai!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fvtuber-wa-mama-naranai%2Fmanga_img_horizontal-Komik-VTuber-wa-Mama-Naranai.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/vtuber-wa-mama-naranai/"
+    },
+    {
+      "judul": "Ouritsu Mahou Gakuen no Saikasei: Slum Agari no Saikyou Mahoushi, Kizoku darake no Gakuen de Musou suru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fouritsu-mahou-gakuen-no-saikasei-slum-agari-no-saikyou-mahoushi-kizoku-darake-no-gakuen-de-musou-suru%2Fmanga_img_horizontal-Komik-Ouritsu-Mahou-Gakuen-no-Saikasei-Slum-Agari-no-Saikyou-Mahoushi-Kizoku-darake-no-Gakuen-de-Musou-suru.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ouritsu-mahou-gakuen-no-saikasei-slum-agari-no-saikyou-mahoushi-kizoku-darake-no-gakuen-de-musou-suru/"
+    },
+    {
+      "judul": "Boku wa Ayashii Kimi no Mono",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fboku-wa-ayashii-kimi-no-mono%2Fmanga_img_horizontal-Komik-Boku-wa-Ayashii-Kimi-no-Mono.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/boku-wa-ayashii-kimi-no-mono/"
+    },
+    {
+      "judul": "Gendai Shakai de Otome Game no Akuyaku Reijou wo suru no wa Chotto Taihen",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgendai_shakai_de_otome_game_no_akuyaku_reijou%2Fimg_6835888f785778.97058743.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/gendai-shakai-de-otome-game-no-akuyaku-reijou-wo-suru-no-wa-chotto-taihen/"
+    },
+    {
       "judul": "Mercenary Enrollment",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmercenary-enrollment%2Fmanga_img_horizontal-Komik-Mercenary-Enrollment-scaled.jpg",
@@ -30,25 +86,11 @@
       "url": "https://komiku.org/manga/osananajimi-wo-onnanoko-ni-shiteshimatta-hanashi/"
     },
     {
-      "judul": "Mikadono Sanshimai wa Angai, Choroi",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmikadono-sanshimai-wa-angai-choroi%2Fmanga_img_horizontal-Mikadono-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mikadono-sanshimai-wa-angai-choroi/"
-    },
-    {
       "judul": "Himegasaki Sakurako wa Kyoumo Fubin Kawaii!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhimegasaki-sakurako-wa-kyoumo-fubin-kawaii%2Fmanga_img_horizontal-Komik-Himegasaki-Sakurako-wa-Kyoumo-Fubin-Kawaii.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/himegasaki-sakurako-wa-kyoumo-fubin-kawaii/"
-    },
-    {
-      "judul": "Ouritsu Mahou Gakuen no Saikasei: Slum Agari no Saikyou Mahoushi, Kizoku darake no Gakuen de Musou suru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fouritsu-mahou-gakuen-no-saikasei-slum-agari-no-saikyou-mahoushi-kizoku-darake-no-gakuen-de-musou-suru%2Fmanga_img_horizontal-Komik-Ouritsu-Mahou-Gakuen-no-Saikasei-Slum-Agari-no-Saikyou-Mahoushi-Kizoku-darake-no-Gakuen-de-Musou-suru.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ouritsu-mahou-gakuen-no-saikasei-slum-agari-no-saikyou-mahoushi-kizoku-darake-no-gakuen-de-musou-suru/"
     },
     {
       "judul": "Seishun wa Sankakkei no Loop",
@@ -93,25 +135,11 @@
       "url": "https://komiku.org/manga/silent-witch-chinmoku-no-majo-no-kakushigoto/"
     },
     {
-      "judul": "Kamiyama-san no Kami Bukuro no Naka ni wa",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkamiyama-san-no-kami-bukuro-no-naka-ni-wa%2Fmanga_img_horizontal-Komik-Kamiyama-san-no-Kami-Bukuro-no-Naka-ni-wa.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kamiyama-san-no-kami-bukuro-no-naka-ni-wa/"
-    },
-    {
       "judul": "Reality Quest",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Freality-quest%2Fmanga_img_horizontal-Komik-Reality-Quest.png",
       "tipe": "",
       "url": "https://komiku.org/manga/reality-quest/"
-    },
-    {
-      "judul": "VTuber wa Mama Naranai!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fvtuber-wa-mama-naranai%2Fmanga_img_horizontal-Komik-VTuber-wa-Mama-Naranai.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/vtuber-wa-mama-naranai/"
     },
     {
       "judul": "Eiyuu to Kenja no Tensei Kon",
@@ -133,13 +161,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2F44th_period_survival_class%2Fimg_683972d0526489.18008225.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/44th-period-survival-class/"
-    },
-    {
-      "judul": "Magic Academy Survival Guide",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmagic-academy-survival-guide%2Fmanga_img_horizontal-Magic-Academy-Survival-Guide-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/magic-academy-survival-guide/"
     },
     {
       "judul": "To Not Die",
@@ -415,13 +436,6 @@
       "url": "https://komiku.org/manga/netoge-no-yome-ga-ninki-idol-datta/"
     },
     {
-      "judul": "Boku wa Ayashii Kimi no Mono",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fboku-wa-ayashii-kimi-no-mono%2Fmanga_img_horizontal-Komik-Boku-wa-Ayashii-Kimi-no-Mono.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/boku-wa-ayashii-kimi-no-mono/"
-    },
-    {
       "judul": "Ao no Exorcist",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-no-exorcist%2Fmanga_img_horizontal-Manga-Ao-no-Exorcist.jpg",
@@ -462,13 +476,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsuperstar-from-age-0%2Fmanga_img_horizontal-Back-Superstar-From-Age-0.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/superstar-from-age-0/"
-    },
-    {
-      "judul": "Gendai Shakai de Otome Game no Akuyaku Reijou wo suru no wa Chotto Taihen",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgendai_shakai_de_otome_game_no_akuyaku_reijou%2Fimg_6835888f785778.97058743.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/gendai-shakai-de-otome-game-no-akuyaku-reijou-wo-suru-no-wa-chotto-taihen/"
     },
     {
       "judul": "Aitsu no Kanojo (His Girlfriend)",
@@ -882,13 +889,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fisekai_kara_kikan_shitara_chikyuu_mo_kanari_fantajii%2Fimg_68bff77b0c6243.30001472.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/isekai-kara-kikan-shitara-chikyuu-mo-kanari-fantajii-deshita-ato-makeheroin-domo-kocchi-minna/"
-    },
-    {
-      "judul": "Cool na Megami-sama to Issho ni Sundara, Amayakashi Sugite Ponkotsu ni shite Shimatta Ken ni Tsuite",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fcool_na_megami-sama_to_issho_ni_sundara__amayakashi_sugite_ponkotsu_ni_shite_shimatta_ken_ni_tsuite%2Fimg_684bdb973417e0.34196628.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/cool-na-megami-sama-to-issho-ni-sundara-amayakashi-sugite-ponkotsu-ni-shite-shimatta-ken-ni-tsuite/"
     },
     {
       "judul": "Clover",
@@ -1661,20 +1661,6 @@
       "url": "https://komiku.org/manga/assassination-classroom/"
     },
     {
-      "judul": "Hard Luck Woman",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hard-luck-woman/"
-    },
-    {
-      "judul": "Watch Dog",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/watch-dog/"
-    },
-    {
       "judul": "Hundred",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
@@ -1687,6 +1673,20 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/houkago-no-cinderella-kun/"
+    },
+    {
+      "judul": "Hard Luck Woman",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hard-luck-woman/"
+    },
+    {
+      "judul": "Watch Dog",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/watch-dog/"
     },
     {
       "judul": "Koi wo Shiranai Bokutachi wa",
@@ -8171,18 +8171,18 @@
       "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-yotsuba-keishou-hen/"
     },
     {
-      "judul": "Mahouka Koukou no Rettousei: Natsuyasumi-hen",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmahouka-koukou-no-rettousei-natsuyasumi-hen%2Fmanga_img_horizontal-Back-Mahouka-Koukou-no-Rettousei-Natsuyasumi-hen.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-natsuyasumi-hen/"
-    },
-    {
       "judul": "Mahouka Koukou no Rettousei – Steeplechase-hen",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2024%2F04%2FBack-Mahouka-Koukou-no-Rettousei-%E2%80%93-Steeplechase-hen.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-steeplechase-hen/"
+    },
+    {
+      "judul": "Mahouka Koukou no Rettousei: Natsuyasumi-hen",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmahouka-koukou-no-rettousei-natsuyasumi-hen%2Fmanga_img_horizontal-Back-Mahouka-Koukou-no-Rettousei-Natsuyasumi-hen.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-natsuyasumi-hen/"
     },
     {
       "judul": "Mahouka Koukou no Rettousei: Double Seven-hen",
