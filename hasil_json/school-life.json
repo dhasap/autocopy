@@ -2,6 +2,48 @@
   "success": true,
   "data": [
     {
+      "judul": "The Gal Sitting Behind Me Likes Me -Maybe I’m Screwed Already-",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_gal_sitting_behind_me_likes_me%2Fimg_684d3fc7963409.29392010.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-gal-sitting-behind-me-likes-me-maybe-im-screwed-already/"
+    },
+    {
+      "judul": "Ao no Hako",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-no-hako%2Fmanga_img_horizontal-Komik-Ao-no-Hako.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ao-no-hako/"
+    },
+    {
+      "judul": "True Education",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftrue-education%2Fmanga_img_horizontal-Komik-True-Education.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/true-education/"
+    },
+    {
+      "judul": "Chitose-kun is Inside a Ramune Bottle",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fchitose-kun-is-inside-a-ramune-bottle%2Fmanga_img_horizontal-Komik-Chitose-kun-is-Inside-a-Ramune-Bottle.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/chitose-kun-is-inside-a-ramune-bottle/"
+    },
+    {
+      "judul": "Ouritsu Mahou Gakuen no Saikasei: Slum Agari no Saikyou Mahoushi, Kizoku darake no Gakuen de Musou suru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fouritsu-mahou-gakuen-no-saikasei-slum-agari-no-saikyou-mahoushi-kizoku-darake-no-gakuen-de-musou-suru%2Fmanga_img_horizontal-Komik-Ouritsu-Mahou-Gakuen-no-Saikasei-Slum-Agari-no-Saikyou-Mahoushi-Kizoku-darake-no-Gakuen-de-Musou-suru.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ouritsu-mahou-gakuen-no-saikasei-slum-agari-no-saikyou-mahoushi-kizoku-darake-no-gakuen-de-musou-suru/"
+    },
+    {
+      "judul": "Ao Ashi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-ashi%2Fmanga_img_horizontal-Ao-Ashi-Panjang.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ao-ashi/"
+    },
+    {
       "judul": "Mikadono Sanshimai wa Angai, Choroi",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmikadono-sanshimai-wa-angai-choroi%2Fmanga_img_horizontal-Mikadono-2.png",
@@ -35,13 +77,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fvtuber-wa-mama-naranai%2Fmanga_img_horizontal-Komik-VTuber-wa-Mama-Naranai.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/vtuber-wa-mama-naranai/"
-    },
-    {
-      "judul": "Ouritsu Mahou Gakuen no Saikasei: Slum Agari no Saikyou Mahoushi, Kizoku darake no Gakuen de Musou suru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fouritsu-mahou-gakuen-no-saikasei-slum-agari-no-saikyou-mahoushi-kizoku-darake-no-gakuen-de-musou-suru%2Fmanga_img_horizontal-Komik-Ouritsu-Mahou-Gakuen-no-Saikasei-Slum-Agari-no-Saikyou-Mahoushi-Kizoku-darake-no-Gakuen-de-Musou-suru.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ouritsu-mahou-gakuen-no-saikasei-slum-agari-no-saikyou-mahoushi-kizoku-darake-no-gakuen-de-musou-suru/"
     },
     {
       "judul": "Boku wa Ayashii Kimi no Mono",
@@ -597,13 +632,6 @@
       "url": "https://komiku.org/manga/now-that-we-draw/"
     },
     {
-      "judul": "Ao Ashi",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-ashi%2Fmanga_img_horizontal-Ao-Ashi-Panjang.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ao-ashi/"
-    },
-    {
       "judul": "Tensai Bishoujo Sanshimai wa Isourou ni Dake Choro Kawaii",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftensai_bishoujo_sanshimai_wa_isourou_ni_dake_choro_kawaii%2Fimg_68c534ba90d257.27448336.jpg",
@@ -686,13 +714,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fwatashi_ni_ai_wo_oshiete%2Fimg_682b4d28c44e93.33939111.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/watashi-ni-ai-wo-oshiete/"
-    },
-    {
-      "judul": "Ao no Hako",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-no-hako%2Fmanga_img_horizontal-Komik-Ao-no-Hako.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ao-no-hako/"
     },
     {
       "judul": "Anta to Osananajimitte dake demo Iyananoni! ~Zekkou kara Hajimaru S-kyuu Bishoujo to no Gakuen Nariagari Seikatsu~",
@@ -1080,13 +1101,6 @@
       "url": "https://komiku.org/manga/i-took-over-the-academy-with-a-single-sashimi-knife/"
     },
     {
-      "judul": "The Gal Sitting Behind Me Likes Me -Maybe I’m Screwed Already-",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_gal_sitting_behind_me_likes_me%2Fimg_684d3fc7963409.29392010.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-gal-sitting-behind-me-likes-me-maybe-im-screwed-already/"
-    },
-    {
       "judul": "Kanojo no Imouto to Kisu wo Shita",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkanojo-no-imouto-to-kisu-wo-shita%2Fmanga_img_horizontal-Komik-Kanojo-no-Imouto-to-Kisu-wo-Shita.jpg",
@@ -1134,13 +1148,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fchasing-spica%2Fmanga_img_horizontal-Komik-Chasing-Spica.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/chasing-spica/"
-    },
-    {
-      "judul": "True Education",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftrue-education%2Fmanga_img_horizontal-Komik-True-Education.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/true-education/"
     },
     {
       "judul": "Return of the Genius Swordmaster",
@@ -1661,18 +1668,18 @@
       "url": "https://komiku.org/manga/assassination-classroom/"
     },
     {
-      "judul": "Hundred",
+      "judul": "Hard Luck Woman",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
       "tipe": "",
-      "url": "https://komiku.org/manga/hundred/"
+      "url": "https://komiku.org/manga/hard-luck-woman/"
     },
     {
-      "judul": "Houkago no Cinderella-kun",
+      "judul": "Watch Dog",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
       "tipe": "",
-      "url": "https://komiku.org/manga/houkago-no-cinderella-kun/"
+      "url": "https://komiku.org/manga/watch-dog/"
     },
     {
       "judul": "Hard Luck Woman",
@@ -5658,13 +5665,6 @@
       "url": "https://komiku.org/manga/worst-gaiden-mr-zetton/"
     },
     {
-      "judul": "Chitose-kun is Inside a Ramune Bottle",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fchitose-kun-is-inside-a-ramune-bottle%2Fmanga_img_horizontal-Komik-Chitose-kun-is-Inside-a-Ramune-Bottle.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/chitose-kun-is-inside-a-ramune-bottle/"
-    },
-    {
       "judul": "Houkago Saitensei!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-saitensei%2Fmanga_img_horizontal-Houkago-Saitensei-Panjang.png",
@@ -8171,18 +8171,18 @@
       "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-yotsuba-keishou-hen/"
     },
     {
-      "judul": "Mahouka Koukou no Rettousei – Steeplechase-hen",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2024%2F04%2FBack-Mahouka-Koukou-no-Rettousei-%E2%80%93-Steeplechase-hen.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-steeplechase-hen/"
-    },
-    {
       "judul": "Mahouka Koukou no Rettousei: Natsuyasumi-hen",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmahouka-koukou-no-rettousei-natsuyasumi-hen%2Fmanga_img_horizontal-Back-Mahouka-Koukou-no-Rettousei-Natsuyasumi-hen.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-natsuyasumi-hen/"
+    },
+    {
+      "judul": "Mahouka Koukou no Rettousei – Steeplechase-hen",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2024%2F04%2FBack-Mahouka-Koukou-no-Rettousei-%E2%80%93-Steeplechase-hen.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-steeplechase-hen/"
     },
     {
       "judul": "Mahouka Koukou no Rettousei: Double Seven-hen",
