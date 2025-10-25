@@ -2,6 +2,48 @@
   "success": true,
   "data": [
     {
+      "judul": "Momose Akira no Hatsukoi Hatan-chuu.",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmomose_akira_no_hatsukoi_hatan-chuu%2Fimg_68550954439266.01435164.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/momose-akira-no-hatsukoi-hatan-chuu/"
+    },
+    {
+      "judul": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-ri no Kanojo",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-ri-no-kanojo%2Fmanga_img_horizontal-Komik-Kimi-no-Koto-ga-Dai-Dai-Dai-Dai-Daisuki-na-100-ri-no-Kanojo.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-ri-no-kanojo/"
+    },
+    {
+      "judul": "Ghost Story Club (Remake)",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fghost-story-club-remake%2Fmanga_img_horizontal-A1-Ghost-Story-Club-Remake.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ghost-story-club-remake/"
+    },
+    {
+      "judul": "Watashi Yori Tsuyoi Otoko to Kekkon Shitaino",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatashi-yori-tsuyoi-otoko-to-kekkon-shitaino%2Fmanga_img_horizontal-Watashi-Yori-Tsuyoi-Panjang.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/watashi-yori-tsuyoi-otoko-to-kekkon-shitaino/"
+    },
+    {
+      "judul": "Ao no Hako",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-no-hako%2Fmanga_img_horizontal-Komik-Ao-no-Hako.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ao-no-hako/"
+    },
+    {
+      "judul": "Mikadono Sanshimai wa Angai, Choroi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmikadono-sanshimai-wa-angai-choroi%2Fmanga_img_horizontal-Mikadono-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mikadono-sanshimai-wa-angai-choroi/"
+    },
+    {
       "judul": "Legend of Star General",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
@@ -14,13 +56,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshiunji-ke-no-kodomo-tachi%2Fmanga_img_horizontal-Jinuj-Shiunji-ke-no-Kodomo-Tachi.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/shiunji-ke-no-kodomo-tachi/"
-    },
-    {
-      "judul": "Mikadono Sanshimai wa Angai, Choroi",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmikadono-sanshimai-wa-angai-choroi%2Fmanga_img_horizontal-Mikadono-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mikadono-sanshimai-wa-angai-choroi/"
     },
     {
       "judul": "The Art Student Who Lived Twice",
@@ -107,11 +142,11 @@
       "url": "https://komiku.org/manga/hallym-gymnasium/"
     },
     {
-      "judul": "Gods of All People: I Sacrificed Hundreds of Millions of Living Beings To Become a God",
+      "judul": "Hallym Gymnasium",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgods_of_all_people%2Fimg_682ef1cdc4f871.40335843.jpg",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhallym-gymnasium%2Fmanga_img_horizontal-Komik-Hallym-Gymnasium.jpg",
       "tipe": "",
-      "url": "https://komiku.org/manga/gods-of-all-people-i-sacrificed-hundreds-of-millions-of-living-beings-to-become-a-god/"
+      "url": "https://komiku.org/manga/hallym-gymnasium/"
     },
     {
       "judul": "Secret Family",
@@ -154,13 +189,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_gal_sitting_behind_me_likes_me%2Fimg_684d3fc7963409.29392010.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-gal-sitting-behind-me-likes-me-maybe-im-screwed-already/"
-    },
-    {
-      "judul": "Ao no Hako",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-no-hako%2Fmanga_img_horizontal-Komik-Ao-no-Hako.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ao-no-hako/"
     },
     {
       "judul": "Chitose-kun is Inside a Ramune Bottle",
@@ -345,13 +373,6 @@
       "url": "https://komiku.org/manga/akuyaku-reijoutachi-wa-yuruganai/"
     },
     {
-      "judul": "Ghost Story Club (Remake)",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fghost-story-club-remake%2Fmanga_img_horizontal-A1-Ghost-Story-Club-Remake.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ghost-story-club-remake/"
-    },
-    {
       "judul": "1-nen A-gumi no Monster",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2F1-nen-a-gumi-no-monster%2Fmanga_img_horizontal-Manga-1-nen-A-gumi-no-Monster.jpg",
@@ -490,13 +511,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmy-school-life-pretending-to-be-a-worthless-person%2Fmanga_img_horizontal-Komik-My-School-Life-Pretending-to-Be-a-Worthless-Person.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/my-school-life-pretending-to-be-a-worthless-person/"
-    },
-    {
-      "judul": "Momose Akira no Hatsukoi Hatan-chuu.",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmomose_akira_no_hatsukoi_hatan-chuu%2Fimg_68550954439266.01435164.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/momose-akira-no-hatsukoi-hatan-chuu/"
     },
     {
       "judul": "I Became a Swordsmanship Instructor at the Academy",
@@ -639,13 +653,6 @@
       "url": "https://komiku.org/manga/boku-no-kokoro-no-yabai-yatsu/"
     },
     {
-      "judul": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-ri no Kanojo",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-ri-no-kanojo%2Fmanga_img_horizontal-Komik-Kimi-no-Koto-ga-Dai-Dai-Dai-Dai-Daisuki-na-100-ri-no-Kanojo.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-ri-no-kanojo/"
-    },
-    {
       "judul": "Koko Jidai ni Gomandatta Jou sama to no Dousei Seikatsu wa Igaito Igokochi ga Warukunai",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkoko_jidai_ni_gomandatta_jou_sama_to_no_dousei_seikatsu_wa_igaito_igokochi_ga_warukunai%2Fimg_68397331762141.60953429.jpg",
@@ -742,13 +749,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fwatashi_no_oshi_wa_akuyaku_reijou%2Fimg_685cfc6ee83761.53300794.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/watashi-no-oshi-wa-akuyaku-reijou/"
-    },
-    {
-      "judul": "Watashi Yori Tsuyoi Otoko to Kekkon Shitaino",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatashi-yori-tsuyoi-otoko-to-kekkon-shitaino%2Fmanga_img_horizontal-Watashi-Yori-Tsuyoi-Panjang.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/watashi-yori-tsuyoi-otoko-to-kekkon-shitaino/"
     },
     {
       "judul": "2.5 Dimensional Seduction",
@@ -1682,20 +1682,6 @@
       "url": "https://komiku.org/manga/assassination-classroom/"
     },
     {
-      "judul": "Watch Dog",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/watch-dog/"
-    },
-    {
-      "judul": "Hundred",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hundred/"
-    },
-    {
       "judul": "Houkago no Cinderella-kun",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
@@ -1708,6 +1694,20 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
       "tipe": "",
       "url": "https://komiku.org/manga/hard-luck-woman/"
+    },
+    {
+      "judul": "Watch Dog",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/watch-dog/"
+    },
+    {
+      "judul": "Hundred",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hundred/"
     },
     {
       "judul": "Koi wo Shiranai Bokutachi wa",

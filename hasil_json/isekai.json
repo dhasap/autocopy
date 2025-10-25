@@ -2,6 +2,34 @@
   "success": true,
   "data": [
     {
+      "judul": "Kuma Kuma Kuma Bear",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkuma-kuma-kuma-bear%2Fmanga_img_horizontal-Komik-Kuma-Kuma-Kuma-Bear.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kuma-kuma-kuma-bear/"
+    },
+    {
+      "judul": "World Teacher: Isekaishiki Kyouiku Agent",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fworld-teacher-isekaishiki-kyouiku-agent%2Fmanga_img_horizontal-Komik-World-Teacher-Isekaishiki-Kyouiku-Agent.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/world-teacher-isekaishiki-kyouiku-agent/"
+    },
+    {
+      "judul": "I Contracted Myself",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-contracted-myself%2Fmanga_img_horizontal-A1-I-Contracted-Myself.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/i-contracted-myself/"
+    },
+    {
+      "judul": "Isekai Saikouhou no Guild Leader",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-saikouhou-no-guild-leader%2Fmanga_img_horizontal-A1-Isekai-Saikouhou-no-Guild-Leader.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-saikouhou-no-guild-leader/"
+    },
+    {
       "judul": "The Regressor’s Tale of Cultivation",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_regressor___s_tale_of_cultivation%2Fimg_68550d07306ab3.45125578.jpg",
@@ -84,13 +112,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fyuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita%2Fmanga_img_horizontal-Back-Yuusha-ni-Zenbu-Ubawareta-Ore-wa-Yuusha-no-Hahaoya.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/yuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita/"
-    },
-    {
-      "judul": "Kuma Kuma Kuma Bear",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkuma-kuma-kuma-bear%2Fmanga_img_horizontal-Komik-Kuma-Kuma-Kuma-Bear.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kuma-kuma-kuma-bear/"
     },
     {
       "judul": "Isekai Nonbiri Nouka",
@@ -182,13 +203,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fisekai_kuimetsu_no_same%2Fimg_68db8cfdcf3637.77599681.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/isekai-kuimetsu-no-same/"
-    },
-    {
-      "judul": "I Contracted Myself",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-contracted-myself%2Fmanga_img_horizontal-A1-I-Contracted-Myself.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/i-contracted-myself/"
     },
     {
       "judul": "Isekai de Tochi o Katte Noujou o Tsukurou",
@@ -352,11 +366,11 @@
       "url": "https://komiku.org/manga/academys-undercover-professor/"
     },
     {
-      "judul": "Academy’s Undercover Professor",
+      "judul": "Isekai Ojisan",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Facademys-undercover-professor%2Fmanga_img_horizontal-Komik-Academys-Undercover-Professor.jpg",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-ojisan%2Fmanga_img_horizontal-Komik-Isekai-Ojisan.jpg",
       "tipe": "",
-      "url": "https://komiku.org/manga/academys-undercover-professor/"
+      "url": "https://komiku.org/manga/isekai-ojisan/"
     },
     {
       "judul": "Kekkaishi e no Tensei",
@@ -758,13 +772,6 @@
       "url": "https://komiku.org/manga/saikyou-no-maou-ni-kitaerareta-yuusha/"
     },
     {
-      "judul": "World Teacher: Isekaishiki Kyouiku Agent",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fworld-teacher-isekaishiki-kyouiku-agent%2Fmanga_img_horizontal-Komik-World-Teacher-Isekaishiki-Kyouiku-Agent.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/world-teacher-isekaishiki-kyouiku-agent/"
-    },
-    {
       "judul": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-yururi-kikou-kosodateshinagara-boukensha-shimasu%2Fmanga_img_horizontal-Manga-Isekai-Yururi-Kikou-Kosodateshinagara-Boukensha-Shimasu.jpg",
@@ -1148,13 +1155,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fremonster%2Fmanga_img_horizontal--ReMonster.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/remonster/"
-    },
-    {
-      "judul": "Isekai Saikouhou no Guild Leader",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-saikouhou-no-guild-leader%2Fmanga_img_horizontal-A1-Isekai-Saikouhou-no-Guild-Leader.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isekai-saikouhou-no-guild-leader/"
     },
     {
       "judul": "Danjohi 1:39 no Heikou Sekai wa Omoi no Hoka Futsuu",
