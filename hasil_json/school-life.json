@@ -2,11 +2,46 @@
   "success": true,
   "data": [
     {
+      "judul": "Ano Toki Tasukete Itadaita Monster Musume desu.",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fano_toki_tasukete_itadaita_monster_musume_desu%2Fimg_682d9c8ec50eb1.48153257.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ano-toki-tasukete-itadaita-monster-musume-desu/"
+    },
+    {
       "judul": "The Fox-Eyed Villain Of The Demon Academy",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-fox-eyed-villain-of-the-demon-academy%2Fmanga_img_horizontal-A1-The-Fox-Eyed-Villain-Of-The-Demon-Academy.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-fox-eyed-villain-of-the-demon-academy/"
+    },
+    {
+      "judul": "Kiyoubinbou, Jou wo Tateru – Kaitaku Gakuen no Rettousei na no ni, Joukyuu-shoku no Skill to Mahou ga Subete Tsukaemasu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkiyoubinbou-jou-wo-tateru-kaitaku-gakuen-no-rettousei-na-no-ni-joukyuu-shoku-no-skill-to-mahou-ga-subete-tsukaemasu%2Fmanga_img_horizontal-Komik-Kiyoubinbou-Jou-wo-Tateru-Kaitaku-Gakuen-no-Rettousei-na-no-ni-Joukyuu-shoku-no-Skill-to-Mahou-ga-Subete-Tsukaemasu.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kiyoubinbou-jou-wo-tateru-kaitaku-gakuen-no-rettousei-na-no-ni-joukyuu-shoku-no-skill-to-mahou-ga-subete-tsukaemasu/"
+    },
+    {
+      "judul": "Koko Jidai ni Gomandatta Jou sama to no Dousei Seikatsu wa Igaito Igokochi ga Warukunai",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkoko_jidai_ni_gomandatta_jou_sama_to_no_dousei_seikatsu_wa_igaito_igokochi_ga_warukunai%2Fimg_68397331762141.60953429.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/koko-jidai-ni-gomandatta-jou-sama-to-no-dousei-seikatsu-wa-igaito-igokochi-ga-warukunai/"
+    },
+    {
+      "judul": "Ore ga Kokuhaku Saretekara, Ojo no yosu ga Okashii",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fore_ga_kokuhaku_saretekara__ojo_no_yosu_ga_okashii%2Fimg_68356a3109bbf3.99258175.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ore-ga-kokuhaku-saretekara-ojo-no-yosu-ga-okashii/"
+    },
+    {
+      "judul": "The Art Student Who Lived Twice",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_art_student_who_lived_twice%2Fimg_682d5c8956c046.01264773.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-art-student-who-lived-twice/"
     },
     {
       "judul": "True Education",
@@ -23,18 +58,18 @@
       "url": "https://komiku.org/manga/mikadono-sanshimai-wa-angai-choroi/"
     },
     {
-      "judul": "Wind Breaker (NII Satoru)",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwind-breaker-nii-satoru-indo%2Fmanga_img_horizontal-Back-Wind-Breaker-NII-Satoru.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/wind-breaker-nii-satoru-indo/"
-    },
-    {
       "judul": "Kanojo Okarishimasu",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkanojo-okarishimasu%2Fmanga_img_horizontal-Komik-Kanojo-Okarishimasu.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/kanojo-okarishimasu/"
+    },
+    {
+      "judul": "Wind Breaker (NII Satoru)",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwind-breaker-nii-satoru-indo%2Fmanga_img_horizontal-Back-Wind-Breaker-NII-Satoru.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/wind-breaker-nii-satoru-indo/"
     },
     {
       "judul": "I Became a Swordsmanship Instructor at the Academy",
@@ -238,13 +273,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshiunji-ke-no-kodomo-tachi%2Fmanga_img_horizontal-Jinuj-Shiunji-ke-no-Kodomo-Tachi.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/shiunji-ke-no-kodomo-tachi/"
-    },
-    {
-      "judul": "The Art Student Who Lived Twice",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_art_student_who_lived_twice%2Fimg_682d5c8956c046.01264773.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-art-student-who-lived-twice/"
     },
     {
       "judul": "Remote Jugyou ni Nattara Class 1 no Bishoujo to Doukyo Suru Koto ni Natta",
@@ -702,13 +730,6 @@
       "url": "https://komiku.org/manga/boku-no-kokoro-no-yabai-yatsu/"
     },
     {
-      "judul": "Koko Jidai ni Gomandatta Jou sama to no Dousei Seikatsu wa Igaito Igokochi ga Warukunai",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkoko_jidai_ni_gomandatta_jou_sama_to_no_dousei_seikatsu_wa_igaito_igokochi_ga_warukunai%2Fimg_68397331762141.60953429.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/koko-jidai-ni-gomandatta-jou-sama-to-no-dousei-seikatsu-wa-igaito-igokochi-ga-warukunai/"
-    },
-    {
       "judul": "Become the Strongest Hero Through the Cheat System",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fbecome_the_strongest_hero_through_the_cheat_system%2Fimg_68396389eee974.22018231.jpg",
@@ -805,13 +826,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fplease-spoil-me-hinamori-san%2Fmanga_img_horizontal-Komik-Please-Spoil-Me-Hinamori-san.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/please-spoil-me-hinamori-san/"
-    },
-    {
-      "judul": "Kiyoubinbou, Jou wo Tateru – Kaitaku Gakuen no Rettousei na no ni, Joukyuu-shoku no Skill to Mahou ga Subete Tsukaemasu",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkiyoubinbou-jou-wo-tateru-kaitaku-gakuen-no-rettousei-na-no-ni-joukyuu-shoku-no-skill-to-mahou-ga-subete-tsukaemasu%2Fmanga_img_horizontal-Komik-Kiyoubinbou-Jou-wo-Tateru-Kaitaku-Gakuen-no-Rettousei-na-no-ni-Joukyuu-shoku-no-Skill-to-Mahou-ga-Subete-Tsukaemasu.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kiyoubinbou-jou-wo-tateru-kaitaku-gakuen-no-rettousei-na-no-ni-joukyuu-shoku-no-skill-to-mahou-ga-subete-tsukaemasu/"
     },
     {
       "judul": "Urakata de Support Shiteta Geinou Ikka wo Tsuihousareta Boku wa, Futsuu no Seishun wo Ouka Shitai.",
@@ -1113,13 +1127,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhoukago__famiresu_de__kurasu_no_ano_ko_to%2Fimg_68302c071a2b14.96080466.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/houkago-famiresu-de-kurasu-no-ano-ko-to/"
-    },
-    {
-      "judul": "Ano Toki Tasukete Itadaita Monster Musume desu.",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fano_toki_tasukete_itadaita_monster_musume_desu%2Fimg_682d9c8ec50eb1.48153257.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ano-toki-tasukete-itadaita-monster-musume-desu/"
     },
     {
       "judul": "Shinu Unmei ni Aru Akuyaku Reijou no Ani ni Tensei shitanode, Imouto wo Sodatete Mirai wo Kaetai to Omoimasu ~Sekai Saikyou wa Ore dakedo, Sekai Saikawa wa Imouto ni Chigainai~",
@@ -1689,6 +1696,13 @@
       "url": "https://komiku.org/manga/assassination-classroom/"
     },
     {
+      "judul": "Watch Dog",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/watch-dog/"
+    },
+    {
       "judul": "Hundred",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
@@ -1708,13 +1722,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
       "tipe": "",
       "url": "https://komiku.org/manga/hard-luck-woman/"
-    },
-    {
-      "judul": "Watch Dog",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/watch-dog/"
     },
     {
       "judul": "Koi wo Shiranai Bokutachi wa",
@@ -1827,13 +1834,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsensitive-boy%2Fmanga_img_horizontal-Back-Sensitive-Boy.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/sensitive-boy/"
-    },
-    {
-      "judul": "Ore ga Kokuhaku Saretekara, Ojo no yosu ga Okashii",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fore_ga_kokuhaku_saretekara__ojo_no_yosu_ga_okashii%2Fimg_68356a3109bbf3.99258175.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ore-ga-kokuhaku-saretekara-ojo-no-yosu-ga-okashii/"
     },
     {
       "judul": "Uma Musume Pretty Derby: Star Blossom",
