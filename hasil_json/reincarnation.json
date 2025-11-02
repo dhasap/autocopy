@@ -2,6 +2,48 @@
   "success": true,
   "data": [
     {
+      "judul": "Different Kings",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdifferent-kings%2Fmanga_img_horizontal-Manhua-Different-Kings.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/different-kings/"
+    },
+    {
+      "judul": "The Second Life After Awakening",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-second-life-after-awakening%2Fmanga_img_horizontal-Back-The-Second-Life-After-Awakening.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-second-life-after-awakening/"
+    },
+    {
+      "judul": "The Rebirth of the Hero’s Party’s Archmage",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-rebirth-of-the-heros-partys-archmage%2Fmanga_img_horizontal-A1-The-Rebirth-of-the-Heros-Partys-Archmage.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-rebirth-of-the-heros-partys-archmage/"
+    },
+    {
+      "judul": "Black Corporation: Joseon",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fblack-corporation-joseon%2Fmanga_img_horizontal-Back-Black-Corporation-Joseon.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/black-corporation-joseon/"
+    },
+    {
+      "judul": "Academy’s Undercover Professor",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Facademys-undercover-professor%2Fmanga_img_horizontal-Komik-Academys-Undercover-Professor.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/academys-undercover-professor/"
+    },
+    {
+      "judul": "Keep A Low Profile, Sect Leader",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkeep-a-low-profile-sect-leader%2Fmanga_img_horizontal-Komik-Keep-A-Low-Profile-Sect-Leader.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/keep-a-low-profile-sect-leader/"
+    },
+    {
       "judul": "Dukedom’s Legendary Prodigy",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fdukedom___s_legendary_prodigy%2Fimg_68ff9154e01364.91520883.jpg",
@@ -114,27 +156,6 @@
       "url": "https://komiku.org/manga/reincarnation-of-the-fist-king/"
     },
     {
-      "judul": "Keep A Low Profile, Sect Leader",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkeep-a-low-profile-sect-leader%2Fmanga_img_horizontal-Komik-Keep-A-Low-Profile-Sect-Leader.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/keep-a-low-profile-sect-leader/"
-    },
-    {
-      "judul": "Black Corporation: Joseon",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fblack-corporation-joseon%2Fmanga_img_horizontal-Back-Black-Corporation-Joseon.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/black-corporation-joseon/"
-    },
-    {
-      "judul": "Academy’s Undercover Professor",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Facademys-undercover-professor%2Fmanga_img_horizontal-Komik-Academys-Undercover-Professor.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/academys-undercover-professor/"
-    },
-    {
       "judul": "Absolute Sword Sense",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fabsolute-sword-sense%2Fmanga_img_horizontal-Komik-Absolute-Sword-Sense.jpg",
@@ -147,20 +168,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-saikouhou-no-guild-leader%2Fmanga_img_horizontal-A1-Isekai-Saikouhou-no-Guild-Leader.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/isekai-saikouhou-no-guild-leader/"
-    },
-    {
-      "judul": "The Second Life After Awakening",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-second-life-after-awakening%2Fmanga_img_horizontal-Back-The-Second-Life-After-Awakening.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-second-life-after-awakening/"
-    },
-    {
-      "judul": "The Rebirth of the Hero’s Party’s Archmage",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-rebirth-of-the-heros-partys-archmage%2Fmanga_img_horizontal-A1-The-Rebirth-of-the-Heros-Partys-Archmage.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-rebirth-of-the-heros-partys-archmage/"
     },
     {
       "judul": "Infinite Level Up in Murim",
@@ -602,13 +609,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwan-gu-shen-wang%2Fmanga_img_horizontal-Manhua-Wan-Gu-Shen-Wang.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/wan-gu-shen-wang/"
-    },
-    {
-      "judul": "Different Kings",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdifferent-kings%2Fmanga_img_horizontal-Manhua-Different-Kings.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/different-kings/"
     },
     {
       "judul": "My Apprentice: Game Over Again!",
