@@ -2,6 +2,62 @@
   "success": true,
   "data": [
     {
+      "judul": "Mercenary Enrollment",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmercenary-enrollment%2Fmanga_img_horizontal-Komik-Mercenary-Enrollment-scaled.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mercenary-enrollment/"
+    },
+    {
+      "judul": "Reality Quest",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Freality-quest%2Fmanga_img_horizontal-Komik-Reality-Quest.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/reality-quest/"
+    },
+    {
+      "judul": "Superstar From Age 0",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsuperstar-from-age-0%2Fmanga_img_horizontal-Back-Superstar-From-Age-0.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/superstar-from-age-0/"
+    },
+    {
+      "judul": "Mikadono Sanshimai wa Angai, Choroi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmikadono-sanshimai-wa-angai-choroi%2Fmanga_img_horizontal-Mikadono-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mikadono-sanshimai-wa-angai-choroi/"
+    },
+    {
+      "judul": "Boku no Suki na Hito ga Suki na Hito",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fboku_no_suki_na_hito_ga_suki_na_hito%2Fimg_687751384cf1f7.96350989.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/boku-no-suki-na-hito-ga-suki-na-hito/"
+    },
+    {
+      "judul": "Tonari no Seki no Yatsu ga Souiu Me de Mitekuru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftonari-no-seki-no-yatsu-ga-souiu-me-de-mitekuru%2Fmanga_img_horizontal-A1-Tonari-no-Seki-no-Yatsu-ga-Souiu-Me-de-Mitekuru..jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/tonari-no-seki-no-yatsu-ga-souiu-me-de-mitekuru/"
+    },
+    {
+      "judul": "1-nen A-gumi no Monster",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2F1-nen-a-gumi-no-monster%2Fmanga_img_horizontal-Manga-1-nen-A-gumi-no-Monster.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/1-nen-a-gumi-no-monster/"
+    },
+    {
+      "judul": "Tsumi to Batsu no Spica",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftsumi_to_batsu_no_spica%2Fimg_685207797ca6b8.32409769.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/tsumi-to-batsu-no-spica/"
+    },
+    {
       "judul": "Tokidoki Bosotto Roshiago de Dereru Tonari no Alya-san",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftokidoki-bosotto-roshiago-de-dereru-tonari-no-alya-san%2Fmanga_img_horizontal-Komik-Tokidoki-Bosotto-Roshiago-de-Dereru-Tonari-no-Alya-san.jpg",
@@ -37,46 +93,11 @@
       "url": "https://komiku.org/manga/anta-to-osananajimitte-dake-demo-iyananoni-zekkou-kara-hajimaru-s-kyuu-bishoujo-to-no-gakuen-nariagari-seikatsu/"
     },
     {
-      "judul": "Mikadono Sanshimai wa Angai, Choroi",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmikadono-sanshimai-wa-angai-choroi%2Fmanga_img_horizontal-Mikadono-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mikadono-sanshimai-wa-angai-choroi/"
-    },
-    {
-      "judul": "Boku no Suki na Hito ga Suki na Hito",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fboku_no_suki_na_hito_ga_suki_na_hito%2Fimg_687751384cf1f7.96350989.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/boku-no-suki-na-hito-ga-suki-na-hito/"
-    },
-    {
-      "judul": "Tonari no Seki no Yatsu ga Souiu Me de Mitekuru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftonari-no-seki-no-yatsu-ga-souiu-me-de-mitekuru%2Fmanga_img_horizontal-A1-Tonari-no-Seki-no-Yatsu-ga-Souiu-Me-de-Mitekuru..jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/tonari-no-seki-no-yatsu-ga-souiu-me-de-mitekuru/"
-    },
-    {
       "judul": "Haimiya-senpai wa Kowakute Kawaii",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhaimiya-senpai_wa_kowakute_kawaii%2Fimg_690ef597ea95d1.16124029.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/haimiya-senpai-wa-kowakute-kawaii/"
-    },
-    {
-      "judul": "Reality Quest",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Freality-quest%2Fmanga_img_horizontal-Komik-Reality-Quest.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/reality-quest/"
-    },
-    {
-      "judul": "Tsumi to Batsu no Spica",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftsumi_to_batsu_no_spica%2Fimg_685207797ca6b8.32409769.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/tsumi-to-batsu-no-spica/"
     },
     {
       "judul": "Star Ginseng Store",
@@ -310,13 +331,6 @@
       "url": "https://komiku.org/manga/secret-family/"
     },
     {
-      "judul": "Superstar From Age 0",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsuperstar-from-age-0%2Fmanga_img_horizontal-Back-Superstar-From-Age-0.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/superstar-from-age-0/"
-    },
-    {
       "judul": "Aishiteru Game wo Owarasetai",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Faishiteru-game-wo-owarasetai%2Fmanga_img_horizontal-Komik-Aishiteru-Game-wo-Owarasetai.jpg",
@@ -364,13 +378,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fouritsu-mahou-gakuen-no-saikasei-slum-agari-no-saikyou-mahoushi-kizoku-darake-no-gakuen-de-musou-suru%2Fmanga_img_horizontal-Komik-Ouritsu-Mahou-Gakuen-no-Saikasei-Slum-Agari-no-Saikyou-Mahoushi-Kizoku-darake-no-Gakuen-de-Musou-suru.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/ouritsu-mahou-gakuen-no-saikasei-slum-agari-no-saikyou-mahoushi-kizoku-darake-no-gakuen-de-musou-suru/"
-    },
-    {
-      "judul": "Mercenary Enrollment",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmercenary-enrollment%2Fmanga_img_horizontal-Komik-Mercenary-Enrollment-scaled.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mercenary-enrollment/"
     },
     {
       "judul": "Make Heroine o Katasetai!!",
@@ -826,13 +833,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fakuyaku_reijoutachi_wa_yuruganai%2Fimg_682a5ed65dd4f4.25454181.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/akuyaku-reijoutachi-wa-yuruganai/"
-    },
-    {
-      "judul": "1-nen A-gumi no Monster",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2F1-nen-a-gumi-no-monster%2Fmanga_img_horizontal-Manga-1-nen-A-gumi-no-Monster.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/1-nen-a-gumi-no-monster/"
     },
     {
       "judul": "Tsue to Tsurugi no Wistoria",

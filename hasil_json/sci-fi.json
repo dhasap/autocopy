@@ -2,6 +2,27 @@
   "success": true,
   "data": [
     {
+      "judul": "Jungle Juice",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjungle-juice%2Fmanga_img_horizontal-Komik-Jungle-Juice.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/jungle-juice/"
+    },
+    {
+      "judul": "Mercenary Enrollment",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmercenary-enrollment%2Fmanga_img_horizontal-Komik-Mercenary-Enrollment-scaled.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mercenary-enrollment/"
+    },
+    {
+      "judul": "Manager Kim",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmanager-kim%2Fmanga_img_horizontal-Komik-Manager-Kim.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/manager-kim/"
+    },
+    {
       "judul": "My Clone is the Space Bug King",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmy_clone_is_the_space_bug_king%2Fimg_683436eaed6f35.56127792.jpg",
@@ -65,32 +86,11 @@
       "url": "https://komiku.org/manga/the-galactic-navy-officer-becomes-an-adventurer/"
     },
     {
-      "judul": "Mercenary Enrollment",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmercenary-enrollment%2Fmanga_img_horizontal-Komik-Mercenary-Enrollment-scaled.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mercenary-enrollment/"
-    },
-    {
-      "judul": "Jungle Juice",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjungle-juice%2Fmanga_img_horizontal-Komik-Jungle-Juice.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/jungle-juice/"
-    },
-    {
       "judul": "Da Xiang Wuxing",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fda-xiang-wuxing%2Fmanga_img_horizontal-Komik-Da-Xiang-Wuxing.png",
       "tipe": "",
       "url": "https://komiku.org/manga/da-xiang-wuxing/"
-    },
-    {
-      "judul": "Manager Kim",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmanager-kim%2Fmanga_img_horizontal-Komik-Manager-Kim.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/manager-kim/"
     },
     {
       "judul": "Divine Leveling System",

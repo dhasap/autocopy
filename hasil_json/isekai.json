@@ -2,6 +2,55 @@
   "success": true,
   "data": [
     {
+      "judul": "God of Martial Arts",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgod-of-martial-arts%2Fmanga_img_horizontal-Manhua-God-of-Martial-Arts.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/god-of-martial-arts/"
+    },
+    {
+      "judul": "The Lord’s Coins Aren’t Decreasing?!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-lords-coins-arent-decreasing%2Fmanga_img_horizontal-Komik-The-Lords-Coins-Arent-Decreasing.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-lords-coins-arent-decreasing/"
+    },
+    {
+      "judul": "Game obu Familia - Family Senki",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgame-obu-familia-family-senki%2Fmanga_img_horizontal-Manga-Game-obu-Familia---Family-Senki.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/game-obu-familia-family-senki/"
+    },
+    {
+      "judul": "Isekai ni Kita Mitai dakedo Ikan Sureba Yoi no Darou",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-ni-kita-mitai-dakedo-ikan-sureba-yoi-no-darou%2Fmanga_img_horizontal-Manga-Isekai-ni-Kita-Mitai-dakedo-Ikan-Sureba-Yoi-no-Darou.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-ni-kita-mitai-dakedo-ikan-sureba-yoi-no-darou/"
+    },
+    {
+      "judul": "Isekai Demon Eater – I Became a Monster Eating Hero and Rebelled Against the Kingdom That Abandoned Me",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fisekai_demon_eater%2Fimg_68c51def8d6cc0.23463169.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-demon-eater-i-became-a-monster-eating-hero-and-rebelled-against-the-kingdom-that-abandoned-me/"
+    },
+    {
+      "judul": "Archmage Restaurant",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Farchmage-restaurant%2Fmanga_img_horizontal-Back-Archmage-Restaurant.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/archmage-restaurant/"
+    },
+    {
+      "judul": "Infinite Level Up in Murim",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Finfinite-level-up-in-murim%2Fmanga_img_horizontal-Komik-Infinite-Level-Up-in-Murim.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/infinite-level-up-in-murim/"
+    },
+    {
       "judul": "Yasei no Last Boss ga Arawareta",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fyasei-no-last-boss-ga-arawareta%2Fmanga_img_horizontal-Komik-Yasei-no-Last-Boss-ga-Arawareta.jpg",
@@ -23,13 +72,6 @@
       "url": "https://komiku.org/manga/isekai-kuimetsu-no-same/"
     },
     {
-      "judul": "God of Martial Arts",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgod-of-martial-arts%2Fmanga_img_horizontal-Manhua-God-of-Martial-Arts.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/god-of-martial-arts/"
-    },
-    {
       "judul": "Kuma Kuma Kuma Bear",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkuma-kuma-kuma-bear%2Fmanga_img_horizontal-Komik-Kuma-Kuma-Kuma-Bear.png",
@@ -37,25 +79,11 @@
       "url": "https://komiku.org/manga/kuma-kuma-kuma-bear/"
     },
     {
-      "judul": "Isekai ni Kita Mitai dakedo Ikan Sureba Yoi no Darou",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-ni-kita-mitai-dakedo-ikan-sureba-yoi-no-darou%2Fmanga_img_horizontal-Manga-Isekai-ni-Kita-Mitai-dakedo-Ikan-Sureba-Yoi-no-Darou.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isekai-ni-kita-mitai-dakedo-ikan-sureba-yoi-no-darou/"
-    },
-    {
       "judul": "Himekishi ga Classmate!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhimekishi-ga-classmate%2Fmanga_img_horizontal-2-35.png",
       "tipe": "",
       "url": "https://komiku.org/manga/himekishi-ga-classmate/"
-    },
-    {
-      "judul": "The Lord’s Coins Aren’t Decreasing?!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-lords-coins-arent-decreasing%2Fmanga_img_horizontal-Komik-The-Lords-Coins-Arent-Decreasing.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-lords-coins-arent-decreasing/"
     },
     {
       "judul": "My Dad Is Too Strong",
@@ -492,13 +520,6 @@
       "url": "https://komiku.org/manga/lord-of-the-mysteries-remake/"
     },
     {
-      "judul": "Infinite Level Up in Murim",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Finfinite-level-up-in-murim%2Fmanga_img_horizontal-Komik-Infinite-Level-Up-in-Murim.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/infinite-level-up-in-murim/"
-    },
-    {
       "judul": "Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fyuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita%2Fmanga_img_horizontal-Back-Yuusha-ni-Zenbu-Ubawareta-Ore-wa-Yuusha-no-Hahaoya.jpg",
@@ -511,13 +532,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmakikomarete-isekai-teni-suru-yatsu-wa-taitei-cheat%2Fmanga_img_horizontal-Manga-Makikomarete-Isekai-Teni-suru-Yatsu-wa-Taitei-Cheat.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/makikomarete-isekai-teni-suru-yatsu-wa-taitei-cheat/"
-    },
-    {
-      "judul": "Archmage Restaurant",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Farchmage-restaurant%2Fmanga_img_horizontal-Back-Archmage-Restaurant.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/archmage-restaurant/"
     },
     {
       "judul": "Taidana Akuyaku Kizoku no Ore ni, Konyaku Hakisareta Akuyaku Reijo ga Totsuidara Saikyo no Fufu ni Narimashita",
@@ -877,13 +891,6 @@
       "url": "https://komiku.org/manga/sozai-saishuka-no-isekai-ryokouki/"
     },
     {
-      "judul": "Game obu Familia - Family Senki",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgame-obu-familia-family-senki%2Fmanga_img_horizontal-Manga-Game-obu-Familia---Family-Senki.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/game-obu-familia-family-senki/"
-    },
-    {
       "judul": "Isekai Walking",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-walking%2Fmanga_img_horizontal-Back-isekai-walking.jpg",
@@ -924,13 +931,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fchichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha%2Fmanga_img_horizontal-Komik-Chichi-wa-Eiyuu-Haha-wa-Seirei-Musume-no-Watashi-wa-Tenseisha.png",
       "tipe": "",
       "url": "https://komiku.org/manga/chichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha/"
-    },
-    {
-      "judul": "Isekai Demon Eater – I Became a Monster Eating Hero and Rebelled Against the Kingdom That Abandoned Me",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fisekai_demon_eater%2Fimg_68c51def8d6cc0.23463169.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isekai-demon-eater-i-became-a-monster-eating-hero-and-rebelled-against-the-kingdom-that-abandoned-me/"
     },
     {
       "judul": "Gate – Jietai Kare no Chi nite Kaku Tatakeri",
