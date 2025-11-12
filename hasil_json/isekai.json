@@ -2,18 +2,60 @@
   "success": true,
   "data": [
     {
-      "judul": "Eleceed",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Feleceed%2Fmanga_img_horizontal-Komik-Eleceed.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/eleceed/"
-    },
-    {
       "judul": "God of Martial Arts",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgod-of-martial-arts%2Fmanga_img_horizontal-Manhua-God-of-Martial-Arts.png",
       "tipe": "",
       "url": "https://komiku.org/manga/god-of-martial-arts/"
+    },
+    {
+      "judul": "The Heavenly Path Is Not Stupid",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-heavenly-path-is-not-stupid%2Fmanga_img_horizontal-The-Heavenly-Path-Is-Not-Stupid-Panjang.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-heavenly-path-is-not-stupid/"
+    },
+    {
+      "judul": "Supreme Curse Master",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsupreme_curse_master%2Fimg_682a1c9c218ad3.60673892.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/supreme-curse-master/"
+    },
+    {
+      "judul": "Isekai Nonbiri Nouka",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2F51233-isekai-nonbiri-nouka%2Fmanga_img_horizontal-Manga-Isekai-Nonbiri-Nouka.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/51233-isekai-nonbiri-nouka/"
+    },
+    {
+      "judul": "Hitoribocchi no Isekai Kouryaku",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhitoribocchi-no-isekai-kouryaku%2Fmanga_img_horizontal-A1-Hitoribocchi-no-Isekai-Kouryaku.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hitoribocchi-no-isekai-kouryaku/"
+    },
+    {
+      "judul": "My Dad Is Too Strong",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmy-dad-is-too-strong%2Fmanga_img_horizontal-Komik-My-Dad-Is-Too-Strong.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/my-dad-is-too-strong/"
+    },
+    {
+      "judul": "Archmage Restaurant",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Farchmage-restaurant%2Fmanga_img_horizontal-Back-Archmage-Restaurant.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/archmage-restaurant/"
+    },
+    {
+      "judul": "Eleceed",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Feleceed%2Fmanga_img_horizontal-Komik-Eleceed.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/eleceed/"
     },
     {
       "judul": "The Lord’s Coins Aren’t Decreasing?!",
@@ -28,13 +70,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fotherworldly-sword-kings-survival-records%2Fmanga_img_horizontal-Komik-Sword-King.png",
       "tipe": "",
       "url": "https://komiku.org/manga/otherworldly-sword-kings-survival-records/"
-    },
-    {
-      "judul": "Isekai Nonbiri Nouka",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2F51233-isekai-nonbiri-nouka%2Fmanga_img_horizontal-Manga-Isekai-Nonbiri-Nouka.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/51233-isekai-nonbiri-nouka/"
     },
     {
       "judul": "Shoki Skill Ga Benri Sugite Isekai Seikatsu Ga Tanoshisugiru!",
@@ -56,13 +91,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsouzai-saishuka-no-isekai-ryokouki%2Fmanga_img_horizontal-Komik-Souzai-Saishuka-no-Isekai-Ryokouki.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/souzai-saishuka-no-isekai-ryokouki/"
-    },
-    {
-      "judul": "Hitoribocchi no Isekai Kouryaku",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhitoribocchi-no-isekai-kouryaku%2Fmanga_img_horizontal-A1-Hitoribocchi-no-Isekai-Kouryaku.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hitoribocchi-no-isekai-kouryaku/"
     },
     {
       "judul": "Sozai Saishuka no Isekai Ryokouki",
@@ -128,13 +156,6 @@
       "url": "https://komiku.org/manga/isekai-ni-kita-mitai-dakedo-ikan-sureba-yoi-no-darou/"
     },
     {
-      "judul": "Archmage Restaurant",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Farchmage-restaurant%2Fmanga_img_horizontal-Back-Archmage-Restaurant.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/archmage-restaurant/"
-    },
-    {
       "judul": "Infinite Level Up in Murim",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Finfinite-level-up-in-murim%2Fmanga_img_horizontal-Komik-Infinite-Level-Up-in-Murim.jpg",
@@ -168,13 +189,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhimekishi-ga-classmate%2Fmanga_img_horizontal-2-35.png",
       "tipe": "",
       "url": "https://komiku.org/manga/himekishi-ga-classmate/"
-    },
-    {
-      "judul": "My Dad Is Too Strong",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmy-dad-is-too-strong%2Fmanga_img_horizontal-Komik-My-Dad-Is-Too-Strong.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/my-dad-is-too-strong/"
     },
     {
       "judul": "Became The Patron Of Villains",
@@ -385,13 +399,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmakenshi-no-maken-niyoru-maken-no-tame-no-harem-life%2Fmanga_img_horizontal-Komik-Makenshi-no-Maken-Niyoru-Maken-no-Tame-no-Harem-Life.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/makenshi-no-maken-niyoru-maken-no-tame-no-harem-life/"
-    },
-    {
-      "judul": "The Heavenly Path Is Not Stupid",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-heavenly-path-is-not-stupid%2Fmanga_img_horizontal-The-Heavenly-Path-Is-Not-Stupid-Panjang.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-heavenly-path-is-not-stupid/"
     },
     {
       "judul": "Kaifuku Jutsushi Yarinaoshi: Sokushi Mahou to Skill Copy no Chouetsu Heal",
@@ -714,13 +721,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmushoku-tensei-isekai-ittara-honki-dasu%2Fmanga_img_horizontal-Manga-Mushoku-Tensei-Isekai-Ittara-Honki-Dasu.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/mushoku-tensei-isekai-ittara-honki-dasu/"
-    },
-    {
-      "judul": "Supreme Curse Master",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsupreme_curse_master%2Fimg_682a1c9c218ad3.60673892.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/supreme-curse-master/"
     },
     {
       "judul": "The Demonic Empress Traveled Through Time And Became My Boss",
