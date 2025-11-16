@@ -2,13 +2,6 @@
   "success": true,
   "data": [
     {
-      "judul": "Yarikonda ren’ai game no akuyaku ni tensei shita node, gensaku chishiki de hiroin o kōryaku shimasu",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fyarikonda_ren___ai_game_no_akuyaku_ni_tensei_shita_node%2Fimg_68333b8b9ccc83.17037074.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/yarikonda-renai-game-no-akuyaku-ni-tensei-shita-node-gensaku-chishiki-de-hiroin-o-koryaku-shimasu/"
-    },
-    {
       "judul": "God of Martial Arts",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgod-of-martial-arts%2Fmanga_img_horizontal-Manhua-God-of-Martial-Arts.png",
@@ -16,18 +9,46 @@
       "url": "https://komiku.org/manga/god-of-martial-arts/"
     },
     {
-      "judul": "Academy’s Undercover Professor",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Facademys-undercover-professor%2Fmanga_img_horizontal-Komik-Academys-Undercover-Professor.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/academys-undercover-professor/"
-    },
-    {
       "judul": "Supreme Curse Master",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsupreme_curse_master%2Fimg_682a1c9c218ad3.60673892.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/supreme-curse-master/"
+    },
+    {
+      "judul": "Isekai de Tochi o Katte Noujou o Tsukurou",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-de-tochi-o-katte-noujou-o-tsukurou%2Fmanga_img_horizontal-Komik-Isekai-de-Tochi-o-Katte-Noujou-o-Tsukurou.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-de-tochi-o-katte-noujou-o-tsukurou/"
+    },
+    {
+      "judul": "Gacha wo Mawashite Nakama wo Fuyasu Saikyou no Bishoujo Gundan wo Tsukuriagero",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgacha-wo-mawashite-nakama-wo-fuyasu-saikyou-no-bishoujo-gundan-wo-tsukuriagero%2Fmanga_img_horizontal-Komik-Gacha-wo-Mawashite-Nakama-wo-Fuyasu-Saikyou-no-Bishoujo-Gundan-wo-Tsukuriagero.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/gacha-wo-mawashite-nakama-wo-fuyasu-saikyou-no-bishoujo-gundan-wo-tsukuriagero/"
+    },
+    {
+      "judul": "Monster no Goshujin-sama",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmonster-no-goshujin-sama%2Fmanga_img_horizontal-Manga-Monster-no-Goshujin-sama.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/monster-no-goshujin-sama/"
+    },
+    {
+      "judul": "Yarikonda ren’ai game no akuyaku ni tensei shita node, gensaku chishiki de hiroin o kōryaku shimasu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fyarikonda_ren___ai_game_no_akuyaku_ni_tensei_shita_node%2Fimg_68333b8b9ccc83.17037074.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/yarikonda-renai-game-no-akuyaku-ni-tensei-shita-node-gensaku-chishiki-de-hiroin-o-koryaku-shimasu/"
+    },
+    {
+      "judul": "Academy’s Undercover Professor",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Facademys-undercover-professor%2Fmanga_img_horizontal-Komik-Academys-Undercover-Professor.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/academys-undercover-professor/"
     },
     {
       "judul": "Reverend Insanity (Remake)",
@@ -140,13 +161,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgame_chishiki_de_saikyou_ni_natta_mob_heishi_wa%2Fimg_6831672c645cd4.09067348.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/game-chishiki-de-saikyou-ni-natta-mob-heishi-wa-shin-no-jitsuryoku-wo-kakushitai/"
-    },
-    {
-      "judul": "Gacha wo Mawashite Nakama wo Fuyasu Saikyou no Bishoujo Gundan wo Tsukuriagero",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgacha-wo-mawashite-nakama-wo-fuyasu-saikyou-no-bishoujo-gundan-wo-tsukuriagero%2Fmanga_img_horizontal-Komik-Gacha-wo-Mawashite-Nakama-wo-Fuyasu-Saikyou-no-Bishoujo-Gundan-wo-Tsukuriagero.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/gacha-wo-mawashite-nakama-wo-fuyasu-saikyou-no-bishoujo-gundan-wo-tsukuriagero/"
     },
     {
       "judul": "Isekai ni Kita Mitai dakedo Ikan Sureba Yoi no Darou",
@@ -646,13 +660,6 @@
       "url": "https://komiku.org/manga/doctors-rebirth/"
     },
     {
-      "judul": "Isekai de Tochi o Katte Noujou o Tsukurou",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-de-tochi-o-katte-noujou-o-tsukurou%2Fmanga_img_horizontal-Komik-Isekai-de-Tochi-o-Katte-Noujou-o-Tsukurou.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isekai-de-tochi-o-katte-noujou-o-tsukurou/"
-    },
-    {
       "judul": "Dragon ni Sando Hikareta Ore no Tensei Shokunin Life",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdragon-ni-sando-hikareta-ore-no-tensei-shokunin-life%2Fmanga_img_horizontal-A1-Dragon-ni-Sando-Hikareta-Ore-no-Tensei-Shokunin-Life.jpg",
@@ -686,13 +693,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ffun-territory-defense-of-the-easy-going-lord-the-nameless-village-is-made-into-the-strongest-fortified-city-by-production-magic%2Fmanga_img_horizontal-Komik-Fun-Territory-Defense-Of-The-Easy-going-Lord-the-Nameless-Village-Is-Made-Into-The-Strongest-Fortified-City-By-Production-Magic.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/fun-territory-defense-of-the-easy-going-lord-the-nameless-village-is-made-into-the-strongest-fortified-city-by-production-magic/"
-    },
-    {
-      "judul": "Monster no Goshujin-sama",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmonster-no-goshujin-sama%2Fmanga_img_horizontal-Manga-Monster-no-Goshujin-sama.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/monster-no-goshujin-sama/"
     },
     {
       "judul": "Brave X Devil Queen",

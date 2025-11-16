@@ -2,6 +2,55 @@
   "success": true,
   "data": [
     {
+      "judul": "Academy’s Genius Tamer",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Facademys-genius-tamer%2Fmanga_img_horizontal-A1-Academys-Genius-Tamer.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/academys-genius-tamer/"
+    },
+    {
+      "judul": "Different Kings",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdifferent-kings%2Fmanga_img_horizontal-Manhua-Different-Kings.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/different-kings/"
+    },
+    {
+      "judul": "Himegasaki Sakurako wa Kyoumo Fubin Kawaii!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhimegasaki-sakurako-wa-kyoumo-fubin-kawaii%2Fmanga_img_horizontal-Komik-Himegasaki-Sakurako-wa-Kyoumo-Fubin-Kawaii.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/himegasaki-sakurako-wa-kyoumo-fubin-kawaii/"
+    },
+    {
+      "judul": "Nibanme na Boku to Ichiban no Kanojo",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fnibanme_na_boku_to_ichiban_no_kanojo%2Fimg_68c5352ab26667.83173713.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/nibanme-na-boku-to-ichiban-no-kanojo/"
+    },
+    {
+      "judul": "Mikadono Sanshimai wa Angai, Choroi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmikadono-sanshimai-wa-angai-choroi%2Fmanga_img_horizontal-Mikadono-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mikadono-sanshimai-wa-angai-choroi/"
+    },
+    {
+      "judul": "1-nen A-gumi no Monster",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2F1-nen-a-gumi-no-monster%2Fmanga_img_horizontal-Manga-1-nen-A-gumi-no-Monster.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/1-nen-a-gumi-no-monster/"
+    },
+    {
+      "judul": "Suufungo no Mirai ga Wakaru You ni Natta Kedo, Onnagokoro wa Wakaranai",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsuufungo_no_mirai_ga_wakaru_you_ni_natta_kedo__onnagokoro_wa_wakaranai%2Fimg_6839753eebd977.57319848.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/suufungo-no-mirai-ga-wakaru-you-ni-natta-kedo-onnagokoro-wa-wakaranai/"
+    },
+    {
       "judul": "Wind Breaker (NII Satoru)",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwind-breaker-nii-satoru-indo%2Fmanga_img_horizontal-Back-Wind-Breaker-NII-Satoru.jpg",
@@ -35,13 +84,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmercenary-enrollment%2Fmanga_img_horizontal-Komik-Mercenary-Enrollment-scaled.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/mercenary-enrollment/"
-    },
-    {
-      "judul": "Different Kings",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdifferent-kings%2Fmanga_img_horizontal-Manhua-Different-Kings.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/different-kings/"
     },
     {
       "judul": "Academy’s Undercover Professor",
@@ -98,13 +140,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmaigo_no_onnanoko_o_ie_made_todoketara%2Fimg_68bff71b48f417.90332711.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/maigo-no-onnanoko-o-ie-made-todoketara-genkan-kara-detekita-no-wa-gakunen-ichi-no-bishoujo-deshita/"
-    },
-    {
-      "judul": "Himegasaki Sakurako wa Kyoumo Fubin Kawaii!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhimegasaki-sakurako-wa-kyoumo-fubin-kawaii%2Fmanga_img_horizontal-Komik-Himegasaki-Sakurako-wa-Kyoumo-Fubin-Kawaii.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/himegasaki-sakurako-wa-kyoumo-fubin-kawaii/"
     },
     {
       "judul": "Eiyuu Kyoushitsu",
@@ -226,13 +261,6 @@
       "url": "https://komiku.org/manga/houkago-no-idol-ni-wa-himitsu-ga-aru/"
     },
     {
-      "judul": "1-nen A-gumi no Monster",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2F1-nen-a-gumi-no-monster%2Fmanga_img_horizontal-Manga-1-nen-A-gumi-no-Monster.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/1-nen-a-gumi-no-monster/"
-    },
-    {
       "judul": "Tsumi to Batsu no Spica",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftsumi_to_batsu_no_spica%2Fimg_685207797ca6b8.32409769.jpg",
@@ -350,13 +378,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsuperstar-from-age-0%2Fmanga_img_horizontal-Back-Superstar-From-Age-0.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/superstar-from-age-0/"
-    },
-    {
-      "judul": "Mikadono Sanshimai wa Angai, Choroi",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmikadono-sanshimai-wa-angai-choroi%2Fmanga_img_horizontal-Mikadono-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mikadono-sanshimai-wa-angai-choroi/"
     },
     {
       "judul": "Boku no Suki na Hito ga Suki na Hito",
@@ -884,13 +905,6 @@
       "url": "https://komiku.org/manga/yuumei-vtuber-no-ani-dakedo-nazeka-ore-ga-yuumei-ni-natteita/"
     },
     {
-      "judul": "Suufungo no Mirai ga Wakaru You ni Natta Kedo, Onnagokoro wa Wakaranai",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsuufungo_no_mirai_ga_wakaru_you_ni_natta_kedo__onnagokoro_wa_wakaranai%2Fimg_6839753eebd977.57319848.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/suufungo-no-mirai-ga-wakaru-you-ni-natta-kedo-onnagokoro-wa-wakaranai/"
-    },
-    {
       "judul": "Silent Witch Chinmoku no Majo no Kakushigoto",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsilent-witch-chinmoku-no-majo-no-kakushigoto%2Fmanga_img_horizontal-Silent-Witch-Chinmoku-no-Majo-no-Kakushigoto-2.png",
@@ -1169,13 +1183,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsaikyou-no-maou-ni-kitaerareta-yuusha%2Fmanga_img_horizontal-Komik-Saikyou-No-Maou-Ni-Kitaerareta-Yuusha.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/saikyou-no-maou-ni-kitaerareta-yuusha/"
-    },
-    {
-      "judul": "Nibanme na Boku to Ichiban no Kanojo",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fnibanme_na_boku_to_ichiban_no_kanojo%2Fimg_68c5352ab26667.83173713.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/nibanme-na-boku-to-ichiban-no-kanojo/"
     },
     {
       "judul": "Tobioriru Chokuzen no Doukyuusei ni “Sekkusu Shiyou! ” To Teianshite Mita.",
@@ -1584,13 +1591,6 @@
       "url": "https://komiku.org/manga/yandere-imouto-ni-aisaresugite-kozukuri-kankin-seikatsu/"
     },
     {
-      "judul": "Academy’s Genius Tamer",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Facademys-genius-tamer%2Fmanga_img_horizontal-A1-Academys-Genius-Tamer.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/academys-genius-tamer/"
-    },
-    {
       "judul": "Osananajimi to wa Rabukome ni Naranai",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fosananajimi-to-wa-rabukome-ni-naranai%2Fmanga_img_horizontal-Komik-Osananajimi-to-wa-Rabukome-ni-Naranai.jpg",
@@ -1808,18 +1808,18 @@
       "url": "https://komiku.org/manga/assassination-classroom/"
     },
     {
-      "judul": "Hundred",
+      "judul": "Hard Luck Woman",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
       "tipe": "",
-      "url": "https://komiku.org/manga/hundred/"
+      "url": "https://komiku.org/manga/hard-luck-woman/"
     },
     {
-      "judul": "Houkago no Cinderella-kun",
+      "judul": "Watch Dog",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
       "tipe": "",
-      "url": "https://komiku.org/manga/houkago-no-cinderella-kun/"
+      "url": "https://komiku.org/manga/watch-dog/"
     },
     {
       "judul": "Hard Luck Woman",
