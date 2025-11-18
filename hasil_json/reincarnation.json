@@ -2,11 +2,53 @@
   "success": true,
   "data": [
     {
+      "judul": "Reincarnation Of The Fist King",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Freincarnation_of_the_fist_king%2Fimg_6870c0af55c451.31566960.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/reincarnation-of-the-fist-king/"
+    },
+    {
       "judul": "Different Kings",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdifferent-kings%2Fmanga_img_horizontal-Manhua-Different-Kings.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/different-kings/"
+    },
+    {
+      "judul": "Keep A Low Profile, Sect Leader",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkeep-a-low-profile-sect-leader%2Fmanga_img_horizontal-Komik-Keep-A-Low-Profile-Sect-Leader.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/keep-a-low-profile-sect-leader/"
+    },
+    {
+      "judul": "Youjo Senki",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fyoujo-senki%2Fmanga_img_horizontal-Komik-Youjo-Senki.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/youjo-senki/"
+    },
+    {
+      "judul": "Katsute no Ansatsusha ha Raise de Chigau Ikikata wo",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkatsute_no_ansatsusha_ha_raise_de_chigau_ikikata_wo%2Fimg_68625af27f0826.46709109.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/katsute-no-ansatsusha-ha-raise-de-chigau-ikikata-wo/"
+    },
+    {
+      "judul": "I Reincarnated As The Crazed Heir",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-reincarnated-as-the-crazed-heir%2Fmanga_img_horizontal-Komik-I-Reincarnated-As-The-Crazed-Heir.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/i-reincarnated-as-the-crazed-heir/"
+    },
+    {
+      "judul": "The Ultimate of All Ages",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-ultimate-of-all-ages%2Fmanga_img_horizontal-Komik-The-Ultimate-of-All-Ages.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-ultimate-of-all-ages/"
     },
     {
       "judul": "The Rebirth of the Hero’s Party’s Archmage",
@@ -28,13 +70,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Finfinite-level-up-in-murim%2Fmanga_img_horizontal-Komik-Infinite-Level-Up-in-Murim.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/infinite-level-up-in-murim/"
-    },
-    {
-      "judul": "The Ultimate of All Ages",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-ultimate-of-all-ages%2Fmanga_img_horizontal-Komik-The-Ultimate-of-All-Ages.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-ultimate-of-all-ages/"
     },
     {
       "judul": "Black Corporation: Joseon",
@@ -107,13 +142,6 @@
       "url": "https://komiku.org/manga/tensei-shite-high-elf-ni-narimashitaga-slow-life-wa-120-nen-de-akimashita/"
     },
     {
-      "judul": "Keep A Low Profile, Sect Leader",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkeep-a-low-profile-sect-leader%2Fmanga_img_horizontal-Komik-Keep-A-Low-Profile-Sect-Leader.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/keep-a-low-profile-sect-leader/"
-    },
-    {
       "judul": "The World’s Best Engineer",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-worlds-best-engineer%2Fmanga_img_horizontal-Komik-The-Worlds-Best-Engineer.png",
@@ -170,25 +198,11 @@
       "url": "https://komiku.org/manga/the-second-life-after-awakening/"
     },
     {
-      "judul": "Reincarnation Of The Fist King",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Freincarnation_of_the_fist_king%2Fimg_6870c0af55c451.31566960.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/reincarnation-of-the-fist-king/"
-    },
-    {
       "judul": "Demon Evolution",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdemon-evolution%2Fmanga_img_horizontal-Back-Demon-Evolution-rotated.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/demon-evolution/"
-    },
-    {
-      "judul": "I Reincarnated As The Crazed Heir",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-reincarnated-as-the-crazed-heir%2Fmanga_img_horizontal-Komik-I-Reincarnated-As-The-Crazed-Heir.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/i-reincarnated-as-the-crazed-heir/"
     },
     {
       "judul": "Entomologist in Sichuan Tang Clan",
@@ -238,13 +252,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fakuyaku_no_oujo_ni_tensei_shitakedo__kakushi_chara_ga_kakuretenai%2Fimg_6909e127f359d3.31400195.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/akuyaku-no-oujo-ni-tensei-shitakedo-kakushi-chara-ga-kakuretenai/"
-    },
-    {
-      "judul": "Katsute no Ansatsusha ha Raise de Chigau Ikikata wo",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkatsute_no_ansatsusha_ha_raise_de_chigau_ikikata_wo%2Fimg_68625af27f0826.46709109.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/katsute-no-ansatsusha-ha-raise-de-chigau-ikikata-wo/"
     },
     {
       "judul": "Peerless Heavenly Emperor",
@@ -910,13 +917,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-people-on-earth-are-too-ferocious%2Fmanga_img_horizontal-Komik-The-People-on-Earth-are-Too-Ferocious.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-people-on-earth-are-too-ferocious/"
-    },
-    {
-      "judul": "Youjo Senki",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fyoujo-senki%2Fmanga_img_horizontal-Komik-Youjo-Senki.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/youjo-senki/"
     },
     {
       "judul": "I Have Countless Legendary Swords",

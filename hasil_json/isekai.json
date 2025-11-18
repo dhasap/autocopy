@@ -2,6 +2,20 @@
   "success": true,
   "data": [
     {
+      "judul": "Eleceed",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Feleceed%2Fmanga_img_horizontal-Komik-Eleceed.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/eleceed/"
+    },
+    {
+      "judul": "The Eldest Son of the Marquis House is a Martial Artist",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_eldest_son_of_the_marquis_house_is_a_martial_artist%2Fimg_68bffa4db8c929.95650321.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-eldest-son-of-the-marquis-house-is-a-martial-artist/"
+    },
+    {
       "judul": "God of Martial Arts",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgod-of-martial-arts%2Fmanga_img_horizontal-Manhua-God-of-Martial-Arts.png",
@@ -9,11 +23,25 @@
       "url": "https://komiku.org/manga/god-of-martial-arts/"
     },
     {
-      "judul": "OreAku, Ore wa Seikan Kokka no Akutoku Ryoushu!",
+      "judul": "Isekai Man Chikin – HP 1 no Mama de Saikyou Saisoku Danjon Kouryaku",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Foreaku-ore-wa-seikan-kokka-no-akutoku-ryoushu%2Fmanga_img_horizontal-Jinuj-OreAku-Ore-wa-Seikan-Kokka-no-Akutoku-Ryoushu.jpg",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-man-chikin-hp-1-no-mama-de-saikyou-saisoku-danjon-kouryaku%2Fmanga_img_horizontal-Manga-Isekai-Man-Chikin--HP-1-no-Mama-de-Saikyou-Saisoku-Danjon-Kouryaku.jpg",
       "tipe": "",
-      "url": "https://komiku.org/manga/oreaku-ore-wa-seikan-kokka-no-akutoku-ryoushu/"
+      "url": "https://komiku.org/manga/isekai-man-chikin-hp-1-no-mama-de-saikyou-saisoku-danjon-kouryaku/"
+    },
+    {
+      "judul": "Youjo Senki",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fyoujo-senki%2Fmanga_img_horizontal-Komik-Youjo-Senki.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/youjo-senki/"
+    },
+    {
+      "judul": "Jitsu wa Ore, Saikyou deshita?",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjitsu-wa-ore-saikyou-deshita%2Fmanga_img_horizontal-A1-Jitsu-wa-Ori-Saikyou-deshita.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/jitsu-wa-ore-saikyou-deshita/"
     },
     {
       "judul": "Hazure Waku no “Joutai Ijou Skill” de Saikyou ni Natta Ore ga Subete wo Juurin Suru made",
@@ -21,6 +49,13 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhazure-waku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made%2Fmanga_img_horizontal-Komik-Hazure-Waku-no-Joutai-Ijou-Skill-de-Saikyou-ni-Natta-Ore-ga-Subete-wo-Juurin-Suru-made.png",
       "tipe": "",
       "url": "https://komiku.org/manga/hazure-waku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made/"
+    },
+    {
+      "judul": "OreAku, Ore wa Seikan Kokka no Akutoku Ryoushu!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Foreaku-ore-wa-seikan-kokka-no-akutoku-ryoushu%2Fmanga_img_horizontal-Jinuj-OreAku-Ore-wa-Seikan-Kokka-no-Akutoku-Ryoushu.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/oreaku-ore-wa-seikan-kokka-no-akutoku-ryoushu/"
     },
     {
       "judul": "Hitoribocchi no Isekai Kouryaku",
@@ -163,13 +198,6 @@
       "url": "https://komiku.org/manga/the-heavenly-path-is-not-stupid/"
     },
     {
-      "judul": "The Eldest Son of the Marquis House is a Martial Artist",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_eldest_son_of_the_marquis_house_is_a_martial_artist%2Fimg_68bffa4db8c929.95650321.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-eldest-son-of-the-marquis-house-is-a-martial-artist/"
-    },
-    {
       "judul": "Shoki Skill Ga Benri Sugite Isekai Seikatsu Ga Tanoshisugiru!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshoki-skill-ga-benri-sugite-isekai-seikatsu-ga-tanoshisugiru%2Fmanga_img_horizontal-Komik-Shoki-Skill-Ga-Benri-Sugite-Isekai-Seikatsu-Ga-Tanoshisugiru.jpg",
@@ -252,13 +280,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Farchmage-restaurant%2Fmanga_img_horizontal-Back-Archmage-Restaurant.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/archmage-restaurant/"
-    },
-    {
-      "judul": "Eleceed",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Feleceed%2Fmanga_img_horizontal-Komik-Eleceed.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/eleceed/"
     },
     {
       "judul": "Sword King",
@@ -588,13 +609,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkujibiki-tokushou-musou-harem-ken%2Fmanga_img_horizontal-Manga-Kujibiki-Tokushou-Musou-Harem-ken.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/kujibiki-tokushou-musou-harem-ken/"
-    },
-    {
-      "judul": "Jitsu wa Ore, Saikyou deshita?",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjitsu-wa-ore-saikyou-deshita%2Fmanga_img_horizontal-A1-Jitsu-wa-Ori-Saikyou-deshita.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/jitsu-wa-ore-saikyou-deshita/"
     },
     {
       "judul": "My Death Flags Show No Sign of Ending",
@@ -1981,13 +1995,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftsuyokute-new-saga%2Fmanga_img_horizontal-Manga-Tsuyokute-New-Saga.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/tsuyokute-new-saga/"
-    },
-    {
-      "judul": "Isekai Man Chikin – HP 1 no Mama de Saikyou Saisoku Danjon Kouryaku",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-man-chikin-hp-1-no-mama-de-saikyou-saisoku-danjon-kouryaku%2Fmanga_img_horizontal-Manga-Isekai-Man-Chikin--HP-1-no-Mama-de-Saikyou-Saisoku-Danjon-Kouryaku.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isekai-man-chikin-hp-1-no-mama-de-saikyou-saisoku-danjon-kouryaku/"
     },
     {
       "judul": "Release That Witch",
@@ -3549,13 +3556,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmaou-sama-no-machizukuri-saikyou-no-danjon-wa-kindai-toshi%2Fmanga_img_horizontal-Komik-Maou-sama-no-Machizukuri-Saikyou-no-Danjon-wa-Kindai-Toshi.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/maou-sama-no-machizukuri-saikyou-no-danjon-wa-kindai-toshi/"
-    },
-    {
-      "judul": "Youjo Senki",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fyoujo-senki%2Fmanga_img_horizontal-Komik-Youjo-Senki.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/youjo-senki/"
     },
     {
       "judul": "Itsu Demo Jitaku ni Kaereru Ore wa, Isekai de Gyoushoujin o Hajimemashita",

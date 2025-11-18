@@ -2,6 +2,13 @@
   "success": true,
   "data": [
     {
+      "judul": "Rebuild World",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Frebuild-world%2Fmanga_img_horizontal-Manga-Rebuild-World.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/rebuild-world/"
+    },
+    {
       "judul": "OreAku, Ore wa Seikan Kokka no Akutoku Ryoushu!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Foreaku-ore-wa-seikan-kokka-no-akutoku-ryoushu%2Fmanga_img_horizontal-Jinuj-OreAku-Ore-wa-Seikan-Kokka-no-Akutoku-Ryoushu.jpg",
@@ -161,13 +168,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmezametara-saikyou-soubi-to-uchuusen-mochi-datta-no-de%2Fmanga_img_horizontal-Komik-Mezametara-Saikyou-Soubi-to-Uchuusen-mochi-datta-no-de.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/mezametara-saikyou-soubi-to-uchuusen-mochi-datta-no-de/"
-    },
-    {
-      "judul": "Rebuild World",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Frebuild-world%2Fmanga_img_horizontal-Manga-Rebuild-World.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/rebuild-world/"
     },
     {
       "judul": "Steel Covenant",
