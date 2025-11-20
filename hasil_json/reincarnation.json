@@ -2,6 +2,13 @@
   "success": true,
   "data": [
     {
+      "judul": "The World’s Best Engineer",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-worlds-best-engineer%2Fmanga_img_horizontal-Komik-The-Worlds-Best-Engineer.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-worlds-best-engineer/"
+    },
+    {
       "judul": "Different Kings",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdifferent-kings%2Fmanga_img_horizontal-Manhua-Different-Kings.jpg",
@@ -9,11 +16,18 @@
       "url": "https://komiku.org/manga/different-kings/"
     },
     {
-      "judul": "Keep A Low Profile, Sect Leader",
+      "judul": "Absolute Sword Sense",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkeep-a-low-profile-sect-leader%2Fmanga_img_horizontal-Komik-Keep-A-Low-Profile-Sect-Leader.jpg",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fabsolute-sword-sense%2Fmanga_img_horizontal-Komik-Absolute-Sword-Sense.jpg",
       "tipe": "",
-      "url": "https://komiku.org/manga/keep-a-low-profile-sect-leader/"
+      "url": "https://komiku.org/manga/absolute-sword-sense/"
+    },
+    {
+      "judul": "My Disciples Are All Big Villains",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmy-disciples-are-all-big-villains%2Fmanga_img_horizontal-My-Disciples-Are-All-Big-Villains-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/my-disciples-are-all-big-villains/"
     },
     {
       "judul": "The Rebirth of the Hero’s Party’s Archmage",
@@ -21,6 +35,34 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-rebirth-of-the-heros-partys-archmage%2Fmanga_img_horizontal-A1-The-Rebirth-of-the-Heros-Partys-Archmage.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-rebirth-of-the-heros-partys-archmage/"
+    },
+    {
+      "judul": "Suterare Saijo Wa Kazoku To Nonbiri Ikiru Koto Ni Shimasu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsuterare_saijo_wa_kazoku_to_nonbiri_ikiru_koto_ni_shimasu%2Fimg_691ee5ba1f1672.38472404.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/suterare-saijo-wa-kazoku-to-nonbiri-ikiru-koto-ni-shimasu/"
+    },
+    {
+      "judul": "Isekai Shounin Skill wo Kushi Shite, Yuuyuu Jiteki na Okanemochi Slow Life wo Okurimasu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fisekai_shounin_skill_wo_kushi_shite%2Fimg_682ae2004e3854.73931491.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-shounin-skill-wo-kushi-shite-yuuyuu-jiteki-na-okanemochi-slow-life-wo-okurimasu/"
+    },
+    {
+      "judul": "Taidana Akuyaku Kizoku no Ore ni, Konyaku Hakisareta Akuyaku Reijo ga Totsuidara Saikyo no Fufu ni Narimashita",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftaidana_akuyaku_kizoku_no_ore_ni%2Fimg_6835689dc42799.44997744.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/taidana-akuyaku-kizoku-no-ore-ni-konyaku-hakisareta-akuyaku-reijo-ga-totsuidara-saikyo-no-fufu-ni-narimashita/"
+    },
+    {
+      "judul": "Keep A Low Profile, Sect Leader",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkeep-a-low-profile-sect-leader%2Fmanga_img_horizontal-Komik-Keep-A-Low-Profile-Sect-Leader.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/keep-a-low-profile-sect-leader/"
     },
     {
       "judul": "Reincarnation Of The Fist King",
@@ -86,13 +128,6 @@
       "url": "https://komiku.org/manga/dukedoms-legendary-prodigy/"
     },
     {
-      "judul": "My Disciples Are All Big Villains",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmy-disciples-are-all-big-villains%2Fmanga_img_horizontal-My-Disciples-Are-All-Big-Villains-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/my-disciples-are-all-big-villains/"
-    },
-    {
       "judul": "The Reincarnated Cop Who Strikes With Wealth",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-reincarnated-cop-who-strikes-with-wealth%2Fmanga_img_horizontal-A1-The-Reincarnated-Cop-Who-Strikes-With-Wealth.jpg",
@@ -142,13 +177,6 @@
       "url": "https://komiku.org/manga/tensei-shite-high-elf-ni-narimashitaga-slow-life-wa-120-nen-de-akimashita/"
     },
     {
-      "judul": "The World’s Best Engineer",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-worlds-best-engineer%2Fmanga_img_horizontal-Komik-The-Worlds-Best-Engineer.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-worlds-best-engineer/"
-    },
-    {
       "judul": "Became The Patron Of Villains",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fbecame_the_patron_of_villains%2Fimg_68fb1d5e502852.59335810.jpg",
@@ -168,20 +196,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ffrom-goblin-to-goblin-god%2Fmanga_img_horizontal-A1-From-Goblin-to-Goblin-God.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/from-goblin-to-goblin-god/"
-    },
-    {
-      "judul": "Absolute Sword Sense",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fabsolute-sword-sense%2Fmanga_img_horizontal-Komik-Absolute-Sword-Sense.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/absolute-sword-sense/"
-    },
-    {
-      "judul": "Isekai Shounin Skill wo Kushi Shite, Yuuyuu Jiteki na Okanemochi Slow Life wo Okurimasu",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fisekai_shounin_skill_wo_kushi_shite%2Fimg_682ae2004e3854.73931491.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isekai-shounin-skill-wo-kushi-shite-yuuyuu-jiteki-na-okanemochi-slow-life-wo-okurimasu/"
     },
     {
       "judul": "Netorare Manga no Kuzu Otoko ni Tensei Shitaa Hazu ga Heroine ga Yottekuru Ken",
@@ -280,13 +294,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fyuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita%2Fmanga_img_horizontal-Back-Yuusha-ni-Zenbu-Ubawareta-Ore-wa-Yuusha-no-Hahaoya.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/yuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita/"
-    },
-    {
-      "judul": "Taidana Akuyaku Kizoku no Ore ni, Konyaku Hakisareta Akuyaku Reijo ga Totsuidara Saikyo no Fufu ni Narimashita",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftaidana_akuyaku_kizoku_no_ore_ni%2Fimg_6835689dc42799.44997744.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/taidana-akuyaku-kizoku-no-ore-ni-konyaku-hakisareta-akuyaku-reijo-ga-totsuidara-saikyo-no-fufu-ni-narimashita/"
     },
     {
       "judul": "I Was More Overpowered Than The Hero, So I Hid My Power!",
@@ -478,11 +485,11 @@
       "url": "https://komiku.org/manga/yamu-ni-yamarenu/"
     },
     {
-      "judul": "My Sister Is the Main Character",
+      "judul": "Anyone Can See It’s A Beast",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmy_sister_is_the_main_character%2Fimg_683168ad4cb805.42773005.jpg",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fanyone_can_see_it___s_a_beast%2Fimg_68302b6a667071.38602276.jpg",
       "tipe": "",
-      "url": "https://komiku.org/manga/my-sister-is-the-main-character/"
+      "url": "https://komiku.org/manga/anyone-can-see-its-a-beast/"
     },
     {
       "judul": "Anyone Can See It’s A Beast",

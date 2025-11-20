@@ -2,6 +2,34 @@
   "success": true,
   "data": [
     {
+      "judul": "Above the Cloud Sea",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fabove_the_cloud_sea%2Fimg_691ee66514d4c4.35150238.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/above-the-cloud-sea/"
+    },
+    {
+      "judul": "My Clone is the Space Bug King",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmy_clone_is_the_space_bug_king%2Fimg_683436eaed6f35.56127792.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/my-clone-is-the-space-bug-king/"
+    },
+    {
+      "judul": "One Punch Man",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmanga-one-punch-man%2Fmanga_img_horizontal-Manga-One-Punch-Man.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/manga-one-punch-man/"
+    },
+    {
+      "judul": "Legend of Star General",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/legend-of-star-general/"
+    },
+    {
       "judul": "DANDADAN",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdandadan%2Fmanga_img_horizontal-Komik-DANDADAN.jpg",
@@ -58,32 +86,11 @@
       "url": "https://komiku.org/manga/divine-leveling-system/"
     },
     {
-      "judul": "Legend of Star General",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/legend-of-star-general/"
-    },
-    {
       "judul": "Hiding a Logistics Center in the Apocalypse",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhiding-a-logistics-center-in-the-apocalypse%2Fmanga_img_horizontal-A1-Hiding-a-Logistics-Center-in-the-Apocalypse.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/hiding-a-logistics-center-in-the-apocalypse/"
-    },
-    {
-      "judul": "My Clone is the Space Bug King",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmy_clone_is_the_space_bug_king%2Fimg_683436eaed6f35.56127792.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/my-clone-is-the-space-bug-king/"
-    },
-    {
-      "judul": "One Punch Man",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmanga-one-punch-man%2Fmanga_img_horizontal-Manga-One-Punch-Man.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/manga-one-punch-man/"
     },
     {
       "judul": "Ranger Reject (Sentai Daishikkaku)",
