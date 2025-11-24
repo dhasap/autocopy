@@ -2,6 +2,27 @@
   "success": true,
   "data": [
     {
+      "judul": "Jungle Juice",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjungle-juice%2Fmanga_img_horizontal-Komik-Jungle-Juice.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/jungle-juice/"
+    },
+    {
+      "judul": "If AI Rules The World",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fif-ai-rules-the-world%2Fmanga_img_horizontal-Komik-If-AI-Rules-The-World.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/if-ai-rules-the-world/"
+    },
+    {
+      "judul": "Manager Kim",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmanager-kim%2Fmanga_img_horizontal-Komik-Manager-Kim.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/manager-kim/"
+    },
+    {
       "judul": "Cosmic Heavenly Demon 3077",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fcosmic_heavenly_demon_3077%2Fimg_682ef652800800.11159864.jpg",
@@ -93,13 +114,6 @@
       "url": "https://komiku.org/manga/rebuild-world/"
     },
     {
-      "judul": "If AI Rules The World",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fif-ai-rules-the-world%2Fmanga_img_horizontal-Komik-If-AI-Rules-The-World.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/if-ai-rules-the-world/"
-    },
-    {
       "judul": "I Became an Evolving Space Monster",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-became-an-evolving-space-monster%2Fmanga_img_horizontal-Back-I-Became-an-Evolving-Space-Monster.jpg",
@@ -119,20 +133,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhiding-a-logistics-center-in-the-apocalypse%2Fmanga_img_horizontal-A1-Hiding-a-Logistics-Center-in-the-Apocalypse.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/hiding-a-logistics-center-in-the-apocalypse/"
-    },
-    {
-      "judul": "Jungle Juice",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjungle-juice%2Fmanga_img_horizontal-Komik-Jungle-Juice.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/jungle-juice/"
-    },
-    {
-      "judul": "Manager Kim",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmanager-kim%2Fmanga_img_horizontal-Komik-Manager-Kim.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/manager-kim/"
     },
     {
       "judul": "MAD (OOTORI Yuusuke)",
