@@ -2,6 +2,20 @@
   "success": true,
   "data": [
     {
+      "judul": "Legend of Star General",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/legend-of-star-general/"
+    },
+    {
+      "judul": "Divine Leveling System",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdivine-leveling-system%2Fmanga_img_horizontal-Super-God-System-2.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/divine-leveling-system/"
+    },
+    {
       "judul": "A Hero Who Does Everything Well",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fa_hero_who_does_everything_well%2Fimg_68970d201a92a8.13660467.jpg",
@@ -35,13 +49,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_delusional_hunter_in_another_world%2Fimg_6864c2be731811.24099557.png",
       "tipe": "",
       "url": "https://komiku.org/manga/the-delusional-hunter-in-another-world/"
-    },
-    {
-      "judul": "Legend of Star General",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/legend-of-star-general/"
     },
     {
       "judul": "Hero X Demon Empress",
@@ -140,13 +147,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-became-an-evolving-space-monster%2Fmanga_img_horizontal-Back-I-Became-an-Evolving-Space-Monster.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/i-became-an-evolving-space-monster/"
-    },
-    {
-      "judul": "Divine Leveling System",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdivine-leveling-system%2Fmanga_img_horizontal-Super-God-System-2.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/divine-leveling-system/"
     },
     {
       "judul": "Hiding a Logistics Center in the Apocalypse",
