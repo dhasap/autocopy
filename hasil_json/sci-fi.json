@@ -2,6 +2,27 @@
   "success": true,
   "data": [
     {
+      "judul": "Iron Ladies",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Firon-ladies%2Fmanga_img_horizontal-Manhua-Iron-Ladies.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/iron-ladies/"
+    },
+    {
+      "judul": "MAD (OOTORI Yuusuke)",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmad-ootori-yuusuke%2Fmanga_img_horizontal-A1-MAD-OOTORI-Yuusuke.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mad-ootori-yuusuke/"
+    },
+    {
+      "judul": "Steel Covenant",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsteel_covenant%2Fimg_68356b870caba7.41140790.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/steel-covenant/"
+    },
+    {
       "judul": "Mercenary Enrollment",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmercenary-enrollment%2Fmanga_img_horizontal-Komik-Mercenary-Enrollment-scaled.jpg",
@@ -121,13 +142,6 @@
       "url": "https://komiku.org/manga/uchuujin-g-men/"
     },
     {
-      "judul": "MAD (OOTORI Yuusuke)",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmad-ootori-yuusuke%2Fmanga_img_horizontal-A1-MAD-OOTORI-Yuusuke.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mad-ootori-yuusuke/"
-    },
-    {
       "judul": "The Delusional Hunter in Another World",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_delusional_hunter_in_another_world%2Fimg_6864c2be731811.24099557.png",
@@ -203,13 +217,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmezametara-saikyou-soubi-to-uchuusen-mochi-datta-no-de%2Fmanga_img_horizontal-Komik-Mezametara-Saikyou-Soubi-to-Uchuusen-mochi-datta-no-de.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/mezametara-saikyou-soubi-to-uchuusen-mochi-datta-no-de/"
-    },
-    {
-      "judul": "Steel Covenant",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsteel_covenant%2Fimg_68356b870caba7.41140790.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/steel-covenant/"
     },
     {
       "judul": "Houseki no Kuni",
@@ -308,13 +315,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Foverlord_new_world%2Fimg_68625c8b99b7e9.10706927.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/overlord-new-world/"
-    },
-    {
-      "judul": "Iron Ladies",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Firon-ladies%2Fmanga_img_horizontal-Manhua-Iron-Ladies.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/iron-ladies/"
     },
     {
       "judul": "Shinsou no Raputa",
