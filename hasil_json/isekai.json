@@ -2,6 +2,48 @@
   "success": true,
   "data": [
     {
+      "judul": "Next Life",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnext-life%2Fmanga_img_horizontal-Manga-Next-Life.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/next-life/"
+    },
+    {
+      "judul": "Kage no Jitsuryokusha ni Naritakute! Shichikage Retsuden",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkage_no_jitsuryokusha_ni_naritakute__shichikage_retsuden%2Fimg_6853d5b6909830.57740473.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kage-no-jitsuryokusha-ni-naritakute-shichikage-retsuden/"
+    },
+    {
+      "judul": "Meccha Shoukan Sareta Ken",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmeccha-shoukan-sareta-ken%2Fmanga_img_horizontal-Meccha-Shoukan-Panjang.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/meccha-shoukan-sareta-ken/"
+    },
+    {
+      "judul": "I’m Not The Overlord",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fim-not-the-overlord%2Fmanga_img_horizontal-Komik-Im-Not-The-Overlord.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/im-not-the-overlord/"
+    },
+    {
+      "judul": "Sword King",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fotherworldly-sword-kings-survival-records%2Fmanga_img_horizontal-Komik-Sword-King.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/otherworldly-sword-kings-survival-records/"
+    },
+    {
+      "judul": "Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru ~Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru~",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsono-akuyaku-kizoku-mama-heroine-ga-suki-sugiru-shinshi-na-doryoku-de-saikyou-to-nari-fuguu-na-oshi-chara-tasukemakuru%2Fmanga_img_horizontal-A1-Sono-Akuyaku-Kizoku-Mama-Heroine-ga-Suki-Sugiru.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/sono-akuyaku-kizoku-mama-heroine-ga-suki-sugiru-shinshi-na-doryoku-de-saikyou-to-nari-fuguu-na-oshi-chara-tasukemakuru/"
+    },
+    {
       "judul": "Akuyaku Reijou wa Slow Life o Enjoy Shitai!: Yatto Kon’yaku Hakisareta no ni, Daini Ouji ga Meccha Stalker Shitekurun desu kedo",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fakuyaku-reijou-wa-slow-life-o-enjoy-shitai-yatto-konyaku-hakisareta-no-ni-daini-ouji-ga-meccha-stalker-shitekurun-desu-kedo%2Fmanga_img_horizontal-A1-Akuyaku-Reijou-wa-Slow-Life-o-Enjoy-Shitai.jpg",
@@ -28,13 +70,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgame_sekai_de_mamono_ni_tensei_shite_shimatta_ore__zense_de_oshi_datta_heroine_wo_hirotte_shimau%2Fimg_69217f0d920bf9.35938105.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/game-sekai-de-mamono-ni-tensei-shite-shimatta-ore-zense-de-oshi-datta-heroine-wo-hirotte-shimau/"
-    },
-    {
-      "judul": "Next Life",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnext-life%2Fmanga_img_horizontal-Manga-Next-Life.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/next-life/"
     },
     {
       "judul": "The Lord’s Coins Aren’t Decreasing?!",
@@ -212,18 +247,18 @@
       "url": "https://komiku.org/manga/supreme-curse-master/"
     },
     {
-      "judul": "Negatte mo Nai Tsuihou Go kara no Slow Life? Intai Shita Hazu ga Nariyuki de Bishoujo Gal no Shishou ni Nattara Naze ka Mechakucha Natsukareta",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fnegatte_mo_nai_tsuihou_go_kara_no_slow_life%2Fimg_682c2003ae04b0.08215220.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/negatte-mo-nai-tsuihou-go-kara-no-slow-life-intai-shita-hazu-ga-nariyuki-de-bishoujo-gal-no-shishou-ni-nattara-naze-ka-mechakucha-natsukareta/"
-    },
-    {
       "judul": "Yarikonda ren’ai game no akuyaku ni tensei shita node, gensaku chishiki de hiroin o kōryaku shimasu",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fyarikonda_ren___ai_game_no_akuyaku_ni_tensei_shita_node%2Fimg_68333b8b9ccc83.17037074.png",
       "tipe": "",
       "url": "https://komiku.org/manga/yarikonda-renai-game-no-akuyaku-ni-tensei-shita-node-gensaku-chishiki-de-hiroin-o-koryaku-shimasu/"
+    },
+    {
+      "judul": "Negatte mo Nai Tsuihou Go kara no Slow Life? Intai Shita Hazu ga Nariyuki de Bishoujo Gal no Shishou ni Nattara Naze ka Mechakucha Natsukareta",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fnegatte_mo_nai_tsuihou_go_kara_no_slow_life%2Fimg_682c2003ae04b0.08215220.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/negatte-mo-nai-tsuihou-go-kara-no-slow-life-intai-shita-hazu-ga-nariyuki-de-bishoujo-gal-no-shishou-ni-nattara-naze-ka-mechakucha-natsukareta/"
     },
     {
       "judul": "Kaifuku Jutsushi Yarinaoshi: Sokushi Mahou to Skill Copy no Chouetsu Heal",
@@ -252,13 +287,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Farchmage-restaurant%2Fmanga_img_horizontal-Back-Archmage-Restaurant.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/archmage-restaurant/"
-    },
-    {
-      "judul": "Sword King",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fotherworldly-sword-kings-survival-records%2Fmanga_img_horizontal-Komik-Sword-King.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/otherworldly-sword-kings-survival-records/"
     },
     {
       "judul": "Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita",
@@ -513,13 +541,6 @@
       "url": "https://komiku.org/manga/kuma-kuma-kuma-bear/"
     },
     {
-      "judul": "Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru ~Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru~",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsono-akuyaku-kizoku-mama-heroine-ga-suki-sugiru-shinshi-na-doryoku-de-saikyou-to-nari-fuguu-na-oshi-chara-tasukemakuru%2Fmanga_img_horizontal-A1-Sono-Akuyaku-Kizoku-Mama-Heroine-ga-Suki-Sugiru.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/sono-akuyaku-kizoku-mama-heroine-ga-suki-sugiru-shinshi-na-doryoku-de-saikyou-to-nari-fuguu-na-oshi-chara-tasukemakuru/"
-    },
-    {
       "judul": "Gacha wo Mawashite Nakama wo Fuyasu Saikyou no Bishoujo Gundan wo Tsukuriagero",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgacha-wo-mawashite-nakama-wo-fuyasu-saikyou-no-bishoujo-gundan-wo-tsukuriagero%2Fmanga_img_horizontal-Komik-Gacha-wo-Mawashite-Nakama-wo-Fuyasu-Saikyou-no-Bishoujo-Gundan-wo-Tsukuriagero.jpg",
@@ -630,13 +651,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Foreaku-ore-wa-seikan-kokka-no-akutoku-ryoushu%2Fmanga_img_horizontal-Jinuj-OreAku-Ore-wa-Seikan-Kokka-no-Akutoku-Ryoushu.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/oreaku-ore-wa-seikan-kokka-no-akutoku-ryoushu/"
-    },
-    {
-      "judul": "Kage no Jitsuryokusha ni Naritakute! Shichikage Retsuden",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkage_no_jitsuryokusha_ni_naritakute__shichikage_retsuden%2Fimg_6853d5b6909830.57740473.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kage-no-jitsuryokusha-ni-naritakute-shichikage-retsuden/"
     },
     {
       "judul": "Nade Nade Skill de Maryoku Chuunyuu!!",
@@ -1148,13 +1162,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fi_am_a_max-level_priestess_in_another_world%2Fimg_68550e49e5dcd3.94327507.png",
       "tipe": "",
       "url": "https://komiku.org/manga/i-am-a-max-level-priestess-in-another-world/"
-    },
-    {
-      "judul": "Meccha Shoukan Sareta Ken",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmeccha-shoukan-sareta-ken%2Fmanga_img_horizontal-Meccha-Shoukan-Panjang.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/meccha-shoukan-sareta-ken/"
     },
     {
       "judul": "Hachinan tte Sore wa Nai Deshou",
@@ -3136,13 +3143,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-de-item-collector%2Fmanga_img_horizontal-Komik-Isekai-de-Item-Collector.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/isekai-de-item-collector/"
-    },
-    {
-      "judul": "I’m Not The Overlord",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fim-not-the-overlord%2Fmanga_img_horizontal-Komik-Im-Not-The-Overlord.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/im-not-the-overlord/"
     },
     {
       "judul": "Kamitachi ni Hirowareta Otoko",
