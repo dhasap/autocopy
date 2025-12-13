@@ -2,6 +2,62 @@
   "success": true,
   "data": [
     {
+      "judul": "Kuma Kuma Kuma Bear",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkuma-kuma-kuma-bear%2Fmanga_img_horizontal-Komik-Kuma-Kuma-Kuma-Bear.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kuma-kuma-kuma-bear/"
+    },
+    {
+      "judul": "I Became the Tyrant of a Defense Game",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-became-the-tyrant-of-a-defense-game%2Fmanga_img_horizontal-Komik-I-Became-the-Tyrant-of-a-Defense-Game.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/i-became-the-tyrant-of-a-defense-game/"
+    },
+    {
+      "judul": "Nani mo Wakaranai",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fnani_mo_wakaranai%2Fimg_693d24226ee9e0.36297942.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/nani-mo-wakaranai/"
+    },
+    {
+      "judul": "Henkyou Gurashi no Maou, Tensei shite Saikyou no Majutsushi ni naru 〜Aisarenagara Nariagaru Moto Maō wa, Ningen o Shiritai〜",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhenkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru-aisarenagara-nariagaru-moto-mao-wa-ningen-o-shiritai%2Fmanga_img_horizontal-Komik-Henkyou-Gurashi-no-Maou-Tensei-shite-Saikyou-no-Majutsushi-ni-naru.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/henkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru-%e3%80%9caisarenagara-nariagaru-moto-mao-wa-ningen-o-shiritai%e3%80%9c/"
+    },
+    {
+      "judul": "World Teacher: Isekaishiki Kyouiku Agent",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fworld-teacher-isekaishiki-kyouiku-agent%2Fmanga_img_horizontal-Komik-World-Teacher-Isekaishiki-Kyouiku-Agent.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/world-teacher-isekaishiki-kyouiku-agent/"
+    },
+    {
+      "judul": "Tensei shitara Dragon no Tamago datta: Saikyou Igai Mezasanee",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftensei-shitara-dragon-no-tamago-datta-saikyou-igai-mezasanee%2Fmanga_img_horizontal-Manga-Tensei-shitara-Dragon-no-Tamago-datta-Saikyou-Igai-Mezasanee.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/tensei-shitara-dragon-no-tamago-datta-saikyou-igai-mezasanee/"
+    },
+    {
+      "judul": "Saikyou No Maou Ni Kitaerareta Yuusha",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsaikyou-no-maou-ni-kitaerareta-yuusha%2Fmanga_img_horizontal-Komik-Saikyou-No-Maou-Ni-Kitaerareta-Yuusha.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/saikyou-no-maou-ni-kitaerareta-yuusha/"
+    },
+    {
+      "judul": "Kyou Senshina Mob, Mujikaku ni Honpen wo Hakai Suru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkyou-senshina-mob-mujikaku-ni-honpen-wo-hakai-suru%2Fmanga_img_horizontal-A1-Kyou-Senshina-Mob-Mujikaku-ni-Honpen-wo-Hakai-Suru.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kyou-senshina-mob-mujikaku-ni-honpen-wo-hakai-suru/"
+    },
+    {
       "judul": "Isekai ni Kita Mitai dakedo Ikan Sureba Yoi no Darou",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-ni-kita-mitai-dakedo-ikan-sureba-yoi-no-darou%2Fmanga_img_horizontal-Manga-Isekai-ni-Kita-Mitai-dakedo-Ikan-Sureba-Yoi-no-Darou.jpg",
@@ -30,13 +86,6 @@
       "url": "https://komiku.org/manga/arifureta-shokugyou-de-sekai-saikyou/"
     },
     {
-      "judul": "Tensei shitara Dragon no Tamago datta: Saikyou Igai Mezasanee",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftensei-shitara-dragon-no-tamago-datta-saikyou-igai-mezasanee%2Fmanga_img_horizontal-Manga-Tensei-shitara-Dragon-no-Tamago-datta-Saikyou-Igai-Mezasanee.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/tensei-shitara-dragon-no-tamago-datta-saikyou-igai-mezasanee/"
-    },
-    {
       "judul": "Isekai Meikyuu no Saishinbu o Mezasou",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-meikyuu-no-saishinbu-o-mezasou%2Fmanga_img_horizontal-Komik-Isekai-Meikyuu-no-Saishinbu-o-Mezasou-1.jpg",
@@ -56,13 +105,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-was-more-overpowered-than-the-hero-so-i-hid-my-power%2Fmanga_img_horizontal-Back-I-Was-More-Overpowered-Than-The-Hero-So-I-Hid-My-Power.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/i-was-more-overpowered-than-the-hero-so-i-hid-my-power/"
-    },
-    {
-      "judul": "World Teacher: Isekaishiki Kyouiku Agent",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fworld-teacher-isekaishiki-kyouiku-agent%2Fmanga_img_horizontal-Komik-World-Teacher-Isekaishiki-Kyouiku-Agent.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/world-teacher-isekaishiki-kyouiku-agent/"
     },
     {
       "judul": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru",
@@ -569,13 +611,6 @@
       "url": "https://komiku.org/manga/tanbo-de-hirotta-onna-kishi-inaka-de-ore-no-yome-da-to-omowareteiru/"
     },
     {
-      "judul": "Kuma Kuma Kuma Bear",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkuma-kuma-kuma-bear%2Fmanga_img_horizontal-Komik-Kuma-Kuma-Kuma-Bear.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kuma-kuma-kuma-bear/"
-    },
-    {
       "judul": "Gacha wo Mawashite Nakama wo Fuyasu Saikyou no Bishoujo Gundan wo Tsukuriagero",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgacha-wo-mawashite-nakama-wo-fuyasu-saikyou-no-bishoujo-gundan-wo-tsukuriagero%2Fmanga_img_horizontal-Komik-Gacha-wo-Mawashite-Nakama-wo-Fuyasu-Saikyou-no-Bishoujo-Gundan-wo-Tsukuriagero.jpg",
@@ -651,13 +686,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-izakaya-nobu%2Fmanga_img_horizontal-Komik-Isekai-Izakaya-Nobu.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/isekai-izakaya-nobu/"
-    },
-    {
-      "judul": "Kyou Senshina Mob, Mujikaku ni Honpen wo Hakai Suru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkyou-senshina-mob-mujikaku-ni-honpen-wo-hakai-suru%2Fmanga_img_horizontal-A1-Kyou-Senshina-Mob-Mujikaku-ni-Honpen-wo-Hakai-Suru.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kyou-senshina-mob-mujikaku-ni-honpen-wo-hakai-suru/"
     },
     {
       "judul": "Neko Neko Youjo no Aijou Gohan ~Isekai de Mofumofu-tachi ni Ryouri wo Tsukurimasu!~",
@@ -910,13 +938,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-ojisan%2Fmanga_img_horizontal-Komik-Isekai-Ojisan.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/isekai-ojisan/"
-    },
-    {
-      "judul": "I Became the Tyrant of a Defense Game",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-became-the-tyrant-of-a-defense-game%2Fmanga_img_horizontal-Komik-I-Became-the-Tyrant-of-a-Defense-Game.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/i-became-the-tyrant-of-a-defense-game/"
     },
     {
       "judul": "Isekai de Kojiin wo Hiraita kedo, Naze ka Darehitori Sudatou to Shinai Ken",
@@ -1183,13 +1204,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhachinan-tte-sore-wa-nai-deshou%2Fmanga_img_horizontal-Manga-Hachinan-tte-Sore-wa-Nai-Deshou.png",
       "tipe": "",
       "url": "https://komiku.org/manga/hachinan-tte-sore-wa-nai-deshou/"
-    },
-    {
-      "judul": "Saikyou No Maou Ni Kitaerareta Yuusha",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsaikyou-no-maou-ni-kitaerareta-yuusha%2Fmanga_img_horizontal-Komik-Saikyou-No-Maou-Ni-Kitaerareta-Yuusha.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/saikyou-no-maou-ni-kitaerareta-yuusha/"
     },
     {
       "judul": "Saikyou Kyuutei Shinan-yaku no Ossan, Tsuihousareta Hekichi de Musou Suru ~Maboroshi to Natta Shuzoku no Bishoujo-tachi wo Sodatete Henkyou wo Kaitaku~",
@@ -3339,13 +3353,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-kings-beloved-daughter%2Fmanga_img_horizontal-Komik-The-Kings-Beloved-Daughter.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-kings-beloved-daughter/"
-    },
-    {
-      "judul": "Henkyou Gurashi no Maou, Tensei shite Saikyou no Majutsushi ni naru 〜Aisarenagara Nariagaru Moto Maō wa, Ningen o Shiritai〜",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhenkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru-aisarenagara-nariagaru-moto-mao-wa-ningen-o-shiritai%2Fmanga_img_horizontal-Komik-Henkyou-Gurashi-no-Maou-Tensei-shite-Saikyou-no-Majutsushi-ni-naru.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/henkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru-%e3%80%9caisarenagara-nariagaru-moto-mao-wa-ningen-o-shiritai%e3%80%9c/"
     },
     {
       "judul": "Super Mechanic (The Legendary Mechanic)",
