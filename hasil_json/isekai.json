@@ -2,6 +2,62 @@
   "success": true,
   "data": [
     {
+      "judul": "Isekai Kuimetsu no Same",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fisekai_kuimetsu_no_same%2Fimg_68db8cfdcf3637.77599681.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-kuimetsu-no-same/"
+    },
+    {
+      "judul": "Henkyou Mob Kizoku no Uchi ni Totsui de Kita Akuyaku Reijou ga, Mechakucha Dekiru Yoi Yome Nandaga?",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhenkyou_mob_kizoku_no_uchi_ni_totsui_de_kita_akuyaku_reijou_ga__mechakucha_dekiru_yoi_yome_nandaga_%2Fimg_687e006d372865.10459563.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/henkyou-mob-kizoku-no-uchi-ni-totsui-de-kita-akuyaku-reijou-ga-mechakucha-dekiru-yoi-yome-nandaga/"
+    },
+    {
+      "judul": "Supreme Curse Master",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsupreme_curse_master%2Fimg_682a1c9c218ad3.60673892.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/supreme-curse-master/"
+    },
+    {
+      "judul": "Maou ni Natte node – Dungeon Tsukutte Jingai Musume to Honobono suru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmaou-ni-natte-node-dungeon-tsukutte-jingai-musume-to-honobono-suru%2Fmanga_img_horizontal-Manga-Maou-ni-Natte-node--Dungeon-Tsukutte-Jingai-Musume-to-Honobono-suru.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/maou-ni-natte-node-dungeon-tsukutte-jingai-musume-to-honobono-suru/"
+    },
+    {
+      "judul": "Henkyou Gurashi no Maou, Tensei shite Saikyou no Majutsushi ni naru 〜Aisarenagara Nariagaru Moto Maō wa, Ningen o Shiritai〜",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhenkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru-aisarenagara-nariagaru-moto-mao-wa-ningen-o-shiritai%2Fmanga_img_horizontal-Komik-Henkyou-Gurashi-no-Maou-Tensei-shite-Saikyou-no-Majutsushi-ni-naru.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/henkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru-%e3%80%9caisarenagara-nariagaru-moto-mao-wa-ningen-o-shiritai%e3%80%9c/"
+    },
+    {
+      "judul": "Nani mo Wakaranai",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fnani_mo_wakaranai%2Fimg_693d24226ee9e0.36297942.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/nani-mo-wakaranai/"
+    },
+    {
+      "judul": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgaikotsu-kishi-sama-tadaima-isekai-e-odekake-chuu%2Fmanga_img_horizontal-Manga-Gaikotsu-Kishi-sama-Tadaima-Isekai-e-Odekake-chuu.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/gaikotsu-kishi-sama-tadaima-isekai-e-odekake-chuu/"
+    },
+    {
+      "judul": "Academy’s Undercover Professor",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Facademys-undercover-professor%2Fmanga_img_horizontal-Komik-Academys-Undercover-Professor.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/academys-undercover-professor/"
+    },
+    {
       "judul": "Kuma Kuma Kuma Bear",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkuma-kuma-kuma-bear%2Fmanga_img_horizontal-Komik-Kuma-Kuma-Kuma-Bear.png",
@@ -14,20 +70,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-became-the-tyrant-of-a-defense-game%2Fmanga_img_horizontal-Komik-I-Became-the-Tyrant-of-a-Defense-Game.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/i-became-the-tyrant-of-a-defense-game/"
-    },
-    {
-      "judul": "Nani mo Wakaranai",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fnani_mo_wakaranai%2Fimg_693d24226ee9e0.36297942.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/nani-mo-wakaranai/"
-    },
-    {
-      "judul": "Henkyou Gurashi no Maou, Tensei shite Saikyou no Majutsushi ni naru 〜Aisarenagara Nariagaru Moto Maō wa, Ningen o Shiritai〜",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhenkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru-aisarenagara-nariagaru-moto-mao-wa-ningen-o-shiritai%2Fmanga_img_horizontal-Komik-Henkyou-Gurashi-no-Maou-Tensei-shite-Saikyou-no-Majutsushi-ni-naru.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/henkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru-%e3%80%9caisarenagara-nariagaru-moto-mao-wa-ningen-o-shiritai%e3%80%9c/"
     },
     {
       "judul": "World Teacher: Isekaishiki Kyouiku Agent",
@@ -219,13 +261,6 @@
       "url": "https://komiku.org/manga/isekai-ryouridou/"
     },
     {
-      "judul": "Isekai Kuimetsu no Same",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fisekai_kuimetsu_no_same%2Fimg_68db8cfdcf3637.77599681.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isekai-kuimetsu-no-same/"
-    },
-    {
       "judul": "Isekai Nonbiri Nouka",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2F51233-isekai-nonbiri-nouka%2Fmanga_img_horizontal-Manga-Isekai-Nonbiri-Nouka.jpg",
@@ -273,13 +308,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhealing-life-through-camping-in-another-world%2Fmanga_img_horizontal-A1-Healing-Life-Through-Camping-in-Another-World.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/healing-life-through-camping-in-another-world/"
-    },
-    {
-      "judul": "Academy’s Undercover Professor",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Facademys-undercover-professor%2Fmanga_img_horizontal-Komik-Academys-Undercover-Professor.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/academys-undercover-professor/"
     },
     {
       "judul": "God of Martial Arts",
@@ -343,13 +371,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftaida_na_akujo_kizoku_ni_tensei_shita_ore%2Fimg_68492db7b9c6a3.13352395.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/taida-na-akujo-kizoku-ni-tensei-shita-ore-shinario-o-bukko-wa-shitara-kikaku-gai-no-maryoku-de-saikyou-ni-natta/"
-    },
-    {
-      "judul": "Supreme Curse Master",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsupreme_curse_master%2Fimg_682a1c9c218ad3.60673892.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/supreme-curse-master/"
     },
     {
       "judul": "Yarikonda ren’ai game no akuyaku ni tensei shita node, gensaku chishiki de hiroin o kōryaku shimasu",
@@ -758,13 +779,6 @@
       "url": "https://komiku.org/manga/makikomarete-isekai-teni-suru-yatsu-wa-taitei-cheat/"
     },
     {
-      "judul": "Henkyou Mob Kizoku no Uchi ni Totsui de Kita Akuyaku Reijou ga, Mechakucha Dekiru Yoi Yome Nandaga?",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhenkyou_mob_kizoku_no_uchi_ni_totsui_de_kita_akuyaku_reijou_ga__mechakucha_dekiru_yoi_yome_nandaga_%2Fimg_687e006d372865.10459563.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/henkyou-mob-kizoku-no-uchi-ni-totsui-de-kita-akuyaku-reijou-ga-mechakucha-dekiru-yoi-yome-nandaga/"
-    },
-    {
       "judul": "Hazure Waku no “Joutai Ijou Skill” de Saikyou ni Natta Ore ga Subete wo Juurin Suru made",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhazure-waku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made%2Fmanga_img_horizontal-Komik-Hazure-Waku-no-Joutai-Ijou-Skill-de-Saikyou-ni-Natta-Ore-ga-Subete-wo-Juurin-Suru-made.png",
@@ -959,13 +973,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha%2Fmanga_img_horizontal-Manga-Sekai-Saikyou-no-Kouei-Meikyuukoku-no-Shinjin-Tansakusha.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/sekai-saikyou-no-kouei-meikyuukoku-no-shinjin-tansakusha/"
-    },
-    {
-      "judul": "Maou ni Natte node – Dungeon Tsukutte Jingai Musume to Honobono suru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmaou-ni-natte-node-dungeon-tsukutte-jingai-musume-to-honobono-suru%2Fmanga_img_horizontal-Manga-Maou-ni-Natte-node--Dungeon-Tsukutte-Jingai-Musume-to-Honobono-suru.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/maou-ni-natte-node-dungeon-tsukutte-jingai-musume-to-honobono-suru/"
     },
     {
       "judul": "Sekai Saikyou no Assassin, isekai kizoku ni tensei suru",
@@ -1435,13 +1442,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fseirei-gensouki-minazuki-futago%2Fmanga_img_horizontal-Komik-Seirei-Gensouki-Minazuki-Futago.png",
       "tipe": "",
       "url": "https://komiku.org/manga/seirei-gensouki-minazuki-futago/"
-    },
-    {
-      "judul": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgaikotsu-kishi-sama-tadaima-isekai-e-odekake-chuu%2Fmanga_img_horizontal-Manga-Gaikotsu-Kishi-sama-Tadaima-Isekai-e-Odekake-chuu.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/gaikotsu-kishi-sama-tadaima-isekai-e-odekake-chuu/"
     },
     {
       "judul": "Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru",
