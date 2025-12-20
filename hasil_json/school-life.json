@@ -2,11 +2,46 @@
   "success": true,
   "data": [
     {
+      "judul": "Academy’s Undercover Professor",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Facademys-undercover-professor%2Fmanga_img_horizontal-Komik-Academys-Undercover-Professor.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/academys-undercover-professor/"
+    },
+    {
+      "judul": "Mercenary Enrollment",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmercenary-enrollment%2Fmanga_img_horizontal-Komik-Mercenary-Enrollment-scaled.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mercenary-enrollment/"
+    },
+    {
       "judul": "Different Kings",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdifferent-kings%2Fmanga_img_horizontal-Manhua-Different-Kings.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/different-kings/"
+    },
+    {
+      "judul": "Transcension Academy",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftranscension-academy%2Fmanga_img_horizontal-TranscensionAcademyPanjang.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/transcension-academy/"
+    },
+    {
+      "judul": "Sasayaku you ni koi wo utau",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsasayaku-you-ni-koi-wo-utau%2Fmanga_img_horizontal-Komik-Sasayaku-you-ni-koi-wo-utau.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/sasayaku-you-ni-koi-wo-utau/"
+    },
+    {
+      "judul": "Osananajimi wo Onnanoko ni Shiteshimatta Hanashi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fosananajimi-wo-onnanoko-ni-shiteshimatta-hanashi%2Fmanga_img_horizontal-Komik-Osananajimi-wo-Onnanoko-ni-Shiteshimatta-Hanashi.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/osananajimi-wo-onnanoko-ni-shiteshimatta-hanashi/"
     },
     {
       "judul": "Kurai Anoko to Shitai koto",
@@ -63,13 +98,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-took-over-the-academy-with-a-single-sashimi-knife%2Fmanga_img_horizontal-A1-I-Took-over-The-Academy-With-a-Single-Sashimi-Knife.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/i-took-over-the-academy-with-a-single-sashimi-knife/"
-    },
-    {
-      "judul": "Transcension Academy",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftranscension-academy%2Fmanga_img_horizontal-TranscensionAcademyPanjang.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/transcension-academy/"
     },
     {
       "judul": "Nee, Mou Isso Tsukiacchau? Osananajimi no Bishoujo ni Tanomarete, Camo Kareshi Hajimemashita",
@@ -322,20 +350,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgod_of_blackfield%2Fimg_690c4bd7bdba47.28412917.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/god-of-blackfield/"
-    },
-    {
-      "judul": "Academy’s Undercover Professor",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Facademys-undercover-professor%2Fmanga_img_horizontal-Komik-Academys-Undercover-Professor.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/academys-undercover-professor/"
-    },
-    {
-      "judul": "Mercenary Enrollment",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmercenary-enrollment%2Fmanga_img_horizontal-Komik-Mercenary-Enrollment-scaled.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mercenary-enrollment/"
     },
     {
       "judul": "Tokidoki Bosotto Roshiago de Dereru Tonari no Alya-san",
@@ -716,13 +730,6 @@
       "url": "https://komiku.org/manga/kusunoki-san-wa-koukou-debut-ni-shippai-shite-iru/"
     },
     {
-      "judul": "Sasayaku you ni koi wo utau",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsasayaku-you-ni-koi-wo-utau%2Fmanga_img_horizontal-Komik-Sasayaku-you-ni-koi-wo-utau.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/sasayaku-you-ni-koi-wo-utau/"
-    },
-    {
       "judul": "Okaeri Alice",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fokaeri-alice%2Fmanga_img_horizontal-Komik-Okaeri-Alice.jpg",
@@ -861,13 +868,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhyoujou-ga-issai-wakaranai-shirogane-san%2Fmanga_img_horizontal-Hyoujou-ga-Issai-Wakaranai-Shirogane-san-2.png",
       "tipe": "",
       "url": "https://komiku.org/manga/hyoujou-ga-issai-wakaranai-shirogane-san/"
-    },
-    {
-      "judul": "Osananajimi wo Onnanoko ni Shiteshimatta Hanashi",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fosananajimi-wo-onnanoko-ni-shiteshimatta-hanashi%2Fmanga_img_horizontal-Komik-Osananajimi-wo-Onnanoko-ni-Shiteshimatta-Hanashi.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/osananajimi-wo-onnanoko-ni-shiteshimatta-hanashi/"
     },
     {
       "judul": "Aishiteru Game wo Owarasetai",
@@ -2046,13 +2046,6 @@
       "url": "https://komiku.org/manga/assassination-classroom/"
     },
     {
-      "judul": "Watch Dog",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/watch-dog/"
-    },
-    {
       "judul": "Hundred",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
@@ -2072,6 +2065,13 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
       "tipe": "",
       "url": "https://komiku.org/manga/hard-luck-woman/"
+    },
+    {
+      "judul": "Watch Dog",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/watch-dog/"
     },
     {
       "judul": "Koi wo Shiranai Bokutachi wa",
@@ -7541,18 +7541,18 @@
       "url": "https://komiku.org/manga/gaijin-chan-to-mushinkei-boyish-chan/"
     },
     {
-      "judul": "Gakkou Gurashi!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgakkou-gurashi%2Fmanga_img_horizontal-Gakkou-Gurashi-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/gakkou-gurashi/"
-    },
-    {
       "judul": "Gakkou Gurashi! – Otayori",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2022%2F10%2FGakkou-Gurashi-%E2%80%93-Otayori-2.png",
       "tipe": "",
       "url": "https://komiku.org/manga/gakkou-gurashi-otayori/"
+    },
+    {
+      "judul": "Gakkou Gurashi!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgakkou-gurashi%2Fmanga_img_horizontal-Gakkou-Gurashi-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/gakkou-gurashi/"
     },
     {
       "judul": "Gal niPA-chan wa Semararetai",
@@ -8451,18 +8451,18 @@
       "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-yotsuba-keishou-hen/"
     },
     {
-      "judul": "Mahouka Koukou no Rettousei: Natsuyasumi-hen",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmahouka-koukou-no-rettousei-natsuyasumi-hen%2Fmanga_img_horizontal-Back-Mahouka-Koukou-no-Rettousei-Natsuyasumi-hen.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-natsuyasumi-hen/"
-    },
-    {
       "judul": "Mahouka Koukou no Rettousei – Steeplechase-hen",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2024%2F04%2FBack-Mahouka-Koukou-no-Rettousei-%E2%80%93-Steeplechase-hen.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-steeplechase-hen/"
+    },
+    {
+      "judul": "Mahouka Koukou no Rettousei: Natsuyasumi-hen",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmahouka-koukou-no-rettousei-natsuyasumi-hen%2Fmanga_img_horizontal-Back-Mahouka-Koukou-no-Rettousei-Natsuyasumi-hen.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-natsuyasumi-hen/"
     },
     {
       "judul": "Mahouka Koukou no Rettousei: Double Seven-hen",
