@@ -2,6 +2,34 @@
   "success": true,
   "data": [
     {
+      "judul": "God of Martial Arts",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgod-of-martial-arts%2Fmanga_img_horizontal-Manhua-God-of-Martial-Arts.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/god-of-martial-arts/"
+    },
+    {
+      "judul": "Nani mo Wakaranai",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fnani_mo_wakaranai%2Fimg_693d24226ee9e0.36297942.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/nani-mo-wakaranai/"
+    },
+    {
+      "judul": "Isekai Shoukan Oji-san no Juumusou Life – Sabage Suki Salaryman wa Kaisha Owari ni Isekai e Chokki suru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-shoukan-oji-san-no-juumusou-life-sabage-suki-salaryman-wa-kaisha-owari-ni-isekai-e-chokki-suru%2Fmanga_img_horizontal-BACKIS1.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-shoukan-oji-san-no-juumusou-life-sabage-suki-salaryman-wa-kaisha-owari-ni-isekai-e-chokki-suru/"
+    },
+    {
+      "judul": "Henkyou Gurashi no Maou, Tensei shite Saikyou no Majutsushi ni naru 〜Aisarenagara Nariagaru Moto Maō wa, Ningen o Shiritai〜",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhenkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru-aisarenagara-nariagaru-moto-mao-wa-ningen-o-shiritai%2Fmanga_img_horizontal-Komik-Henkyou-Gurashi-no-Maou-Tensei-shite-Saikyou-no-Majutsushi-ni-naru.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/henkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru-%e3%80%9caisarenagara-nariagaru-moto-mao-wa-ningen-o-shiritai%e3%80%9c/"
+    },
+    {
       "judul": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fchichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha%2Fmanga_img_horizontal-Komik-Chichi-wa-Eiyuu-Haha-wa-Seirei-Musume-no-Watashi-wa-Tenseisha.png",
@@ -16,13 +44,6 @@
       "url": "https://komiku.org/manga/healing-life-through-camping-in-another-world/"
     },
     {
-      "judul": "God of Martial Arts",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgod-of-martial-arts%2Fmanga_img_horizontal-Manhua-God-of-Martial-Arts.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/god-of-martial-arts/"
-    },
-    {
       "judul": "Sacchi Sarenai Saikyou Shoku Rule Breaker",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsacchi-sarenai-saikyou-shoku-rule-breaker%2Fmanga_img_horizontal-Sacchi-Sarenai-Saikyou-Panjang.png",
@@ -35,13 +56,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftsuki-ga-michibiku-isekai-douchuu%2Fmanga_img_horizontal-Manga-Tsuki-ga-Michibiku-Isekai-Douchuu.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/tsuki-ga-michibiku-isekai-douchuu/"
-    },
-    {
-      "judul": "Nani mo Wakaranai",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fnani_mo_wakaranai%2Fimg_693d24226ee9e0.36297942.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/nani-mo-wakaranai/"
     },
     {
       "judul": "Reverend Insanity (Remake)",
@@ -240,25 +254,11 @@
       "url": "https://komiku.org/manga/isekai-yururi-kikou-kosodateshinagara-boukensha-shimasu/"
     },
     {
-      "judul": "Isekai Shoukan Oji-san no Juumusou Life – Sabage Suki Salaryman wa Kaisha Owari ni Isekai e Chokki suru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-shoukan-oji-san-no-juumusou-life-sabage-suki-salaryman-wa-kaisha-owari-ni-isekai-e-chokki-suru%2Fmanga_img_horizontal-BACKIS1.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isekai-shoukan-oji-san-no-juumusou-life-sabage-suki-salaryman-wa-kaisha-owari-ni-isekai-e-chokki-suru/"
-    },
-    {
       "judul": "The Heavenly Path Is Not Stupid",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-heavenly-path-is-not-stupid%2Fmanga_img_horizontal-The-Heavenly-Path-Is-Not-Stupid-Panjang.png",
       "tipe": "",
       "url": "https://komiku.org/manga/the-heavenly-path-is-not-stupid/"
-    },
-    {
-      "judul": "Henkyou Gurashi no Maou, Tensei shite Saikyou no Majutsushi ni naru 〜Aisarenagara Nariagaru Moto Maō wa, Ningen o Shiritai〜",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhenkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru-aisarenagara-nariagaru-moto-mao-wa-ningen-o-shiritai%2Fmanga_img_horizontal-Komik-Henkyou-Gurashi-no-Maou-Tensei-shite-Saikyou-no-Majutsushi-ni-naru.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/henkyou-gurashi-no-maou-tensei-shite-saikyou-no-majutsushi-ni-naru-%e3%80%9caisarenagara-nariagaru-moto-mao-wa-ningen-o-shiritai%e3%80%9c/"
     },
     {
       "judul": "Isekai no Binbou Nouka ni Tensei Shitanode, Renga o Tsukutte Shiro o Tateru Koto ni Shimashita",
