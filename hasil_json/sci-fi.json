@@ -2,6 +2,34 @@
   "success": true,
   "data": [
     {
+      "judul": "Manager Kim",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmanager-kim%2Fmanga_img_horizontal-Komik-Manager-Kim.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/manager-kim/"
+    },
+    {
+      "judul": "Kamen Rider 913 (Kaixa)",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkamen_rider_913__kaixa_%2Fimg_693d24cf3dba17.46486153.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kamen-rider-913-kaixa/"
+    },
+    {
+      "judul": "Myther",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmyther%2Fimg_6836b7647898f8.48817367.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/myther/"
+    },
+    {
+      "judul": "Legend of Star General",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/legend-of-star-general/"
+    },
+    {
       "judul": "A Hero Who Does Everything Well",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fa_hero_who_does_everything_well%2Fimg_68970d201a92a8.13660467.jpg",
@@ -65,13 +93,6 @@
       "url": "https://komiku.org/manga/hiding-a-logistics-center-in-the-apocalypse/"
     },
     {
-      "judul": "Myther",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmyther%2Fimg_6836b7647898f8.48817367.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/myther/"
-    },
-    {
       "judul": "Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su%2Fmanga_img_horizontal-Komik-Shangri-La-Frontier-Kusoge-Hunter-Kamige-ni-Idoman-to-su.jpg",
@@ -84,13 +105,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Franger_reject%2Fimg_68318d7a9cc630.63669571.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/ranger-reject-sentai-daishikkaku/"
-    },
-    {
-      "judul": "Legend of Star General",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/legend-of-star-general/"
     },
     {
       "judul": "Mezametara Saikyou Soubi to Uchuusen-mochi datta no de",
@@ -163,13 +177,6 @@
       "url": "https://komiku.org/manga/ubau-mono-ubawareru-mono/"
     },
     {
-      "judul": "Kamen Rider 913 (Kaixa)",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkamen_rider_913__kaixa_%2Fimg_693d24cf3dba17.46486153.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kamen-rider-913-kaixa/"
-    },
-    {
       "judul": "Undead Unluck",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fundead-unluck%2Fmanga_img_horizontal-Komik-Undead-Unluck.jpg",
@@ -189,13 +196,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdandadan%2Fmanga_img_horizontal-Komik-DANDADAN.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/dandadan/"
-    },
-    {
-      "judul": "Manager Kim",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmanager-kim%2Fmanga_img_horizontal-Komik-Manager-Kim.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/manager-kim/"
     },
     {
       "judul": "Back to the City: The Strongest Investment King",

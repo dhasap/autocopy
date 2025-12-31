@@ -2,6 +2,41 @@
   "success": true,
   "data": [
     {
+      "judul": "Different Kings",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdifferent-kings%2Fmanga_img_horizontal-Manhua-Different-Kings.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/different-kings/"
+    },
+    {
+      "judul": "The Rebirth of the Hero’s Party’s Archmage",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-rebirth-of-the-heros-partys-archmage%2Fmanga_img_horizontal-A1-The-Rebirth-of-the-Heros-Partys-Archmage.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-rebirth-of-the-heros-partys-archmage/"
+    },
+    {
+      "judul": "The Ultimate of All Ages",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-ultimate-of-all-ages%2Fmanga_img_horizontal-Komik-The-Ultimate-of-All-Ages.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-ultimate-of-all-ages/"
+    },
+    {
+      "judul": "Reincarnation of the Martial God",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Freincarnation_of_the_martial_god%2Fimg_690f9dab10c2f4.67873126.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/reincarnation-of-the-martial-god/"
+    },
+    {
+      "judul": "Reincarnation Of The Fist King",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Freincarnation_of_the_fist_king%2Fimg_6870c0af55c451.31566960.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/reincarnation-of-the-fist-king/"
+    },
+    {
       "judul": "The Dark Magician Transmigrates After 66666 Years",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-dark-magician-transmigrates-after-66666-years%2Fmanga_img_horizontal-Komik-The-Dark-Magician-Transmigrates-After-66666-Years.png",
@@ -21,13 +56,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsince-my-previous-life-was-a-wise-man-i-can-afford-to-live%2Fmanga_img_horizontal-Komik-Since-My-Previous-Life-Was-A-Wise-Man-I-Can-Afford-To-Live-scaled.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/since-my-previous-life-was-a-wise-man-i-can-afford-to-live/"
-    },
-    {
-      "judul": "Reincarnation Of The Fist King",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Freincarnation_of_the_fist_king%2Fimg_6870c0af55c451.31566960.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/reincarnation-of-the-fist-king/"
     },
     {
       "judul": "The Executed Sage is Reincarnated as a Lich and Starts an All-Out War",
@@ -149,13 +177,6 @@
       "url": "https://komiku.org/manga/absolute-sword-sense/"
     },
     {
-      "judul": "The Rebirth of the Hero’s Party’s Archmage",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-rebirth-of-the-heros-partys-archmage%2Fmanga_img_horizontal-A1-The-Rebirth-of-the-Heros-Partys-Archmage.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-rebirth-of-the-heros-partys-archmage/"
-    },
-    {
       "judul": "Entomologist in Sichuan Tang Clan",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fentomologist-in-sichuan-tang-clan%2Fmanga_img_horizontal-A1-Entomologist-in-Sichuan-Tang-Clan.jpg",
@@ -170,32 +191,11 @@
       "url": "https://komiku.org/manga/eiyuu-to-kenja-no-tensei-kon/"
     },
     {
-      "judul": "Different Kings",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdifferent-kings%2Fmanga_img_horizontal-Manhua-Different-Kings.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/different-kings/"
-    },
-    {
       "judul": "Keep A Low Profile, Sect Leader",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkeep-a-low-profile-sect-leader%2Fmanga_img_horizontal-Komik-Keep-A-Low-Profile-Sect-Leader.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/keep-a-low-profile-sect-leader/"
-    },
-    {
-      "judul": "Reincarnation of the Martial God",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Freincarnation_of_the_martial_god%2Fimg_690f9dab10c2f4.67873126.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/reincarnation-of-the-martial-god/"
-    },
-    {
-      "judul": "The Ultimate of All Ages",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-ultimate-of-all-ages%2Fmanga_img_horizontal-Komik-The-Ultimate-of-All-Ages.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-ultimate-of-all-ages/"
     },
     {
       "judul": "Silent Witch Chinmoku no Majo no Kakushigoto",
