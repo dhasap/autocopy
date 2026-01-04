@@ -2,6 +2,13 @@
   "success": true,
   "data": [
     {
+      "judul": "Iron Ladies",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Firon-ladies%2Fmanga_img_horizontal-Manhua-Iron-Ladies.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/iron-ladies/"
+    },
+    {
       "judul": "Mercenary Enrollment",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmercenary-enrollment%2Fmanga_img_horizontal-Komik-Mercenary-Enrollment-scaled.jpg",
@@ -91,13 +98,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fwatashi_ni_ai_wo_oshiete%2Fimg_682b4d28c44e93.33939111.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/watashi-ni-ai-wo-oshiete/"
-    },
-    {
-      "judul": "Iron Ladies",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Firon-ladies%2Fmanga_img_horizontal-Manhua-Iron-Ladies.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/iron-ladies/"
     },
     {
       "judul": "Jungle Juice",
