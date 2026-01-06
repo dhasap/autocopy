@@ -2,6 +2,62 @@
   "success": true,
   "data": [
     {
+      "judul": "Eleceed",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Feleceed%2Fmanga_img_horizontal-Komik-Eleceed.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/eleceed/"
+    },
+    {
+      "judul": "Doctor’s Rebirth",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdoctors-rebirth%2Fmanga_img_horizontal-Komik-Doctors-Rebirth.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/doctors-rebirth/"
+    },
+    {
+      "judul": "Isekai Cheat Kaitakuki",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-cheat-kaitakuki%2Fmanga_img_horizontal-Komik-Isekai-Cheat-Kaitakuki.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-cheat-kaitakuki/"
+    },
+    {
+      "judul": "Magi Craft Meister",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmagi-craft-meister%2Fmanga_img_horizontal-Manga-Magi-Craft-Meister.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/magi-craft-meister/"
+    },
+    {
+      "judul": "The Unluckiest Man Became the Universe’s Most Evil Mage and Wants to Be Rewarded",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_unluckiest_man_became_the_universe___s_most_evil_mage_and_wants_to_be_rewarded%2Fimg_695cbbe8225235.32877369.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-unluckiest-man-became-the-universes-most-evil-mage-and-wants-to-be-rewarded/"
+    },
+    {
+      "judul": "Isekai Summoner, Shinwa no Kaibutsu-tachi to Gendai de Musou suru: Uragirareta Moto Eiyuu wa, Aikasaname na Nakama to Heiwa ni Kurashitai",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fisekai_summoner__shinwa_no_kaibutsu-tachi_to_gendai_de_musou_suru%2Fimg_695cbca32df719.23242959.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-summoner-shinwa-no-kaibutsu-tachi-to-gendai-de-musou-suru-uragirareta-moto-eiyuu-wa-aikasaname-na-nakama-to-heiwa-ni-kurashitai/"
+    },
+    {
+      "judul": "Tensei Shoujo wa Mazu ippo kara Hajimetai",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftensei_shoujo_wa_mazu_ippo_kara_hajimetai%2Fimg_695cbb7ea1fec0.98403876.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/tensei-shoujo-wa-mazu-ippo-kara-hajimetai/"
+    },
+    {
+      "judul": "Fun Territory Defense Of The Easy-going Lord ~the Nameless Village Is Made Into The Strongest Fortified City By Production Magic~",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ffun-territory-defense-of-the-easy-going-lord-the-nameless-village-is-made-into-the-strongest-fortified-city-by-production-magic%2Fmanga_img_horizontal-Komik-Fun-Territory-Defense-Of-The-Easy-going-Lord-the-Nameless-Village-Is-Made-Into-The-Strongest-Fortified-City-By-Production-Magic.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/fun-territory-defense-of-the-easy-going-lord-the-nameless-village-is-made-into-the-strongest-fortified-city-by-production-magic/"
+    },
+    {
       "judul": "I Got My Wish and Reincarnated as the Villainess (Last Boss)!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fi_got_my_wish_and_reincarnated_as_the_villainess%2Fimg_68a827ed08dd80.95337519.jpg",
@@ -219,13 +275,6 @@
       "url": "https://komiku.org/manga/tensei-kizoku-no-isekai-boukenroku-jichou-wo-shiranai-kamigami-no-shit/"
     },
     {
-      "judul": "Eleceed",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Feleceed%2Fmanga_img_horizontal-Komik-Eleceed.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/eleceed/"
-    },
-    {
       "judul": "Drawing: Saikyou Mangaka wa Oekaki Skill de Isekai Musou Suru!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdrawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru%2Fmanga_img_horizontal-Drawing-Saikyou-Mangaka-Panjang.png",
@@ -301,13 +350,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Freverend_insanity__remake_%2Fimg_686cd4c5bd26c4.92362858.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/reverend-insanity-remake/"
-    },
-    {
-      "judul": "Fun Territory Defense Of The Easy-going Lord ~the Nameless Village Is Made Into The Strongest Fortified City By Production Magic~",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ffun-territory-defense-of-the-easy-going-lord-the-nameless-village-is-made-into-the-strongest-fortified-city-by-production-magic%2Fmanga_img_horizontal-Komik-Fun-Territory-Defense-Of-The-Easy-going-Lord-the-Nameless-Village-Is-Made-Into-The-Strongest-Fortified-City-By-Production-Magic.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/fun-territory-defense-of-the-easy-going-lord-the-nameless-village-is-made-into-the-strongest-fortified-city-by-production-magic/"
     },
     {
       "judul": "Sekai Saikyou no Kouei: Meikyuukoku no Shinjin Tansakusha",
@@ -392,13 +434,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-no-binbou-nouka-ni-tensei-shitanode-renga-o-tsukutte-shiro-o-tateru-koto-ni-shimashita%2Fmanga_img_horizontal-Komik-Isekai-no-Binbou-Nouka-ni-Tensei-Shitanode-Renga-o-Tsukutte-Shiro-o-Tateru-Koto-ni-Shimashita.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/isekai-no-binbou-nouka-ni-tensei-shitanode-renga-o-tsukutte-shiro-o-tateru-koto-ni-shimashita/"
-    },
-    {
-      "judul": "Magi Craft Meister",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmagi-craft-meister%2Fmanga_img_horizontal-Manga-Magi-Craft-Meister.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/magi-craft-meister/"
     },
     {
       "judul": "Tensei shitara Dragon no Tamago datta: Saikyou Igai Mezasanee",
@@ -646,13 +681,6 @@
       "url": "https://komiku.org/manga/isekai-man-chikin-hp-1-no-mama-de-saikyou-saisoku-danjon-kouryaku/"
     },
     {
-      "judul": "Isekai Cheat Kaitakuki",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-cheat-kaitakuki%2Fmanga_img_horizontal-Komik-Isekai-Cheat-Kaitakuki.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isekai-cheat-kaitakuki/"
-    },
-    {
       "judul": "Saihate no Paladin",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsaihate-no-paladin%2Fmanga_img_horizontal-Komik-Saihate-no-Paladin.jpg",
@@ -679,13 +707,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fyuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita%2Fmanga_img_horizontal-Back-Yuusha-ni-Zenbu-Ubawareta-Ore-wa-Yuusha-no-Hahaoya.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/yuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita/"
-    },
-    {
-      "judul": "Doctor’s Rebirth",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdoctors-rebirth%2Fmanga_img_horizontal-Komik-Doctors-Rebirth.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/doctors-rebirth/"
     },
     {
       "judul": "Chittai Ore no Makikomare Isekai Seikatsu",
