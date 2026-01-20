@@ -2,6 +2,34 @@
   "success": true,
   "data": [
     {
+      "judul": "Isekai Tensei Soudouki",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-tensei-soudouki%2Fmanga_img_horizontal-Manga-Isekai-Tensei-Soudouki.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-tensei-soudouki/"
+    },
+    {
+      "judul": "Kyoukai Meikyuu to Ikai no Majutsushi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkyoukai-meikyuu-to-ikai-no-majutsushi%2Fmanga_img_horizontal-Manga-Kyoukai-Meikyuu-to-Ikai-no-Majutsushi.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kyoukai-meikyuu-to-ikai-no-majutsushi/"
+    },
+    {
+      "judul": "Riches Can’t Buy Loyalty",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Friches_can___t_buy_loyalty%2Fimg_68356b52076987.27827480.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/riches-cant-buy-loyalty/"
+    },
+    {
+      "judul": "OreAku, Ore wa Seikan Kokka no Akutoku Ryoushu!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Foreaku-ore-wa-seikan-kokka-no-akutoku-ryoushu%2Fmanga_img_horizontal-Jinuj-OreAku-Ore-wa-Seikan-Kokka-no-Akutoku-Ryoushu.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/oreaku-ore-wa-seikan-kokka-no-akutoku-ryoushu/"
+    },
+    {
       "judul": "S Rank Boukensha de aru Ore no Musume-tachi wa Juudo no Father Con deshita",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fs-rank-boukensha-de-aru-ore-no-musume-tachi-wa-juudo-no-father-con-deshita%2Fmanga_img_horizontal-Komik-S-Rank-Boukensha-de-aru-Ore-no-Musume-tachi-wa-Juudo-no-Father-Con-deshita.jpg",
@@ -72,25 +100,11 @@
       "url": "https://komiku.org/manga/mikadono-sanshimai-wa-angai-choroi/"
     },
     {
-      "judul": "Riches Can’t Buy Loyalty",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Friches_can___t_buy_loyalty%2Fimg_68356b52076987.27827480.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/riches-cant-buy-loyalty/"
-    },
-    {
       "judul": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-ri no Kanojo",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-ri-no-kanojo%2Fmanga_img_horizontal-Komik-Kimi-no-Koto-ga-Dai-Dai-Dai-Dai-Daisuki-na-100-ri-no-Kanojo.png",
       "tipe": "",
       "url": "https://komiku.org/manga/kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-ri-no-kanojo/"
-    },
-    {
-      "judul": "Isekai Tensei Soudouki",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-tensei-soudouki%2Fmanga_img_horizontal-Manga-Isekai-Tensei-Soudouki.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isekai-tensei-soudouki/"
     },
     {
       "judul": "Godeokchun's Food Truck",
@@ -450,13 +464,6 @@
       "url": "https://komiku.org/manga/doomsday%ea%9e%89-the-emperors-banner-invites-all-female-disciples-to-take-their-seats/"
     },
     {
-      "judul": "OreAku, Ore wa Seikan Kokka no Akutoku Ryoushu!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Foreaku-ore-wa-seikan-kokka-no-akutoku-ryoushu%2Fmanga_img_horizontal-Jinuj-OreAku-Ore-wa-Seikan-Kokka-no-Akutoku-Ryoushu.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/oreaku-ore-wa-seikan-kokka-no-akutoku-ryoushu/"
-    },
-    {
       "judul": "Maou ni Natte node – Dungeon Tsukutte Jingai Musume to Honobono suru",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmaou-ni-natte-node-dungeon-tsukutte-jingai-musume-to-honobono-suru%2Fmanga_img_horizontal-Manga-Maou-ni-Natte-node--Dungeon-Tsukutte-Jingai-Musume-to-Honobono-suru.jpg",
@@ -742,13 +749,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fboku-no-kawaii-musume-wa-futago-no-kenja%2Fmanga_img_horizontal-Komik-Boku-no-Kawaii-Musume-wa-Futago-no-Kenja.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/boku-no-kawaii-musume-wa-futago-no-kenja/"
-    },
-    {
-      "judul": "Kyoukai Meikyuu to Ikai no Majutsushi",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkyoukai-meikyuu-to-ikai-no-majutsushi%2Fmanga_img_horizontal-Manga-Kyoukai-Meikyuu-to-Ikai-no-Majutsushi.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kyoukai-meikyuu-to-ikai-no-majutsushi/"
     },
     {
       "judul": "A Transmigrated Warden’s Battle for Redemption",
