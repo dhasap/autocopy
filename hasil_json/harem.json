@@ -2,6 +2,55 @@
   "success": true,
   "data": [
     {
+      "judul": "Next Life",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnext-life%2Fmanga_img_horizontal-Manga-Next-Life.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/next-life/"
+    },
+    {
+      "judul": "My Female Apprentices Are All Big Shots From the Future",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmy-female-apprentices-are-all-big-shots-from-the-future%2Fmanga_img_horizontal-Komik-My-Female-Apprentices-Are-All-Big-Shots-From-the-Future.jpeg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/my-female-apprentices-are-all-big-shots-from-the-future/"
+    },
+    {
+      "judul": "Maou ni Natta node, Dungeon Tsukutte Jingai Musume to Honobono suru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmaou_ni_natta_node__dungeon_tsukutte_jingai_musume_to_honobono_suru%2Fimg_6839708669b4a5.35635992.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/maou-ni-natta-node-dungeon-tsukutte-jingai-musume-to-honobono-suru/"
+    },
+    {
+      "judul": "Shiunji-ke no Kodomo-Tachi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshiunji-ke-no-kodomo-tachi%2Fmanga_img_horizontal-Jinuj-Shiunji-ke-no-Kodomo-Tachi.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/shiunji-ke-no-kodomo-tachi/"
+    },
+    {
+      "judul": "Isekai wa Smartphone to Tomo ni.",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-wa-smartphone-to-tomo-ni%2Fmanga_img_horizontal-Komik-Isekai-wa-Smartphone-to-Tomo-ni..jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-wa-smartphone-to-tomo-ni/"
+    },
+    {
+      "judul": "Raidorl Seiken Senki",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fraidorl_seiken_senki%2Fimg_68bffb88f30484.18701379.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/raidorl-seiken-senki/"
+    },
+    {
+      "judul": "Itsu Demo Jitaku ni Kaereru Ore wa, Isekai de Gyoushoujin o Hajimemashita",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fitsu-demo-jitaku-ni-kaereru-ore-wa-isekai-de-gyoushoujin-o-hajimemashita%2Fmanga_img_horizontal-Komik-Itsu-Demo-Jitaku-ni-Kaereru-Ore-wa-Isekai-de-Gyoushoujin-o-Hajimemashita.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/itsu-demo-jitaku-ni-kaereru-ore-wa-isekai-de-gyoushoujin-o-hajimemashita/"
+    },
+    {
       "judul": "Iron Ladies",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Firon-ladies%2Fmanga_img_horizontal-Manhua-Iron-Ladies.jpg",
@@ -373,13 +422,6 @@
       "url": "https://komiku.org/manga/i-really-dont-want-to-be-reborn/"
     },
     {
-      "judul": "My Female Apprentices Are All Big Shots From the Future",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmy-female-apprentices-are-all-big-shots-from-the-future%2Fmanga_img_horizontal-Komik-My-Female-Apprentices-Are-All-Big-Shots-From-the-Future.jpeg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/my-female-apprentices-are-all-big-shots-from-the-future/"
-    },
-    {
       "judul": "Yuusha Shoukan ni Makikomareta kedo, Isekai wa Heiwa deshita",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fyuusha-shoukan-ni-makikomareta-kedo-isekai-wa-heiwa-deshita%2Fmanga_img_horizontal-Komik-Yuusha-Shoukan-ni-Makikomareta-kedo-Isekai-wa-Heiwa-deshita.jpg",
@@ -492,25 +534,11 @@
       "url": "https://komiku.org/manga/kaifuku-jutsushi-yarinaoshi-sokushi-mahou-to-skill-copy-no-chouetsu-heal/"
     },
     {
-      "judul": "Raidorl Seiken Senki",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fraidorl_seiken_senki%2Fimg_68bffb88f30484.18701379.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/raidorl-seiken-senki/"
-    },
-    {
       "judul": "Teisou Gyakuten Sekai de Tanomeba Yareru to Uwasa no Ore",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fteisou_gyakuten_sekai_de_tanomeba_yareru_to_uwasa_no_ore%2Fimg_693151f928b525.68534082.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/teisou-gyakuten-sekai-de-tanomeba-yareru-to-uwasa-no-ore/"
-    },
-    {
-      "judul": "Shiunji-ke no Kodomo-Tachi",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshiunji-ke-no-kodomo-tachi%2Fmanga_img_horizontal-Jinuj-Shiunji-ke-no-Kodomo-Tachi.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/shiunji-ke-no-kodomo-tachi/"
     },
     {
       "judul": "Inaka de Koi wa Muzukashii!?",
@@ -532,13 +560,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fnishuume_cheat_no_tensei_madoushi%2Fimg_689b6c9f864d12.01847642.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/nishuume-cheat-no-tensei-madoushi-%e3%80%9csaikyou-ga-1000-nengo-ni-tensei-shitara-jinsei-yoyu-sugimashita%e3%80%9c/"
-    },
-    {
-      "judul": "Isekai wa Smartphone to Tomo ni.",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-wa-smartphone-to-tomo-ni%2Fmanga_img_horizontal-Komik-Isekai-wa-Smartphone-to-Tomo-ni..jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isekai-wa-smartphone-to-tomo-ni/"
     },
     {
       "judul": "When Trying to Get Back at the Hometown Bullies, Another Battle Began",
@@ -646,13 +667,6 @@
       "url": "https://komiku.org/manga/shin-no-jitsuryoku-wa-girigiri-made-kakushite-iyou-to-omou/"
     },
     {
-      "judul": "Next Life",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnext-life%2Fmanga_img_horizontal-Manga-Next-Life.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/next-life/"
-    },
-    {
       "judul": "Ichioku-nen Button O Renda Shita Ore Wa, Kizuitara Saikyou Ni Natteita",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fichioku-nen-button-o-renda-shita-ore-wa-kizuitara-saikyou-ni-natteita%2Fmanga_img_horizontal-Komik-Ichioku-nen-Button-O-Renda-Shita-Ore-Wa-Kizuitara-Saikyou-Ni-Natteita.jpg",
@@ -665,13 +679,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-meikyuu-de-harem-wo-indo%2Fmanga_img_horizontal-Manga-Isekai-Meikyuu-de-Harem-wo.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/isekai-meikyuu-de-harem-wo-indo/"
-    },
-    {
-      "judul": "Maou ni Natta node, Dungeon Tsukutte Jingai Musume to Honobono suru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmaou_ni_natta_node__dungeon_tsukutte_jingai_musume_to_honobono_suru%2Fimg_6839708669b4a5.35635992.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/maou-ni-natta-node-dungeon-tsukutte-jingai-musume-to-honobono-suru/"
     },
     {
       "judul": "D Rank Adventurer Invited By A Brave Party, And The Stalking Princess",
@@ -3612,13 +3619,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fbecame-king-after-being-bitten%2Fmanga_img_horizontal-Komik-Became-King-After-Being-Bitten.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/became-king-after-being-bitten/"
-    },
-    {
-      "judul": "Itsu Demo Jitaku ni Kaereru Ore wa, Isekai de Gyoushoujin o Hajimemashita",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fitsu-demo-jitaku-ni-kaereru-ore-wa-isekai-de-gyoushoujin-o-hajimemashita%2Fmanga_img_horizontal-Komik-Itsu-Demo-Jitaku-ni-Kaereru-Ore-wa-Isekai-de-Gyoushoujin-o-Hajimemashita.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/itsu-demo-jitaku-ni-kaereru-ore-wa-isekai-de-gyoushoujin-o-hajimemashita/"
     },
     {
       "judul": "Maou Gakuen no Hangyakusha",
