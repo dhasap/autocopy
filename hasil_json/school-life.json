@@ -2,6 +2,55 @@
   "success": true,
   "data": [
     {
+      "judul": "Reality Quest",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Freality-quest%2Fmanga_img_horizontal-Komik-Reality-Quest.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/reality-quest/"
+    },
+    {
+      "judul": "The Postman Walking Through the Apocalypse",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_postman_walking_through_the_apocalypse%2Fimg_6985ac9931db21.23409738.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-postman-walking-through-the-apocalypse/"
+    },
+    {
+      "judul": "Im the Hero but the Main Heroines Are Trying to Kill Me",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fim_the_hero_but_the_main_heroines_are_trying_to_kill_me%2Fimg_695b2107d47120.11268130.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/im-the-hero-but-the-main-heroines-are-trying-to-kill-me/"
+    },
+    {
+      "judul": "Superstar From Age 0",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsuperstar-from-age-0%2Fmanga_img_horizontal-Back-Superstar-From-Age-0.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/superstar-from-age-0/"
+    },
+    {
+      "judul": "Cool na Megami-sama to Issho ni Sundara, Amayakashi Sugite Ponkotsu ni shite Shimatta Ken ni Tsuite",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fcool_na_megami-sama_to_issho_ni_sundara__amayakashi_sugite_ponkotsu_ni_shite_shimatta_ken_ni_tsuite%2Fimg_684bdb973417e0.34196628.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/cool-na-megami-sama-to-issho-ni-sundara-amayakashi-sugite-ponkotsu-ni-shite-shimatta-ken-ni-tsuite/"
+    },
+    {
+      "judul": "The Zero-Magic Savior: Using My Unique Skill to Save the World",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_zero-magic_savior__using_my_unique_skill_to_save_the_world%2Fimg_695cbc5fba99a9.36425608.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-zero-magic-savior-using-my-unique-skill-to-save-the-world/"
+    },
+    {
+      "judul": "Mercenary Enrollment",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmercenary-enrollment%2Fmanga_img_horizontal-Komik-Mercenary-Enrollment-scaled.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mercenary-enrollment/"
+    },
+    {
       "judul": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-ri no Kanojo",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-ri-no-kanojo%2Fmanga_img_horizontal-Komik-Kimi-no-Koto-ga-Dai-Dai-Dai-Dai-Daisuki-na-100-ri-no-Kanojo.png",
@@ -56,13 +105,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fikemen_joshi_demo_kawaii_heroine_ni_naremasu_ka_%2Fimg_6985acd4a13ef3.48416696.png",
       "tipe": "",
       "url": "https://komiku.org/manga/ikemen-joshi-demo-kawaii-heroine-ni-naremasu-ka/"
-    },
-    {
-      "judul": "The Postman Walking Through the Apocalypse",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_postman_walking_through_the_apocalypse%2Fimg_6985ac9931db21.23409738.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-postman-walking-through-the-apocalypse/"
     },
     {
       "judul": "Hochiya-san wa Amariaru",
@@ -268,13 +310,6 @@
       "url": "https://komiku.org/manga/academys-undercover-professor/"
     },
     {
-      "judul": "Superstar From Age 0",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsuperstar-from-age-0%2Fmanga_img_horizontal-Back-Superstar-From-Age-0.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/superstar-from-age-0/"
-    },
-    {
       "judul": "Become the Strongest Hero Through the Cheat System",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fbecome_the_strongest_hero_through_the_cheat_system%2Fimg_68396389eee974.22018231.jpg",
@@ -331,13 +366,6 @@
       "url": "https://komiku.org/manga/seibutsu-bu-no-tanabe-kun/"
     },
     {
-      "judul": "Mercenary Enrollment",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmercenary-enrollment%2Fmanga_img_horizontal-Komik-Mercenary-Enrollment-scaled.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mercenary-enrollment/"
-    },
-    {
       "judul": "Jirai nandesu ka? Chihara-san (That Girl Is Cute… But Dangerous?)",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fjirai_nandesu_ka__chihara-san%2Fimg_684fcc82ded9d6.84615583.jpg",
@@ -380,13 +408,6 @@
       "url": "https://komiku.org/manga/kill-the-dragon/"
     },
     {
-      "judul": "Ogami Tsumiki to Kinichijou",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fogami-tsumiki-to-kinichijou%2Fmanga_img_horizontal-A1-Ogami-Tsumiki-to-Kinichijou.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ogami-tsumiki-to-kinichijou/"
-    },
-    {
       "judul": "Aishiteru Game wo Owarasetai",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Faishiteru-game-wo-owarasetai%2Fmanga_img_horizontal-Komik-Aishiteru-Game-wo-Owarasetai.jpg",
@@ -394,18 +415,11 @@
       "url": "https://komiku.org/manga/aishiteru-game-wo-owarasetai/"
     },
     {
-      "judul": "The Zero-Magic Savior: Using My Unique Skill to Save the World",
+      "judul": "Ogami Tsumiki to Kinichijou",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_zero-magic_savior__using_my_unique_skill_to_save_the_world%2Fimg_695cbc5fba99a9.36425608.jpg",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fogami-tsumiki-to-kinichijou%2Fmanga_img_horizontal-A1-Ogami-Tsumiki-to-Kinichijou.png",
       "tipe": "",
-      "url": "https://komiku.org/manga/the-zero-magic-savior-using-my-unique-skill-to-save-the-world/"
-    },
-    {
-      "judul": "Reality Quest",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Freality-quest%2Fmanga_img_horizontal-Komik-Reality-Quest.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/reality-quest/"
+      "url": "https://komiku.org/manga/ogami-tsumiki-to-kinichijou/"
     },
     {
       "judul": "Yanki yo, Tsue o mote!",
@@ -667,13 +681,6 @@
       "url": "https://komiku.org/manga/jitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake/"
     },
     {
-      "judul": "Im the Hero but the Main Heroines Are Trying to Kill Me",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fim_the_hero_but_the_main_heroines_are_trying_to_kill_me%2Fimg_695b2107d47120.11268130.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/im-the-hero-but-the-main-heroines-are-trying-to-kill-me/"
-    },
-    {
       "judul": "My Ruined Academy Life",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmy-ruined-academy-life%2Fmanga_img_horizontal-A1-My-Ruined-Academy-Life.jpg",
@@ -714,13 +721,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fseishun_wa_sankakkei_no_loop%2Fimg_684d401b1b7882.55604099.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/seishun-wa-sankakkei-no-loop/"
-    },
-    {
-      "judul": "Cool na Megami-sama to Issho ni Sundara, Amayakashi Sugite Ponkotsu ni shite Shimatta Ken ni Tsuite",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fcool_na_megami-sama_to_issho_ni_sundara__amayakashi_sugite_ponkotsu_ni_shite_shimatta_ken_ni_tsuite%2Fimg_684bdb973417e0.34196628.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/cool-na-megami-sama-to-issho-ni-sundara-amayakashi-sugite-ponkotsu-ni-shite-shimatta-ken-ni-tsuite/"
     },
     {
       "judul": "Kanojo Okarishimasu",
@@ -2200,13 +2200,6 @@
       "url": "https://komiku.org/manga/assassination-classroom/"
     },
     {
-      "judul": "Hundred",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hundred/"
-    },
-    {
       "judul": "Houkago no Cinderella-kun",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
@@ -2226,6 +2219,13 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/watch-dog/"
+    },
+    {
+      "judul": "Hundred",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hundred/"
     },
     {
       "judul": "Koi wo Shiranai Bokutachi wa",
