@@ -2,11 +2,74 @@
   "success": true,
   "data": [
     {
+      "judul": "The 18 Year Old Demon King",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_18_year_old_demon_king%2Fimg_6985990796c074.52211752.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-18-year-old-demon-king/"
+    },
+    {
       "judul": "To Not Die",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fto_not_die%2Fimg_683023f3d813a9.98505913.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/to-not-die/"
+    },
+    {
+      "judul": "Futari Bus",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ffutari_bus%2Fimg_690c504267b297.64875177.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/futari-bus/"
+    },
+    {
+      "judul": "Hochiya-san wa Amariaru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhochiya-san_wa_amariaru%2Fimg_69859a748795f9.42204826.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hochiya-san-wa-amariaru/"
+    },
+    {
+      "judul": "Issho Watashi no Joshu de ite!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fissho_watashi_no_joshu_de_ite_%2Fimg_6846a6d7a55c76.89465147.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/issho-watashi-no-joshu-de-ite/"
+    },
+    {
+      "judul": "Become the Strongest Hero Through the Cheat System",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fbecome_the_strongest_hero_through_the_cheat_system%2Fimg_68396389eee974.22018231.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/become-the-strongest-hero-through-the-cheat-system/"
+    },
+    {
+      "judul": "Hima-Ten!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhima-ten_%2Fimg_684bcf86a4e403.12656040.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hima-ten/"
+    },
+    {
+      "judul": "Ao Ashi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-ashi%2Fmanga_img_horizontal-Ao-Ashi-Panjang.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ao-ashi/"
+    },
+    {
+      "judul": "The Postman Walking Through the Apocalypse",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_postman_walking_through_the_apocalypse%2Fimg_6985ac9931db21.23409738.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-postman-walking-through-the-apocalypse/"
+    },
+    {
+      "judul": "Ticket Hero S2",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fticket_hero_s2%2Fimg_693150c2b5f7e3.30547802.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ticket-hero-s2/"
     },
     {
       "judul": "Himitsu no Otsukiai wo Shiteimasu",
@@ -35,13 +98,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Freality-quest%2Fmanga_img_horizontal-Komik-Reality-Quest.png",
       "tipe": "",
       "url": "https://komiku.org/manga/reality-quest/"
-    },
-    {
-      "judul": "The Postman Walking Through the Apocalypse",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_postman_walking_through_the_apocalypse%2Fimg_6985ac9931db21.23409738.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-postman-walking-through-the-apocalypse/"
     },
     {
       "judul": "Im the Hero but the Main Heroines Are Trying to Kill Me",
@@ -128,13 +184,6 @@
       "url": "https://komiku.org/manga/ikemen-joshi-demo-kawaii-heroine-ni-naremasu-ka/"
     },
     {
-      "judul": "Hochiya-san wa Amariaru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhochiya-san_wa_amariaru%2Fimg_69859a748795f9.42204826.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hochiya-san-wa-amariaru/"
-    },
-    {
       "judul": "Honzuki no Gekokujou Part 5",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhonzuki_no_gekokujou__shisho_ni_naru_tame_ni_wa_shudan_o_erandeiraremasen___dai_5-bu__todaeta_chishiki_wo_tsunageyou_%2Fimg_69859b7fc22ec7.06357217.jpg",
@@ -147,13 +196,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhoukago_voca-ken_de_%2Fimg_698598d4bf51e3.15525574.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/houkago-voca-ken-de/"
-    },
-    {
-      "judul": "The 18 Year Old Demon King",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_18_year_old_demon_king%2Fimg_6985990796c074.52211752.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-18-year-old-demon-king/"
     },
     {
       "judul": "Netoge no Yome ga Ninki Idol datta",
@@ -247,13 +289,6 @@
       "url": "https://komiku.org/manga/the-devil-classroom/"
     },
     {
-      "judul": "Futari Bus",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ffutari_bus%2Fimg_690c504267b297.64875177.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/futari-bus/"
-    },
-    {
       "judul": "Saijo no Osewa ~Takane no Hana Darakena Meimon Kou de, Gakuin Ichi no Ojou-sama (Seikatsu Noryoku Kaimu) o Kagenagara Osewa suru Koto ni Narimashita~",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsaijo-no-osewa-takane-no-hana-darakena-meimon-kou-de-gakuin-ichi-no-ojou-sama-seikatsu-noryoku-kaimu-o-kagenagara-osewa-suru-koto-ni-narimashita%2Fmanga_img_horizontal-Komik-Saijo-no-Osewa-Takane-no-Hana-Darakena-Meimon-Kou-de-Gakuin-Ichi-no-Ojou-sama-Seikatsu-Noryoku-Kaimu-o-Kagenagara-Osewa-suru-Koto-ni-Narimashita.jpg",
@@ -280,13 +315,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-kitaku-biyori%2Fmanga_img_horizontal-A1-Houkago-Kitaku-Biyori.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/houkago-kitaku-biyori/"
-    },
-    {
-      "judul": "Hima-Ten!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhima-ten_%2Fimg_684bcf86a4e403.12656040.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hima-ten/"
     },
     {
       "judul": "Gyaru no Jitensha o Naoshitara Natsukareta",
@@ -324,13 +352,6 @@
       "url": "https://komiku.org/manga/momose-akira-no-hatsukoi-hatan-chuu/"
     },
     {
-      "judul": "Become the Strongest Hero Through the Cheat System",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fbecome_the_strongest_hero_through_the_cheat_system%2Fimg_68396389eee974.22018231.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/become-the-strongest-hero-through-the-cheat-system/"
-    },
-    {
       "judul": "Class no Inkya ni Kareshi no Sainou ga Ari Sugiru",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fclass_no_inkya_ni_kareshi_no_sainou_ga_ari_sugiru%2Fimg_693155af749692.58233090.jpg",
@@ -343,13 +364,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Finko_demo_seishun_shitai%2Fimg_695b2395987871.53813811.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/inko-demo-seishun-shitai/"
-    },
-    {
-      "judul": "Issho Watashi no Joshu de ite!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fissho_watashi_no_joshu_de_ite_%2Fimg_6846a6d7a55c76.89465147.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/issho-watashi-no-joshu-de-ite/"
     },
     {
       "judul": "Yarikonda ren’ai game no akuyaku ni tensei shita node, gensaku chishiki de hiroin o kōryaku shimasu",
@@ -422,18 +436,18 @@
       "url": "https://komiku.org/manga/kill-the-dragon/"
     },
     {
-      "judul": "Aishiteru Game wo Owarasetai",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Faishiteru-game-wo-owarasetai%2Fmanga_img_horizontal-Komik-Aishiteru-Game-wo-Owarasetai.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/aishiteru-game-wo-owarasetai/"
-    },
-    {
       "judul": "Ogami Tsumiki to Kinichijou",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fogami-tsumiki-to-kinichijou%2Fmanga_img_horizontal-A1-Ogami-Tsumiki-to-Kinichijou.png",
       "tipe": "",
       "url": "https://komiku.org/manga/ogami-tsumiki-to-kinichijou/"
+    },
+    {
+      "judul": "Aishiteru Game wo Owarasetai",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Faishiteru-game-wo-owarasetai%2Fmanga_img_horizontal-Komik-Aishiteru-Game-wo-Owarasetai.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/aishiteru-game-wo-owarasetai/"
     },
     {
       "judul": "Yanki yo, Tsue o mote!",
@@ -553,13 +567,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Furakata_de_support_shiteta_geinou_ikka_wo_tsuihousareta_boku_wa__futsuu_no_seishun_wo_ouka_shitai_%2Fimg_682ae0fdbea2c7.84897009.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/urakata-de-support-shiteta-geinou-ikka-wo-tsuihousareta-boku-wa-futsuu-no-seishun-wo-ouka-shitai/"
-    },
-    {
-      "judul": "Ao Ashi",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-ashi%2Fmanga_img_horizontal-Ao-Ashi-Panjang.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ao-ashi/"
     },
     {
       "judul": "Anta to Osananajimitte dake demo Iyananoni! ~Zekkou kara Hajimaru S-kyuu Bishoujo to no Gakuen Nariagari Seikatsu~",
@@ -812,13 +819,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftokidoki-bosotto-roshiago-de-dereru-tonari-no-alya-san%2Fmanga_img_horizontal-Komik-Tokidoki-Bosotto-Roshiago-de-Dereru-Tonari-no-Alya-san.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/tokidoki-bosotto-roshiago-de-dereru-tonari-no-alya-san/"
-    },
-    {
-      "judul": "Ticket Hero S2",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fticket_hero_s2%2Fimg_693150c2b5f7e3.30547802.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ticket-hero-s2/"
     },
     {
       "judul": "Rebirth Of The Urban Immortal Cultivator",
@@ -2200,13 +2200,6 @@
       "url": "https://komiku.org/manga/assassination-classroom/"
     },
     {
-      "judul": "Hundred",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hundred/"
-    },
-    {
       "judul": "Houkago no Cinderella-kun",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
@@ -2226,6 +2219,13 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/watch-dog/"
+    },
+    {
+      "judul": "Hundred",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hundred/"
     },
     {
       "judul": "Koi wo Shiranai Bokutachi wa",
