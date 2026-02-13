@@ -2,6 +2,13 @@
   "success": true,
   "data": [
     {
+      "judul": "Demons’ Crest",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdemons-crest%2Fmanga_img_horizontal-2-59.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/demons-crest/"
+    },
+    {
       "judul": "Manager Kim",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmanager-kim%2Fmanga_img_horizontal-Komik-Manager-Kim.jpg",
@@ -91,13 +98,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_delusional_hunter_in_another_world%2Fimg_6864c2be731811.24099557.png",
       "tipe": "",
       "url": "https://komiku.org/manga/the-delusional-hunter-in-another-world/"
-    },
-    {
-      "judul": "Demons’ Crest",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdemons-crest%2Fmanga_img_horizontal-2-59.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/demons-crest/"
     },
     {
       "judul": "Kamen Rider 913 (Kaixa)",
