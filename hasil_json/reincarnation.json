@@ -2,6 +2,20 @@
   "success": true,
   "data": [
     {
+      "judul": "The Ultimate of All Ages",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-ultimate-of-all-ages%2Fmanga_img_horizontal-Komik-The-Ultimate-of-All-Ages.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-ultimate-of-all-ages/"
+    },
+    {
+      "judul": "Demon Evolution",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdemon-evolution%2Fmanga_img_horizontal-Back-Demon-Evolution-rotated.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/demon-evolution/"
+    },
+    {
       "judul": "The Extra’s Academy Survival Guide",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-extras-academy-survival-guide%2Fmanga_img_horizontal-Back-The-Extras-Academy-Survival-Guide.jpg",
@@ -42,13 +56,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmegami_to_kekkon_shite_isekai_de_shinkon_seikatsu%2Fimg_698eda4e4cca22.92069522.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/megami-to-kekkon-shite-isekai-de-shinkon-seikatsu/"
-    },
-    {
-      "judul": "The Ultimate of All Ages",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-ultimate-of-all-ages%2Fmanga_img_horizontal-Komik-The-Ultimate-of-All-Ages.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-ultimate-of-all-ages/"
     },
     {
       "judul": "Villain To Kill",
@@ -224,13 +231,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsilent-witch-chinmoku-no-majo-no-kakushigoto%2Fmanga_img_horizontal-Silent-Witch-Chinmoku-no-Majo-no-Kakushigoto-2.png",
       "tipe": "",
       "url": "https://komiku.org/manga/silent-witch-chinmoku-no-majo-no-kakushigoto/"
-    },
-    {
-      "judul": "Demon Evolution",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdemon-evolution%2Fmanga_img_horizontal-Back-Demon-Evolution-rotated.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/demon-evolution/"
     },
     {
       "judul": "Since My Previous Life Was A Wise Man I Can Afford To Live",
