@@ -2,6 +2,69 @@
   "success": true,
   "data": [
     {
+      "judul": "Reality Quest",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Freality-quest%2Fmanga_img_horizontal-Komik-Reality-Quest.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/reality-quest/"
+    },
+    {
+      "judul": "Mercenary Enrollment",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmercenary-enrollment%2Fmanga_img_horizontal-Komik-Mercenary-Enrollment-scaled.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mercenary-enrollment/"
+    },
+    {
+      "judul": "Momose Akira no Hatsukoi Hatan-chuu.",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmomose_akira_no_hatsukoi_hatan-chuu%2Fimg_68550954439266.01435164.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/momose-akira-no-hatsukoi-hatan-chuu/"
+    },
+    {
+      "judul": "Class no Inkya ni Kareshi no Sainou ga Ari Sugiru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fclass_no_inkya_ni_kareshi_no_sainou_ga_ari_sugiru%2Fimg_693155af749692.58233090.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/class-no-inkya-ni-kareshi-no-sainou-ga-ari-sugiru/"
+    },
+    {
+      "judul": "Ogami Tsumiki to Kinichijou",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fogami-tsumiki-to-kinichijou%2Fmanga_img_horizontal-A1-Ogami-Tsumiki-to-Kinichijou.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ogami-tsumiki-to-kinichijou/"
+    },
+    {
+      "judul": "Haimiya-senpai wa Kowakute Kawaii",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhaimiya-senpai_wa_kowakute_kawaii%2Fimg_690ef597ea95d1.16124029.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/haimiya-senpai-wa-kowakute-kawaii/"
+    },
+    {
+      "judul": "Bouryoku Banzai",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fbouryoku_banzai%2Fimg_682d64d9687f09.14983611.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/bouryoku-banzai/"
+    },
+    {
+      "judul": "Inkya no Boku ni Batsu Game ni Kokuhaku Shitekita Hazu no Gyaru ga, Doumitemo Boku ni Betahore Desu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Finkya-no-boku-ni-batsu-game-ni-kokuhaku-shitekita-hazu-no-gyaru-ga-doumitemo-boku-ni-betahore-desu%2Fmanga_img_horizontal-Komik-Inkya-no-Boku-ni-Batsu-Game-ni-Kokuhaku-Shitekita-Hazu-no-Gyaru-ga-Doumitemo-Boku-ni-Betahore-Desu.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/inkya-no-boku-ni-batsu-game-ni-kokuhaku-shitekita-hazu-no-gyaru-ga-doumitemo-boku-ni-betahore-desu/"
+    },
+    {
+      "judul": "The Devil Classroom",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_devil_classroom%2Fimg_695cbb1a5d3be0.87675407.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-devil-classroom/"
+    },
+    {
       "judul": "Tonari no Seki no Yatsu ga Souiu Me de Mitekuru",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftonari-no-seki-no-yatsu-ga-souiu-me-de-mitekuru%2Fmanga_img_horizontal-A1-Tonari-no-Seki-no-Yatsu-ga-Souiu-Me-de-Mitekuru..jpg",
@@ -44,18 +107,18 @@
       "url": "https://komiku.org/manga/legend-of-star-general/"
     },
     {
-      "judul": "Jitsu wa Gimai (Imouto) deshita. ~Saikin de Kitagiri no Otouto no Kyorikan ga Yatara Chikaiwake~",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake%2Fmanga_img_horizontal-Back-Jitsu-wa-Gimai-Imouto-deshita.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/jitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake/"
-    },
-    {
       "judul": "Secret Family",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsecret_family%2Fimg_689acebbacfbe2.91928962.png",
       "tipe": "",
       "url": "https://komiku.org/manga/secret-family/"
+    },
+    {
+      "judul": "Jitsu wa Gimai (Imouto) deshita. ~Saikin de Kitagiri no Otouto no Kyorikan ga Yatara Chikaiwake~",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake%2Fmanga_img_horizontal-Back-Jitsu-wa-Gimai-Imouto-deshita.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/jitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake/"
     },
     {
       "judul": "Kimi wa Yotsuba no Clover",
@@ -205,13 +268,6 @@
       "url": "https://komiku.org/manga/the-zero-magic-savior-using-my-unique-skill-to-save-the-world/"
     },
     {
-      "judul": "Momose Akira no Hatsukoi Hatan-chuu.",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmomose_akira_no_hatsukoi_hatan-chuu%2Fimg_68550954439266.01435164.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/momose-akira-no-hatsukoi-hatan-chuu/"
-    },
-    {
       "judul": "Kaketa Tsuki no Mercedes ~Kyuuketsuki no Kizoku ni Tensei Shitakedo Sute Rare Sounanode Dungeon o Seiha Suru~",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkaketa_tsuki_no_mercedes%2Fimg_692181190e9b21.70864702.jpg",
@@ -310,13 +366,6 @@
       "url": "https://komiku.org/manga/academys-undercover-professor/"
     },
     {
-      "judul": "Reality Quest",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Freality-quest%2Fmanga_img_horizontal-Komik-Reality-Quest.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/reality-quest/"
-    },
-    {
       "judul": "Superstar From Age 0",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsuperstar-from-age-0%2Fmanga_img_horizontal-Back-Superstar-From-Age-0.jpg",
@@ -329,13 +378,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fcool_na_megami-sama_to_issho_ni_sundara__amayakashi_sugite_ponkotsu_ni_shite_shimatta_ken_ni_tsuite%2Fimg_684bdb973417e0.34196628.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/cool-na-megami-sama-to-issho-ni-sundara-amayakashi-sugite-ponkotsu-ni-shite-shimatta-ken-ni-tsuite/"
-    },
-    {
-      "judul": "Mercenary Enrollment",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmercenary-enrollment%2Fmanga_img_horizontal-Komik-Mercenary-Enrollment-scaled.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mercenary-enrollment/"
     },
     {
       "judul": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-ri no Kanojo",
@@ -422,13 +464,6 @@
       "url": "https://komiku.org/manga/taida-na-akujo-kizoku-ni-tensei-shita-ore-shinario-o-bukko-wa-shitara-kikaku-gai-no-maryoku-de-saikyou-ni-natta/"
     },
     {
-      "judul": "The Devil Classroom",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_devil_classroom%2Fimg_695cbb1a5d3be0.87675407.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-devil-classroom/"
-    },
-    {
       "judul": "Saijo no Osewa ~Takane no Hana Darakena Meimon Kou de, Gakuin Ichi no Ojou-sama (Seikatsu Noryoku Kaimu) o Kagenagara Osewa suru Koto ni Narimashita~",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsaijo-no-osewa-takane-no-hana-darakena-meimon-kou-de-gakuin-ichi-no-ojou-sama-seikatsu-noryoku-kaimu-o-kagenagara-osewa-suru-koto-ni-narimashita%2Fmanga_img_horizontal-Komik-Saijo-no-Osewa-Takane-no-Hana-Darakena-Meimon-Kou-de-Gakuin-Ichi-no-Ojou-sama-Seikatsu-Noryoku-Kaimu-o-Kagenagara-Osewa-suru-Koto-ni-Narimashita.jpg",
@@ -483,13 +518,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgod_of_blackfield%2Fimg_690c4bd7bdba47.28412917.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/god-of-blackfield/"
-    },
-    {
-      "judul": "Class no Inkya ni Kareshi no Sainou ga Ari Sugiru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fclass_no_inkya_ni_kareshi_no_sainou_ga_ari_sugiru%2Fimg_693155af749692.58233090.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/class-no-inkya-ni-kareshi-no-sainou-ga-ari-sugiru/"
     },
     {
       "judul": "Inko demo Seishun Shitai",
@@ -560,13 +588,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkill-the-dragon%2Fmanga_img_horizontal-Komik-Kill-The-Dragon.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/kill-the-dragon/"
-    },
-    {
-      "judul": "Ogami Tsumiki to Kinichijou",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fogami-tsumiki-to-kinichijou%2Fmanga_img_horizontal-A1-Ogami-Tsumiki-to-Kinichijou.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ogami-tsumiki-to-kinichijou/"
     },
     {
       "judul": "Aishiteru Game wo Owarasetai",
@@ -702,13 +723,6 @@
       "url": "https://komiku.org/manga/kono-oto-tomare/"
     },
     {
-      "judul": "Haimiya-senpai wa Kowakute Kawaii",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhaimiya-senpai_wa_kowakute_kawaii%2Fimg_690ef597ea95d1.16124029.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/haimiya-senpai-wa-kowakute-kawaii/"
-    },
-    {
       "judul": "Momogusa-san ga Monogusa Sugiru!!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmomogusa-san_ga_monogusa_sugiru__%2Fimg_683973c72e83d3.51738604.jpg",
@@ -756,13 +770,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fboku_no_suki_na_hito_ga_suki_na_hito%2Fimg_687751384cf1f7.96350989.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/boku-no-suki-na-hito-ga-suki-na-hito/"
-    },
-    {
-      "judul": "Bouryoku Banzai",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fbouryoku_banzai%2Fimg_682d64d9687f09.14983611.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/bouryoku-banzai/"
     },
     {
       "judul": "The Fox-Eyed Villain Of The Demon Academy",
@@ -1766,13 +1773,6 @@
       "url": "https://komiku.org/manga/please-spoil-me-hinamori-san/"
     },
     {
-      "judul": "Inkya no Boku ni Batsu Game ni Kokuhaku Shitekita Hazu no Gyaru ga, Doumitemo Boku ni Betahore Desu",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Finkya-no-boku-ni-batsu-game-ni-kokuhaku-shitekita-hazu-no-gyaru-ga-doumitemo-boku-ni-betahore-desu%2Fmanga_img_horizontal-Komik-Inkya-no-Boku-ni-Batsu-Game-ni-Kokuhaku-Shitekita-Hazu-no-Gyaru-ga-Doumitemo-Boku-ni-Betahore-Desu.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/inkya-no-boku-ni-batsu-game-ni-kokuhaku-shitekita-hazu-no-gyaru-ga-doumitemo-boku-ni-betahore-desu/"
-    },
-    {
       "judul": "Temple",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftemple%2Fmanga_img_horizontal-Manga-Temple.jpg",
@@ -2207,20 +2207,6 @@
       "url": "https://komiku.org/manga/assassination-classroom/"
     },
     {
-      "judul": "Hundred",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hundred/"
-    },
-    {
-      "judul": "Houkago no Cinderella-kun",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/houkago-no-cinderella-kun/"
-    },
-    {
       "judul": "Hard Luck Woman",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
@@ -2233,6 +2219,20 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/watch-dog/"
+    },
+    {
+      "judul": "Hundred",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hundred/"
+    },
+    {
+      "judul": "Houkago no Cinderella-kun",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/houkago-no-cinderella-kun/"
     },
     {
       "judul": "Koi wo Shiranai Bokutachi wa",
