@@ -2,6 +2,27 @@
   "success": true,
   "data": [
     {
+      "judul": "Manager Kim",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmanager-kim%2Fmanga_img_horizontal-Komik-Manager-Kim.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/manager-kim/"
+    },
+    {
+      "judul": "Extremely Evil Game",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fextremely-evil-game%2Fmanga_img_horizontal-Komik-Extremely-Evil-Game.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/extremely-evil-game/"
+    },
+    {
+      "judul": "Jungle Juice",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjungle-juice%2Fmanga_img_horizontal-Komik-Jungle-Juice.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/jungle-juice/"
+    },
+    {
       "judul": "Demons’ Crest",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdemons-crest%2Fmanga_img_horizontal-2-59.png",
@@ -16,13 +37,6 @@
       "url": "https://komiku.org/manga/mercenary-enrollment/"
     },
     {
-      "judul": "Extremely Evil Game",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fextremely-evil-game%2Fmanga_img_horizontal-Komik-Extremely-Evil-Game.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/extremely-evil-game/"
-    },
-    {
       "judul": "Rebuild World",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Frebuild-world%2Fmanga_img_horizontal-Manga-Rebuild-World.jpg",
@@ -35,13 +49,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
       "tipe": "",
       "url": "https://komiku.org/manga/legend-of-star-general/"
-    },
-    {
-      "judul": "Manager Kim",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmanager-kim%2Fmanga_img_horizontal-Komik-Manager-Kim.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/manager-kim/"
     },
     {
       "judul": "Cosmic Heavenly Demon 3077",
@@ -119,13 +126,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fbtooom%2Fmanga_img_horizontal-Komik-btooom.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/btooom/"
-    },
-    {
-      "judul": "Jungle Juice",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjungle-juice%2Fmanga_img_horizontal-Komik-Jungle-Juice.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/jungle-juice/"
     },
     {
       "judul": "Undead Unluck",
