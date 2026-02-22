@@ -2,6 +2,27 @@
   "success": true,
   "data": [
     {
+      "judul": "Legend of Star General",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/legend-of-star-general/"
+    },
+    {
+      "judul": "Demons’ Crest",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdemons-crest%2Fmanga_img_horizontal-2-59.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/demons-crest/"
+    },
+    {
+      "judul": "Mercenary Enrollment",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmercenary-enrollment%2Fmanga_img_horizontal-Komik-Mercenary-Enrollment-scaled.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mercenary-enrollment/"
+    },
+    {
       "judul": "Manager Kim",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmanager-kim%2Fmanga_img_horizontal-Komik-Manager-Kim.jpg",
@@ -23,32 +44,11 @@
       "url": "https://komiku.org/manga/jungle-juice/"
     },
     {
-      "judul": "Demons’ Crest",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdemons-crest%2Fmanga_img_horizontal-2-59.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/demons-crest/"
-    },
-    {
-      "judul": "Mercenary Enrollment",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmercenary-enrollment%2Fmanga_img_horizontal-Komik-Mercenary-Enrollment-scaled.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mercenary-enrollment/"
-    },
-    {
       "judul": "Rebuild World",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Frebuild-world%2Fmanga_img_horizontal-Manga-Rebuild-World.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/rebuild-world/"
-    },
-    {
-      "judul": "Legend of Star General",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/legend-of-star-general/"
     },
     {
       "judul": "Cosmic Heavenly Demon 3077",
