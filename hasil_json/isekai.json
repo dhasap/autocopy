@@ -2,6 +2,41 @@
   "success": true,
   "data": [
     {
+      "judul": "Level 1 kara Hajimaru Shoukan Musou",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flevel-1-kara-hajimaru-shoukan-musou%2Fmanga_img_horizontal-Komik-Level-1-kara-Hajimaru-Shoukan-Musou.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/level-1-kara-hajimaru-shoukan-musou/"
+    },
+    {
+      "judul": "I Became the Tyrant of a Defense Game",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-became-the-tyrant-of-a-defense-game%2Fmanga_img_horizontal-Komik-I-Became-the-Tyrant-of-a-Defense-Game.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/i-became-the-tyrant-of-a-defense-game/"
+    },
+    {
+      "judul": "God of Martial Arts",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgod-of-martial-arts%2Fmanga_img_horizontal-Manhua-God-of-Martial-Arts.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/god-of-martial-arts/"
+    },
+    {
+      "judul": "Taidana Akuyaku Kizoku no Ore ni, Konyaku Hakisareta Akuyaku Reijo ga Totsuidara Saikyo no Fufu ni Narimashita",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftaidana_akuyaku_kizoku_no_ore_ni%2Fimg_6835689dc42799.44997744.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/taidana-akuyaku-kizoku-no-ore-ni-konyaku-hakisareta-akuyaku-reijo-ga-totsuidara-saikyo-no-fufu-ni-narimashita/"
+    },
+    {
+      "judul": "Gacha wo Mawashite Nakama wo Fuyasu Saikyou no Bishoujo Gundan wo Tsukuriagero",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgacha-wo-mawashite-nakama-wo-fuyasu-saikyou-no-bishoujo-gundan-wo-tsukuriagero%2Fmanga_img_horizontal-Komik-Gacha-wo-Mawashite-Nakama-wo-Fuyasu-Saikyou-no-Bishoujo-Gundan-wo-Tsukuriagero.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/gacha-wo-mawashite-nakama-wo-fuyasu-saikyou-no-bishoujo-gundan-wo-tsukuriagero/"
+    },
+    {
       "judul": "The MAX leveled hero will return!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-max-leveled-hero-will-return%2Fmanga_img_horizontal-Manhwa-The-MAX-leveled-hero-will-return.png",
@@ -30,25 +65,11 @@
       "url": "https://komiku.org/manga/sacchi-sarenai-saikyou-shoku-rule-breaker/"
     },
     {
-      "judul": "Level 1 kara Hajimaru Shoukan Musou",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flevel-1-kara-hajimaru-shoukan-musou%2Fmanga_img_horizontal-Komik-Level-1-kara-Hajimaru-Shoukan-Musou.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/level-1-kara-hajimaru-shoukan-musou/"
-    },
-    {
       "judul": "Henkyou Mob Kizoku no Uchi ni Totsui de Kita Akuyaku Reijou ga, Mechakucha Dekiru Yoi Yome Nandaga?",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhenkyou_mob_kizoku_no_uchi_ni_totsui_de_kita_akuyaku_reijou_ga__mechakucha_dekiru_yoi_yome_nandaga_%2Fimg_687e006d372865.10459563.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/henkyou-mob-kizoku-no-uchi-ni-totsui-de-kita-akuyaku-reijou-ga-mechakucha-dekiru-yoi-yome-nandaga/"
-    },
-    {
-      "judul": "God of Martial Arts",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgod-of-martial-arts%2Fmanga_img_horizontal-Manhua-God-of-Martial-Arts.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/god-of-martial-arts/"
     },
     {
       "judul": "Game Chishiki de Saikyou ni Natta Mob Heishi wa, Shin no Jitsuryoku wo Kakushitai",
@@ -226,13 +247,6 @@
       "url": "https://komiku.org/manga/infinite-evolution-starting-from-zero/"
     },
     {
-      "judul": "Gacha wo Mawashite Nakama wo Fuyasu Saikyou no Bishoujo Gundan wo Tsukuriagero",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgacha-wo-mawashite-nakama-wo-fuyasu-saikyou-no-bishoujo-gundan-wo-tsukuriagero%2Fmanga_img_horizontal-Komik-Gacha-wo-Mawashite-Nakama-wo-Fuyasu-Saikyou-no-Bishoujo-Gundan-wo-Tsukuriagero.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/gacha-wo-mawashite-nakama-wo-fuyasu-saikyou-no-bishoujo-gundan-wo-tsukuriagero/"
-    },
-    {
       "judul": "Nito no Taidana Isekai Shoukougun",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnito-no-taidana-isekai-shoukougun%2Fmanga_img_horizontal-Komik-Nito-no-Taidana-Isekai-Shoukougun.jpg",
@@ -294,13 +308,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmy-death-flags-show-no-sign-of-ending%2Fmanga_img_horizontal-Komik-My-Death-Flags-Show-No-Sign-of-Ending.jpeg",
       "tipe": "",
       "url": "https://komiku.org/manga/my-death-flags-show-no-sign-of-ending/"
-    },
-    {
-      "judul": "I Became the Tyrant of a Defense Game",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-became-the-tyrant-of-a-defense-game%2Fmanga_img_horizontal-Komik-I-Became-the-Tyrant-of-a-Defense-Game.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/i-became-the-tyrant-of-a-defense-game/"
     },
     {
       "judul": "Kaketa Tsuki no Mercedes ~Kyuuketsuki no Kizoku ni Tensei Shitakedo Sute Rare Sounanode Dungeon o Seiha Suru~",
@@ -716,18 +723,18 @@
       "url": "https://komiku.org/manga/doctors-rebirth/"
     },
     {
-      "judul": "Drawing: Saikyou Mangaka wa Oekaki Skill de Isekai Musou Suru!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdrawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru%2Fmanga_img_horizontal-Drawing-Saikyou-Mangaka-Panjang.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru/"
-    },
-    {
       "judul": "Isekai Walking",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-walking%2Fmanga_img_horizontal-Back-isekai-walking.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/isekai-walking/"
+    },
+    {
+      "judul": "Drawing: Saikyou Mangaka wa Oekaki Skill de Isekai Musou Suru!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdrawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru%2Fmanga_img_horizontal-Drawing-Saikyou-Mangaka-Panjang.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru/"
     },
     {
       "judul": "Hitoribocchi no Isekai Kouryaku",
@@ -840,13 +847,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fyuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita%2Fmanga_img_horizontal-Back-Yuusha-ni-Zenbu-Ubawareta-Ore-wa-Yuusha-no-Hahaoya.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/yuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita/"
-    },
-    {
-      "judul": "Taidana Akuyaku Kizoku no Ore ni, Konyaku Hakisareta Akuyaku Reijo ga Totsuidara Saikyo no Fufu ni Narimashita",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftaidana_akuyaku_kizoku_no_ore_ni%2Fimg_6835689dc42799.44997744.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/taidana-akuyaku-kizoku-no-ore-ni-konyaku-hakisareta-akuyaku-reijo-ga-totsuidara-saikyo-no-fufu-ni-narimashita/"
     },
     {
       "judul": "Isekai Cheat Kaitakuki",
