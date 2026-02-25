@@ -2,6 +2,69 @@
   "success": true,
   "data": [
     {
+      "judul": "The Art Student Who Lived Twice",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_art_student_who_lived_twice%2Fimg_682d5c8956c046.01264773.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-art-student-who-lived-twice/"
+    },
+    {
+      "judul": "Boyish Kanojo ga Kawai-sugiru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fboyish_kanojo_ga_kawai-sugiru%2Fimg_6864e41561bc49.39797349.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/boyish-kanojo-ga-kawai-sugiru/"
+    },
+    {
+      "judul": "Futari Bus",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ffutari_bus%2Fimg_690c504267b297.64875177.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/futari-bus/"
+    },
+    {
+      "judul": "Im the Hero but the Main Heroines Are Trying to Kill Me",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fim_the_hero_but_the_main_heroines_are_trying_to_kill_me%2Fimg_695b2107d47120.11268130.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/im-the-hero-but-the-main-heroines-are-trying-to-kill-me/"
+    },
+    {
+      "judul": "Legend of Star General",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/legend-of-star-general/"
+    },
+    {
+      "judul": "My School Life Pretending to Be a Worthless Person",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmy-school-life-pretending-to-be-a-worthless-person%2Fmanga_img_horizontal-Komik-My-School-Life-Pretending-to-Be-a-Worthless-Person.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/my-school-life-pretending-to-be-a-worthless-person/"
+    },
+    {
+      "judul": "Inko demo Seishun Shitai",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Finko_demo_seishun_shitai%2Fimg_695b2395987871.53813811.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/inko-demo-seishun-shitai/"
+    },
+    {
+      "judul": "Yui Can Only Live In the Shadows",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fyui_can_only_live_in_the_shadows%2Fimg_698ed8f96d1139.82353930.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/yui-can-only-live-in-the-shadows/"
+    },
+    {
+      "judul": "Aishiteru Game wo Owarasetai",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Faishiteru-game-wo-owarasetai%2Fmanga_img_horizontal-Komik-Aishiteru-Game-wo-Owarasetai.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/aishiteru-game-wo-owarasetai/"
+    },
+    {
       "judul": "The 18 Year Old Demon King",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_18_year_old_demon_king%2Fimg_6985990796c074.52211752.jpg",
@@ -16,25 +79,11 @@
       "url": "https://komiku.org/manga/ao-no-hako/"
     },
     {
-      "judul": "Yui Can Only Live In the Shadows",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fyui_can_only_live_in_the_shadows%2Fimg_698ed8f96d1139.82353930.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/yui-can-only-live-in-the-shadows/"
-    },
-    {
       "judul": "Reality Quest",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Freality-quest%2Fmanga_img_horizontal-Komik-Reality-Quest.png",
       "tipe": "",
       "url": "https://komiku.org/manga/reality-quest/"
-    },
-    {
-      "judul": "Boyish Kanojo ga Kawai-sugiru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fboyish_kanojo_ga_kawai-sugiru%2Fimg_6864e41561bc49.39797349.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/boyish-kanojo-ga-kawai-sugiru/"
     },
     {
       "judul": "Hima-Ten!",
@@ -112,13 +161,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_zero-magic_savior__using_my_unique_skill_to_save_the_world%2Fimg_695cbc5fba99a9.36425608.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-zero-magic-savior-using-my-unique-skill-to-save-the-world/"
-    },
-    {
-      "judul": "Legend of Star General",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/legend-of-star-general/"
     },
     {
       "judul": "Ano Toki Tasukete Itadaita Monster Musume desu.",
@@ -212,13 +254,6 @@
       "url": "https://komiku.org/manga/the-regressed-extra-becomes-a-genius/"
     },
     {
-      "judul": "The Art Student Who Lived Twice",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_art_student_who_lived_twice%2Fimg_682d5c8956c046.01264773.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-art-student-who-lived-twice/"
-    },
-    {
       "judul": "Suufungo no Mirai ga Wakaru You ni Natta Kedo, Onnagokoro wa Wakaranai",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsuufungo_no_mirai_ga_wakaru_you_ni_natta_kedo__onnagokoro_wa_wakaranai%2Fimg_6839753eebd977.57319848.jpg",
@@ -240,13 +275,6 @@
       "url": "https://komiku.org/manga/taida-na-akujo-kizoku-ni-tensei-shita-ore-shinario-o-bukko-wa-shitara-kikaku-gai-no-maryoku-de-saikyou-ni-natta/"
     },
     {
-      "judul": "Inko demo Seishun Shitai",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Finko_demo_seishun_shitai%2Fimg_695b2395987871.53813811.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/inko-demo-seishun-shitai/"
-    },
-    {
       "judul": "The Little Brother Is the Academy’s Hotshot",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-little-brother-is-the-academys-hotshot%2Fmanga_img_horizontal-The-Little-Brother-Is-the-Academys-Hotshot-2.png",
@@ -266,20 +294,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fore_ga_inai_to_sugu_chomeru_hakanagi_kasumi%2Fimg_69788526342444.43509663.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/ore-ga-inai-to-sugu-chomeru-hakanagi-kasumi/"
-    },
-    {
-      "judul": "Futari Bus",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ffutari_bus%2Fimg_690c504267b297.64875177.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/futari-bus/"
-    },
-    {
-      "judul": "My School Life Pretending to Be a Worthless Person",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmy-school-life-pretending-to-be-a-worthless-person%2Fmanga_img_horizontal-Komik-My-School-Life-Pretending-to-Be-a-Worthless-Person.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/my-school-life-pretending-to-be-a-worthless-person/"
     },
     {
       "judul": "Hochiya-san wa Amariaru",
@@ -401,11 +415,11 @@
       "url": "https://komiku.org/manga/miyu-chan-wa-zutto-tomodachi/"
     },
     {
-      "judul": "Jitsu wa Gimai (Imouto) deshita. ~Saikin de Kitagiri no Otouto no Kyorikan ga Yatara Chikaiwake~",
+      "judul": "Secret Family",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake%2Fmanga_img_horizontal-Back-Jitsu-wa-Gimai-Imouto-deshita.jpg",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsecret_family%2Fimg_689acebbacfbe2.91928962.png",
       "tipe": "",
-      "url": "https://komiku.org/manga/jitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake/"
+      "url": "https://komiku.org/manga/secret-family/"
     },
     {
       "judul": "Secret Family",
@@ -469,13 +483,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmake_heroine_o_katasetai__%2Fimg_68c51d5b7da5f1.64553432.png",
       "tipe": "",
       "url": "https://komiku.org/manga/make-heroine-o-katasetai/"
-    },
-    {
-      "judul": "Im the Hero but the Main Heroines Are Trying to Kill Me",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fim_the_hero_but_the_main_heroines_are_trying_to_kill_me%2Fimg_695b2107d47120.11268130.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/im-the-hero-but-the-main-heroines-are-trying-to-kill-me/"
     },
     {
       "judul": "The Cuckoo’s Fiancee",
@@ -721,13 +728,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkill-the-dragon%2Fmanga_img_horizontal-Komik-Kill-The-Dragon.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/kill-the-dragon/"
-    },
-    {
-      "judul": "Aishiteru Game wo Owarasetai",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Faishiteru-game-wo-owarasetai%2Fmanga_img_horizontal-Komik-Aishiteru-Game-wo-Owarasetai.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/aishiteru-game-wo-owarasetai/"
     },
     {
       "judul": "Yanki yo, Tsue o mote!",
@@ -2242,13 +2242,6 @@
       "url": "https://komiku.org/manga/houkago-no-cinderella-kun/"
     },
     {
-      "judul": "Houkago no Cinderella-kun",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/houkago-no-cinderella-kun/"
-    },
-    {
       "judul": "Hard Luck Woman",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
@@ -2261,6 +2254,13 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/watch-dog/"
+    },
+    {
+      "judul": "Hundred",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hundred/"
     },
     {
       "judul": "Koi wo Shiranai Bokutachi wa",
@@ -7709,18 +7709,18 @@
       "url": "https://komiku.org/manga/gaijin-chan-to-mushinkei-boyish-chan/"
     },
     {
-      "judul": "Gakkou Gurashi! – Otayori",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2022%2F10%2FGakkou-Gurashi-%E2%80%93-Otayori-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/gakkou-gurashi-otayori/"
-    },
-    {
       "judul": "Gakkou Gurashi!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgakkou-gurashi%2Fmanga_img_horizontal-Gakkou-Gurashi-2.png",
       "tipe": "",
       "url": "https://komiku.org/manga/gakkou-gurashi/"
+    },
+    {
+      "judul": "Gakkou Gurashi! – Otayori",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2022%2F10%2FGakkou-Gurashi-%E2%80%93-Otayori-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/gakkou-gurashi-otayori/"
     },
     {
       "judul": "Gal niPA-chan wa Semararetai",
