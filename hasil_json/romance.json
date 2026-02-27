@@ -2,6 +2,104 @@
   "success": true,
   "data": [
     {
+      "judul": "Akatsuki no Yona",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fakatsuki-no-yona%2Fmanga_img_horizontal-Manga-Akatsuki-no-Yona.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/akatsuki-no-yona/"
+    },
+    {
+      "judul": "Kon’ya Coin Randorii de Aimashou",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkon___ya_coin_randorii_de_aimashou%2Fimg_685208997daec1.47175582.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/konya-coin-randorii-de-aimashou/"
+    },
+    {
+      "judul": "The Extra’s Academy Survival Guide",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-extras-academy-survival-guide%2Fmanga_img_horizontal-Back-The-Extras-Academy-Survival-Guide.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-extras-academy-survival-guide/"
+    },
+    {
+      "judul": "Boyish Kanojo ga Kawai-sugiru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fboyish_kanojo_ga_kawai-sugiru%2Fimg_6864e41561bc49.39797349.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/boyish-kanojo-ga-kawai-sugiru/"
+    },
+    {
+      "judul": "Marchen Crown",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmarchen_crown%2Fimg_683020e485cb30.18079669.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/marchen-crown/"
+    },
+    {
+      "judul": "Teisou Gyakuten Sekai Nara Moteru to Omotte Itara",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fteisou_gyakuten_sekai_nara_moteru_to_omotte_itara%2Fimg_69369260d8cf80.64834748.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/teisou-gyakuten-sekai-nara-moteru-to-omotte-itara/"
+    },
+    {
+      "judul": "Sakigake no Hana Miko",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsakigake_no_hana_miko%2Fimg_6843f1d35dc058.05781298.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/sakigake-no-hana-miko/"
+    },
+    {
+      "judul": "Kesa Mo Yuraretemasu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkesa_mo_yuraretemasu%2Fimg_689b09979bc4b3.27156034.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kesa-mo-yuraretemasu/"
+    },
+    {
+      "judul": "Kurai Anoko to Shitai koto",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkurai-anoko-to-shitai-koto%2Fmanga_img_horizontal-Kurai-Anoko-to-Shitai-koto-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kurai-anoko-to-shitai-koto/"
+    },
+    {
+      "judul": "Game Chishiki de Saikyou ni Natta Mob Heishi wa, Shin no Jitsuryoku wo Kakushitai",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgame_chishiki_de_saikyou_ni_natta_mob_heishi_wa%2Fimg_6831672c645cd4.09067348.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/game-chishiki-de-saikyou-ni-natta-mob-heishi-wa-shin-no-jitsuryoku-wo-kakushitai/"
+    },
+    {
+      "judul": "My Wife Comes From the Thousand-Year-Old Underworld",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmy_wife_comes_from_the_thousand-year-old_underworld%2Fimg_68d8340336cd92.44410012.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/my-wife-comes-from-the-thousand-year-old-underworld/"
+    },
+    {
+      "judul": "Please Don’t Die!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fplease_don___t_die_%2Fimg_699c047bdc3ae7.08587811.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/please-dont-die/"
+    },
+    {
+      "judul": "Marriagetoxin",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmarriagetoxin%2Fmanga_img_horizontal-Komik-Marriagetoxin.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/marriagetoxin/"
+    },
+    {
+      "judul": "Suna Mahou de Suna no Oukoku o Tsukurou ~Sabaku ni Tsuihou Sareta kara Ganbatte Sokoku Ijou no Kokka o Tatete Mita~",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsuna_mahou_de_suna_no_oukoku_o_tsukurou%2Fimg_686e189f2ef053.46005932.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/suna-mahou-de-suna-no-oukoku-o-tsukurou-sabaku-ni-tsuihou-sareta-kara-ganbatte-sokoku-ijou-no-kokka-o-tatete-mita/"
+    },
+    {
       "judul": "Isshiki-san wa Koi wo Shiritai",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisshiki-san-wa-koi-wo-shiritai%2Fmanga_img_horizontal-Isshiki-san-wa-Koi-wo-Shiritai-2.png",
@@ -30,13 +128,6 @@
       "url": "https://komiku.org/manga/watashi-ni-ai-wo-oshiete/"
     },
     {
-      "judul": "My Wife Comes From the Thousand-Year-Old Underworld",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmy_wife_comes_from_the_thousand-year-old_underworld%2Fimg_68d8340336cd92.44410012.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/my-wife-comes-from-the-thousand-year-old-underworld/"
-    },
-    {
       "judul": "Isekai wa Smartphone to Tomo ni.",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-wa-smartphone-to-tomo-ni%2Fmanga_img_horizontal-Komik-Isekai-wa-Smartphone-to-Tomo-ni..jpg",
@@ -63,13 +154,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2F51231-battle-through-the-heavens%2Fmanga_img_horizontal-Komik-BTTH.png",
       "tipe": "",
       "url": "https://komiku.org/manga/51231-battle-through-the-heavens/"
-    },
-    {
-      "judul": "Akatsuki no Yona",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fakatsuki-no-yona%2Fmanga_img_horizontal-Manga-Akatsuki-no-Yona.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/akatsuki-no-yona/"
     },
     {
       "judul": "Sukinako ga Megane wo Wasureta",
@@ -119,13 +203,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgal-yome-no-himitsu%2Fmanga_img_horizontal-Back-Gal-Yome-no-Himitsu.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/gal-yome-no-himitsu/"
-    },
-    {
-      "judul": "Boyish Kanojo ga Kawai-sugiru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fboyish_kanojo_ga_kawai-sugiru%2Fimg_6864e41561bc49.39797349.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/boyish-kanojo-ga-kawai-sugiru/"
     },
     {
       "judul": "Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!",
@@ -247,13 +324,6 @@
       "url": "https://komiku.org/manga/taidana-akuyaku-kizoku-no-ore-ni-konyaku-hakisareta-akuyaku-reijo-ga-totsuidara-saikyo-no-fufu-ni-narimashita/"
     },
     {
-      "judul": "Sakigake no Hana Miko",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsakigake_no_hana_miko%2Fimg_6843f1d35dc058.05781298.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/sakigake-no-hana-miko/"
-    },
-    {
       "judul": "Sotsugyou Album no Kanojotachi",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsotsugyou_album_no_kanojotachi%2Fimg_6846a7470ab688.01456646.jpg",
@@ -324,13 +394,6 @@
       "url": "https://komiku.org/manga/momose-akira-no-hatsukoi-hatan-chuu/"
     },
     {
-      "judul": "Please Don’t Die!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fplease_don___t_die_%2Fimg_699c047bdc3ae7.08587811.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/please-dont-die/"
-    },
-    {
       "judul": "The Yellow-haired Villain in Female Main Character’s Novel wants Happiness",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_yellow-haired_villain_in_female_main_character___s%2Fimg_68a829f1239c07.85850393.jpg",
@@ -380,13 +443,6 @@
       "url": "https://komiku.org/manga/kimi-wa-yotsuba-no-clover/"
     },
     {
-      "judul": "Game Chishiki de Saikyou ni Natta Mob Heishi wa, Shin no Jitsuryoku wo Kakushitai",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgame_chishiki_de_saikyou_ni_natta_mob_heishi_wa%2Fimg_6831672c645cd4.09067348.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/game-chishiki-de-saikyou-ni-natta-mob-heishi-wa-shin-no-jitsuryoku-wo-kakushitai/"
-    },
-    {
       "judul": "Ore, Yuusha janai desu kara. – VR Sekai no Chouten ni Kunrin Seshi Otoko. Tenseishi, Level 1 no Mushoku kara Restart suru",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fore__yuusha_janai_desu_kara%2Fimg_682d9ef55ccdb7.58937748.jpg",
@@ -415,13 +471,6 @@
       "url": "https://komiku.org/manga/shinimodori-reijou-no-karisome-kekkon-nidome-no-jinsei-wa-kimajime-shougun-to-seijuu-mofumofu/"
     },
     {
-      "judul": "The Extra’s Academy Survival Guide",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-extras-academy-survival-guide%2Fmanga_img_horizontal-Back-The-Extras-Academy-Survival-Guide.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-extras-academy-survival-guide/"
-    },
-    {
       "judul": "Shut Up, Evil Dragon, I Don’t Want to Raise a Child With You Anymore",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fshut_up__evil_dragon__i_don___t_want_to_raise_a_child_with_you_anymore%2Fimg_682bfd739e4cd2.61228119.jpg",
@@ -434,13 +483,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fitsu-demo-jitaku-ni-kaereru-ore-wa-isekai-de-gyoushoujin-o-hajimemashita%2Fmanga_img_horizontal-Komik-Itsu-Demo-Jitaku-ni-Kaereru-Ore-wa-Isekai-de-Gyoushoujin-o-Hajimemashita.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/itsu-demo-jitaku-ni-kaereru-ore-wa-isekai-de-gyoushoujin-o-hajimemashita/"
-    },
-    {
-      "judul": "Marriagetoxin",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmarriagetoxin%2Fmanga_img_horizontal-Komik-Marriagetoxin.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/marriagetoxin/"
     },
     {
       "judul": "Ura Dungeon Okusan",
@@ -723,13 +765,6 @@
       "url": "https://komiku.org/manga/oshi-no-imouto-ni-tensei-shite-shimatta-no-de-saikyou-no-akujo-ni-natte-onii-sama-wo-dokusen-suru-koto-ni-itashimasu/"
     },
     {
-      "judul": "Marchen Crown",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmarchen_crown%2Fimg_683020e485cb30.18079669.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/marchen-crown/"
-    },
-    {
       "judul": "Class no Inkya ni Kareshi no Sainou ga Ari Sugiru",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fclass_no_inkya_ni_kareshi_no_sainou_ga_ari_sugiru%2Fimg_693155af749692.58233090.jpg",
@@ -833,13 +868,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fani_ni_koisuru_watashitachi%2Fimg_695cbda052ef33.65843504.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/ani-ni-koisuru-watashitachi/"
-    },
-    {
-      "judul": "Kurai Anoko to Shitai koto",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkurai-anoko-to-shitai-koto%2Fmanga_img_horizontal-Kurai-Anoko-to-Shitai-koto-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kurai-anoko-to-shitai-koto/"
     },
     {
       "judul": "Kaifukushoku no Akuyaku Reijou",
@@ -1038,18 +1066,18 @@
       "url": "https://komiku.org/manga/kimi-no-kokoro-wo-kanjitai/"
     },
     {
-      "judul": "Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowareteiru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftanbo-de-hirotta-onna-kishi-inaka-de-ore-no-yome-da-to-omowareteiru%2Fmanga_img_horizontal-Back-Tanbo-de-Hirotta-Onna-Kishi-Inaka-de-Ore-no-Yome-da-to-Omowareteiru.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/tanbo-de-hirotta-onna-kishi-inaka-de-ore-no-yome-da-to-omowareteiru/"
-    },
-    {
       "judul": "Kimi no Koto ga Dai Dai Dai Dai Daisuki na 100-ri no Kanojo",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-ri-no-kanojo%2Fmanga_img_horizontal-Komik-Kimi-no-Koto-ga-Dai-Dai-Dai-Dai-Daisuki-na-100-ri-no-Kanojo.png",
       "tipe": "",
       "url": "https://komiku.org/manga/kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-ri-no-kanojo/"
+    },
+    {
+      "judul": "Tanbo de Hirotta Onna Kishi, Inaka de Ore no Yome da to Omowareteiru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftanbo-de-hirotta-onna-kishi-inaka-de-ore-no-yome-da-to-omowareteiru%2Fmanga_img_horizontal-Back-Tanbo-de-Hirotta-Onna-Kishi-Inaka-de-Ore-no-Yome-da-to-Omowareteiru.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/tanbo-de-hirotta-onna-kishi-inaka-de-ore-no-yome-da-to-omowareteiru/"
     },
     {
       "judul": "Isekai Kara Kita Elf to Tomo ni Sugosu Nichijou",
@@ -1276,13 +1304,6 @@
       "url": "https://komiku.org/manga/lv2-kara-cheat-datta-moto-yuusha-kouho-no-mattari-isekai-life/"
     },
     {
-      "judul": "Suna Mahou de Suna no Oukoku o Tsukurou ~Sabaku ni Tsuihou Sareta kara Ganbatte Sokoku Ijou no Kokka o Tatete Mita~",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsuna_mahou_de_suna_no_oukoku_o_tsukurou%2Fimg_686e189f2ef053.46005932.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/suna-mahou-de-suna-no-oukoku-o-tsukurou-sabaku-ni-tsuihou-sareta-kara-ganbatte-sokoku-ijou-no-kokka-o-tatete-mita/"
-    },
-    {
       "judul": "Enishi-kun wa Masho (Harem) Taishitsu ni Mezamemashita",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fenishi-kun-wa-masho-harem-taishitsu-ni-mezamemashita%2Fmanga_img_horizontal-Komik-Enishi-kun-wa-Masho-Harem-Taishitsu-ni-Mezamemashita.jpg",
@@ -1491,13 +1512,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Felf_tsuma_to_hajimeru_yuukyuu_no_tabi__densetsu_no_yuusha__aisuru_elf_to_tomoni_100-nen_mae_ni_sukutta_sekai_wo_tabisuru_%2Fimg_693154c9079da9.84924330.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/elf-tsuma-to-hajimeru-yuukyuu-no-tabi-densetsu-no-yuusha-aisuru-elf-to-tomoni-100-nen-mae-ni-sukutta-sekai-wo-tabisuru/"
-    },
-    {
-      "judul": "Kon’ya Coin Randorii de Aimashou",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkon___ya_coin_randorii_de_aimashou%2Fimg_685208997daec1.47175582.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/konya-coin-randorii-de-aimashou/"
     },
     {
       "judul": "Fun Territory Defense Of The Easy-going Lord ~the Nameless Village Is Made Into The Strongest Fortified City By Production Magic~",
@@ -1920,13 +1934,6 @@
       "url": "https://komiku.org/manga/tokidoki-bosotto-roshiago-de-dereru-tonari-no-alya-san/"
     },
     {
-      "judul": "Teisou Gyakuten Sekai Nara Moteru to Omotte Itara",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fteisou_gyakuten_sekai_nara_moteru_to_omotte_itara%2Fimg_69369260d8cf80.64834748.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/teisou-gyakuten-sekai-nara-moteru-to-omotte-itara/"
-    },
-    {
       "judul": "Mezametara Saikyou Soubi to Uchuusen-mochi datta no de",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmezametara-saikyou-soubi-to-uchuusen-mochi-datta-no-de%2Fmanga_img_horizontal-Komik-Mezametara-Saikyou-Soubi-to-Uchuusen-mochi-datta-no-de.jpg",
@@ -2177,13 +2184,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fjoudan_de_onna_yuusha-tachi_wo_kudoita_daimaou__sarawarete_kyousei_shinkon_seikatsu%2Fimg_6932ac411adcd2.55535045.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/joudan-de-onna-yuusha-tachi-wo-kudoita-daimaou-sarawarete-kyousei-shinkon-seikatsu/"
-    },
-    {
-      "judul": "Kesa Mo Yuraretemasu",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkesa_mo_yuraretemasu%2Fimg_689b09979bc4b3.27156034.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kesa-mo-yuraretemasu/"
     },
     {
       "judul": "Ochinai Yogore wo Boku wa Nanto Yobeba Yokatta noka",
@@ -2718,18 +2718,18 @@
       "url": "https://komiku.org/manga/hyoujou-ga-issai-wakaranai-shirogane-san/"
     },
     {
-      "judul": "Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fboroboro_no_elf-san_wo_shiawase_ni_suru_kusuriuri-san%2Fimg_683166ec557a71.98102767.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/boroboro-no-elf-san-wo-shiawase-ni-suru-kusuriuri-san/"
-    },
-    {
       "judul": "10-nenmae ni Time Leap shite Osananajimi no Ojousama wo Tasuketara Iinazuke ni Narimashita",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2F10-nenmae_ni_time_leap%2Fimg_682ef28d085f59.86159108.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/10-nenmae-ni-time-leap-shite-osananajimi-no-ojousama-wo-tasuketara-iinazuke-ni-narimashita/"
+    },
+    {
+      "judul": "Boroboro no Elf-san wo Shiawase ni Suru Kusuriuri-san",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fboroboro_no_elf-san_wo_shiawase_ni_suru_kusuriuri-san%2Fimg_683166ec557a71.98102767.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/boroboro-no-elf-san-wo-shiawase-ni-suru-kusuriuri-san/"
     },
     {
       "judul": "Onegai Desu Kara Uketekure",
@@ -2942,11 +2942,11 @@
       "url": "https://komiku.org/manga/a-man-meets-a-kuchisake-onna/"
     },
     {
-      "judul": "A Little Secret Recipe",
+      "judul": "A Man Meets a Kuchisake Onna",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fa_little_secret_recipe%2Fimg_6911b085b449b9.21823024.png",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fa_man_meets_a_kuchisake_onna%2Fimg_6911b12117bee0.97124520.jpg",
       "tipe": "",
-      "url": "https://komiku.org/manga/a-little-secret-recipe/"
+      "url": "https://komiku.org/manga/a-man-meets-a-kuchisake-onna/"
     },
     {
       "judul": "A Manga About A Gyaru That Loves a Gyaru That’s Friendly to Otaku",
@@ -4426,6 +4426,13 @@
       "url": "https://komiku.org/manga/living-with-a-villainous-boss/"
     },
     {
+      "judul": "Yamu ni Yamarenu!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fyamu_ni_yamarenu_%2Fimg_682d588b478f97.65425828.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/yamu-ni-yamarenu/"
+    },
+    {
       "judul": "I Became the Daughter of a Ghost Duke",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fi_became_the_daughter_of_a_ghost_duke%2Fimg_682d9fcd813439.33961855.jpg",
@@ -4440,11 +4447,11 @@
       "url": "https://komiku.org/manga/a-strange-but-effective-villainess-life/"
     },
     {
-      "judul": "Yamu ni Yamarenu!",
+      "judul": "A Maid Was More of a Calling Than a Princess",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fyamu_ni_yamarenu_%2Fimg_682d588b478f97.65425828.jpg",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fa_maid_was_more_of_a_calling_than_a_princess%2Fimg_6830212a99c3b8.49123745.png",
       "tipe": "",
-      "url": "https://komiku.org/manga/yamu-ni-yamarenu/"
+      "url": "https://komiku.org/manga/a-maid-was-more-of-a-calling-than-a-princess/"
     },
     {
       "judul": "Belle poupée no Supadari Kon’yaku ~”Konomi ja Nai” to Iwareta Ningyou Hime, Gaman wo Yametara Ouji ga Deredere ni Natta. Jitsu ni Ui!~",
@@ -4452,13 +4459,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fbelle_poup__e_no_supadari_kon___yaku%2Fimg_6830215c335420.00918684.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/belle-poupee-no-supadari-konyaku-konomi-ja-nai-to-iwareta-ningyou-hime-gaman-wo-yametara-ouji-ga-deredere-ni-natta-jitsu-ni-ui/"
-    },
-    {
-      "judul": "A Maid Was More of a Calling Than a Princess",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fa_maid_was_more_of_a_calling_than_a_princess%2Fimg_6830212a99c3b8.49123745.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/a-maid-was-more-of-a-calling-than-a-princess/"
     },
     {
       "judul": "My Sister Is the Main Character",
@@ -4489,18 +4489,18 @@
       "url": "https://komiku.org/manga/i-soon-became-the-contract-daughter-of-a-ruined-family/"
     },
     {
-      "judul": "The Perks of Being a Villainess",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_perks_of_being_a_villainess%2Fimg_6836b8fe616b63.64655972.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-perks-of-being-a-villainess/"
-    },
-    {
       "judul": "The Acting Empress Still Spends the First Night",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_acting_empress_still_spends_the_first_night%2Fimg_6836b5c3c2fab0.95018578.png",
       "tipe": "",
       "url": "https://komiku.org/manga/the-acting-empress-still-spends-the-first-night/"
+    },
+    {
+      "judul": "The Perks of Being a Villainess",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_perks_of_being_a_villainess%2Fimg_6836b8fe616b63.64655972.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-perks-of-being-a-villainess/"
     },
     {
       "judul": "Princess Who Hides Her Fandom",
