@@ -2,6 +2,27 @@
   "success": true,
   "data": [
     {
+      "judul": "Hima-Ten!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhima-ten_%2Fimg_684bcf86a4e403.12656040.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hima-ten/"
+    },
+    {
+      "judul": "Eiyuu to Kenja no Tensei Kon",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Feiyuu-to-kenja-no-tensei-kon%2Fmanga_img_horizontal-Back-Eiyuu-to-Kenja-no-Tensei-Kon.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/eiyuu-to-kenja-no-tensei-kon/"
+    },
+    {
+      "judul": "Reality Quest",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Freality-quest%2Fmanga_img_horizontal-Komik-Reality-Quest.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/reality-quest/"
+    },
+    {
       "judul": "Ao no Exorcist",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-no-exorcist%2Fmanga_img_horizontal-Manga-Ao-no-Exorcist.jpg",
@@ -303,20 +324,6 @@
       "url": "https://komiku.org/manga/ao-no-hako/"
     },
     {
-      "judul": "Reality Quest",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Freality-quest%2Fmanga_img_horizontal-Komik-Reality-Quest.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/reality-quest/"
-    },
-    {
-      "judul": "Hima-Ten!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhima-ten_%2Fimg_684bcf86a4e403.12656040.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hima-ten/"
-    },
-    {
       "judul": "Teisou Gyakuten Sekai de Tanomeba Yareru to Uwasa no Ore",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fteisou_gyakuten_sekai_de_tanomeba_yareru_to_uwasa_no_ore%2Fimg_693151f928b525.68534082.jpg",
@@ -541,18 +548,18 @@
       "url": "https://komiku.org/manga/miyu-chan-wa-zutto-tomodachi/"
     },
     {
-      "judul": "Secret Family",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsecret_family%2Fimg_689acebbacfbe2.91928962.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/secret-family/"
-    },
-    {
       "judul": "Jitsu wa Gimai (Imouto) deshita. ~Saikin de Kitagiri no Otouto no Kyorikan ga Yatara Chikaiwake~",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake%2Fmanga_img_horizontal-Back-Jitsu-wa-Gimai-Imouto-deshita.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/jitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake/"
+    },
+    {
+      "judul": "Secret Family",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsecret_family%2Fimg_689acebbacfbe2.91928962.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/secret-family/"
     },
     {
       "judul": "Onna Tomodachi wa Tanomeba Igaito Yarasete Kureru",
@@ -1162,13 +1169,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fyoukai_gakkou_no_seito_hajimemashita_%2Fimg_693d2399589e81.09771164.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/youkai-gakkou-no-seito-hajimemashita/"
-    },
-    {
-      "judul": "Eiyuu to Kenja no Tensei Kon",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Feiyuu-to-kenja-no-tensei-kon%2Fmanga_img_horizontal-Back-Eiyuu-to-Kenja-no-Tensei-Kon.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/eiyuu-to-kenja-no-tensei-kon/"
     },
     {
       "judul": "Boku no Hero Academia",
