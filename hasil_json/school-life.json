@@ -2,6 +2,62 @@
   "success": true,
   "data": [
     {
+      "judul": "Gimai Seikatsu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgimai-seikatsu%2Fmanga_img_horizontal-Komik-Gimai-Seikatsu.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/gimai-seikatsu/"
+    },
+    {
+      "judul": "Tsumi to Batsu no Spica",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftsumi_to_batsu_no_spica%2Fimg_685207797ca6b8.32409769.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/tsumi-to-batsu-no-spica/"
+    },
+    {
+      "judul": "Im the Hero but the Main Heroines Are Trying to Kill Me",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fim_the_hero_but_the_main_heroines_are_trying_to_kill_me%2Fimg_695b2107d47120.11268130.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/im-the-hero-but-the-main-heroines-are-trying-to-kill-me/"
+    },
+    {
+      "judul": "Watashi no Koto Suki ja Nakatta no ka yo!?",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fwatashi_no_koto_suki_ja_nakatta_no_ka_yo__%2Fimg_6992e241c2ca26.84896654.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/watashi-no-koto-suki-ja-nakatta-no-ka-yo/"
+    },
+    {
+      "judul": "High School Musical Genius Is Paganini Reincarnated",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhigh-school-musical-genius-is-paganini-reincarnated%2Fmanga_img_horizontal-A1-High-School-Musical-Genius-Is-Paganini.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/high-school-musical-genius-is-paganini-reincarnated/"
+    },
+    {
+      "judul": "Taida na Akujo Kizoku ni Tensei Shita Ore, Shinario o Bukko wa Shitara Kikaku-gai no Maryoku de Saikyou ni Natta",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftaida_na_akujo_kizoku_ni_tensei_shita_ore%2Fimg_68492db7b9c6a3.13352395.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/taida-na-akujo-kizoku-ni-tensei-shita-ore-shinario-o-bukko-wa-shitara-kikaku-gai-no-maryoku-de-saikyou-ni-natta/"
+    },
+    {
+      "judul": "The Devil Classroom",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_devil_classroom%2Fimg_695cbb1a5d3be0.87675407.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-devil-classroom/"
+    },
+    {
+      "judul": "Ao Ashi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-ashi%2Fmanga_img_horizontal-Ao-Ashi-Panjang.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ao-ashi/"
+    },
+    {
       "judul": "Netoge no Yome ga Ninki Idol datta",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnetoge-no-yome-ga-ninki-idol-datta%2Fmanga_img_horizontal-Natoge-2.png",
@@ -56,13 +112,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_art_student_who_lived_twice%2Fimg_682d5c8956c046.01264773.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-art-student-who-lived-twice/"
-    },
-    {
-      "judul": "Watashi no Koto Suki ja Nakatta no ka yo!?",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fwatashi_no_koto_suki_ja_nakatta_no_ka_yo__%2Fimg_6992e241c2ca26.84896654.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/watashi-no-koto-suki-ja-nakatta-no-ka-yo/"
     },
     {
       "judul": "The Cuckoo’s Fiancee",
@@ -163,25 +212,11 @@
       "url": "https://komiku.org/manga/when-trying-to-get-back-at-the-hometown-bullies-another-battle-began/"
     },
     {
-      "judul": "High School Musical Genius Is Paganini Reincarnated",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhigh-school-musical-genius-is-paganini-reincarnated%2Fmanga_img_horizontal-A1-High-School-Musical-Genius-Is-Paganini.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/high-school-musical-genius-is-paganini-reincarnated/"
-    },
-    {
       "judul": "Mikadono Sanshimai wa Angai, Choroi",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmikadono-sanshimai-wa-angai-choroi%2Fmanga_img_horizontal-Mikadono-2.png",
       "tipe": "",
       "url": "https://komiku.org/manga/mikadono-sanshimai-wa-angai-choroi/"
-    },
-    {
-      "judul": "Im the Hero but the Main Heroines Are Trying to Kill Me",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fim_the_hero_but_the_main_heroines_are_trying_to_kill_me%2Fimg_695b2107d47120.11268130.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/im-the-hero-but-the-main-heroines-are-trying-to-kill-me/"
     },
     {
       "judul": "Silent Transfer Student",
@@ -203,13 +238,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fa-romantic-comedy-that-begins-with-a-dream%2Fmanga_img_horizontal-A-Romantic-Comedy-That-Begins-with-a-Dream-2.png",
       "tipe": "",
       "url": "https://komiku.org/manga/a-romantic-comedy-that-begins-with-a-dream/"
-    },
-    {
-      "judul": "Tsumi to Batsu no Spica",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftsumi_to_batsu_no_spica%2Fimg_685207797ca6b8.32409769.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/tsumi-to-batsu-no-spica/"
     },
     {
       "judul": "Tonari no Seki no Yankee Shimizu-san ga Kami o Kuroku Sometekita",
@@ -261,13 +289,6 @@
       "url": "https://komiku.org/manga/kurai-anoko-to-shitai-koto/"
     },
     {
-      "judul": "Ao Ashi",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-ashi%2Fmanga_img_horizontal-Ao-Ashi-Panjang.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ao-ashi/"
-    },
-    {
       "judul": "The Regressed Extra Becomes a Genius",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fboku_no_ikezu_na_konyakusha%2Fimg_69314ef4481a65.11117311.jpg",
@@ -287,13 +308,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fryoushin-no-shakkin-wo-katagawari-shite-morau-jouken-wa-nihonichi-kawaii-joshikousei-to-issho-ni-kurasu-koto-deshita%2Fmanga_img_horizontal-Komik-Ryoushin-no-Shakkin-wo-Katagawari-Shite-Morau-Jouken-wa-Nihonichi-Kawaii-Joshikousei-to-Issho-ni-Kurasu-Koto-Deshita.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/ryoushin-no-shakkin-wo-katagawari-shite-morau-jouken-wa-nihonichi-kawaii-joshikousei-to-issho-ni-kurasu-koto-deshita/"
-    },
-    {
-      "judul": "The Devil Classroom",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_devil_classroom%2Fimg_695cbb1a5d3be0.87675407.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-devil-classroom/"
     },
     {
       "judul": "Watashi ni Ai wo Oshiete",
@@ -450,13 +464,6 @@
       "url": "https://komiku.org/manga/uchi-no-seiso-kei-iinchou-ga-katsute-chuunibyou-idol-datta-koto-wo-ore-dake-ga-shitteiru/"
     },
     {
-      "judul": "Taida na Akujo Kizoku ni Tensei Shita Ore, Shinario o Bukko wa Shitara Kikaku-gai no Maryoku de Saikyou ni Natta",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftaida_na_akujo_kizoku_ni_tensei_shita_ore%2Fimg_68492db7b9c6a3.13352395.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/taida-na-akujo-kizoku-ni-tensei-shita-ore-shinario-o-bukko-wa-shitara-kikaku-gai-no-maryoku-de-saikyou-ni-natta/"
-    },
-    {
       "judul": "Ore ga Kokuhaku Saretekara, Ojo no yosu ga Okashii",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fore_ga_kokuhaku_saretekara__ojo_no_yosu_ga_okashii%2Fimg_68356a3109bbf3.99258175.jpg",
@@ -562,18 +569,18 @@
       "url": "https://komiku.org/manga/miyu-chan-wa-zutto-tomodachi/"
     },
     {
-      "judul": "Secret Family",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsecret_family%2Fimg_689acebbacfbe2.91928962.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/secret-family/"
-    },
-    {
       "judul": "Jitsu wa Gimai (Imouto) deshita. ~Saikin de Kitagiri no Otouto no Kyorikan ga Yatara Chikaiwake~",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake%2Fmanga_img_horizontal-Back-Jitsu-wa-Gimai-Imouto-deshita.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/jitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake/"
+    },
+    {
+      "judul": "Secret Family",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsecret_family%2Fimg_689acebbacfbe2.91928962.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/secret-family/"
     },
     {
       "judul": "Onna Tomodachi wa Tanomeba Igaito Yarasete Kureru",
@@ -1724,13 +1731,6 @@
       "url": "https://komiku.org/manga/44th-period-survival-class/"
     },
     {
-      "judul": "Gimai Seikatsu",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgimai-seikatsu%2Fmanga_img_horizontal-Komik-Gimai-Seikatsu.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/gimai-seikatsu/"
-    },
-    {
       "judul": "Ore no Haitoku Meshi o Onedari Sezu ni Irarenai, Otonari no Top Idol-sama",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fore_no_haitoku_meshi_o_onedari_sezu_ni_irarenai%2Fimg_68625c32755007.40550075.jpg",
@@ -2256,6 +2256,13 @@
       "url": "https://komiku.org/manga/assassination-classroom/"
     },
     {
+      "judul": "Hundred",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hundred/"
+    },
+    {
       "judul": "Houkago no Cinderella-kun",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
@@ -2275,13 +2282,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/watch-dog/"
-    },
-    {
-      "judul": "Hundred",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hundred/"
     },
     {
       "judul": "Koi wo Shiranai Bokutachi wa",
