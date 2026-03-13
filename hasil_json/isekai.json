@@ -2,6 +2,55 @@
   "success": true,
   "data": [
     {
+      "judul": "Sword King",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fotherworldly-sword-kings-survival-records%2Fmanga_img_horizontal-Komik-Sword-King.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/otherworldly-sword-kings-survival-records/"
+    },
+    {
+      "judul": "Drawing: Saikyou Mangaka wa Oekaki Skill de Isekai Musou Suru!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdrawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru%2Fmanga_img_horizontal-Drawing-Saikyou-Mangaka-Panjang.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru/"
+    },
+    {
+      "judul": "Jinrui Uragittara Osananajimi no Yuusha wo Buttobasareta",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fjinrui_uragittara_osananajimi_no_yuusha_wo_buttobasareta%2Fimg_69ac36bbc9ae91.04791134.webp",
+      "tipe": "",
+      "url": "https://komiku.org/manga/jinrui-uragittara-osananajimi-no-yuusha-wo-buttobasareta/"
+    },
+    {
+      "judul": "Isekai Demon Eater – I Became a Monster Eating Hero and Rebelled Against the Kingdom That Abandoned Me",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fisekai_demon_eater%2Fimg_68c51def8d6cc0.23463169.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-demon-eater-i-became-a-monster-eating-hero-and-rebelled-against-the-kingdom-that-abandoned-me/"
+    },
+    {
+      "judul": "Became The Patron Of Villains",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fbecame_the_patron_of_villains%2Fimg_68fb1d5e502852.59335810.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/became-the-patron-of-villains/"
+    },
+    {
+      "judul": "The Beginning After The End",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-beginning-after-the-end%2Fmanga_img_horizontal-Komik-The-Beginning-After-The-End-1.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-beginning-after-the-end/"
+    },
+    {
+      "judul": "Saiyakkyuu Skill “Boushoku Maou” Mochi No Akuyaku Kizoku Ni Tensei Shimashita Ga, Shokei Saretakunai Node Skill Wo Kakushite Hitasura Doryoku Shimasu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F13%2F20260313061322_2209dcbba137af38_73e7a6da.webp",
+      "tipe": "",
+      "url": "https://komiku.org/manga/saiyakkyuu-skill-boushoku-maou-mochi-no-akuyaku-kizoku-ni-tensei-shimashita-ga-shokei-saretakunai-node-skill-wo-kakushite-hitasura-doryoku-shimasu/"
+    },
+    {
       "judul": "The Samurai of the Divine Shadow Dominates at the Academy",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F13%2F20260313050104_3583d06c47ad5527_c3fd0510.webp",
@@ -191,13 +240,6 @@
       "url": "https://komiku.org/manga/makikomarete-isekai-teni-suru-yatsu-wa-taitei-cheat/"
     },
     {
-      "judul": "Jinrui Uragittara Osananajimi no Yuusha wo Buttobasareta",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fjinrui_uragittara_osananajimi_no_yuusha_wo_buttobasareta%2Fimg_69ac36bbc9ae91.04791134.webp",
-      "tipe": "",
-      "url": "https://komiku.org/manga/jinrui-uragittara-osananajimi-no-yuusha-wo-buttobasareta/"
-    },
-    {
       "judul": "Isekai de Tochi o Katte Noujou o Tsukurou",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-de-tochi-o-katte-noujou-o-tsukurou%2Fmanga_img_horizontal-Komik-Isekai-de-Tochi-o-Katte-Noujou-o-Tsukurou.jpg",
@@ -266,13 +308,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsacchi-sarenai-saikyou-shoku-rule-breaker%2Fmanga_img_horizontal-Sacchi-Sarenai-Saikyou-Panjang.png",
       "tipe": "",
       "url": "https://komiku.org/manga/sacchi-sarenai-saikyou-shoku-rule-breaker/"
-    },
-    {
-      "judul": "Became The Patron Of Villains",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fbecame_the_patron_of_villains%2Fimg_68fb1d5e502852.59335810.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/became-the-patron-of-villains/"
     },
     {
       "judul": "God of Martial Arts",
@@ -350,13 +385,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Finfinite_evolution_starting_from_zero%2Fimg_68ca5c8bb83363.45709957.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/infinite-evolution-starting-from-zero/"
-    },
-    {
-      "judul": "Isekai Demon Eater – I Became a Monster Eating Hero and Rebelled Against the Kingdom That Abandoned Me",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fisekai_demon_eater%2Fimg_68c51def8d6cc0.23463169.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isekai-demon-eater-i-became-a-monster-eating-hero-and-rebelled-against-the-kingdom-that-abandoned-me/"
     },
     {
       "judul": "Please Bully Me, Miss Villainess!",
@@ -884,13 +912,6 @@
       "url": "https://komiku.org/manga/isekai-walking/"
     },
     {
-      "judul": "Drawing: Saikyou Mangaka wa Oekaki Skill de Isekai Musou Suru!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdrawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru%2Fmanga_img_horizontal-Drawing-Saikyou-Mangaka-Panjang.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru/"
-    },
-    {
       "judul": "Hitoribocchi no Isekai Kouryaku",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhitoribocchi-no-isekai-kouryaku%2Fmanga_img_horizontal-A1-Hitoribocchi-no-Isekai-Kouryaku.jpg",
@@ -938,13 +959,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgame-obu-familia-family-senki%2Fmanga_img_horizontal-Manga-Game-obu-Familia---Family-Senki.png",
       "tipe": "",
       "url": "https://komiku.org/manga/game-obu-familia-family-senki/"
-    },
-    {
-      "judul": "Sword King",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fotherworldly-sword-kings-survival-records%2Fmanga_img_horizontal-Komik-Sword-King.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/otherworldly-sword-kings-survival-records/"
     },
     {
       "judul": "Bijo to Kenja to Majin no Ken",
@@ -1771,13 +1785,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fts-eiseihei-san-no-senjou-nikki%2Fmanga_img_horizontal-Back-TS-Eiseihei-san-no-Senjou-Nikki.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/ts-eiseihei-san-no-senjou-nikki/"
-    },
-    {
-      "judul": "The Beginning After The End",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-beginning-after-the-end%2Fmanga_img_horizontal-Komik-The-Beginning-After-The-End-1.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-beginning-after-the-end/"
     },
     {
       "judul": "Nekomimi Shoujo wa Mori de Slow Life wo Okuritai: Mofumofu wa Shomou Shimashita ga, Seijo to ka Ouji-sama to ka wa Chuumongai desu",
