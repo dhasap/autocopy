@@ -2,6 +2,55 @@
   "success": true,
   "data": [
     {
+      "judul": "True Education",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftrue-education%2Fmanga_img_horizontal-Komik-True-Education.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/true-education/"
+    },
+    {
+      "judul": "The 18 Year Old Demon King",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_18_year_old_demon_king%2Fimg_6985990796c074.52211752.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-18-year-old-demon-king/"
+    },
+    {
+      "judul": "Gyaru no Jitensha o Naoshitara Natsukareta",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgyaru_no_jitensha_o_naoshitara_natsukareta%2Fimg_693d244f03aa83.71692460.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/gyaru-no-jitensha-o-naoshitara-natsukareta/"
+    },
+    {
+      "judul": "Study Group",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fstudy-group%2Fmanga_img_horizontal-Komik-Study-Group.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/study-group/"
+    },
+    {
+      "judul": "The Devil Classroom",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_devil_classroom%2Fimg_695cbb1a5d3be0.87675407.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-devil-classroom/"
+    },
+    {
+      "judul": "Urakata de Support Shiteta Geinou Ikka wo Tsuihousareta Boku wa, Futsuu no Seishun wo Ouka Shitai.",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Furakata_de_support_shiteta_geinou_ikka_wo_tsuihousareta_boku_wa__futsuu_no_seishun_wo_ouka_shitai_%2Fimg_682ae0fdbea2c7.84897009.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/urakata-de-support-shiteta-geinou-ikka-wo-tsuihousareta-boku-wa-futsuu-no-seishun-wo-ouka-shitai/"
+    },
+    {
+      "judul": "Ikemen Joshi Demo Kawaii Heroine ni Naremasu ka?",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fikemen_joshi_demo_kawaii_heroine_ni_naremasu_ka_%2Fimg_6985acd4a13ef3.48416696.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ikemen-joshi-demo-kawaii-heroine-ni-naremasu-ka/"
+    },
+    {
       "judul": "Hima-Ten!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhima-ten_%2Fimg_684bcf86a4e403.12656040.jpg",
@@ -212,13 +261,6 @@
       "url": "https://komiku.org/manga/futari-bus/"
     },
     {
-      "judul": "True Education",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftrue-education%2Fmanga_img_horizontal-Komik-True-Education.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/true-education/"
-    },
-    {
       "judul": "Kurai Anoko to Shitai koto",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkurai-anoko-to-shitai-koto%2Fmanga_img_horizontal-Kurai-Anoko-to-Shitai-koto-2.png",
@@ -331,18 +373,18 @@
       "url": "https://komiku.org/manga/watashi-no-koto-suki-ja-nakatta-no-ka-yo/"
     },
     {
-      "judul": "Inko demo Seishun Shitai",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Finko_demo_seishun_shitai%2Fimg_695b2395987871.53813811.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/inko-demo-seishun-shitai/"
-    },
-    {
       "judul": "Make Heroine o Katasetai!!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmake_heroine_o_katasetai__%2Fimg_68c51d5b7da5f1.64553432.png",
       "tipe": "",
       "url": "https://komiku.org/manga/make-heroine-o-katasetai/"
+    },
+    {
+      "judul": "Inko demo Seishun Shitai",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Finko_demo_seishun_shitai%2Fimg_695b2395987871.53813811.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/inko-demo-seishun-shitai/"
     },
     {
       "judul": "Koko Jidai ni Gomandatta Jou sama to no Dousei Seikatsu wa Igaito Igokochi ga Warukunai",
@@ -406,13 +448,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftranscension-academy%2Fmanga_img_horizontal-TranscensionAcademyPanjang.png",
       "tipe": "",
       "url": "https://komiku.org/manga/transcension-academy/"
-    },
-    {
-      "judul": "The 18 Year Old Demon King",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_18_year_old_demon_king%2Fimg_6985990796c074.52211752.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-18-year-old-demon-king/"
     },
     {
       "judul": "Plaything",
@@ -625,13 +660,6 @@
       "url": "https://komiku.org/manga/taida-na-akujo-kizoku-ni-tensei-shita-ore-shinario-o-bukko-wa-shitara-kikaku-gai-no-maryoku-de-saikyou-ni-natta/"
     },
     {
-      "judul": "The Devil Classroom",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_devil_classroom%2Fimg_695cbb1a5d3be0.87675407.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-devil-classroom/"
-    },
-    {
       "judul": "Netoge no Yome ga Ninki Idol datta",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnetoge-no-yome-ga-ninki-idol-datta%2Fmanga_img_horizontal-Natoge-2.png",
@@ -793,13 +821,6 @@
       "url": "https://komiku.org/manga/tonari-no-seki-no-inkya-joshi-ga-oshi-utaite-datta-ore-no-kyoku-wo-uttatekure/"
     },
     {
-      "judul": "Gyaru no Jitensha o Naoshitara Natsukareta",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgyaru_no_jitensha_o_naoshitara_natsukareta%2Fimg_693d244f03aa83.71692460.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/gyaru-no-jitensha-o-naoshitara-natsukareta/"
-    },
-    {
       "judul": "I am Worried that my Childhood Friend is too Cute!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-am-worried-that-my-childhood-friend-is-too-cute%2Fmanga_img_horizontal-2-75.png",
@@ -947,13 +968,6 @@
       "url": "https://komiku.org/manga/kimi-no-koto-ga-dai-dai-dai-dai-daisuki-na-100-ri-no-kanojo/"
     },
     {
-      "judul": "Ikemen Joshi Demo Kawaii Heroine ni Naremasu ka?",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fikemen_joshi_demo_kawaii_heroine_ni_naremasu_ka_%2Fimg_6985acd4a13ef3.48416696.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ikemen-joshi-demo-kawaii-heroine-ni-naremasu-ka/"
-    },
-    {
       "judul": "Houkago Voca-Ken de!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhoukago_voca-ken_de_%2Fimg_698598d4bf51e3.15525574.jpg",
@@ -1085,13 +1099,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fremote_jugyou_ni_nattara_class_1_no_bishoujo_to_doukyo_suru_koto_ni_natta%2Fimg_689301126faf91.23024087.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/remote-jugyou-ni-nattara-class-1-no-bishoujo-to-doukyo-suru-koto-ni-natta/"
-    },
-    {
-      "judul": "Urakata de Support Shiteta Geinou Ikka wo Tsuihousareta Boku wa, Futsuu no Seishun wo Ouka Shitai.",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Furakata_de_support_shiteta_geinou_ikka_wo_tsuihousareta_boku_wa__futsuu_no_seishun_wo_ouka_shitai_%2Fimg_682ae0fdbea2c7.84897009.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/urakata-de-support-shiteta-geinou-ikka-wo-tsuihousareta-boku-wa-futsuu-no-seishun-wo-ouka-shitai/"
     },
     {
       "judul": "Anta to Osananajimitte dake demo Iyananoni! ~Zekkou kara Hajimaru S-kyuu Bishoujo to no Gakuen Nariagari Seikatsu~",
@@ -2396,6 +2403,13 @@
       "url": "https://komiku.org/manga/assassination-classroom/"
     },
     {
+      "judul": "Hard Luck Woman",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hard-luck-woman/"
+    },
+    {
       "judul": "Watch Dog",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
@@ -2415,13 +2429,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/houkago-no-cinderella-kun/"
-    },
-    {
-      "judul": "Hard Luck Woman",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hard-luck-woman/"
     },
     {
       "judul": "Koi wo Shiranai Bokutachi wa",
@@ -5502,13 +5509,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fto-be-winner%2Fmanga_img_horizontal-Komik-To-be-Winner.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/to-be-winner/"
-    },
-    {
-      "judul": "Study Group",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fstudy-group%2Fmanga_img_horizontal-Komik-Study-Group.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/study-group/"
     },
     {
       "judul": "Koi to Shinzou",
@@ -8752,18 +8752,18 @@
       "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-yotsuba-keishou-hen/"
     },
     {
-      "judul": "Mahouka Koukou no Rettousei – Steeplechase-hen",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2024%2F04%2FBack-Mahouka-Koukou-no-Rettousei-%E2%80%93-Steeplechase-hen.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-steeplechase-hen/"
-    },
-    {
       "judul": "Mahouka Koukou no Rettousei: Natsuyasumi-hen",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmahouka-koukou-no-rettousei-natsuyasumi-hen%2Fmanga_img_horizontal-Back-Mahouka-Koukou-no-Rettousei-Natsuyasumi-hen.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-natsuyasumi-hen/"
+    },
+    {
+      "judul": "Mahouka Koukou no Rettousei – Steeplechase-hen",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2024%2F04%2FBack-Mahouka-Koukou-no-Rettousei-%E2%80%93-Steeplechase-hen.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-steeplechase-hen/"
     },
     {
       "judul": "Mahouka Koukou no Rettousei: Double Seven-hen",
