@@ -2,6 +2,41 @@
   "success": true,
   "data": [
     {
+      "judul": "Kanojo Okarishimasu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkanojo-okarishimasu%2Fmanga_img_horizontal-Komik-Kanojo-Okarishimasu.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kanojo-okarishimasu/"
+    },
+    {
+      "judul": "Asobinin na Shoujo-tachi wa Kyou mo Houkago Yatteiru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F15%2F20260315020446_ad311beaafff6b8e_639a89e5.webp",
+      "tipe": "",
+      "url": "https://komiku.org/manga/asobinin-na-shoujo-tachi-wa-kyou-mo-houkago-yatteiru/"
+    },
+    {
+      "judul": "Im the Hero but the Main Heroines Are Trying to Kill Me",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fim_the_hero_but_the_main_heroines_are_trying_to_kill_me%2Fimg_695b2107d47120.11268130.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/im-the-hero-but-the-main-heroines-are-trying-to-kill-me/"
+    },
+    {
+      "judul": "Secret Family",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsecret_family%2Fimg_689acebbacfbe2.91928962.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/secret-family/"
+    },
+    {
+      "judul": "The Main Heroines Are Trying to Kill Me",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F16%2F20260316005724_eeecbdb131b6bf12_fa4587d8.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-main-heroines-are-trying-to-kill-me/"
+    },
+    {
       "judul": "Chigau Miyahara Omae Janai!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F16%2F20260316005750_ede1fd1024cb72e4_a94a41ca.jpg",
@@ -282,13 +317,6 @@
       "url": "https://komiku.org/manga/jitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake/"
     },
     {
-      "judul": "The Main Heroines Are Trying to Kill Me",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F16%2F20260316005724_eeecbdb131b6bf12_fa4587d8.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-main-heroines-are-trying-to-kill-me/"
-    },
-    {
       "judul": "Superstar From Age 0",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsuperstar-from-age-0%2Fmanga_img_horizontal-Back-Superstar-From-Age-0.jpg",
@@ -301,13 +329,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnee-mou-isso-tsukiacchau-osananajimi-no-bishoujo-ni-tanomarete-camo-kareshi-hajimemashita%2Fmanga_img_horizontal-Nee-Mou-Isso-Panjang.png",
       "tipe": "",
       "url": "https://komiku.org/manga/nee-mou-isso-tsukiacchau-osananajimi-no-bishoujo-ni-tanomarete-camo-kareshi-hajimemashita/"
-    },
-    {
-      "judul": "Kanojo Okarishimasu",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkanojo-okarishimasu%2Fmanga_img_horizontal-Komik-Kanojo-Okarishimasu.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kanojo-okarishimasu/"
     },
     {
       "judul": "Tonari no Seki no Yatsu ga Souiu Me de Mitekuru",
@@ -324,25 +345,11 @@
       "url": "https://komiku.org/manga/teisou-gyakuten-sekai-de-tanomeba-yareru-to-uwasa-no-ore/"
     },
     {
-      "judul": "Im the Hero but the Main Heroines Are Trying to Kill Me",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fim_the_hero_but_the_main_heroines_are_trying_to_kill_me%2Fimg_695b2107d47120.11268130.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/im-the-hero-but-the-main-heroines-are-trying-to-kill-me/"
-    },
-    {
       "judul": "Mercenary Enrollment",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmercenary-enrollment%2Fmanga_img_horizontal-Komik-Mercenary-Enrollment-scaled.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/mercenary-enrollment/"
-    },
-    {
-      "judul": "Asobinin na Shoujo-tachi wa Kyou mo Houkago Yatteiru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F15%2F20260315020446_ad311beaafff6b8e_639a89e5.webp",
-      "tipe": "",
-      "url": "https://komiku.org/manga/asobinin-na-shoujo-tachi-wa-kyou-mo-houkago-yatteiru/"
     },
     {
       "judul": "Tier 1 Shimai: Yuumei Yonshimai wa Boku nashi de wa Ikirarenai",
@@ -506,18 +513,18 @@
       "url": "https://komiku.org/manga/world-dai-star-encore/"
     },
     {
-      "judul": "Make Heroine o Katasetai!!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmake_heroine_o_katasetai__%2Fimg_68c51d5b7da5f1.64553432.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/make-heroine-o-katasetai/"
-    },
-    {
       "judul": "Inko demo Seishun Shitai",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Finko_demo_seishun_shitai%2Fimg_695b2395987871.53813811.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/inko-demo-seishun-shitai/"
+    },
+    {
+      "judul": "Make Heroine o Katasetai!!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmake_heroine_o_katasetai__%2Fimg_68c51d5b7da5f1.64553432.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/make-heroine-o-katasetai/"
     },
     {
       "judul": "Koko Jidai ni Gomandatta Jou sama to no Dousei Seikatsu wa Igaito Igokochi ga Warukunai",
@@ -588,13 +595,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhonzuki_no_gekokujou__shisho_ni_naru_tame_ni_wa_shudan_o_erandeiraremasen___dai_5-bu__todaeta_chishiki_wo_tsunageyou_%2Fimg_69859b7fc22ec7.06357217.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/honzuki-no-gekokujou-part-5/"
-    },
-    {
-      "judul": "Secret Family",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsecret_family%2Fimg_689acebbacfbe2.91928962.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/secret-family/"
     },
     {
       "judul": "Houkago no Luminous",
@@ -2438,11 +2438,18 @@
       "url": "https://komiku.org/manga/assassination-classroom/"
     },
     {
-      "judul": "Hundred",
+      "judul": "Hard Luck Woman",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
       "tipe": "",
-      "url": "https://komiku.org/manga/hundred/"
+      "url": "https://komiku.org/manga/hard-luck-woman/"
+    },
+    {
+      "judul": "Watch Dog",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/watch-dog/"
     },
     {
       "judul": "Houkago no Cinderella-kun",
@@ -2457,13 +2464,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
       "tipe": "",
       "url": "https://komiku.org/manga/hard-luck-woman/"
-    },
-    {
-      "judul": "Watch Dog",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/watch-dog/"
     },
     {
       "judul": "Koi wo Shiranai Bokutachi wa",
