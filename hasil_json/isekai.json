@@ -2,6 +2,34 @@
   "success": true,
   "data": [
     {
+      "judul": "Healing Life Through Camping in Another World",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhealing-life-through-camping-in-another-world%2Fmanga_img_horizontal-A1-Healing-Life-Through-Camping-in-Another-World.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/healing-life-through-camping-in-another-world/"
+    },
+    {
+      "judul": "God of Martial Arts",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgod-of-martial-arts%2Fmanga_img_horizontal-Manhua-God-of-Martial-Arts.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/god-of-martial-arts/"
+    },
+    {
+      "judul": "Isekai Saikou no Kizoku, Harem wo Fuyasu Hodo Tsuyoku Naru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-saikou-no-kizoku-harem-wo-fuyasu-hodo-tsuyoku-naru%2Fmanga_img_horizontal-Back-Isekai-Saikou-no-Kizoku-Harem-wo-Fuyasu-Hodo-Tsuyoku-Naru.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-saikou-no-kizoku-harem-wo-fuyasu-hodo-tsuyoku-naru/"
+    },
+    {
+      "judul": "Kage no Jitsuryokusha ni Naritakute",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkage-no-jitsuryokusha-ni-naritakute%2Fmanga_img_horizontal-Manga-Kage-no-Jitsuryokusha-ni-Naritakute.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kage-no-jitsuryokusha-ni-naritakute/"
+    },
+    {
       "judul": "Doctor’s Rebirth",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdoctors-rebirth%2Fmanga_img_horizontal-Komik-Doctors-Rebirth.jpg",
@@ -14,6 +42,20 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-ghostly-doctor%2Fmanga_img_horizontal-Manhua-The-Ghostly-Doctor.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-ghostly-doctor/"
+    },
+    {
+      "judul": "Supreme Curse Master",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsupreme_curse_master%2Fimg_682a1c9c218ad3.60673892.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/supreme-curse-master/"
+    },
+    {
+      "judul": "The Strongest Harem of Nobles",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-strongest-harem-of-nobles%2Fmanga_img_horizontal-harem-of-nobles-pnjng.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-strongest-harem-of-nobles/"
     },
     {
       "judul": "Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru ~Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru~",
@@ -196,13 +238,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdrawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru%2Fmanga_img_horizontal-Drawing-Saikyou-Mangaka-Panjang.png",
       "tipe": "",
       "url": "https://komiku.org/manga/drawing-saikyou-mangaka-wa-oekaki-skill-de-isekai-musou-suru/"
-    },
-    {
-      "judul": "Isekai Saikou no Kizoku, Harem wo Fuyasu Hodo Tsuyoku Naru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-saikou-no-kizoku-harem-wo-fuyasu-hodo-tsuyoku-naru%2Fmanga_img_horizontal-Back-Isekai-Saikou-no-Kizoku-Harem-wo-Fuyasu-Hodo-Tsuyoku-Naru.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isekai-saikou-no-kizoku-harem-wo-fuyasu-hodo-tsuyoku-naru/"
     },
     {
       "judul": "Taida na Akujo Kizoku ni Tensei Shita Ore, Shinario o Bukko wa Shitara Kikaku-gai no Maryoku de Saikyou ni Natta",
@@ -513,13 +548,6 @@
       "url": "https://komiku.org/manga/yami-ochi-rasu-bosu-reijou-no-osananajimi-ni-tensei-shita-ore-ga-shindara-bad-end-kakutei-na-node-saikyou-ni-natta-kedo-mou-yami-ochi-yandere-ka-shitemasen-ka/"
     },
     {
-      "judul": "Supreme Curse Master",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsupreme_curse_master%2Fimg_682a1c9c218ad3.60673892.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/supreme-curse-master/"
-    },
-    {
       "judul": "Negatte mo Nai Tsuihou Go kara no Slow Life? Intai Shita Hazu ga Nariyuki de Bishoujo Gal no Shishou ni Nattara Naze ka Mechakucha Natsukareta",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fnegatte_mo_nai_tsuihou_go_kara_no_slow_life%2Fimg_682c2003ae04b0.08215220.jpg",
@@ -539,13 +567,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsacchi-sarenai-saikyou-shoku-rule-breaker%2Fmanga_img_horizontal-Sacchi-Sarenai-Saikyou-Panjang.png",
       "tipe": "",
       "url": "https://komiku.org/manga/sacchi-sarenai-saikyou-shoku-rule-breaker/"
-    },
-    {
-      "judul": "God of Martial Arts",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgod-of-martial-arts%2Fmanga_img_horizontal-Manhua-God-of-Martial-Arts.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/god-of-martial-arts/"
     },
     {
       "judul": "Mob Shisai Dakedo, Kono Sekai ga Otome Game dato Kizuita node Heroine wo Ikusei Shimasu",
@@ -637,13 +658,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftensei-shitara-slime-datta-ken-indo%2Fmanga_img_horizontal-Manga-Tensei-Shitara-Slime-Datta-Ken.png",
       "tipe": "",
       "url": "https://komiku.org/manga/tensei-shitara-slime-datta-ken-indo/"
-    },
-    {
-      "judul": "Healing Life Through Camping in Another World",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhealing-life-through-camping-in-another-world%2Fmanga_img_horizontal-A1-Healing-Life-Through-Camping-in-Another-World.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/healing-life-through-camping-in-another-world/"
     },
     {
       "judul": "The Wrong Way to use Healing Magic",
@@ -1176,13 +1190,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_hidden_cubs_of_the_lastboss%2Fimg_6878aa2d5a91e7.05599933.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-hidden-cubs-of-the-lastboss-a-former-corporate-programmer-reincarnated-in-a-demon-kings-castle-is-free-to-develop-a-magic-code-at-will/"
-    },
-    {
-      "judul": "Kage no Jitsuryokusha ni Naritakute",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkage-no-jitsuryokusha-ni-naritakute%2Fmanga_img_horizontal-Manga-Kage-no-Jitsuryokusha-ni-Naritakute.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kage-no-jitsuryokusha-ni-naritakute/"
     },
     {
       "judul": "Hazure Waku no “Joutai Ijou Skill” de Saikyou ni Natta Ore ga Subete wo Juurin Suru made",
@@ -2156,13 +2163,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Freincarnated-as-the-son-of-a-vicious-lord-when-i-was-having-fun%2Fmanga_img_horizontal-A1-Reincarnated-As-The-Son-Of-A-Vicious-Lord.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/reincarnated-as-the-son-of-a-vicious-lord-when-i-was-having-fun/"
-    },
-    {
-      "judul": "The Strongest Harem of Nobles",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-strongest-harem-of-nobles%2Fmanga_img_horizontal-harem-of-nobles-pnjng.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-strongest-harem-of-nobles/"
     },
     {
       "judul": "I Have Nine Female Disciples",
