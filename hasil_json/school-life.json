@@ -2,6 +2,55 @@
   "success": true,
   "data": [
     {
+      "judul": "Houkago no Luminous",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhoukago_no_luminous%2Fimg_6978868b893d04.13369813.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/houkago-no-luminous/"
+    },
+    {
+      "judul": "Ao Ashi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-ashi%2Fmanga_img_horizontal-Ao-Ashi-Panjang.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ao-ashi/"
+    },
+    {
+      "judul": "Cool na Megami-sama to Issho ni Sundara, Amayakashi Sugite Ponkotsu ni shite Shimatta Ken ni Tsuite",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fcool_na_megami-sama_to_issho_ni_sundara__amayakashi_sugite_ponkotsu_ni_shite_shimatta_ken_ni_tsuite%2Fimg_684bdb973417e0.34196628.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/cool-na-megami-sama-to-issho-ni-sundara-amayakashi-sugite-ponkotsu-ni-shite-shimatta-ken-ni-tsuite/"
+    },
+    {
+      "judul": "God of Blackfield",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgod_of_blackfield%2Fimg_690c4bd7bdba47.28412917.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/god-of-blackfield/"
+    },
+    {
+      "judul": "Superstar From Age 0",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsuperstar-from-age-0%2Fmanga_img_horizontal-Back-Superstar-From-Age-0.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/superstar-from-age-0/"
+    },
+    {
+      "judul": "Dou ka Ore wo Houtte Oitekure",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdou-ka-ore-wo-houtte-oitekure%2Fmanga_img_horizontal-A1-Dou-ka-Ore-wo-Houtte-Oitekure.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/dou-ka-ore-wo-houtte-oitekure/"
+    },
+    {
+      "judul": "Koori no Hime wa Chiisana Hidamari de Tokasaretai",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkoori_no_hime_wa_chiisana_hidamari_de_tokasaretai%2Fimg_684bda271703f8.78715303.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/koori-no-hime-wa-chiisana-hidamari-de-tokasaretai/"
+    },
+    {
       "judul": "My School Life Pretending to Be a Worthless Person",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmy-school-life-pretending-to-be-a-worthless-person%2Fmanga_img_horizontal-Komik-My-School-Life-Pretending-to-Be-a-Worthless-Person.jpg",
@@ -23,18 +72,18 @@
       "url": "https://komiku.org/manga/yarikonda-renai-game-no-akuyaku-ni-tensei-shita-node-gensaku-chishiki-de-hiroin-o-koryaku-shimasu/"
     },
     {
-      "judul": "Yuumei VTuber no Ani Dakedo Nazeka Ore ga Yuumei ni Natteita",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fyuumei_vtuber_no_ani_dakedo%2Fimg_6834130c6f37e8.08729244.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/yuumei-vtuber-no-ani-dakedo-nazeka-ore-ga-yuumei-ni-natteita/"
-    },
-    {
       "judul": "Suufungo no Mirai ga Wakaru You ni Natta Kedo, Onnagokoro wa Wakaranai",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsuufungo_no_mirai_ga_wakaru_you_ni_natta_kedo__onnagokoro_wa_wakaranai%2Fimg_6839753eebd977.57319848.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/suufungo-no-mirai-ga-wakaru-you-ni-natta-kedo-onnagokoro-wa-wakaranai/"
+    },
+    {
+      "judul": "Yuumei VTuber no Ani Dakedo Nazeka Ore ga Yuumei ni Natteita",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fyuumei_vtuber_no_ani_dakedo%2Fimg_6834130c6f37e8.08729244.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/yuumei-vtuber-no-ani-dakedo-nazeka-ore-ga-yuumei-ni-natteita/"
     },
     {
       "judul": "Uchi no Seiso-kei Iinchou ga Katsute Chuunibyou Idol Datta Koto wo Ore Dake ga Shitteiru.",
@@ -350,20 +399,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F19%2F20260319233558_a272e4dbdac077e0_728e87f5.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/hazure-skill-soine-ga-kakuseishi-boku-ga-saikyou-harem-wo-kizuku-made-micchaku-soine-de-ganbou-kaihou-yuuwakusare-makutte-komattemasu/"
-    },
-    {
-      "judul": "Superstar From Age 0",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsuperstar-from-age-0%2Fmanga_img_horizontal-Back-Superstar-From-Age-0.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/superstar-from-age-0/"
-    },
-    {
-      "judul": "God of Blackfield",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgod_of_blackfield%2Fimg_690c4bd7bdba47.28412917.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/god-of-blackfield/"
     },
     {
       "judul": "Shinobi Undercover",
@@ -765,32 +800,11 @@
       "url": "https://komiku.org/manga/honzuki-no-gekokujou-part-5/"
     },
     {
-      "judul": "Houkago no Luminous",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhoukago_no_luminous%2Fimg_6978868b893d04.13369813.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/houkago-no-luminous/"
-    },
-    {
       "judul": "To Not Die",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fto_not_die%2Fimg_683023f3d813a9.98505913.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/to-not-die/"
-    },
-    {
-      "judul": "Ao Ashi",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-ashi%2Fmanga_img_horizontal-Ao-Ashi-Panjang.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ao-ashi/"
-    },
-    {
-      "judul": "Cool na Megami-sama to Issho ni Sundara, Amayakashi Sugite Ponkotsu ni shite Shimatta Ken ni Tsuite",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fcool_na_megami-sama_to_issho_ni_sundara__amayakashi_sugite_ponkotsu_ni_shite_shimatta_ken_ni_tsuite%2Fimg_684bdb973417e0.34196628.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/cool-na-megami-sama-to-issho-ni-sundara-amayakashi-sugite-ponkotsu-ni-shite-shimatta-ken-ni-tsuite/"
     },
     {
       "judul": "Sukinako ga Megane wo Wasureta",
@@ -1297,13 +1311,6 @@
       "url": "https://komiku.org/manga/kurasu-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta/"
     },
     {
-      "judul": "Dou ka Ore wo Houtte Oitekure",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdou-ka-ore-wo-houtte-oitekure%2Fmanga_img_horizontal-A1-Dou-ka-Ore-wo-Houtte-Oitekure.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/dou-ka-ore-wo-houtte-oitekure/"
-    },
-    {
       "judul": "Clover",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fclover%2Fmanga_img_horizontal-Komik-Clover.jpg",
@@ -1554,13 +1561,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmemento_game%2Fimg_69369149db1bb3.19608786.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/memento-game/"
-    },
-    {
-      "judul": "Koori no Hime wa Chiisana Hidamari de Tokasaretai",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkoori_no_hime_wa_chiisana_hidamari_de_tokasaretai%2Fimg_684bda271703f8.78715303.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/koori-no-hime-wa-chiisana-hidamari-de-tokasaretai/"
     },
     {
       "judul": "Yane no Shita no Artemis",

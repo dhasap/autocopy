@@ -2,25 +2,25 @@
   "success": true,
   "data": [
     {
-      "judul": "The Long Way of the Warrior",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-long-way-of-the-warrior%2Fmanga_img_horizontal-Komik-The-Long-Way-of-the-Warrior.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-long-way-of-the-warrior/"
-    },
-    {
-      "judul": "Unrivaled Spear Demon",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Funrivaled_spear_demon%2Fimg_685264d0c82588.21669360.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/unrivaled-spear-demon/"
-    },
-    {
       "judul": "God of Martial Arts",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgod-of-martial-arts%2Fmanga_img_horizontal-Manhua-God-of-Martial-Arts.png",
       "tipe": "",
       "url": "https://komiku.org/manga/god-of-martial-arts/"
+    },
+    {
+      "judul": "The Supreme Demon Swordmaster",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_supreme_demon_swordmaster%2Fimg_6968b86d054144.55940106.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-supreme-demon-swordmaster/"
+    },
+    {
+      "judul": "Revenge of the Iron-Blooded Sword Hound",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Frevenge-of-the-iron-blooded-sword-hound%2Fmanga_img_horizontal-Back-Revenge-of-the-Iron-Blooded-Sword-Hound.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/revenge-of-the-iron-blooded-sword-hound/"
     },
     {
       "judul": "Peerless Soul",
@@ -44,11 +44,25 @@
       "url": "https://komiku.org/manga/how-to-live-as-a-civil-servant-in-murim/"
     },
     {
-      "judul": "The World’s Best Kunlun Tavern",
+      "judul": "The Delivery Man From Murim",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-worlds-best-kunlun-tavern%2Fmanga_img_horizontal-A1-The-Worlds-Best-Kunlun-Tavern.jpg",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-delivery-man-from-murim%2Fmanga_img_horizontal-A1-The-Delivery-Man-From-Murim.jpg",
       "tipe": "",
-      "url": "https://komiku.org/manga/the-worlds-best-kunlun-tavern/"
+      "url": "https://komiku.org/manga/the-delivery-man-from-murim/"
+    },
+    {
+      "judul": "The Ghostly Doctor",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-ghostly-doctor%2Fmanga_img_horizontal-Manhua-The-Ghostly-Doctor.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-ghostly-doctor/"
+    },
+    {
+      "judul": "Rebirth in the Apocalypse: I Reach the Top by Opening Boxes",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Frebirth_in_the_apocalypse%2Fimg_682d509ea49e92.66668214.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/rebirth-in-the-apocalypse-i-reach-the-top-by-opening-boxes/"
     },
     {
       "judul": "Reincarnation of the Murim Clan’s Former Ranker",
@@ -56,6 +70,69 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Freincarnation-of-the-murim-clans-former-ranker%2Fmanga_img_horizontal-Komik-Reincarnation-of-the-Murim-Clans-Former-Ranker.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/reincarnation-of-the-murim-clans-former-ranker/"
+    },
+    {
+      "judul": "The World’s Best Kunlun Tavern",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-worlds-best-kunlun-tavern%2Fmanga_img_horizontal-A1-The-Worlds-Best-Kunlun-Tavern.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-worlds-best-kunlun-tavern/"
+    },
+    {
+      "judul": "Heavenly Demon Tavern",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fheavenly_demon_tavern%2Fimg_6962179fe73d73.83803929.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/heavenly-demon-tavern/"
+    },
+    {
+      "judul": "Apex Future Martial Arts",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fapex-future-martial-arts%2Fmanga_img_horizontal-Apex-Future-Martial-Arts-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/apex-future-martial-arts/"
+    },
+    {
+      "judul": "Unbeatable Sword Master Cultivator",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Funbeatable-sword-master-cultivator%2Fmanga_img_horizontal-A1-Unbeatable-Sword-Master-Cultivator.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/unbeatable-sword-master-cultivator/"
+    },
+    {
+      "judul": "Chronicles Of The Lazy Sovereign",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fchronicles_of_the_lazy_sovereign%2Fimg_6874b13d05eb81.04600983.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/chronicles-of-the-lazy-sovereign/"
+    },
+    {
+      "judul": "Magic Emperor",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmagic-emperor%2Fmanga_img_horizontal-Manhua-Magic-Emperor.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/magic-emperor/"
+    },
+    {
+      "judul": "Flame Age",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F29%2F20260329055847_f86b825ad7e0add0_951852ab.webp",
+      "tipe": "",
+      "url": "https://komiku.org/manga/flame-age/"
+    },
+    {
+      "judul": "The Long Way of the Warrior",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-long-way-of-the-warrior%2Fmanga_img_horizontal-Komik-The-Long-Way-of-the-Warrior.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-long-way-of-the-warrior/"
+    },
+    {
+      "judul": "Unrivaled Spear Demon",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Funrivaled_spear_demon%2Fimg_685264d0c82588.21669360.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/unrivaled-spear-demon/"
     },
     {
       "judul": "Kengan Omega",
@@ -70,20 +147,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fscoring-the-sacred-body-of-the-ancients-from-the-get-go%2Fmanga_img_horizontal-Back-Scoring-the-Sacred-Body-of-the-Ancients-from-the-Get-go.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/scoring-the-sacred-body-of-the-ancients-from-the-get-go/"
-    },
-    {
-      "judul": "Heavenly Demon Tavern",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fheavenly_demon_tavern%2Fimg_6962179fe73d73.83803929.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/heavenly-demon-tavern/"
-    },
-    {
-      "judul": "Magic Emperor",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmagic-emperor%2Fmanga_img_horizontal-Manhua-Magic-Emperor.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/magic-emperor/"
     },
     {
       "judul": "Absolute Dominion",
@@ -128,13 +191,6 @@
       "url": "https://komiku.org/manga/cosmic-heavenly-demon-3077/"
     },
     {
-      "judul": "The Ghostly Doctor",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-ghostly-doctor%2Fmanga_img_horizontal-Manhua-The-Ghostly-Doctor.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-ghostly-doctor/"
-    },
-    {
       "judul": "Global Gao Wu",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fglobal-gao-wu%2Fmanga_img_horizontal-Komik-Global-Gao-Wu.jpg",
@@ -175,13 +231,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F13%2F20260313050104_3583d06c47ad5527_c3fd0510.webp",
       "tipe": "",
       "url": "https://komiku.org/manga/the-samurai-of-the-divine-shadow-dominates-at-the-academy/"
-    },
-    {
-      "judul": "Apex Future Martial Arts",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fapex-future-martial-arts%2Fmanga_img_horizontal-Apex-Future-Martial-Arts-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/apex-future-martial-arts/"
     },
     {
       "judul": "Reborn as The Heavenly Demon",
@@ -380,13 +429,6 @@
       "url": "https://komiku.org/manga/childhood-friend-of-the-zenith/"
     },
     {
-      "judul": "Chronicles Of The Lazy Sovereign",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fchronicles_of_the_lazy_sovereign%2Fimg_6874b13d05eb81.04600983.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/chronicles-of-the-lazy-sovereign/"
-    },
-    {
       "judul": "The Mysterious World’s Greatest Martial Artist Little Prince",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-mysterious-worlds-greatest-martial-artist-little-prince%2Fmanga_img_horizontal-A1-The-Mysterious-Worlds-Greatest-Martial-Artist-Little-Prince.jpg",
@@ -408,25 +450,11 @@
       "url": "https://komiku.org/manga/tang-clan-legend/"
     },
     {
-      "judul": "Rebirth in the Apocalypse: I Reach the Top by Opening Boxes",
+      "judul": "The Great Heavenly Demon Sovereign",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Frebirth_in_the_apocalypse%2Fimg_682d509ea49e92.66668214.png",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_great_heavenly_demon_sovereign%2Fimg_68d82ce6782f51.71154888.png",
       "tipe": "",
-      "url": "https://komiku.org/manga/rebirth-in-the-apocalypse-i-reach-the-top-by-opening-boxes/"
-    },
-    {
-      "judul": "Revenge of the Iron-Blooded Sword Hound",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Frevenge-of-the-iron-blooded-sword-hound%2Fmanga_img_horizontal-Back-Revenge-of-the-Iron-Blooded-Sword-Hound.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/revenge-of-the-iron-blooded-sword-hound/"
-    },
-    {
-      "judul": "Revenge of the Iron-Blooded Sword Hound",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Frevenge-of-the-iron-blooded-sword-hound%2Fmanga_img_horizontal-Back-Revenge-of-the-Iron-Blooded-Sword-Hound.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/revenge-of-the-iron-blooded-sword-hound/"
+      "url": "https://komiku.org/manga/the-great-heavenly-demon-sovereign/"
     },
     {
       "judul": "The Eldest Son of the Marquis House is a Martial Artist",
@@ -434,13 +462,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_eldest_son_of_the_marquis_house_is_a_martial_artist%2Fimg_68bffa4db8c929.95650321.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-eldest-son-of-the-marquis-house-is-a-martial-artist/"
-    },
-    {
-      "judul": "The Delivery Man From Murim",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-delivery-man-from-murim%2Fmanga_img_horizontal-A1-The-Delivery-Man-From-Murim.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-delivery-man-from-murim/"
     },
     {
       "judul": "Reverend Insanity (Remake)",
@@ -800,13 +821,6 @@
       "url": "https://komiku.org/manga/informer/"
     },
     {
-      "judul": "The Supreme Demon Swordmaster",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_supreme_demon_swordmaster%2Fimg_6968b86d054144.55940106.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-supreme-demon-swordmaster/"
-    },
-    {
       "judul": "Legend of the Emperor",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Flegend_of_the_emperor%2Fimg_695b39ff560668.09499695.jpg",
@@ -854,13 +868,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsurviving-the-apocalypse%2Fmanga_img_horizontal-A1-Surviving-the-Apocalypse.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/surviving-the-apocalypse/"
-    },
-    {
-      "judul": "Unbeatable Sword Master Cultivator",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Funbeatable-sword-master-cultivator%2Fmanga_img_horizontal-A1-Unbeatable-Sword-Master-Cultivator.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/unbeatable-sword-master-cultivator/"
     },
     {
       "judul": "The Immortal as a Slave, the God as a Servant, the Emperor’s Watchdog",
@@ -2928,18 +2935,18 @@
       "url": "https://komiku.org/manga/super-bodyguard/"
     },
     {
-      "judul": "Goddess’s Personal Doctor",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgoddesss-personal-doctor%2Fmanga_img_horizontal-Komik-Goddesss-Personal-Doctor-1.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/goddesss-personal-doctor/"
-    },
-    {
       "judul": "The Nine Heaven of Martial Arts",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-nine-heaven-of-martial-arts%2Fmanga_img_horizontal-Komik-The-Nine-Heaven-of-Martial-Arts.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-nine-heaven-of-martial-arts/"
+    },
+    {
+      "judul": "Goddess’s Personal Doctor",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgoddesss-personal-doctor%2Fmanga_img_horizontal-Komik-Goddesss-Personal-Doctor-1.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/goddesss-personal-doctor/"
     },
     {
       "judul": "Return of The Avenger",

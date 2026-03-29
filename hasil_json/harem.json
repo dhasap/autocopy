@@ -2,11 +2,25 @@
   "success": true,
   "data": [
     {
+      "judul": "The Supreme Demon Swordmaster",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_supreme_demon_swordmaster%2Fimg_6968b86d054144.55940106.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-supreme-demon-swordmaster/"
+    },
+    {
       "judul": "Disciples, Please Spare Your Master",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdisciples-please-spare-your-master%2Fmanga_img_horizontal-Back-Disciples-Please-Spare-Your-Master.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/disciples-please-spare-your-master/"
+    },
+    {
+      "judul": "The Heavenly Path Is Not Stupid",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-heavenly-path-is-not-stupid%2Fmanga_img_horizontal-The-Heavenly-Path-Is-Not-Stupid-Panjang.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-heavenly-path-is-not-stupid/"
     },
     {
       "judul": "Joudan de Onna Yuusha-tachi wo Kudoita Daimaou, Sarawarete Kyousei Shinkon Seikatsu",
@@ -238,13 +252,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmy-harem-is-entirely-female-demon-villains%2Fmanga_img_horizontal-Komik-My-Harem-Is-Entirely-Female-Demon-Villains.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/my-harem-is-entirely-female-demon-villains/"
-    },
-    {
-      "judul": "The Heavenly Path Is Not Stupid",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-heavenly-path-is-not-stupid%2Fmanga_img_horizontal-The-Heavenly-Path-Is-Not-Stupid-Panjang.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-heavenly-path-is-not-stupid/"
     },
     {
       "judul": "Hazure Skill “Soine” ga Kakuseishi, Boku ga Saikyou Harem wo Kizuku made ~Micchaku Soine de Ganbou Kaihou!? Yuuwakusare Makutte Komattemasu!!~",
@@ -616,13 +623,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Foreaku-ore-wa-seikan-kokka-no-akutoku-ryoushu%2Fmanga_img_horizontal-Jinuj-OreAku-Ore-wa-Seikan-Kokka-no-Akutoku-Ryoushu.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/oreaku-ore-wa-seikan-kokka-no-akutoku-ryoushu/"
-    },
-    {
-      "judul": "The Supreme Demon Swordmaster",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_supreme_demon_swordmaster%2Fimg_6968b86d054144.55940106.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-supreme-demon-swordmaster/"
     },
     {
       "judul": "Maou ni Natta node, Dungeon Tsukutte Jingai Musume to Honobono suru",
