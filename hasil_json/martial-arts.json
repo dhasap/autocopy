@@ -2,6 +2,20 @@
   "success": true,
   "data": [
     {
+      "judul": "The Indomitable Martial King",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-indomitable-martial-king%2Fmanga_img_horizontal-Back-The-Indomitable-Martial-King.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-indomitable-martial-king/"
+    },
+    {
+      "judul": "Devious Son Of Heaven",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdevious-son-of-heaven%2Fmanga_img_horizontal-Back-Devious-Son-Of-Heaven.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/devious-son-of-heaven/"
+    },
+    {
       "judul": "God of Martial Arts",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgod-of-martial-arts%2Fmanga_img_horizontal-Manhua-God-of-Martial-Arts.png",
@@ -16,11 +30,39 @@
       "url": "https://komiku.org/manga/13151-peerless-soul/"
     },
     {
-      "judul": "Informer",
+      "judul": "The 18 Year Old Demon King",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Finformer%2Fmanga_img_horizontal-Back-Informer.jpg",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_18_year_old_demon_king%2Fimg_6985990796c074.52211752.jpg",
       "tipe": "",
-      "url": "https://komiku.org/manga/informer/"
+      "url": "https://komiku.org/manga/the-18-year-old-demon-king/"
+    },
+    {
+      "judul": "Global Gao Wu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fglobal-gao-wu%2Fmanga_img_horizontal-Komik-Global-Gao-Wu.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/global-gao-wu/"
+    },
+    {
+      "judul": "Memoir Of The King Of War",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmemoir_of_the_king_of_war%2Fimg_68397459b46fe8.60781611.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/memoir-of-the-king-of-war/"
+    },
+    {
+      "judul": "How to Live as a Civil Servant in Murim",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhow_to_live_as_a_civil_servant_in_murim%2Fimg_6852080a3570f4.47757315.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/how-to-live-as-a-civil-servant-in-murim/"
+    },
+    {
+      "judul": "The Ghostly Doctor",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-ghostly-doctor%2Fmanga_img_horizontal-Manhua-The-Ghostly-Doctor.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-ghostly-doctor/"
     },
     {
       "judul": "Ha Buk Paeng’s Youngest Son",
@@ -30,18 +72,102 @@
       "url": "https://komiku.org/manga/ha-buk-paengs-youngest-son/"
     },
     {
+      "judul": "Supreme Curse Master",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsupreme_curse_master%2Fimg_682a1c9c218ad3.60673892.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/supreme-curse-master/"
+    },
+    {
+      "judul": "The Eldest Son of the Marquis House is a Martial Artist",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_eldest_son_of_the_marquis_house_is_a_martial_artist%2Fimg_68bffa4db8c929.95650321.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-eldest-son-of-the-marquis-house-is-a-martial-artist/"
+    },
+    {
+      "judul": "The Ultimate of All Ages",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-ultimate-of-all-ages%2Fmanga_img_horizontal-Komik-The-Ultimate-of-All-Ages.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-ultimate-of-all-ages/"
+    },
+    {
+      "judul": "I Reincarnated As The Crazed Heir",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-reincarnated-as-the-crazed-heir%2Fmanga_img_horizontal-Komik-I-Reincarnated-As-The-Crazed-Heir.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/i-reincarnated-as-the-crazed-heir/"
+    },
+    {
+      "judul": "Demon Lord’s Martial Arts Ascension",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdemon-lords-martial-arts-ascension%2Fmanga_img_horizontal-Demon-Lords-Martial-Arts-Ascension-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/demon-lords-martial-arts-ascension/"
+    },
+    {
+      "judul": "The Merciless Fairy Shall Become a Cultivation Vessel",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F15%2F20260315015627_2018212118e89df0_1fa29c62.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-merciless-fairy-shall-become-a-cultivation-vessel/"
+    },
+    {
+      "judul": "Becoming the Cheon Clan’s Mad Dog (I Became the Scoundrel of the Cheon Family)",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fbecoming_the_cheon_clan___s%2Fimg_69a1129c9d62c8.40463590.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/i-became-the-scoundrel-of-the-cheon-family/"
+    },
+    {
+      "judul": "Return Of The Martial Arts Genius",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Freturn-of-the-martial-arts-genius%2Fmanga_img_horizontal-Back-Return-Of-The-Martial-Arts-Genius.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/return-of-the-martial-arts-genius/"
+    },
+    {
+      "judul": "Sea of Blood Mountain of Bones",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsea_of_blood_mountain_of_bones%2Fimg_68c14a54c47207.88169649.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/sea-of-blood-mountain-of-bones/"
+    },
+    {
+      "judul": "The Supreme Demon Swordmaster",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_supreme_demon_swordmaster%2Fimg_6968b86d054144.55940106.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-supreme-demon-swordmaster/"
+    },
+    {
+      "judul": "The Villain Of Destiny",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-villain-of-destiny%2Fmanga_img_horizontal-Komik-The-Villain-Of-Destiny.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-villain-of-destiny/"
+    },
+    {
+      "judul": "The World’s Best Kunlun Tavern",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-worlds-best-kunlun-tavern%2Fmanga_img_horizontal-A1-The-Worlds-Best-Kunlun-Tavern.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-worlds-best-kunlun-tavern/"
+    },
+    {
+      "judul": "Informer",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Finformer%2Fmanga_img_horizontal-Back-Informer.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/informer/"
+    },
+    {
       "judul": "Childhood Friend Of The Zenith",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fchildhood-friend-of-the-zenith%2Fmanga_img_horizontal-A1-Childhood-Friend-Of-The-Zenith.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/childhood-friend-of-the-zenith/"
-    },
-    {
-      "judul": "How to Live as a Civil Servant in Murim",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhow_to_live_as_a_civil_servant_in_murim%2Fimg_6852080a3570f4.47757315.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/how-to-live-as-a-civil-servant-in-murim/"
     },
     {
       "judul": "Rebirth of the Divine Demon",
@@ -72,13 +198,6 @@
       "url": "https://komiku.org/manga/the-demon-god/"
     },
     {
-      "judul": "The World’s Best Kunlun Tavern",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-worlds-best-kunlun-tavern%2Fmanga_img_horizontal-A1-The-Worlds-Best-Kunlun-Tavern.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-worlds-best-kunlun-tavern/"
-    },
-    {
       "judul": "Reincarnation of the Murim Clan’s Former Ranker",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Freincarnation-of-the-murim-clans-former-ranker%2Fmanga_img_horizontal-Komik-Reincarnation-of-the-Murim-Clans-Former-Ranker.jpg",
@@ -93,39 +212,11 @@
       "url": "https://komiku.org/manga/reincarnators-stream/"
     },
     {
-      "judul": "The Ghostly Doctor",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-ghostly-doctor%2Fmanga_img_horizontal-Manhua-The-Ghostly-Doctor.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-ghostly-doctor/"
-    },
-    {
-      "judul": "Supreme Curse Master",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsupreme_curse_master%2Fimg_682a1c9c218ad3.60673892.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/supreme-curse-master/"
-    },
-    {
       "judul": "A Spy's Survival In The Demonic Cult",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fa_spy_s_survival_in_the_demonic_cult%2Fimg_6992e20992c9f6.55273589.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/a-spys-survival-in-the-demonic-cult/"
-    },
-    {
-      "judul": "The Supreme Demon Swordmaster",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_supreme_demon_swordmaster%2Fimg_6968b86d054144.55940106.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-supreme-demon-swordmaster/"
-    },
-    {
-      "judul": "Return Of The Martial Arts Genius",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Freturn-of-the-martial-arts-genius%2Fmanga_img_horizontal-Back-Return-Of-The-Martial-Arts-Genius.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/return-of-the-martial-arts-genius/"
     },
     {
       "judul": "Heavenly Demon Tavern",
@@ -252,13 +343,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fcosmic_heavenly_demon_3077%2Fimg_682ef652800800.11159864.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/cosmic-heavenly-demon-3077/"
-    },
-    {
-      "judul": "Global Gao Wu",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fglobal-gao-wu%2Fmanga_img_horizontal-Komik-Global-Gao-Wu.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/global-gao-wu/"
     },
     {
       "judul": "Sword King",
@@ -401,13 +485,6 @@
       "url": "https://komiku.org/manga/to-save-seven-villainesses-i-went-full-harem/"
     },
     {
-      "judul": "The Merciless Fairy Shall Become a Cultivation Vessel",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F15%2F20260315015627_2018212118e89df0_1fa29c62.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-merciless-fairy-shall-become-a-cultivation-vessel/"
-    },
-    {
       "judul": "The Profound Mirror Immortal Clan",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_profound_mirror_immortal_clan%2Fimg_68bff98f96c9a0.51111892.png",
@@ -429,32 +506,11 @@
       "url": "https://komiku.org/manga/colorist/"
     },
     {
-      "judul": "The 18 Year Old Demon King",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_18_year_old_demon_king%2Fimg_6985990796c074.52211752.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-18-year-old-demon-king/"
-    },
-    {
-      "judul": "The Indomitable Martial King",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-indomitable-martial-king%2Fmanga_img_horizontal-Back-The-Indomitable-Martial-King.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-indomitable-martial-king/"
-    },
-    {
       "judul": "Absolute Sword Sense",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fabsolute-sword-sense%2Fmanga_img_horizontal-Komik-Absolute-Sword-Sense.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/absolute-sword-sense/"
-    },
-    {
-      "judul": "The Villain Of Destiny",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-villain-of-destiny%2Fmanga_img_horizontal-Komik-The-Villain-Of-Destiny.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-villain-of-destiny/"
     },
     {
       "judul": "Regression Of The Yong Clan Heir",
@@ -483,13 +539,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftang_clan_legend%2Fimg_68a8295ce74295.77518210.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/tang-clan-legend/"
-    },
-    {
-      "judul": "The Eldest Son of the Marquis House is a Martial Artist",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_eldest_son_of_the_marquis_house_is_a_martial_artist%2Fimg_68bffa4db8c929.95650321.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-eldest-son-of-the-marquis-house-is-a-martial-artist/"
     },
     {
       "judul": "Reverend Insanity (Remake)",
@@ -583,13 +632,6 @@
       "url": "https://komiku.org/manga/top-tier-providence-secretly-cultivate-for-a-thousand-years/"
     },
     {
-      "judul": "Becoming the Cheon Clan’s Mad Dog (I Became the Scoundrel of the Cheon Family)",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fbecoming_the_cheon_clan___s%2Fimg_69a1129c9d62c8.40463590.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/i-became-the-scoundrel-of-the-cheon-family/"
-    },
-    {
       "judul": "Heavenly Inquisition Sword",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fheavenly-inquisition-sword%2Fmanga_img_horizontal-2-1.png",
@@ -609,13 +651,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fboruto-two-blue-vortex%2Fmanga_img_horizontal-Back-Boruto-Two-Blue-Vortex.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/boruto-two-blue-vortex/"
-    },
-    {
-      "judul": "Devious Son Of Heaven",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdevious-son-of-heaven%2Fmanga_img_horizontal-Back-Devious-Son-Of-Heaven.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/devious-son-of-heaven/"
     },
     {
       "judul": "Defective Reincarnator Becomes The Ultimate Teacher",
@@ -660,13 +695,6 @@
       "url": "https://komiku.org/manga/mount-hua-sects-genius-phantom-swordsman/"
     },
     {
-      "judul": "Sea of Blood Mountain of Bones",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsea_of_blood_mountain_of_bones%2Fimg_68c14a54c47207.88169649.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/sea-of-blood-mountain-of-bones/"
-    },
-    {
       "judul": "I’ll Retire After Saving the World",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fill-retire-after-saving-the-world%2Fmanga_img_horizontal-A1-Ill-Retire-After-Saving-the-World.jpg",
@@ -679,13 +707,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F14%2F20260314025757_f2456870c4bf841a_a6b2bde7.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/crimson-heart-wanderer/"
-    },
-    {
-      "judul": "The Ultimate of All Ages",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-ultimate-of-all-ages%2Fmanga_img_horizontal-Komik-The-Ultimate-of-All-Ages.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-ultimate-of-all-ages/"
     },
     {
       "judul": "Tsue to Tsurugi no Wistoria",
@@ -742,13 +763,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmartial-wild-west%2Fmanga_img_horizontal-Martial-Wild-West-2.png",
       "tipe": "",
       "url": "https://komiku.org/manga/martial-wild-west/"
-    },
-    {
-      "judul": "Demon Lord’s Martial Arts Ascension",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdemon-lords-martial-arts-ascension%2Fmanga_img_horizontal-Demon-Lords-Martial-Arts-Ascension-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/demon-lords-martial-arts-ascension/"
     },
     {
       "judul": "Genius Martial Arts Trainer",
@@ -905,13 +919,6 @@
       "url": "https://komiku.org/manga/counterattacking-system-available-at-the-grand-ascension-stage/"
     },
     {
-      "judul": "I Reincarnated As The Crazed Heir",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-reincarnated-as-the-crazed-heir%2Fmanga_img_horizontal-Komik-I-Reincarnated-As-The-Crazed-Heir.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/i-reincarnated-as-the-crazed-heir/"
-    },
-    {
       "judul": "One Hundred Thousand Years of Tribulation by Heavenly Thunder",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fone_hundred_thousand_years_of_tribulation_by_heavenly_thunder%2Fimg_69859b083c2c27.25993555.png",
@@ -1015,13 +1022,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-great-master%2Fmanga_img_horizontal-Komik-The-Great-Master.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-great-master/"
-    },
-    {
-      "judul": "Memoir Of The King Of War",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmemoir_of_the_king_of_war%2Fimg_68397459b46fe8.60781611.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/memoir-of-the-king-of-war/"
     },
     {
       "judul": "Who’s threatening you with a knife to make you a Heavenly Demon?",
@@ -5560,18 +5560,18 @@
       "url": "https://komiku.org/manga/immortal-me-and-eldritch-wife/"
     },
     {
-      "judul": "More Kill More Powerful",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmore-kill-more-powerful%2Fmanga_img_horizontal-More-Kill-More-Powerful-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/more-kill-more-powerful/"
-    },
-    {
       "judul": "I Am Really Not an Matchless Genius",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fi_am_really_not_an_matchless_genius%2Fimg_689e20ef97c227.95826489.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/i-am-really-not-an-matchless-genius/"
+    },
+    {
+      "judul": "More Kill More Powerful",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmore-kill-more-powerful%2Fmanga_img_horizontal-More-Kill-More-Powerful-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/more-kill-more-powerful/"
     },
     {
       "judul": "Shuumatsu no Valkyrie: The Legend of Lu Bu Fengxian",
