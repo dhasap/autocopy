@@ -2,13 +2,6 @@
   "success": true,
   "data": [
     {
-      "judul": "Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su%2Fmanga_img_horizontal-Komik-Shangri-La-Frontier-Kusoge-Hunter-Kamige-ni-Idoman-to-su.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su/"
-    },
-    {
       "judul": "Apocalypse Smuggler: Trading Spicy Strips for Gold Bars",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F15%2F20260315020246_d7f55244a7c281a8_3c263ad7.jpg",
@@ -16,18 +9,25 @@
       "url": "https://komiku.org/manga/apocalypse-smuggler-trading-spicy-strips-for-gold-bars/"
     },
     {
-      "judul": "Jungle Juice",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjungle-juice%2Fmanga_img_horizontal-Komik-Jungle-Juice.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/jungle-juice/"
-    },
-    {
       "judul": "Legend of Star General",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
       "tipe": "",
       "url": "https://komiku.org/manga/legend-of-star-general/"
+    },
+    {
+      "judul": "Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su%2Fmanga_img_horizontal-Komik-Shangri-La-Frontier-Kusoge-Hunter-Kamige-ni-Idoman-to-su.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su/"
+    },
+    {
+      "judul": "Jungle Juice",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjungle-juice%2Fmanga_img_horizontal-Komik-Jungle-Juice.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/jungle-juice/"
     },
     {
       "judul": "The Delusional Hunter in Another World",
