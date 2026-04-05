@@ -2,6 +2,69 @@
   "success": true,
   "data": [
     {
+      "judul": "The Art Student Who Lived Twice",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_art_student_who_lived_twice%2Fimg_682d5c8956c046.01264773.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-art-student-who-lived-twice/"
+    },
+    {
+      "judul": "Ao Ashi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-ashi%2Fmanga_img_horizontal-Ao-Ashi-Panjang.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ao-ashi/"
+    },
+    {
+      "judul": "Legend of Star General",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/legend-of-star-general/"
+    },
+    {
+      "judul": "Silent Transfer Student",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsilent_transfer_student%2Fimg_682a5d6f6490c0.61943432.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/silent-transfer-student/"
+    },
+    {
+      "judul": "Bouryoku Banzai",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fbouryoku_banzai%2Fimg_682d64d9687f09.14983611.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/bouryoku-banzai/"
+    },
+    {
+      "judul": "Momose Akira no Hatsukoi Hatan-chuu.",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmomose_akira_no_hatsukoi_hatan-chuu%2Fimg_68550954439266.01435164.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/momose-akira-no-hatsukoi-hatan-chuu/"
+    },
+    {
+      "judul": "Class no Inkya ni Kareshi no Sainou ga Ari Sugiru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fclass_no_inkya_ni_kareshi_no_sainou_ga_ari_sugiru%2Fimg_693155af749692.58233090.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/class-no-inkya-ni-kareshi-no-sainou-ga-ari-sugiru/"
+    },
+    {
+      "judul": "Issho Watashi no Joshu de ite!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fissho_watashi_no_joshu_de_ite_%2Fimg_6846a6d7a55c76.89465147.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/issho-watashi-no-joshu-de-ite/"
+    },
+    {
+      "judul": "The SS-Rank Freshman at Dawn Academy",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_ss-rank_freshman_at_dawn_academy%2Fimg_69ac8d6f8e5354.96195829.webp",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-ss-rank-freshman-at-dawn-academy/"
+    },
+    {
       "judul": "Haimiya-senpai wa Kowakute Kawaii",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhaimiya-senpai_wa_kowakute_kawaii%2Fimg_690ef597ea95d1.16124029.jpg",
@@ -49,13 +112,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftakou_no_boyish_kanojo%2Fimg_693fd68f021551.47870830.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/takou-no-boyish-kanojo-my-boyish-girlfriend-is-too-cute/"
-    },
-    {
-      "judul": "Legend of Star General",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/legend-of-star-general/"
     },
     {
       "judul": "The Devil Classroom",
@@ -247,13 +303,6 @@
       "url": "https://komiku.org/manga/academys-undercover-professor/"
     },
     {
-      "judul": "Silent Transfer Student",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsilent_transfer_student%2Fimg_682a5d6f6490c0.61943432.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/silent-transfer-student/"
-    },
-    {
       "judul": "Shiunji-ke no Kodomo-Tachi",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshiunji-ke-no-kodomo-tachi%2Fmanga_img_horizontal-Jinuj-Shiunji-ke-no-Kodomo-Tachi.jpg",
@@ -415,13 +464,6 @@
       "url": "https://komiku.org/manga/houkago-no-luminous/"
     },
     {
-      "judul": "Ao Ashi",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-ashi%2Fmanga_img_horizontal-Ao-Ashi-Panjang.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ao-ashi/"
-    },
-    {
       "judul": "Cool na Megami-sama to Issho ni Sundara, Amayakashi Sugite Ponkotsu ni shite Shimatta Ken ni Tsuite",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fcool_na_megami-sama_to_issho_ni_sundara__amayakashi_sugite_ponkotsu_ni_shite_shimatta_ken_ni_tsuite%2Fimg_684bdb973417e0.34196628.jpg",
@@ -485,13 +527,6 @@
       "url": "https://komiku.org/manga/ore-wa-gakuen-zunou-battle-no-ensyutsuka-jishou-mob-ga-kage-kara-egaku-saikyou-shujinkou-musou-scenario/"
     },
     {
-      "judul": "The SS-Rank Freshman at Dawn Academy",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_ss-rank_freshman_at_dawn_academy%2Fimg_69ac8d6f8e5354.96195829.webp",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-ss-rank-freshman-at-dawn-academy/"
-    },
-    {
       "judul": "Kimi wa Seifuku wo Nuidara",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F28%2F20260328065406_80f0367d33dbf1f9_43126763.webp",
@@ -548,13 +583,6 @@
       "url": "https://komiku.org/manga/love-letter-from-the-future/"
     },
     {
-      "judul": "The Art Student Who Lived Twice",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_art_student_who_lived_twice%2Fimg_682d5c8956c046.01264773.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-art-student-who-lived-twice/"
-    },
-    {
       "judul": "Kanojo Okarishimasu",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkanojo-okarishimasu%2Fmanga_img_horizontal-Komik-Kanojo-Okarishimasu.jpg",
@@ -604,13 +632,6 @@
       "url": "https://komiku.org/manga/anta-to-osananajimitte-dake-demo-iyananoni-zekkou-kara-hajimaru-s-kyuu-bishoujo-to-no-gakuen-nariagari-seikatsu/"
     },
     {
-      "judul": "Bouryoku Banzai",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fbouryoku_banzai%2Fimg_682d64d9687f09.14983611.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/bouryoku-banzai/"
-    },
-    {
       "judul": "Dareka Ookami-san no shitsuke-kata shirimasen ka?!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F15%2F20260315015244_7a6e3a30eb4e8c45_55c541db.webp",
@@ -651,13 +672,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F15%2F20260315014705_bef2880349d55317_9202fd05.webp",
       "tipe": "",
       "url": "https://komiku.org/manga/suki-na-ko-ni-kokuttara-futago-no-imouto-ga-omake-de-tsuitekita/"
-    },
-    {
-      "judul": "Issho Watashi no Joshu de ite!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fissho_watashi_no_joshu_de_ite_%2Fimg_6846a6d7a55c76.89465147.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/issho-watashi-no-joshu-de-ite/"
     },
     {
       "judul": "True Education",
@@ -728,13 +742,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F15%2F20260315014406_084c52b17314ad91_d25f8064.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/kuroko-chan/"
-    },
-    {
-      "judul": "Momose Akira no Hatsukoi Hatan-chuu.",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmomose_akira_no_hatsukoi_hatan-chuu%2Fimg_68550954439266.01435164.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/momose-akira-no-hatsukoi-hatan-chuu/"
     },
     {
       "judul": "Ryuuzaki-san ga Ore no Mae dake de Dereru Riyuu",
@@ -1113,13 +1120,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftakou-no-hiki-wo-tasuketara-otomodachi-kara-hajimeru-koto-ni-narimashita-after-helping-ice-princess-from-another-school-i-decided-to-start-as-a-friend%2Fmanga_img_horizontal-A1-Takou-no-Hiki-wo-Tasuketara-Otomodachi-kara-Hajimeru-Koto-ni-narimashita.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/takou-no-hiki-wo-tasuketara-otomodachi-kara-hajimeru-koto-ni-narimashita-after-helping-ice-princess-from-another-school-i-decided-to-start-as-a-friend/"
-    },
-    {
-      "judul": "Class no Inkya ni Kareshi no Sainou ga Ari Sugiru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fclass_no_inkya_ni_kareshi_no_sainou_ga_ari_sugiru%2Fimg_693155af749692.58233090.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/class-no-inkya-ni-kareshi-no-sainou-ga-ari-sugiru/"
     },
     {
       "judul": "Inkya no Boku ni Batsu Game ni Kokuhaku Shitekita Hazu no Gyaru ga, Doumitemo Boku ni Betahore Desu",
@@ -2522,20 +2522,6 @@
       "url": "https://komiku.org/manga/assassination-classroom/"
     },
     {
-      "judul": "Hard Luck Woman",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hard-luck-woman/"
-    },
-    {
-      "judul": "Watch Dog",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/watch-dog/"
-    },
-    {
       "judul": "Hundred",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
@@ -2548,6 +2534,20 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/houkago-no-cinderella-kun/"
+    },
+    {
+      "judul": "Hard Luck Woman",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hard-luck-woman/"
+    },
+    {
+      "judul": "Watch Dog",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/watch-dog/"
     },
     {
       "judul": "Koi wo Shiranai Bokutachi wa",
