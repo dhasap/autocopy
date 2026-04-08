@@ -2,6 +2,55 @@
   "success": true,
   "data": [
     {
+      "judul": "Archmage Restaurant",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Farchmage-restaurant%2Fmanga_img_horizontal-Back-Archmage-Restaurant.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/archmage-restaurant/"
+    },
+    {
+      "judul": "Tensei Shoujo wa Mazu ippo kara Hajimetai",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftensei_shoujo_wa_mazu_ippo_kara_hajimetai%2Fimg_695cbb7ea1fec0.98403876.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/tensei-shoujo-wa-mazu-ippo-kara-hajimetai/"
+    },
+    {
+      "judul": "Reverend Insanity (Remake)",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Freverend_insanity__remake_%2Fimg_686cd4c5bd26c4.92362858.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/reverend-insanity-remake/"
+    },
+    {
+      "judul": "Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru%2Fmanga_img_horizontal-Komik-Shijou-Saikyou-no-Mahou-Kenshi-F-Rank-Boukensha-ni-Tensei-Suru.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/shijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru/"
+    },
+    {
+      "judul": "Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru ~Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru~",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsono-akuyaku-kizoku-mama-heroine-ga-suki-sugiru-shinshi-na-doryoku-de-saikyou-to-nari-fuguu-na-oshi-chara-tasukemakuru%2Fmanga_img_horizontal-A1-Sono-Akuyaku-Kizoku-Mama-Heroine-ga-Suki-Sugiru.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/sono-akuyaku-kizoku-mama-heroine-ga-suki-sugiru-shinshi-na-doryoku-de-saikyou-to-nari-fuguu-na-oshi-chara-tasukemakuru/"
+    },
+    {
+      "judul": "Game Chishiki de Saikyou ni Natta Mob Heishi wa, Shin no Jitsuryoku wo Kakushitai",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgame_chishiki_de_saikyou_ni_natta_mob_heishi_wa%2Fimg_6831672c645cd4.09067348.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/game-chishiki-de-saikyou-ni-natta-mob-heishi-wa-shin-no-jitsuryoku-wo-kakushitai/"
+    },
+    {
+      "judul": "Level 1 kara Hajimaru Shoukan Musou",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flevel-1-kara-hajimaru-shoukan-musou%2Fmanga_img_horizontal-Komik-Level-1-kara-Hajimaru-Shoukan-Musou.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/level-1-kara-hajimaru-shoukan-musou/"
+    },
+    {
       "judul": "Isekai de Slow Life wo (Ganbou)",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-de-slow-life-wo-ganbou%2Fmanga_img_horizontal-Manga-Isekai-de-Slow-Life-wo-Ganbou.jpg",
@@ -51,25 +100,11 @@
       "url": "https://komiku.org/manga/yarikonda-renai-game-no-akuyaku-ni-tensei-shita-node-gensaku-chishiki-de-hiroin-o-koryaku-shimasu/"
     },
     {
-      "judul": "Level 1 kara Hajimaru Shoukan Musou",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flevel-1-kara-hajimaru-shoukan-musou%2Fmanga_img_horizontal-Komik-Level-1-kara-Hajimaru-Shoukan-Musou.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/level-1-kara-hajimaru-shoukan-musou/"
-    },
-    {
       "judul": "Monogatari no Kuromaku ni Tensei shite",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmonogatari-no-kuromaku-ni-tensei-shite%2Fmanga_img_horizontal-Reincarnated-as-the-Mastermind-of-the-Story-2.png",
       "tipe": "",
       "url": "https://komiku.org/manga/monogatari-no-kuromaku-ni-tensei-shite/"
-    },
-    {
-      "judul": "Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru%2Fmanga_img_horizontal-Komik-Shijou-Saikyou-no-Mahou-Kenshi-F-Rank-Boukensha-ni-Tensei-Suru.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/shijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru/"
     },
     {
       "judul": "Tanaka Ke, Tensei Suru",
@@ -443,13 +478,6 @@
       "url": "https://komiku.org/manga/the-strongest-harem-of-nobles/"
     },
     {
-      "judul": "Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru ~Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru~",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsono-akuyaku-kizoku-mama-heroine-ga-suki-sugiru-shinshi-na-doryoku-de-saikyou-to-nari-fuguu-na-oshi-chara-tasukemakuru%2Fmanga_img_horizontal-A1-Sono-Akuyaku-Kizoku-Mama-Heroine-ga-Suki-Sugiru.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/sono-akuyaku-kizoku-mama-heroine-ga-suki-sugiru-shinshi-na-doryoku-de-saikyou-to-nari-fuguu-na-oshi-chara-tasukemakuru/"
-    },
-    {
       "judul": "Risou no Himo Seikatsu",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Frisou-no-himo-seikatsu%2Fmanga_img_horizontal-Manga--Risou-no-Himo-Seikatsu.jpg",
@@ -471,13 +499,6 @@
       "url": "https://komiku.org/manga/next-life/"
     },
     {
-      "judul": "Archmage Restaurant",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Farchmage-restaurant%2Fmanga_img_horizontal-Back-Archmage-Restaurant.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/archmage-restaurant/"
-    },
-    {
       "judul": "Netorare Tsuihousareta Saikyou Kishi Danchou No Ossan, Katainaka De Eiyuu Ni Matsuriagerareru",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fnetorare_tsuihousareta_saikyou_kishi_danchou_no_ossan__katainaka_de_eiyuu_ni_matsuriagerareru%2Fimg_691ee51f477299.06859870.jpg",
@@ -497,13 +518,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjitsu-wa-ore-saikyou-deshita%2Fmanga_img_horizontal-A1-Jitsu-wa-Ori-Saikyou-deshita.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/jitsu-wa-ore-saikyou-deshita/"
-    },
-    {
-      "judul": "Reverend Insanity (Remake)",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Freverend_insanity__remake_%2Fimg_686cd4c5bd26c4.92362858.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/reverend-insanity-remake/"
     },
     {
       "judul": "Hell Mode: Yarikomi Suki no Gamer wa Hai Settei no Isekai de Musou Suru",
@@ -567,13 +581,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fdanjohi_1_39_no_heikou_sekai_wa_omoi_no_hoka_futsuu%2Fimg_685f83fbcf9628.11437634.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/danjohi-139-no-heikou-sekai-wa-omoi-no-hoka-futsuu/"
-    },
-    {
-      "judul": "Game Chishiki de Saikyou ni Natta Mob Heishi wa, Shin no Jitsuryoku wo Kakushitai",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgame_chishiki_de_saikyou_ni_natta_mob_heishi_wa%2Fimg_6831672c645cd4.09067348.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/game-chishiki-de-saikyou-ni-natta-mob-heishi-wa-shin-no-jitsuryoku-wo-kakushitai/"
     },
     {
       "judul": "Hazure Skill “Gacha” de Tsuihō sa Reta Ore wa, Wagamama Osananajimi o Zetsuen Shi Kakusei Suru ~ Ban’nō Cheat Skill o Getto Shite, Mezase Rakuraku Saikyō Slow Life!~",
@@ -1204,13 +1211,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_unluckiest_man_became_the_universe___s_most_evil_mage_and_wants_to_be_rewarded%2Fimg_695cbbe8225235.32877369.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-unluckiest-man-became-the-universes-most-evil-mage-and-wants-to-be-rewarded/"
-    },
-    {
-      "judul": "Tensei Shoujo wa Mazu ippo kara Hajimetai",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftensei_shoujo_wa_mazu_ippo_kara_hajimetai%2Fimg_695cbb7ea1fec0.98403876.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/tensei-shoujo-wa-mazu-ippo-kara-hajimetai/"
     },
     {
       "judul": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha",
