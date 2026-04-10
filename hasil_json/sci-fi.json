@@ -2,6 +2,13 @@
   "success": true,
   "data": [
     {
+      "judul": "Houkago no Luminous",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhoukago_no_luminous%2Fimg_6978868b893d04.13369813.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/houkago-no-luminous/"
+    },
+    {
       "judul": "Btooom!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fbtooom%2Fmanga_img_horizontal-Komik-btooom.jpg",
@@ -91,13 +98,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F04%2F01%2F20260401051850_15b96757cf090971_6d9b48ea.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/noahs-notes/"
-    },
-    {
-      "judul": "Houkago no Luminous",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhoukago_no_luminous%2Fimg_6978868b893d04.13369813.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/houkago-no-luminous/"
     },
     {
       "judul": "One Punch Man",

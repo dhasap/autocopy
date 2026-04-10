@@ -2,6 +2,90 @@
   "success": true,
   "data": [
     {
+      "judul": "Release That Witch",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Frelease-that-witch%2Fmanga_img_horizontal-Manhua-Release-That-Witch.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/release-that-witch/"
+    },
+    {
+      "judul": "Infinite Evolution Starting from Zero",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Finfinite_evolution_starting_from_zero%2Fimg_68ca5c8bb83363.45709957.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/infinite-evolution-starting-from-zero/"
+    },
+    {
+      "judul": "Became The Patron Of Villains",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fbecame_the_patron_of_villains%2Fimg_68fb1d5e502852.59335810.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/became-the-patron-of-villains/"
+    },
+    {
+      "judul": "The Heavenly Path Is Not Stupid",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-heavenly-path-is-not-stupid%2Fmanga_img_horizontal-The-Heavenly-Path-Is-Not-Stupid-Panjang.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-heavenly-path-is-not-stupid/"
+    },
+    {
+      "judul": "Tanaka Ke, Tensei Suru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftanaka-ke-tensei-suru%2Fmanga_img_horizontal-Komik-Tanaka-Ke-Tensei-Suru.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/tanaka-ke-tensei-suru/"
+    },
+    {
+      "judul": "Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru%2Fmanga_img_horizontal-Komik-Shijou-Saikyou-no-Mahou-Kenshi-F-Rank-Boukensha-ni-Tensei-Suru.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/shijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru/"
+    },
+    {
+      "judul": "Sekai Saikyou no Assassin, isekai kizoku ni tensei suru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsekai-saikyou-no-assassin-isekai-kizoku-ni-tensei-suru%2Fmanga_img_horizontal-Manga-Sekai-Saikyou-no-Assassin-isekai-kizoku-ni-tensei-suru.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/sekai-saikyou-no-assassin-isekai-kizoku-ni-tensei-suru/"
+    },
+    {
+      "judul": "Netorare Tsuihousareta Saikyou Kishi Danchou No Ossan, Katainaka De Eiyuu Ni Matsuriagerareru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fnetorare_tsuihousareta_saikyou_kishi_danchou_no_ossan__katainaka_de_eiyuu_ni_matsuriagerareru%2Fimg_691ee51f477299.06859870.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/netorare-tsuihousareta-saikyou-kishi-danchou-no-ossan-katainaka-de-eiyuu-ni-matsuriagerareru/"
+    },
+    {
+      "judul": "Game Chishiki de Saikyou ni Natta Mob Heishi wa, Shin no Jitsuryoku wo Kakushitai",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgame_chishiki_de_saikyou_ni_natta_mob_heishi_wa%2Fimg_6831672c645cd4.09067348.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/game-chishiki-de-saikyou-ni-natta-mob-heishi-wa-shin-no-jitsuryoku-wo-kakushitai/"
+    },
+    {
+      "judul": "Kekkaishi e no Tensei",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkekkaishi-e-no-tensei%2Fmanga_img_horizontal-Komik-Kekkaishi-e-no-Tensei.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kekkaishi-e-no-tensei/"
+    },
+    {
+      "judul": "Level 1 kara Hajimaru Shoukan Musou",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flevel-1-kara-hajimaru-shoukan-musou%2Fmanga_img_horizontal-Komik-Level-1-kara-Hajimaru-Shoukan-Musou.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/level-1-kara-hajimaru-shoukan-musou/"
+    },
+    {
+      "judul": "Forced To Become the Villain’s Son-in-law",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fforced-to-become-the-villains-son-in-law%2Fmanga_img_horizontal-Komik-Forced-To-Become-the-Villains-Son-in-law.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/forced-to-become-the-villains-son-in-law/"
+    },
+    {
       "judul": "Feasting Lord in Another world",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ffeasting_lord_in_another_world%2Fimg_69a28b73276754.69622169.png",
@@ -21,13 +105,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhealing-life-through-camping-in-another-world%2Fmanga_img_horizontal-A1-Healing-Life-Through-Camping-in-Another-World.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/healing-life-through-camping-in-another-world/"
-    },
-    {
-      "judul": "Release That Witch",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Frelease-that-witch%2Fmanga_img_horizontal-Manhua-Release-That-Witch.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/release-that-witch/"
     },
     {
       "judul": "Nani mo Wakaranai",
@@ -63,20 +140,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F28%2F20260328055017_f9f2852da0a570bf_ab90b228.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-disappearance-of-a-dying-villainess-changing-my-ways-didnt-work-so-my-first-love-spirited-me-away/"
-    },
-    {
-      "judul": "Level 1 kara Hajimaru Shoukan Musou",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flevel-1-kara-hajimaru-shoukan-musou%2Fmanga_img_horizontal-Komik-Level-1-kara-Hajimaru-Shoukan-Musou.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/level-1-kara-hajimaru-shoukan-musou/"
-    },
-    {
-      "judul": "Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru%2Fmanga_img_horizontal-Komik-Shijou-Saikyou-no-Mahou-Kenshi-F-Rank-Boukensha-ni-Tensei-Suru.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/shijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru/"
     },
     {
       "judul": "Koudou ni Hattatsu Shita Igaku wa Mahou to Kubetsu ga Tsukanai",
@@ -121,13 +184,6 @@
       "url": "https://komiku.org/manga/sono-akuyaku-kizoku-mama-heroine-ga-suki-sugiru-shinshi-na-doryoku-de-saikyou-to-nari-fuguu-na-oshi-chara-tasukemakuru/"
     },
     {
-      "judul": "Game Chishiki de Saikyou ni Natta Mob Heishi wa, Shin no Jitsuryoku wo Kakushitai",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgame_chishiki_de_saikyou_ni_natta_mob_heishi_wa%2Fimg_6831672c645cd4.09067348.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/game-chishiki-de-saikyou-ni-natta-mob-heishi-wa-shin-no-jitsuryoku-wo-kakushitai/"
-    },
-    {
       "judul": "Isekai de Slow Life wo (Ganbou)",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-de-slow-life-wo-ganbou%2Fmanga_img_horizontal-Manga-Isekai-de-Slow-Life-wo-Ganbou.jpg",
@@ -170,13 +226,6 @@
       "url": "https://komiku.org/manga/monogatari-no-kuromaku-ni-tensei-shite/"
     },
     {
-      "judul": "Tanaka Ke, Tensei Suru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftanaka-ke-tensei-suru%2Fmanga_img_horizontal-Komik-Tanaka-Ke-Tensei-Suru.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/tanaka-ke-tensei-suru/"
-    },
-    {
       "judul": "Sword King",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fotherworldly-sword-kings-survival-records%2Fmanga_img_horizontal-Komik-Sword-King.png",
@@ -205,11 +254,11 @@
       "url": "https://komiku.org/manga/yuusha-shoukan-ni-makikomareta-kedo-isekai-wa-heiwa-deshita/"
     },
     {
-      "judul": "Isekai Ojisan",
+      "judul": "Megami to Kekkon Shite Isekai de Shinkon Seikatsu",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-ojisan%2Fmanga_img_horizontal-Komik-Isekai-Ojisan.jpg",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmegami_to_kekkon_shite_isekai_de_shinkon_seikatsu%2Fimg_698eda4e4cca22.92069522.jpg",
       "tipe": "",
-      "url": "https://komiku.org/manga/isekai-ojisan/"
+      "url": "https://komiku.org/manga/megami-to-kekkon-shite-isekai-de-shinkon-seikatsu/"
     },
     {
       "judul": "Isekai Ojisan",
@@ -224,13 +273,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-ghostly-doctor%2Fmanga_img_horizontal-Manhua-The-Ghostly-Doctor.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-ghostly-doctor/"
-    },
-    {
-      "judul": "Infinite Evolution Starting from Zero",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Finfinite_evolution_starting_from_zero%2Fimg_68ca5c8bb83363.45709957.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/infinite-evolution-starting-from-zero/"
     },
     {
       "judul": "Tensei Nanmin Shoujo wa Shimin-ken wo 0 Kara Mezashite Hatarakimasu",
@@ -252,13 +294,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fneko_neko_youjo_no_aijou_gohan%2Fimg_683568fe2f6cf3.72046019.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/neko-neko-youjo-no-aijou-gohan-isekai-de-mofumofu-tachi-ni-ryouri-wo-tsukurimasu/"
-    },
-    {
-      "judul": "Kekkaishi e no Tensei",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkekkaishi-e-no-tensei%2Fmanga_img_horizontal-Komik-Kekkaishi-e-no-Tensei.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kekkaishi-e-no-tensei/"
     },
     {
       "judul": "Isekai de Cheat Skill wo te ni Shita ore wa, Genjitsu Sekai wo mo Musou Suru ~Level Up wa Jinsei wo Kaeta~",
@@ -296,13 +331,6 @@
       "url": "https://komiku.org/manga/hazure-waku-no-joutai-ijou-skill-de-saikyou-ni-natta-ore-ga-subete-wo-juurin-suru-made/"
     },
     {
-      "judul": "Became The Patron Of Villains",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fbecame_the_patron_of_villains%2Fimg_68fb1d5e502852.59335810.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/became-the-patron-of-villains/"
-    },
-    {
       "judul": "Villager A Wants to Save the Villainess no Matter What!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fvillager-a-wants-to-save-the-villainess-no-matter-what%2Fmanga_img_horizontal-Villager-Panjang.png",
@@ -336,13 +364,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_eldest_son_of_the_marquis_house_is_a_martial_artist%2Fimg_68bffa4db8c929.95650321.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-eldest-son-of-the-marquis-house-is-a-martial-artist/"
-    },
-    {
-      "judul": "Sekai Saikyou no Assassin, isekai kizoku ni tensei suru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsekai-saikyou-no-assassin-isekai-kizoku-ni-tensei-suru%2Fmanga_img_horizontal-Manga-Sekai-Saikyou-no-Assassin-isekai-kizoku-ni-tensei-suru.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/sekai-saikyou-no-assassin-isekai-kizoku-ni-tensei-suru/"
     },
     {
       "judul": "Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu",
@@ -392,13 +413,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmaou-no-kawaii-yamada-wa-yoiko%2Fmanga_img_horizontal-Manga-Maou-No-Kawaii-Yamada-Wa-Yoiko.png",
       "tipe": "",
       "url": "https://komiku.org/manga/maou-no-kawaii-yamada-wa-yoiko/"
-    },
-    {
-      "judul": "The Heavenly Path Is Not Stupid",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-heavenly-path-is-not-stupid%2Fmanga_img_horizontal-The-Heavenly-Path-Is-Not-Stupid-Panjang.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-heavenly-path-is-not-stupid/"
     },
     {
       "judul": "Garbage Brave: Isekai ni Shoukan Sare Suterareta Yuusha no Fukushuu Monogatari",
@@ -532,13 +546,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnext-life%2Fmanga_img_horizontal-Manga-Next-Life.png",
       "tipe": "",
       "url": "https://komiku.org/manga/next-life/"
-    },
-    {
-      "judul": "Netorare Tsuihousareta Saikyou Kishi Danchou No Ossan, Katainaka De Eiyuu Ni Matsuriagerareru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fnetorare_tsuihousareta_saikyou_kishi_danchou_no_ossan__katainaka_de_eiyuu_ni_matsuriagerareru%2Fimg_691ee51f477299.06859870.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/netorare-tsuihousareta-saikyou-kishi-danchou-no-ossan-katainaka-de-eiyuu-ni-matsuriagerareru/"
     },
     {
       "judul": "Zennin Ossan, Umarekawattara SSS Rank Jinsei ga Kakutei shita",
@@ -1071,13 +1078,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftensei-shitara-ken-deshita%2Fmanga_img_horizontal-Manga-Tensei-shitara-Ken-deshita.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/tensei-shitara-ken-deshita/"
-    },
-    {
-      "judul": "Forced To Become the Villain’s Son-in-law",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fforced-to-become-the-villains-son-in-law%2Fmanga_img_horizontal-Komik-Forced-To-Become-the-Villains-Son-in-law.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/forced-to-become-the-villains-son-in-law/"
     },
     {
       "judul": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
