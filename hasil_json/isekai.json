@@ -2,6 +2,27 @@
   "success": true,
   "data": [
     {
+      "judul": "Eleceed",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Feleceed%2Fmanga_img_horizontal-Komik-Eleceed.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/eleceed/"
+    },
+    {
+      "judul": "Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru%2Fmanga_img_horizontal-Komik-Shijou-Saikyou-no-Mahou-Kenshi-F-Rank-Boukensha-ni-Tensei-Suru.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/shijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru/"
+    },
+    {
+      "judul": "Tono no Kanri o Shite Miyou",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftono-no-kanri-o-shite-miyou%2Fmanga_img_horizontal-Manga-Tono-no-Kanri-o-Shite-Miyou.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/tono-no-kanri-o-shite-miyou/"
+    },
+    {
       "judul": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fchichi-wa-eiyuu-haha-wa-seirei-musume-no-watashi-wa-tenseisha%2Fmanga_img_horizontal-Komik-Chichi-wa-Eiyuu-Haha-wa-Seirei-Musume-no-Watashi-wa-Tenseisha.png",
@@ -114,13 +135,6 @@
       "url": "https://komiku.org/manga/isekai-ryouridou/"
     },
     {
-      "judul": "Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru%2Fmanga_img_horizontal-Komik-Shijou-Saikyou-no-Mahou-Kenshi-F-Rank-Boukensha-ni-Tensei-Suru.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/shijou-saikyou-no-mahou-kenshi-f-rank-boukensha-ni-tensei-suru/"
-    },
-    {
       "judul": "Chittai Ore no Makikomare Isekai Seikatsu",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fchittai-ore-no-makikomare-isekai-seikatsu%2Fmanga_img_horizontal-A1-Chittai-Ore-no-Makikomare-Isekai-Seikatsu.jpg",
@@ -163,18 +177,18 @@
       "url": "https://komiku.org/manga/sekai-saikyou-no-assassin-isekai-kizoku-ni-tensei-suru/"
     },
     {
-      "judul": "Netorare Tsuihousareta Saikyou Kishi Danchou No Ossan, Katainaka De Eiyuu Ni Matsuriagerareru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fnetorare_tsuihousareta_saikyou_kishi_danchou_no_ossan__katainaka_de_eiyuu_ni_matsuriagerareru%2Fimg_691ee51f477299.06859870.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/netorare-tsuihousareta-saikyou-kishi-danchou-no-ossan-katainaka-de-eiyuu-ni-matsuriagerareru/"
-    },
-    {
       "judul": "Game Chishiki de Saikyou ni Natta Mob Heishi wa, Shin no Jitsuryoku wo Kakushitai",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgame_chishiki_de_saikyou_ni_natta_mob_heishi_wa%2Fimg_6831672c645cd4.09067348.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/game-chishiki-de-saikyou-ni-natta-mob-heishi-wa-shin-no-jitsuryoku-wo-kakushitai/"
+    },
+    {
+      "judul": "Netorare Tsuihousareta Saikyou Kishi Danchou No Ossan, Katainaka De Eiyuu Ni Matsuriagerareru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fnetorare_tsuihousareta_saikyou_kishi_danchou_no_ossan__katainaka_de_eiyuu_ni_matsuriagerareru%2Fimg_691ee51f477299.06859870.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/netorare-tsuihousareta-saikyou-kishi-danchou-no-ossan-katainaka-de-eiyuu-ni-matsuriagerareru/"
     },
     {
       "judul": "Forced To Become the Villain’s Son-in-law",
@@ -275,13 +289,6 @@
       "url": "https://komiku.org/manga/sono-akuyaku-kizoku-mama-heroine-ga-suki-sugiru-shinshi-na-doryoku-de-saikyou-to-nari-fuguu-na-oshi-chara-tasukemakuru/"
     },
     {
-      "judul": "Eleceed",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Feleceed%2Fmanga_img_horizontal-Komik-Eleceed.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/eleceed/"
-    },
-    {
       "judul": "God of Martial Arts",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgod-of-martial-arts%2Fmanga_img_horizontal-Manhua-God-of-Martial-Arts.png",
@@ -331,18 +338,18 @@
       "url": "https://komiku.org/manga/yuusha-shoukan-ni-makikomareta-kedo-isekai-wa-heiwa-deshita/"
     },
     {
-      "judul": "Megami to Kekkon Shite Isekai de Shinkon Seikatsu",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmegami_to_kekkon_shite_isekai_de_shinkon_seikatsu%2Fimg_698eda4e4cca22.92069522.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/megami-to-kekkon-shite-isekai-de-shinkon-seikatsu/"
-    },
-    {
       "judul": "Isekai Ojisan",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-ojisan%2Fmanga_img_horizontal-Komik-Isekai-Ojisan.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/isekai-ojisan/"
+    },
+    {
+      "judul": "Megami to Kekkon Shite Isekai de Shinkon Seikatsu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmegami_to_kekkon_shite_isekai_de_shinkon_seikatsu%2Fimg_698eda4e4cca22.92069522.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/megami-to-kekkon-shite-isekai-de-shinkon-seikatsu/"
     },
     {
       "judul": "The Ghostly Doctor",
@@ -1974,13 +1981,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmy_father_is_the_enemy_of_my_past_life_%2Fimg_684fcc1a3e6355.11516141.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/my-father-is-the-enemy-of-my-past-life/"
-    },
-    {
-      "judul": "Tono no Kanri o Shite Miyou",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftono-no-kanri-o-shite-miyou%2Fmanga_img_horizontal-Manga-Tono-no-Kanri-o-Shite-Miyou.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/tono-no-kanri-o-shite-miyou/"
     },
     {
       "judul": "Potion-danomi de Ikinobimasu!",
