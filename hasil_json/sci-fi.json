@@ -2,11 +2,46 @@
   "success": true,
   "data": [
     {
+      "judul": "Alien Headbutt",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F19%2F20260319234255_dfed51b74bc813e3_a6d45bc9.webp",
+      "tipe": "",
+      "url": "https://komiku.org/manga/alien-headbutt/"
+    },
+    {
+      "judul": "One Punch Man",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmanga-one-punch-man%2Fmanga_img_horizontal-Manga-One-Punch-Man.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/manga-one-punch-man/"
+    },
+    {
+      "judul": "OreAku, Ore wa Seikan Kokka no Akutoku Ryoushu!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Foreaku-ore-wa-seikan-kokka-no-akutoku-ryoushu%2Fmanga_img_horizontal-Jinuj-OreAku-Ore-wa-Seikan-Kokka-no-Akutoku-Ryoushu.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/oreaku-ore-wa-seikan-kokka-no-akutoku-ryoushu/"
+    },
+    {
       "judul": "The High Energy Attack",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-high-energy-attack%2Fmanga_img_horizontal-Komik-The-High-Energy-Attack.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-high-energy-attack/"
+    },
+    {
+      "judul": "Hiding a Logistics Center in the Apocalypse",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhiding-a-logistics-center-in-the-apocalypse%2Fmanga_img_horizontal-A1-Hiding-a-Logistics-Center-in-the-Apocalypse.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hiding-a-logistics-center-in-the-apocalypse/"
+    },
+    {
+      "judul": "Jungle Juice",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjungle-juice%2Fmanga_img_horizontal-Komik-Jungle-Juice.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/jungle-juice/"
     },
     {
       "judul": "Divine Leveling System",
@@ -86,13 +121,6 @@
       "url": "https://komiku.org/manga/mahouka-koukou-no-rettousei-douran-no-joushou-hen/"
     },
     {
-      "judul": "Hiding a Logistics Center in the Apocalypse",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhiding-a-logistics-center-in-the-apocalypse%2Fmanga_img_horizontal-A1-Hiding-a-Logistics-Center-in-the-Apocalypse.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hiding-a-logistics-center-in-the-apocalypse/"
-    },
-    {
       "judul": "Extremely Evil Game",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fextremely-evil-game%2Fmanga_img_horizontal-Komik-Extremely-Evil-Game.jpg",
@@ -142,25 +170,11 @@
       "url": "https://komiku.org/manga/a-hero-who-does-everything-well/"
     },
     {
-      "judul": "Jungle Juice",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjungle-juice%2Fmanga_img_horizontal-Komik-Jungle-Juice.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/jungle-juice/"
-    },
-    {
       "judul": "Noah's Notes",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F04%2F01%2F20260401051850_15b96757cf090971_6d9b48ea.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/noahs-notes/"
-    },
-    {
-      "judul": "One Punch Man",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmanga-one-punch-man%2Fmanga_img_horizontal-Manga-One-Punch-Man.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/manga-one-punch-man/"
     },
     {
       "judul": "Versus",
@@ -182,13 +196,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmad-ootori-yuusuke%2Fmanga_img_horizontal-A1-MAD-OOTORI-Yuusuke.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/mad-ootori-yuusuke/"
-    },
-    {
-      "judul": "Alien Headbutt",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F19%2F20260319234255_dfed51b74bc813e3_a6d45bc9.webp",
-      "tipe": "",
-      "url": "https://komiku.org/manga/alien-headbutt/"
     },
     {
       "judul": "Mezametara Saikyou Soubi to Uchuusen-mochi datta no de",
@@ -245,13 +252,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhyoukaku_no_meteoria%2Fimg_695cbcfe8d8d87.73428272.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/hyoukaku-no-meteoria/"
-    },
-    {
-      "judul": "OreAku, Ore wa Seikan Kokka no Akutoku Ryoushu!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Foreaku-ore-wa-seikan-kokka-no-akutoku-ryoushu%2Fmanga_img_horizontal-Jinuj-OreAku-Ore-wa-Seikan-Kokka-no-Akutoku-Ryoushu.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/oreaku-ore-wa-seikan-kokka-no-akutoku-ryoushu/"
     },
     {
       "judul": "The Kingdom of Ruin",
