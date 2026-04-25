@@ -2,6 +2,20 @@
   "success": true,
   "data": [
     {
+      "judul": "Legend of Star General",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/legend-of-star-general/"
+    },
+    {
+      "judul": "Jungle Juice",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjungle-juice%2Fmanga_img_horizontal-Komik-Jungle-Juice.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/jungle-juice/"
+    },
+    {
       "judul": "One Punch Man",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmanga-one-punch-man%2Fmanga_img_horizontal-Manga-One-Punch-Man.png",
@@ -65,13 +79,6 @@
       "url": "https://komiku.org/manga/hiding-a-logistics-center-in-the-apocalypse/"
     },
     {
-      "judul": "Jungle Juice",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjungle-juice%2Fmanga_img_horizontal-Komik-Jungle-Juice.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/jungle-juice/"
-    },
-    {
       "judul": "Divine Leveling System",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdivine-leveling-system%2Fmanga_img_horizontal-Super-God-System-2.jpg",
@@ -105,13 +112,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_delusional_hunter_in_another_world%2Fimg_6864c2be731811.24099557.png",
       "tipe": "",
       "url": "https://komiku.org/manga/the-delusional-hunter-in-another-world/"
-    },
-    {
-      "judul": "Legend of Star General",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/legend-of-star-general/"
     },
     {
       "judul": "Made in Abyss",
