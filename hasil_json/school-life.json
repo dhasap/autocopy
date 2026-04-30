@@ -2,6 +2,83 @@
   "success": true,
   "data": [
     {
+      "judul": "GOLIERO",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F14%2F20260314025652_d533726f87278f23_0f6d3006.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/goliero/"
+    },
+    {
+      "judul": "High School Musical Genius Is Paganini Reincarnated",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhigh-school-musical-genius-is-paganini-reincarnated%2Fmanga_img_horizontal-A1-High-School-Musical-Genius-Is-Paganini.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/high-school-musical-genius-is-paganini-reincarnated/"
+    },
+    {
+      "judul": "Momose Akira no Hatsukoi Hatan-chuu.",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmomose_akira_no_hatsukoi_hatan-chuu%2Fimg_68550954439266.01435164.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/momose-akira-no-hatsukoi-hatan-chuu/"
+    },
+    {
+      "judul": "Kanojo wo Ubatta Ikemen Bishoujo ga Nazeka Ore made Nerattekuru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkanojo_wo_ubatta_ikemen_bishoujo_ga_nazeka_ore_made_nerattekuru%2Fimg_689b09341598c8.16651266.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kanojo-wo-ubatta-ikemen-bishoujo-ga-nazeka-ore-made-nerattekuru/"
+    },
+    {
+      "judul": "Kusunoki-san wa Koukou Debut ni Shippai shite Iru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkusunoki-san_wa_koukou_debut_ni_shippai_shite_iru%2Fimg_6846a332214161.30511923.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kusunoki-san-wa-koukou-debut-ni-shippai-shite-iru/"
+    },
+    {
+      "judul": "Kurasu no Daikirai na Joshi to Kekkon Suru Koto ni Natta",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkurasu-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta%2Fmanga_img_horizontal-Komik-Kurasu-no-Daikirai-na-Joshi-to-Kekkon-Suru-Koto-ni-Natta.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kurasu-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta/"
+    },
+    {
+      "judul": "Jirai nandesu ka? Chihara-san (That Girl Is Cute… But Dangerous?)",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fjirai_nandesu_ka__chihara-san%2Fimg_684fcc82ded9d6.84615583.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/jirai-nandesu-ka-chihara-san-that-girl-is-cute-but-dangerous/"
+    },
+    {
+      "judul": "High School Conquest: War Against the Bullies",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhigh_school_conquest__war_against_the_bullies%2Fimg_6911b2041a9598.22739954.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/high-school-conquest-war-against-the-bullies/"
+    },
+    {
+      "judul": "Hololive Academy ～Shiny Smily Stories～",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F04%2F03%2F20260403053354_8bb4236fc546ae90_a7424e70.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hololive-academy-%ef%bd%9eshiny-smily-stories%ef%bd%9e/"
+    },
+    {
+      "judul": "Youkya ni Natta Ore no Seishun Shijou Shugi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fyoukya_ni_natta_ore_no_seishun_shijou_shugi%2Fimg_6909e2c54f1333.01413647.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/youkya-ni-natta-ore-no-seishun-shijou-shugi/"
+    },
+    {
+      "judul": "Watashi no Koto Suki ja Nakatta no ka yo!?",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fwatashi_no_koto_suki_ja_nakatta_no_ka_yo__%2Fimg_6992e241c2ca26.84896654.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/watashi-no-koto-suki-ja-nakatta-no-ka-yo/"
+    },
+    {
       "judul": "Tonari no Neko to Koi Shirazu",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftonari-no-neko-to-koi-shirazu%2Fmanga_img_horizontal-Back-Tonari-no-Neko-to-Koi-Shirazu.jpg",
@@ -16,20 +93,6 @@
       "url": "https://komiku.org/manga/kono-oto-tomare/"
     },
     {
-      "judul": "GOLIERO",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F14%2F20260314025652_d533726f87278f23_0f6d3006.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/goliero/"
-    },
-    {
-      "judul": "Kanojo wo Ubatta Ikemen Bishoujo ga Nazeka Ore made Nerattekuru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkanojo_wo_ubatta_ikemen_bishoujo_ga_nazeka_ore_made_nerattekuru%2Fimg_689b09341598c8.16651266.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kanojo-wo-ubatta-ikemen-bishoujo-ga-nazeka-ore-made-nerattekuru/"
-    },
-    {
       "judul": "Undead-san no Bukiyou na Seishun",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F19%2F20260319232225_c1aea61cc2f5de52_007bf57a.jpg",
@@ -42,13 +105,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhochiya-san_wa_amariaru%2Fimg_69859a748795f9.42204826.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/hochiya-san-wa-amariaru/"
-    },
-    {
-      "judul": "Jirai nandesu ka? Chihara-san (That Girl Is Cute… But Dangerous?)",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fjirai_nandesu_ka__chihara-san%2Fimg_684fcc82ded9d6.84615583.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/jirai-nandesu-ka-chihara-san-that-girl-is-cute-but-dangerous/"
     },
     {
       "judul": "Kuroko to Akuyaku-kun",
@@ -231,13 +287,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F04%2F01%2F20260401051558_31da173d082d4a5f_1f5917a6.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/vocalize/"
-    },
-    {
-      "judul": "High School Conquest: War Against the Bullies",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhigh_school_conquest__war_against_the_bullies%2Fimg_6911b2041a9598.22739954.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/high-school-conquest-war-against-the-bullies/"
     },
     {
       "judul": "Im the Hero but the Main Heroines Are Trying to Kill Me",
@@ -464,13 +513,6 @@
       "url": "https://komiku.org/manga/i-took-over-the-academy-with-a-single-sashimi-knife/"
     },
     {
-      "judul": "Youkya ni Natta Ore no Seishun Shijou Shugi",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fyoukya_ni_natta_ore_no_seishun_shijou_shugi%2Fimg_6909e2c54f1333.01413647.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/youkya-ni-natta-ore-no-seishun-shijou-shugi/"
-    },
-    {
       "judul": "Haimiya-senpai wa Kowakute Kawaii",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhaimiya-senpai_wa_kowakute_kawaii%2Fimg_690ef597ea95d1.16124029.jpg",
@@ -506,25 +548,11 @@
       "url": "https://komiku.org/manga/akuyaku-reijoutachi-wa-yuruganai/"
     },
     {
-      "judul": "High School Musical Genius Is Paganini Reincarnated",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhigh-school-musical-genius-is-paganini-reincarnated%2Fmanga_img_horizontal-A1-High-School-Musical-Genius-Is-Paganini.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/high-school-musical-genius-is-paganini-reincarnated/"
-    },
-    {
       "judul": "Make Heroine o Katasetai!!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmake_heroine_o_katasetai__%2Fimg_68c51d5b7da5f1.64553432.png",
       "tipe": "",
       "url": "https://komiku.org/manga/make-heroine-o-katasetai/"
-    },
-    {
-      "judul": "Watashi no Koto Suki ja Nakatta no ka yo!?",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fwatashi_no_koto_suki_ja_nakatta_no_ka_yo__%2Fimg_6992e241c2ca26.84896654.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/watashi-no-koto-suki-ja-nakatta-no-ka-yo/"
     },
     {
       "judul": "Tsukimino Karma wa Akumade Boku no Pet Nanoni",
@@ -541,18 +569,18 @@
       "url": "https://komiku.org/manga/reality-quest/"
     },
     {
-      "judul": "Watashi Ga Koibito Ni Nareru Wake Naijan, Muri Muri! (Muri Janakatta!?)",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatashi-ga-koibito-ni-nareru-wake-naijan-muri-muri-muri-janakatta%2Fmanga_img_horizontal-Komik-Watashi-Ga-Koibito-Ni-Nareru-Wake-Naijan-Muri-Muri.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/watashi-ga-koibito-ni-nareru-wake-naijan-muri-muri-muri-janakatta/"
-    },
-    {
       "judul": "Boku no Kokoro no Yabai yatsu",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fboku-no-kokoro-no-yabai-yatsu%2Fmanga_img_horizontal-Komik-Boku-no-Kokoro-no-Yabai-yatsu.png",
       "tipe": "",
       "url": "https://komiku.org/manga/boku-no-kokoro-no-yabai-yatsu/"
+    },
+    {
+      "judul": "Watashi Ga Koibito Ni Nareru Wake Naijan, Muri Muri! (Muri Janakatta!?)",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatashi-ga-koibito-ni-nareru-wake-naijan-muri-muri-muri-janakatta%2Fmanga_img_horizontal-Komik-Watashi-Ga-Koibito-Ni-Nareru-Wake-Naijan-Muri-Muri.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/watashi-ga-koibito-ni-nareru-wake-naijan-muri-muri-muri-janakatta/"
     },
     {
       "judul": "Ryuuzaki-san ga Ore no Mae dake de Dereru Riyuu",
@@ -625,13 +653,6 @@
       "url": "https://komiku.org/manga/tadokoro-san/"
     },
     {
-      "judul": "Momose Akira no Hatsukoi Hatan-chuu.",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmomose_akira_no_hatsukoi_hatan-chuu%2Fimg_68550954439266.01435164.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/momose-akira-no-hatsukoi-hatan-chuu/"
-    },
-    {
       "judul": "Boku no Suki na Hito ga Suki na Hito",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fboku_no_suki_na_hito_ga_suki_na_hito%2Fimg_687751384cf1f7.96350989.jpg",
@@ -693,13 +714,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Faishiteru-game-wo-owarasetai%2Fmanga_img_horizontal-Komik-Aishiteru-Game-wo-Owarasetai.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/aishiteru-game-wo-owarasetai/"
-    },
-    {
-      "judul": "Kusunoki-san wa Koukou Debut ni Shippai shite Iru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkusunoki-san_wa_koukou_debut_ni_shippai_shite_iru%2Fimg_6846a332214161.30511923.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kusunoki-san-wa-koukou-debut-ni-shippai-shite-iru/"
     },
     {
       "judul": "Nee, Mou Isso Tsukiacchau? Osananajimi no Bishoujo ni Tanomarete, Camo Kareshi Hajimemashita",
@@ -968,13 +982,6 @@
       "url": "https://komiku.org/manga/when-trying-to-get-back-at-the-hometown-bullies-another-battle-began/"
     },
     {
-      "judul": "Kurasu no Daikirai na Joshi to Kekkon Suru Koto ni Natta",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkurasu-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta%2Fmanga_img_horizontal-Komik-Kurasu-no-Daikirai-na-Joshi-to-Kekkon-Suru-Koto-ni-Natta.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kurasu-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta/"
-    },
-    {
       "judul": "World Trigger",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fworld-trigger%2Fmanga_img_horizontal-Manga-World-Trigger.jpg",
@@ -1155,13 +1162,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkoori_no_hime_wa_chiisana_hidamari_de_tokasaretai%2Fimg_684bda271703f8.78715303.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/koori-no-hime-wa-chiisana-hidamari-de-tokasaretai/"
-    },
-    {
-      "judul": "Hololive Academy ～Shiny Smily Stories～",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F04%2F03%2F20260403053354_8bb4236fc546ae90_a7424e70.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hololive-academy-%ef%bd%9eshiny-smily-stories%ef%bd%9e/"
     },
     {
       "judul": "Tonari no Futomomo-san",
@@ -2711,25 +2711,25 @@
       "url": "https://komiku.org/manga/assassination-classroom/"
     },
     {
-      "judul": "Houkago no Cinderella-kun",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/houkago-no-cinderella-kun/"
-    },
-    {
-      "judul": "Hard Luck Woman",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hard-luck-woman/"
-    },
-    {
       "judul": "Watch Dog",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/watch-dog/"
+    },
+    {
+      "judul": "Hundred",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hundred/"
+    },
+    {
+      "judul": "Houkago no Cinderella-kun",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/houkago-no-cinderella-kun/"
     },
     {
       "judul": "Hard Luck Woman",
@@ -8122,11 +8122,11 @@
       "url": "https://komiku.org/manga/gakkou-gurashi/"
     },
     {
-      "judul": "Gakkou Gurashi! – Otayori",
+      "judul": "Gakkou Gurashi!",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fkomiku.org%2Fwp-content%2Fuploads%2F2022%2F10%2FGakkou-Gurashi-%E2%80%93-Otayori-2.png",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgakkou-gurashi%2Fmanga_img_horizontal-Gakkou-Gurashi-2.png",
       "tipe": "",
-      "url": "https://komiku.org/manga/gakkou-gurashi-otayori/"
+      "url": "https://komiku.org/manga/gakkou-gurashi/"
     },
     {
       "judul": "Gal niPA-chan wa Semararetai",
