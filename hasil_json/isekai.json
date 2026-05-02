@@ -2,6 +2,48 @@
   "success": true,
   "data": [
     {
+      "judul": "God of Martial Arts",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgod-of-martial-arts%2Fmanga_img_horizontal-Manhua-God-of-Martial-Arts.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/god-of-martial-arts/"
+    },
+    {
+      "judul": "Forced To Become the Villain’s Son-in-law",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fforced-to-become-the-villains-son-in-law%2Fmanga_img_horizontal-Komik-Forced-To-Become-the-Villains-Son-in-law.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/forced-to-become-the-villains-son-in-law/"
+    },
+    {
+      "judul": "Kaketa Tsuki no Mercedes ~Kyuuketsuki no Kizoku ni Tensei Shitakedo Sute Rare Sounanode Dungeon o Seiha Suru~",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkaketa_tsuki_no_mercedes%2Fimg_692181190e9b21.70864702.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kaketa-tsuki-no-mercedes-kyuuketsuki-no-kizoku-ni-tensei-shitakedo-sute-rare-sounanode-dungeon-o-seiha-suru/"
+    },
+    {
+      "judul": "Academy’s Undercover Professor",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Facademys-undercover-professor%2Fmanga_img_horizontal-Komik-Academys-Undercover-Professor.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/academys-undercover-professor/"
+    },
+    {
+      "judul": "Yami-ochi Rasu Bosu Reijou No Osananajimi Ni Tensei Shita. Ore Ga Shindara Bad End Kakutei Na Node Saikyou Ni Natta Kedo, Mou Yami-ochi “yandere-ka” Shitemasen Ka?",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fyami-ochi_rasu_bosu_reijou_no_osananajimi_ni_tensei_shita%2Fimg_68bff6b8c04ac4.33496778.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/yami-ochi-rasu-bosu-reijou-no-osananajimi-ni-tensei-shita-ore-ga-shindara-bad-end-kakutei-na-node-saikyou-ni-natta-kedo-mou-yami-ochi-yandere-ka-shitemasen-ka/"
+    },
+    {
+      "judul": "Isekai de Kojiin wo Hiraita kedo, Naze ka Darehitori Sudatou to Shinai Ken",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-de-kojiin-wo-hiraita-kedo-naze-ka-darehitori-sudatou-to-shinai-ken%2Fmanga_img_horizontal-Manga-Isekai-de-Kojiin-wo-Hiraita-kedo-Naze-ka-Darehitori-Sudatou-to-Shinai-Ken.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-de-kojiin-wo-hiraita-kedo-naze-ka-darehitori-sudatou-to-shinai-ken/"
+    },
+    {
       "judul": "Tensei Shitara dai Nana Ouji dattanode, Kimamani Majutsu o Kiwamemasu",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftensei-shitara-dai-nana-ouji-dattanode-kimamani-majutsu-o-kiwamemasu%2Fmanga_img_horizontal-Komik-Tensei-Shitara-dai-Nana-Ouji-dattanode-Kimamani-Majutsu-o-Kiwamemasu-2.jpg",
@@ -44,20 +86,6 @@
       "url": "https://komiku.org/manga/isekai-wa-smartphone-to-tomo-ni/"
     },
     {
-      "judul": "Forced To Become the Villain’s Son-in-law",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fforced-to-become-the-villains-son-in-law%2Fmanga_img_horizontal-Komik-Forced-To-Become-the-Villains-Son-in-law.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/forced-to-become-the-villains-son-in-law/"
-    },
-    {
-      "judul": "Isekai de Kojiin wo Hiraita kedo, Naze ka Darehitori Sudatou to Shinai Ken",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-de-kojiin-wo-hiraita-kedo-naze-ka-darehitori-sudatou-to-shinai-ken%2Fmanga_img_horizontal-Manga-Isekai-de-Kojiin-wo-Hiraita-kedo-Naze-ka-Darehitori-Sudatou-to-Shinai-Ken.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isekai-de-kojiin-wo-hiraita-kedo-naze-ka-darehitori-sudatou-to-shinai-ken/"
-    },
-    {
       "judul": "Jitsu wa Ore, Saikyou deshita?",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjitsu-wa-ore-saikyou-deshita%2Fmanga_img_horizontal-A1-Jitsu-wa-Ori-Saikyou-deshita.jpg",
@@ -84,13 +112,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhealing-life-through-camping-in-another-world%2Fmanga_img_horizontal-A1-Healing-Life-Through-Camping-in-Another-World.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/healing-life-through-camping-in-another-world/"
-    },
-    {
-      "judul": "God of Martial Arts",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgod-of-martial-arts%2Fmanga_img_horizontal-Manhua-God-of-Martial-Arts.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/god-of-martial-arts/"
     },
     {
       "judul": "Extremely Evil Game",
@@ -562,13 +583,6 @@
       "url": "https://komiku.org/manga/hitoribocchi-no-isekai-kouryaku/"
     },
     {
-      "judul": "Academy’s Undercover Professor",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Facademys-undercover-professor%2Fmanga_img_horizontal-Komik-Academys-Undercover-Professor.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/academys-undercover-professor/"
-    },
-    {
       "judul": "Tanaka Ke, Tensei Suru",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftanaka-ke-tensei-suru%2Fmanga_img_horizontal-Komik-Tanaka-Ke-Tensei-Suru.jpg",
@@ -667,13 +681,6 @@
       "url": "https://komiku.org/manga/nani-mo-wakaranai/"
     },
     {
-      "judul": "Kaketa Tsuki no Mercedes ~Kyuuketsuki no Kizoku ni Tensei Shitakedo Sute Rare Sounanode Dungeon o Seiha Suru~",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fkaketa_tsuki_no_mercedes%2Fimg_692181190e9b21.70864702.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kaketa-tsuki-no-mercedes-kyuuketsuki-no-kizoku-ni-tensei-shitakedo-sute-rare-sounanode-dungeon-o-seiha-suru/"
-    },
-    {
       "judul": "Koudou ni Hattatsu Shita Igaku wa Mahou to Kubetsu ga Tsukanai",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkoudou-ni-hattatsu-shita-igaku-wa-mahou-to-kubetsu-ga-tsukanai%2Fmanga_img_horizontal-Back-Koudou-ni-Hattatsu-Shita-Igaku-wa.jpg",
@@ -730,18 +737,18 @@
       "url": "https://komiku.org/manga/yuusha-shoukan-ni-makikomareta-kedo-isekai-wa-heiwa-deshita/"
     },
     {
-      "judul": "Megami to Kekkon Shite Isekai de Shinkon Seikatsu",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmegami_to_kekkon_shite_isekai_de_shinkon_seikatsu%2Fimg_698eda4e4cca22.92069522.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/megami-to-kekkon-shite-isekai-de-shinkon-seikatsu/"
-    },
-    {
       "judul": "Isekai Ojisan",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-ojisan%2Fmanga_img_horizontal-Komik-Isekai-Ojisan.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/isekai-ojisan/"
+    },
+    {
+      "judul": "Megami to Kekkon Shite Isekai de Shinkon Seikatsu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmegami_to_kekkon_shite_isekai_de_shinkon_seikatsu%2Fimg_698eda4e4cca22.92069522.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/megami-to-kekkon-shite-isekai-de-shinkon-seikatsu/"
     },
     {
       "judul": "The Ghostly Doctor",
@@ -756,13 +763,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftensei_nanmin_shoujo_wa_shimin-ken_wo_0_kara_mezashite_hatarakimasu%2Fimg_6864e54748b9f9.11767287.png",
       "tipe": "",
       "url": "https://komiku.org/manga/tensei-nanmin-shoujo-wa-shimin-ken-wo-0-kara-mezashite-hatarakimasu/"
-    },
-    {
-      "judul": "Yami-ochi Rasu Bosu Reijou No Osananajimi Ni Tensei Shita. Ore Ga Shindara Bad End Kakutei Na Node Saikyou Ni Natta Kedo, Mou Yami-ochi “yandere-ka” Shitemasen Ka?",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fyami-ochi_rasu_bosu_reijou_no_osananajimi_ni_tensei_shita%2Fimg_68bff6b8c04ac4.33496778.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/yami-ochi-rasu-bosu-reijou-no-osananajimi-ni-tensei-shita-ore-ga-shindara-bad-end-kakutei-na-node-saikyou-ni-natta-kedo-mou-yami-ochi-yandere-ka-shitemasen-ka/"
     },
     {
       "judul": "Isekai de Cheat Skill wo te ni Shita ore wa, Genjitsu Sekai wo mo Musou Suru ~Level Up wa Jinsei wo Kaeta~",
