@@ -2,6 +2,62 @@
   "success": true,
   "data": [
     {
+      "judul": "Ao no Hako",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-no-hako%2Fmanga_img_horizontal-Komik-Ao-no-Hako.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ao-no-hako/"
+    },
+    {
+      "judul": "Tonari no Seki no Yatsu ga Souiu Me de Mitekuru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftonari-no-seki-no-yatsu-ga-souiu-me-de-mitekuru%2Fmanga_img_horizontal-A1-Tonari-no-Seki-no-Yatsu-ga-Souiu-Me-de-Mitekuru..jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/tonari-no-seki-no-yatsu-ga-souiu-me-de-mitekuru/"
+    },
+    {
+      "judul": "Mikadono Sanshimai wa Angai, Choroi",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmikadono-sanshimai-wa-angai-choroi%2Fmanga_img_horizontal-Mikadono-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mikadono-sanshimai-wa-angai-choroi/"
+    },
+    {
+      "judul": "Mada Kimi o Miageteru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F05%2F04%2F20260504220836_e8812e3a4d6d6c94_82416881.webp",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mada-kimi-o-miageteru/"
+    },
+    {
+      "judul": "Shinobi Undercover",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshinobi-undercover%2Fmanga_img_horizontal-A1-Shinobi-Undercover.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/shinobi-undercover/"
+    },
+    {
+      "judul": "True Education",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftrue-education%2Fmanga_img_horizontal-Komik-True-Education.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/true-education/"
+    },
+    {
+      "judul": "Hikagemono Demo Yarinaoshite Ii Desu ka?",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F05%2F04%2F20260504221054_005290c65a495a9d_27b25eb2.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hikagemono-demo-yarinaoshite-ii-desu-ka/"
+    },
+    {
+      "judul": "Marika-chan no Koukando wa Bukkowarete iru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmarika-chan_no_koukando_wa_bukkowarete_iru%2Fimg_695b213a9fc086.17739365.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/marika-chan-no-koukando-wa-bukkowarete-iru/"
+    },
+    {
       "judul": "You’re the Only One I Can See",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F04%2F15%2F20260415155202_4bc20d3b1d893f03_a22738a9.webp",
@@ -30,13 +86,6 @@
       "url": "https://komiku.org/manga/academy-of-card/"
     },
     {
-      "judul": "Hikagemono Demo Yarinaoshite Ii Desu ka?",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F05%2F04%2F20260504221054_005290c65a495a9d_27b25eb2.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hikagemono-demo-yarinaoshite-ii-desu-ka/"
-    },
-    {
       "judul": "Aching",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F05%2F04%2F20260504221127_4fce5e650bc9b5c0_d5cffc3f.webp",
@@ -49,13 +98,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F05%2F04%2F20260504220411_a38424e6e50b8878_adbaf719.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/jibun-wo-sss-kyuda-to-omoikondeiru-c-kyu-majutsu-gakusei/"
-    },
-    {
-      "judul": "Mada Kimi o Miageteru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F05%2F04%2F20260504220836_e8812e3a4d6d6c94_82416881.webp",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mada-kimi-o-miageteru/"
     },
     {
       "judul": "Kuroko to Akuyaku-kun",
@@ -478,13 +520,6 @@
       "url": "https://komiku.org/manga/bao-jin-wo-de-xiao-majia/"
     },
     {
-      "judul": "Mikadono Sanshimai wa Angai, Choroi",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmikadono-sanshimai-wa-angai-choroi%2Fmanga_img_horizontal-Mikadono-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mikadono-sanshimai-wa-angai-choroi/"
-    },
-    {
       "judul": "Douyara Ore wa Imadoki Gal na Toshiue Osananajimi kara Gekiomo Kanjou wo Mukerareteiru Rashii",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fdouyara_ore_wa_imadoki_gal_na_toshiue_osananajimi_kara_gekiomo%2Fimg_684fcd260247b7.04346369.jpg",
@@ -497,13 +532,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fuchi_no_seiso-kei_iinchou_ga_katsute_chuunibyou_idol_datta_koto_wo_ore_dake_ga_shitteiru_%2Fimg_69217f85aed602.85129884.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/uchi-no-seiso-kei-iinchou-ga-katsute-chuunibyou-idol-datta-koto-wo-ore-dake-ga-shitteiru/"
-    },
-    {
-      "judul": "Shinobi Undercover",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshinobi-undercover%2Fmanga_img_horizontal-A1-Shinobi-Undercover.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/shinobi-undercover/"
     },
     {
       "judul": "Momogusa-san ga Monogusa Sugiru!!",
@@ -553,13 +581,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fosoraku_kanojo_wa_ore_no_aniki_wo_neratteru%2Fimg_683415ad059552.63518866.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/osoraku-kanojo-wa-ore-no-aniki-wo-neratteru/"
-    },
-    {
-      "judul": "Ao no Hako",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fao-no-hako%2Fmanga_img_horizontal-Komik-Ao-no-Hako.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ao-no-hako/"
     },
     {
       "judul": "Osananajimi ni Kage de Tsugou no Yoi Otoko Yobawari Sareta Ore wa, Koui o Reset Shite Futsuu ni Seishun o Okuritai",
@@ -779,18 +800,18 @@
       "url": "https://komiku.org/manga/reality-quest/"
     },
     {
-      "judul": "Watashi Ga Koibito Ni Nareru Wake Naijan, Muri Muri! (Muri Janakatta!?)",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatashi-ga-koibito-ni-nareru-wake-naijan-muri-muri-muri-janakatta%2Fmanga_img_horizontal-Komik-Watashi-Ga-Koibito-Ni-Nareru-Wake-Naijan-Muri-Muri.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/watashi-ga-koibito-ni-nareru-wake-naijan-muri-muri-muri-janakatta/"
-    },
-    {
       "judul": "Boku no Kokoro no Yabai yatsu",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fboku-no-kokoro-no-yabai-yatsu%2Fmanga_img_horizontal-Komik-Boku-no-Kokoro-no-Yabai-yatsu.png",
       "tipe": "",
       "url": "https://komiku.org/manga/boku-no-kokoro-no-yabai-yatsu/"
+    },
+    {
+      "judul": "Watashi Ga Koibito Ni Nareru Wake Naijan, Muri Muri! (Muri Janakatta!?)",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatashi-ga-koibito-ni-nareru-wake-naijan-muri-muri-muri-janakatta%2Fmanga_img_horizontal-Komik-Watashi-Ga-Koibito-Ni-Nareru-Wake-Naijan-Muri-Muri.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/watashi-ga-koibito-ni-nareru-wake-naijan-muri-muri-muri-janakatta/"
     },
     {
       "judul": "Ryuuzaki-san ga Ore no Mae dake de Dereru Riyuu",
@@ -854,20 +875,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fboku_no_suki_na_hito_ga_suki_na_hito%2Fimg_687751384cf1f7.96350989.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/boku-no-suki-na-hito-ga-suki-na-hito/"
-    },
-    {
-      "judul": "Tonari no Seki no Yatsu ga Souiu Me de Mitekuru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftonari-no-seki-no-yatsu-ga-souiu-me-de-mitekuru%2Fmanga_img_horizontal-A1-Tonari-no-Seki-no-Yatsu-ga-Souiu-Me-de-Mitekuru..jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/tonari-no-seki-no-yatsu-ga-souiu-me-de-mitekuru/"
-    },
-    {
-      "judul": "True Education",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftrue-education%2Fmanga_img_horizontal-Komik-True-Education.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/true-education/"
     },
     {
       "judul": "Superstar From Age 0",
@@ -1136,18 +1143,18 @@
       "url": "https://komiku.org/manga/clover/"
     },
     {
-      "judul": "Houkago no Luminous",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhoukago_no_luminous%2Fimg_6978868b893d04.13369813.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/houkago-no-luminous/"
-    },
-    {
       "judul": "Kamiyama-san no Kami Bukuro no Naka ni wa",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkamiyama-san-no-kami-bukuro-no-naka-ni-wa%2Fmanga_img_horizontal-Komik-Kamiyama-san-no-Kami-Bukuro-no-Naka-ni-wa.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/kamiyama-san-no-kami-bukuro-no-naka-ni-wa/"
+    },
+    {
+      "judul": "Houkago no Luminous",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhoukago_no_luminous%2Fimg_6978868b893d04.13369813.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/houkago-no-luminous/"
     },
     {
       "judul": "Watashi Nibanme no Kanojo de Ii kara",
@@ -1750,13 +1757,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-idol-ni-wa-himitsu-ga-aru%2Fmanga_img_horizontal-A1-Houkago-no-Idol-ni-wa-Himitsu-ga-aru.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/houkago-no-idol-ni-wa-himitsu-ga-aru/"
-    },
-    {
-      "judul": "Marika-chan no Koukando wa Bukkowarete iru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmarika-chan_no_koukando_wa_bukkowarete_iru%2Fimg_695b213a9fc086.17739365.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/marika-chan-no-koukando-wa-bukkowarete-iru/"
     },
     {
       "judul": "Haite Kudasai Takamine-san",
