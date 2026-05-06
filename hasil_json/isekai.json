@@ -2,18 +2,88 @@
   "success": true,
   "data": [
     {
-      "judul": "Eleceed",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Feleceed%2Fmanga_img_horizontal-Komik-Eleceed.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/eleceed/"
-    },
-    {
       "judul": "God of Martial Arts",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgod-of-martial-arts%2Fmanga_img_horizontal-Manhua-God-of-Martial-Arts.png",
       "tipe": "",
       "url": "https://komiku.org/manga/god-of-martial-arts/"
+    },
+    {
+      "judul": "Game Chishiki de Saikyou ni Natta Mob Heishi wa, Shin no Jitsuryoku wo Kakushitai",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgame_chishiki_de_saikyou_ni_natta_mob_heishi_wa%2Fimg_6831672c645cd4.09067348.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/game-chishiki-de-saikyou-ni-natta-mob-heishi-wa-shin-no-jitsuryoku-wo-kakushitai/"
+    },
+    {
+      "judul": "Supreme Curse Master",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsupreme_curse_master%2Fimg_682a1c9c218ad3.60673892.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/supreme-curse-master/"
+    },
+    {
+      "judul": "Archmage Restaurant",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Farchmage-restaurant%2Fmanga_img_horizontal-Back-Archmage-Restaurant.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/archmage-restaurant/"
+    },
+    {
+      "judul": "Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru ~Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru~",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsono-akuyaku-kizoku-mama-heroine-ga-suki-sugiru-shinshi-na-doryoku-de-saikyou-to-nari-fuguu-na-oshi-chara-tasukemakuru%2Fmanga_img_horizontal-A1-Sono-Akuyaku-Kizoku-Mama-Heroine-ga-Suki-Sugiru.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/sono-akuyaku-kizoku-mama-heroine-ga-suki-sugiru-shinshi-na-doryoku-de-saikyou-to-nari-fuguu-na-oshi-chara-tasukemakuru/"
+    },
+    {
+      "judul": "Next Life",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnext-life%2Fmanga_img_horizontal-Manga-Next-Life.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/next-life/"
+    },
+    {
+      "judul": "Isekai de Haishin Katsudou wo Shitara Tairyou no Yandere Shinja wo Umidashite Shimatta Ken",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-de-haishin-katsudou-wo-shitara-tairyou-no-yandere-shinja-wo-umidashite-shimatta-ken%2Fmanga_img_horizontal-Back-Isekai-de-Haishin-Katsudou-wo-Shitara-Tairyou-no-Yandere-Shinja-wo-Umidashite-Shimatta-Ken.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-de-haishin-katsudou-wo-shitara-tairyou-no-yandere-shinja-wo-umidashite-shimatta-ken/"
+    },
+    {
+      "judul": "Isekai Walking",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-walking%2Fmanga_img_horizontal-Back-isekai-walking.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/isekai-walking/"
+    },
+    {
+      "judul": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgaikotsu-kishi-sama-tadaima-isekai-e-odekake-chuu%2Fmanga_img_horizontal-Manga-Gaikotsu-Kishi-sama-Tadaima-Isekai-e-Odekake-chuu.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/gaikotsu-kishi-sama-tadaima-isekai-e-odekake-chuu/"
+    },
+    {
+      "judul": "Kami No Techigai de Shindara Zumi de Isekai ni Hourikomare Mashita",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkami-no-techigai-de-shindara-zumi-de-isekai-ni-hourikomare-mashita%2Fmanga_img_horizontal-Komik-Kami-No-Techigai-de-Shindara-Zumi-de-Isekai-ni-Hourikomare-Mashita.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kami-no-techigai-de-shindara-zumi-de-isekai-ni-hourikomare-mashita/"
+    },
+    {
+      "judul": "I Became the Tyrant of a Defense Game",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-became-the-tyrant-of-a-defense-game%2Fmanga_img_horizontal-Komik-I-Became-the-Tyrant-of-a-Defense-Game.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/i-became-the-tyrant-of-a-defense-game/"
+    },
+    {
+      "judul": "Eleceed",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Feleceed%2Fmanga_img_horizontal-Komik-Eleceed.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/eleceed/"
     },
     {
       "judul": "Isekai Ryouridou",
@@ -198,13 +268,6 @@
       "url": "https://komiku.org/manga/became-the-patron-of-villains/"
     },
     {
-      "judul": "Isekai Walking",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-walking%2Fmanga_img_horizontal-Back-isekai-walking.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isekai-walking/"
-    },
-    {
       "judul": "Isekai wa Smartphone to Tomo ni.",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-wa-smartphone-to-tomo-ni%2Fmanga_img_horizontal-Komik-Isekai-wa-Smartphone-to-Tomo-ni..jpg",
@@ -245,13 +308,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-heavenly-path-is-not-stupid%2Fmanga_img_horizontal-The-Heavenly-Path-Is-Not-Stupid-Panjang.png",
       "tipe": "",
       "url": "https://komiku.org/manga/the-heavenly-path-is-not-stupid/"
-    },
-    {
-      "judul": "Supreme Curse Master",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsupreme_curse_master%2Fimg_682a1c9c218ad3.60673892.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/supreme-curse-master/"
     },
     {
       "judul": "Drawing: Saikyou Mangaka wa Oekaki Skill de Isekai Musou Suru!",
@@ -324,25 +380,11 @@
       "url": "https://komiku.org/manga/kyou-senshina-mob-mujikaku-ni-honpen-wo-hakai-suru/"
     },
     {
-      "judul": "Sono Akuyaku Kizoku, Mama Heroine ga Suki Sugiru ~Shinshi na Doryoku de Saikyou to Nari Fuguu na Oshi Chara Tasukemakuru~",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsono-akuyaku-kizoku-mama-heroine-ga-suki-sugiru-shinshi-na-doryoku-de-saikyou-to-nari-fuguu-na-oshi-chara-tasukemakuru%2Fmanga_img_horizontal-A1-Sono-Akuyaku-Kizoku-Mama-Heroine-ga-Suki-Sugiru.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/sono-akuyaku-kizoku-mama-heroine-ga-suki-sugiru-shinshi-na-doryoku-de-saikyou-to-nari-fuguu-na-oshi-chara-tasukemakuru/"
-    },
-    {
       "judul": "Mob Shisai Dakedo, Kono Sekai ga Otome Game dato Kizuita node Heroine wo Ikusei Shimasu",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmob_shisai_dakedo__kono_sekai_ga_otome_game_dato_kizuita_node_heroine_wo_ikusei_shimasu%2Fimg_68bffb0007fdc3.72248106.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/mob-shisai-dakedo-kono-sekai-ga-otome-game-dato-kizuita-node-heroine-wo-ikusei-shimasu/"
-    },
-    {
-      "judul": "I Became the Tyrant of a Defense Game",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-became-the-tyrant-of-a-defense-game%2Fmanga_img_horizontal-Komik-I-Became-the-Tyrant-of-a-Defense-Game.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/i-became-the-tyrant-of-a-defense-game/"
     },
     {
       "judul": "Makikomarete Isekai Teni suru Yatsu wa, Taitei Cheat",
@@ -406,13 +448,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdoctors-rebirth%2Fmanga_img_horizontal-Komik-Doctors-Rebirth.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/doctors-rebirth/"
-    },
-    {
-      "judul": "Archmage Restaurant",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Farchmage-restaurant%2Fmanga_img_horizontal-Back-Archmage-Restaurant.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/archmage-restaurant/"
     },
     {
       "judul": "My Death Flags Show No Sign of Ending",
@@ -574,13 +609,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F04%2F15%2F20260415152256_8c62e420fff65641_c7615d7c.webp",
       "tipe": "",
       "url": "https://komiku.org/manga/aldo-no-isekai-tensei/"
-    },
-    {
-      "judul": "Game Chishiki de Saikyou ni Natta Mob Heishi wa, Shin no Jitsuryoku wo Kakushitai",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fgame_chishiki_de_saikyou_ni_natta_mob_heishi_wa%2Fimg_6831672c645cd4.09067348.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/game-chishiki-de-saikyou-ni-natta-mob-heishi-wa-shin-no-jitsuryoku-wo-kakushitai/"
     },
     {
       "judul": "Shijou Saikyou no Mahou Kenshi, F Rank Boukensha ni Tensei Suru",
@@ -772,18 +800,18 @@
       "url": "https://komiku.org/manga/yuusha-shoukan-ni-makikomareta-kedo-isekai-wa-heiwa-deshita/"
     },
     {
-      "judul": "Megami to Kekkon Shite Isekai de Shinkon Seikatsu",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmegami_to_kekkon_shite_isekai_de_shinkon_seikatsu%2Fimg_698eda4e4cca22.92069522.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/megami-to-kekkon-shite-isekai-de-shinkon-seikatsu/"
-    },
-    {
       "judul": "Isekai Ojisan",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-ojisan%2Fmanga_img_horizontal-Komik-Isekai-Ojisan.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/isekai-ojisan/"
+    },
+    {
+      "judul": "Megami to Kekkon Shite Isekai de Shinkon Seikatsu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmegami_to_kekkon_shite_isekai_de_shinkon_seikatsu%2Fimg_698eda4e4cca22.92069522.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/megami-to-kekkon-shite-isekai-de-shinkon-seikatsu/"
     },
     {
       "judul": "The Ghostly Doctor",
@@ -910,13 +938,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkaifuku-jutsushi-yarinaoshi-sokushi-mahou-to-skill-copy-no-chouetsu-heal%2Fmanga_img_horizontal-Manga-Kaifuku-Jutsushi-Yarinaoshi-Sokushi-Mahou-to-Skill-Copy-no-Chouetsu-Heal.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/kaifuku-jutsushi-yarinaoshi-sokushi-mahou-to-skill-copy-no-chouetsu-heal/"
-    },
-    {
-      "judul": "Next Life",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fnext-life%2Fmanga_img_horizontal-Manga-Next-Life.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/next-life/"
     },
     {
       "judul": "Zennin Ossan, Umarekawattara SSS Rank Jinsei ga Kakutei shita",
@@ -1304,13 +1325,6 @@
       "url": "https://komiku.org/manga/bijo-to-kenja-to-majin-no-ken/"
     },
     {
-      "judul": "Isekai de Haishin Katsudou wo Shitara Tairyou no Yandere Shinja wo Umidashite Shimatta Ken",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fisekai-de-haishin-katsudou-wo-shitara-tairyou-no-yandere-shinja-wo-umidashite-shimatta-ken%2Fmanga_img_horizontal-Back-Isekai-de-Haishin-Katsudou-wo-Shitara-Tairyou-no-Yandere-Shinja-wo-Umidashite-Shimatta-Ken.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/isekai-de-haishin-katsudou-wo-shitara-tairyou-no-yandere-shinja-wo-umidashite-shimatta-ken/"
-    },
-    {
       "judul": "Tensei Kenja no Isekai Raifu",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftensei-kenja-no-isekai-raifu%2Fmanga_img_horizontal-Manga-Tensei-Kenja-no-Isekai-Raifu.png",
@@ -1435,13 +1449,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftsuihou_sareta_teihen_shoku%2Fimg_693fd3d540e6e3.40839842.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/tsuihou-sareta-teihen-shoku-touzoku-wa-game-chishiki-de-musousuru/"
-    },
-    {
-      "judul": "Gaikotsu Kishi-sama, Tadaima Isekai e Odekake-chuu",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fgaikotsu-kishi-sama-tadaima-isekai-e-odekake-chuu%2Fmanga_img_horizontal-Manga-Gaikotsu-Kishi-sama-Tadaima-Isekai-e-Odekake-chuu.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/gaikotsu-kishi-sama-tadaima-isekai-e-odekake-chuu/"
     },
     {
       "judul": "Saikyou No Maou Ni Kitaerareta Yuusha",
@@ -4669,13 +4676,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fas-a-result-of-breaking-an-otome-game-the-villainess-young-lady-becomes-a-cheat%2Fmanga_img_horizontal-As-a-Result-of-Breaking-an-Otome-Game-the-Villainess-Young-Lady-Becomes-a-Cheat-2.png",
       "tipe": "",
       "url": "https://komiku.org/manga/as-a-result-of-breaking-an-otome-game-the-villainess-young-lady-becomes-a-cheat/"
-    },
-    {
-      "judul": "Kami No Techigai de Shindara Zumi de Isekai ni Hourikomare Mashita",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkami-no-techigai-de-shindara-zumi-de-isekai-ni-hourikomare-mashita%2Fmanga_img_horizontal-Komik-Kami-No-Techigai-de-Shindara-Zumi-de-Isekai-ni-Hourikomare-Mashita.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kami-no-techigai-de-shindara-zumi-de-isekai-ni-hourikomare-mashita/"
     },
     {
       "judul": "Becoming Princess Knight and Working at Yuri Brothel",
