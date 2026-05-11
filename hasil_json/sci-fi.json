@@ -2,6 +2,13 @@
   "success": true,
   "data": [
     {
+      "judul": "DANDADAN",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdandadan%2Fmanga_img_horizontal-Komik-DANDADAN.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/dandadan/"
+    },
+    {
       "judul": "Steel Covenant",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsteel_covenant%2Fimg_68356b870caba7.41140790.png",
@@ -14,6 +21,13 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fhoukago_no_luminous%2Fimg_6978868b893d04.13369813.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/houkago-no-luminous/"
+    },
+    {
+      "judul": "MAD (OOTORI Yuusuke)",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmad-ootori-yuusuke%2Fmanga_img_horizontal-A1-MAD-OOTORI-Yuusuke.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mad-ootori-yuusuke/"
     },
     {
       "judul": "The High Energy Attack",
@@ -100,13 +114,6 @@
       "url": "https://komiku.org/manga/a-hero-who-does-everything-well/"
     },
     {
-      "judul": "DANDADAN",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdandadan%2Fmanga_img_horizontal-Komik-DANDADAN.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/dandadan/"
-    },
-    {
       "judul": "Versus",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fversus%2Fmanga_img_horizontal-VERSUS-2.png",
@@ -140,13 +147,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fextremely-evil-game%2Fmanga_img_horizontal-Komik-Extremely-Evil-Game.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/extremely-evil-game/"
-    },
-    {
-      "judul": "MAD (OOTORI Yuusuke)",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmad-ootori-yuusuke%2Fmanga_img_horizontal-A1-MAD-OOTORI-Yuusuke.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mad-ootori-yuusuke/"
     },
     {
       "judul": "Shangri-La Frontier ~ Kusoge Hunter, Kamige ni Idoman to su~",
