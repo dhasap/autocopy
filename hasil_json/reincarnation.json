@@ -2,6 +2,41 @@
   "success": true,
   "data": [
     {
+      "judul": "Villain To Kill",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fvillain-to-kill%2Fmanga_img_horizontal-Komik-Villain-To-Kill.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/villain-to-kill/"
+    },
+    {
+      "judul": "The Ultimate of All Ages",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-ultimate-of-all-ages%2Fmanga_img_horizontal-Komik-The-Ultimate-of-All-Ages.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-ultimate-of-all-ages/"
+    },
+    {
+      "judul": "The Rebel Of The Tyrant Noble Family",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_rebel_of_the_tyrant_noble_family%2Fimg_69819544569015.18072332.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-rebel-of-the-tyrant-noble-family/"
+    },
+    {
+      "judul": "Became the youngest Sister-in-Law of the Ruined Harem Male Leads",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fbecame-the-youngest-sister-in-law-of-the-ruined-harem-male-leads%2Fmanga_img_horizontal-A1-Became-the-youngest-Sister-in-Law-of-the-Ruined-Harem-Male-Leads.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/became-the-youngest-sister-in-law-of-the-ruined-harem-male-leads/"
+    },
+    {
+      "judul": "Entomologist in Sichuan Tang Clan",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fentomologist-in-sichuan-tang-clan%2Fmanga_img_horizontal-A1-Entomologist-in-Sichuan-Tang-Clan.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/entomologist-in-sichuan-tang-clan/"
+    },
+    {
       "judul": "Demon Evolution",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdemon-evolution%2Fmanga_img_horizontal-Back-Demon-Evolution-rotated.jpg",
@@ -107,13 +142,6 @@
       "url": "https://komiku.org/manga/kaketa-tsuki-no-mercedes-kyuuketsuki-no-kizoku-ni-tensei-shitakedo-sute-rare-sounanode-dungeon-o-seiha-suru/"
     },
     {
-      "judul": "The Ultimate of All Ages",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-ultimate-of-all-ages%2Fmanga_img_horizontal-Komik-The-Ultimate-of-All-Ages.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-ultimate-of-all-ages/"
-    },
-    {
       "judul": "Silent Witch Chinmoku no Majo no Kakushigoto",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fsilent-witch-chinmoku-no-majo-no-kakushigoto%2Fmanga_img_horizontal-Silent-Witch-Chinmoku-no-Majo-no-Kakushigoto-2.png",
@@ -184,25 +212,11 @@
       "url": "https://komiku.org/manga/taida-na-akujo-kizoku-ni-tensei-shita-ore-shinario-o-bukko-wa-shitara-kikaku-gai-no-maryoku-de-saikyou-ni-natta/"
     },
     {
-      "judul": "Entomologist in Sichuan Tang Clan",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fentomologist-in-sichuan-tang-clan%2Fmanga_img_horizontal-A1-Entomologist-in-Sichuan-Tang-Clan.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/entomologist-in-sichuan-tang-clan/"
-    },
-    {
       "judul": "The Rebirth of the Hero’s Party’s Archmage",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-rebirth-of-the-heros-partys-archmage%2Fmanga_img_horizontal-A1-The-Rebirth-of-the-Heros-Partys-Archmage.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-rebirth-of-the-heros-partys-archmage/"
-    },
-    {
-      "judul": "The Rebel Of The Tyrant Noble Family",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_rebel_of_the_tyrant_noble_family%2Fimg_69819544569015.18072332.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-rebel-of-the-tyrant-noble-family/"
     },
     {
       "judul": "Return of the Flowery Mountain Sect",
@@ -282,13 +296,6 @@
       "url": "https://komiku.org/manga/isekai-kaeri-no-kensei-wa-jibun-no-jitsuryoku-ni-kigatsukanai-sss-rank-no-kakushi-quest-wo-ukete-kaettekitara-level-1-no-f-kyuu-tansakusha-ni-natta-kedo-isekai-de-kitaeta-kenjutsu-ga-tsuyosugite-ou/"
     },
     {
-      "judul": "Became the youngest Sister-in-Law of the Ruined Harem Male Leads",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fbecame-the-youngest-sister-in-law-of-the-ruined-harem-male-leads%2Fmanga_img_horizontal-A1-Became-the-youngest-Sister-in-Law-of-the-Ruined-Harem-Male-Leads.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/became-the-youngest-sister-in-law-of-the-ruined-harem-male-leads/"
-    },
-    {
       "judul": "Yuusha ni Zenbu Ubawareta Ore wa Yuusha no Hahaoya to Party wo Kumimashita!",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fyuusha-ni-zenbu-ubawareta-ore-wa-yuusha-no-hahaoya-to-party-wo-kumimashita%2Fmanga_img_horizontal-Back-Yuusha-ni-Zenbu-Ubawareta-Ore-wa-Yuusha-no-Hahaoya.jpg",
@@ -322,13 +329,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F04%2F15%2F20260415155530_726eab3849b92af9_5b31e91a.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/a-princess-who-reads-fortune/"
-    },
-    {
-      "judul": "Villain To Kill",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fvillain-to-kill%2Fmanga_img_horizontal-Komik-Villain-To-Kill.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/villain-to-kill/"
     },
     {
       "judul": "Haou ni Natte kara Isekai ni Kite Shimatta! ~Edit shita Game Character-tachi to Isekai o Juurin suru Ore Haou~",
