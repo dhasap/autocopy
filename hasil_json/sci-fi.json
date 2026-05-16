@@ -2,6 +2,13 @@
   "success": true,
   "data": [
     {
+      "judul": "Extremely Evil Game",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fextremely-evil-game%2Fmanga_img_horizontal-Komik-Extremely-Evil-Game.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/extremely-evil-game/"
+    },
+    {
       "judul": "Ending Maker",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fending-maker%2Fmanga_img_horizontal-Komik-Ending-Maker.jpeg",
@@ -175,13 +182,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-kingdom-of-ruin%2Fmanga_img_horizontal-Manga-The-Kingdom-of-Ruin.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-kingdom-of-ruin/"
-    },
-    {
-      "judul": "Extremely Evil Game",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fextremely-evil-game%2Fmanga_img_horizontal-Komik-Extremely-Evil-Game.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/extremely-evil-game/"
     },
     {
       "judul": "Wandering Emanon",
