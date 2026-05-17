@@ -2,6 +2,20 @@
   "success": true,
   "data": [
     {
+      "judul": "hitoner",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F05%2F11%2F20260511212136_674368d45d8c5f82_452c610d.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hitoner/"
+    },
+    {
+      "judul": "Debut or Die",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F05%2F10%2F20260510202556_153ec2cd393a769a_952e4c32.webp",
+      "tipe": "",
+      "url": "https://komiku.org/manga/debut-or-die/"
+    },
+    {
       "judul": "Extremely Evil Game",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fextremely-evil-game%2Fmanga_img_horizontal-Komik-Extremely-Evil-Game.jpg",
@@ -28,20 +42,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fshangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su%2Fmanga_img_horizontal-Komik-Shangri-La-Frontier-Kusoge-Hunter-Kamige-ni-Idoman-to-su.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/shangri-la-frontier-kusoge-hunter-kamige-ni-idoman-to-su/"
-    },
-    {
-      "judul": "Debut or Die",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F05%2F10%2F20260510202556_153ec2cd393a769a_952e4c32.webp",
-      "tipe": "",
-      "url": "https://komiku.org/manga/debut-or-die/"
-    },
-    {
-      "judul": "hitoner",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F05%2F11%2F20260511212136_674368d45d8c5f82_452c610d.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hitoner/"
     },
     {
       "judul": "Blue Archive: Problem Solver 68 Business Diary",
