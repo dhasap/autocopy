@@ -2,6 +2,41 @@
   "success": true,
   "data": [
     {
+      "judul": "Villain To Kill",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fvillain-to-kill%2Fmanga_img_horizontal-Komik-Villain-To-Kill.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/villain-to-kill/"
+    },
+    {
+      "judul": "Taidana Akuyaku Kizoku no Ore ni, Konyaku Hakisareta Akuyaku Reijo ga Totsuidara Saikyo no Fufu ni Narimashita",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftaidana_akuyaku_kizoku_no_ore_ni%2Fimg_6835689dc42799.44997744.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/taidana-akuyaku-kizoku-no-ore-ni-konyaku-hakisareta-akuyaku-reijo-ga-totsuidara-saikyo-no-fufu-ni-narimashita/"
+    },
+    {
+      "judul": "Eiyuu to Kenja no Tensei Kon",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Feiyuu-to-kenja-no-tensei-kon%2Fmanga_img_horizontal-Back-Eiyuu-to-Kenja-no-Tensei-Kon.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/eiyuu-to-kenja-no-tensei-kon/"
+    },
+    {
+      "judul": "Prosecutor Kim Seojin",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fprosecutor_kim_seojin%2Fimg_696df020055e15.86622920.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/prosecutor-kim-seojin/"
+    },
+    {
+      "judul": "Reincarnator’s Stream",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Freincarnator___s_stream%2Fimg_693691b5529196.85928784.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/reincarnators-stream/"
+    },
+    {
       "judul": "Dukedom’s Legendary Prodigy",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fdukedom___s_legendary_prodigy%2Fimg_68ff9154e01364.91520883.jpg",
@@ -191,27 +226,6 @@
       "url": "https://komiku.org/manga/entomologist-in-sichuan-tang-clan/"
     },
     {
-      "judul": "Reincarnator’s Stream",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Freincarnator___s_stream%2Fimg_693691b5529196.85928784.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/reincarnators-stream/"
-    },
-    {
-      "judul": "Prosecutor Kim Seojin",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fprosecutor_kim_seojin%2Fimg_696df020055e15.86622920.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/prosecutor-kim-seojin/"
-    },
-    {
-      "judul": "Villain To Kill",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fvillain-to-kill%2Fmanga_img_horizontal-Komik-Villain-To-Kill.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/villain-to-kill/"
-    },
-    {
       "judul": "Tensei Babaa wa Misugosenai!: Moto Akutoku Jotei no Nishuume Life",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftensei-babaa-wa-misugosenai-moto-akutoku-jotei-no-nishuume-life%2Fmanga_img_horizontal-Back-The-Reincarnated-Granny-Wont.jpg",
@@ -296,13 +310,6 @@
       "url": "https://komiku.org/manga/tensei-shite-high-elf-ni-narimashitaga-slow-life-wa-120-nen-de-akimashita/"
     },
     {
-      "judul": "Eiyuu to Kenja no Tensei Kon",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Feiyuu-to-kenja-no-tensei-kon%2Fmanga_img_horizontal-Back-Eiyuu-to-Kenja-no-Tensei-Kon.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/eiyuu-to-kenja-no-tensei-kon/"
-    },
-    {
       "judul": "Oshi no Teki ni Natta node",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F19%2F20260319233507_e0775fac821df730_0e5f82eb.jpg",
@@ -378,13 +385,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-executed-sage-is-reincarnated-as-a-lich-and-starts-an-all-out-war%2Fmanga_img_horizontal-The-Executed-Sage-is-Reincarnated-as-a-Lich-and-Starts-an-All-Out-War-2.png",
       "tipe": "",
       "url": "https://komiku.org/manga/the-executed-sage-is-reincarnated-as-a-lich-and-starts-an-all-out-war/"
-    },
-    {
-      "judul": "Taidana Akuyaku Kizoku no Ore ni, Konyaku Hakisareta Akuyaku Reijo ga Totsuidara Saikyo no Fufu ni Narimashita",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Ftaidana_akuyaku_kizoku_no_ore_ni%2Fimg_6835689dc42799.44997744.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/taidana-akuyaku-kizoku-no-ore-ni-konyaku-hakisareta-akuyaku-reijo-ga-totsuidara-saikyo-no-fufu-ni-narimashita/"
     },
     {
       "judul": "Seirei Gensouki: Konna Sekai de Deaeta Kimi ni",

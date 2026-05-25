@@ -2,6 +2,104 @@
   "success": true,
   "data": [
     {
+      "judul": "Kimi wa Yotsuba no Clover",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkimi-wa-yotsuba-no-clover%2Fmanga_img_horizontal-A1-Kimi-wa-Yotsuba-no-Clover.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kimi-wa-yotsuba-no-clover/"
+    },
+    {
+      "judul": "GOLIERO",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F14%2F20260314025652_d533726f87278f23_0f6d3006.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/goliero/"
+    },
+    {
+      "judul": "Mada Kimi o Miageteru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F05%2F04%2F20260504220836_e8812e3a4d6d6c94_82416881.webp",
+      "tipe": "",
+      "url": "https://komiku.org/manga/mada-kimi-o-miageteru/"
+    },
+    {
+      "judul": "Eiyuu to Kenja no Tensei Kon",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Feiyuu-to-kenja-no-tensei-kon%2Fmanga_img_horizontal-Back-Eiyuu-to-Kenja-no-Tensei-Kon.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/eiyuu-to-kenja-no-tensei-kon/"
+    },
+    {
+      "judul": "Marika-chan no Koukando wa Bukkowarete iru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmarika-chan_no_koukando_wa_bukkowarete_iru%2Fimg_695b213a9fc086.17739365.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/marika-chan-no-koukando-wa-bukkowarete-iru/"
+    },
+    {
+      "judul": "Dou ka Ore wo Houtte Oitekure",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdou-ka-ore-wo-houtte-oitekure%2Fmanga_img_horizontal-A1-Dou-ka-Ore-wo-Houtte-Oitekure.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/dou-ka-ore-wo-houtte-oitekure/"
+    },
+    {
+      "judul": "Classmate no Moto Idol ga, Tonikaku Kyodou Fushin Nan desu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fclassmate_no_moto_idol_ga%2Fimg_6855098d7632f8.49471408.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/classmate-no-moto-idol-ga-tonikaku-kyodou-fushin-nan-desu/"
+    },
+    {
+      "judul": "Oshiete Shitsuji-Kun",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F05%2F24%2F20260524180507_ea7a3ee90e8e4dd0_6780e71d.webp",
+      "tipe": "",
+      "url": "https://komiku.org/manga/oshiete-shitsuji-kun/"
+    },
+    {
+      "judul": "Transcension Academy",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftranscension-academy%2Fmanga_img_horizontal-TranscensionAcademyPanjang.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/transcension-academy/"
+    },
+    {
+      "judul": "Momose Akira no Hatsukoi Hatan-chuu.",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmomose_akira_no_hatsukoi_hatan-chuu%2Fimg_68550954439266.01435164.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/momose-akira-no-hatsukoi-hatan-chuu/"
+    },
+    {
+      "judul": "Uchi no Seiso-kei Iinchou ga Katsute Chuunibyou Idol Datta Koto wo Ore Dake ga Shitteiru.",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fuchi_no_seiso-kei_iinchou_ga_katsute_chuunibyou_idol_datta_koto_wo_ore_dake_ga_shitteiru_%2Fimg_69217f85aed602.85129884.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/uchi-no-seiso-kei-iinchou-ga-katsute-chuunibyou-idol-datta-koto-wo-ore-dake-ga-shitteiru/"
+    },
+    {
+      "judul": "Kuroko to Akuyaku-kun",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F04%2F24%2F20260424005056_ecd88123092ba9c3_e03c9ad8.webp",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kuroko-to-akuyaku-kun/"
+    },
+    {
+      "judul": "Gakuen no Madonna no Watanabe san ga, Naze ka Maishu Yotei wo Kitekuru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F04%2F15%2F20260415155612_b4e6e83f627b3ae8_94937c70.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/gakuen-no-madonna-no-watanabe-san-ga-naze-ka-maishu-yotei-wo-kitekuru/"
+    },
+    {
+      "judul": "The Princess Goes to School",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F13%2F20260313210842_d4566f7cf95edc34_97a3f639.webp",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-princess-goes-to-school/"
+    },
+    {
       "judul": "Legend of Star General",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Flegend-of-star-general%2Fmanga_img_horizontal-Komik-Legend-of-Star-General.png",
@@ -28,13 +126,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fichizu-de-bitch-na-kouhai%2Fmanga_img_horizontal-Komik-Ichizu-de-Bitch-na-Kouhai.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/ichizu-de-bitch-na-kouhai/"
-    },
-    {
-      "judul": "GOLIERO",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F14%2F20260314025652_d533726f87278f23_0f6d3006.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/goliero/"
     },
     {
       "judul": "Cool na Megami-sama to Issho ni Sundara, Amayakashi Sugite Ponkotsu ni shite Shimatta Ken ni Tsuite",
@@ -77,13 +168,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F05%2F24%2F20260524180817_deeda15593978575_33355f8f.webp",
       "tipe": "",
       "url": "https://komiku.org/manga/beautiful-mess/"
-    },
-    {
-      "judul": "Oshiete Shitsuji-Kun",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F05%2F24%2F20260524180507_ea7a3ee90e8e4dd0_6780e71d.webp",
-      "tipe": "",
-      "url": "https://komiku.org/manga/oshiete-shitsuji-kun/"
     },
     {
       "judul": "Osananajimitachi ga Ninki Idol ni Natta: Amama na Kanojotachi wa Ore ni Mitsuide Kureteiru",
@@ -177,13 +261,6 @@
       "url": "https://komiku.org/manga/akuyaku-reijoutachi-wa-yuruganai/"
     },
     {
-      "judul": "Momose Akira no Hatsukoi Hatan-chuu.",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmomose_akira_no_hatsukoi_hatan-chuu%2Fimg_68550954439266.01435164.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/momose-akira-no-hatsukoi-hatan-chuu/"
-    },
-    {
       "judul": "The SS-Rank Freshman at Dawn Academy",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_ss-rank_freshman_at_dawn_academy%2Fimg_69ac8d6f8e5354.96195829.webp",
@@ -268,13 +345,6 @@
       "url": "https://komiku.org/manga/i-took-over-the-academy-with-a-single-sashimi-knife/"
     },
     {
-      "judul": "Kimi wa Yotsuba no Clover",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkimi-wa-yotsuba-no-clover%2Fmanga_img_horizontal-A1-Kimi-wa-Yotsuba-no-Clover.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kimi-wa-yotsuba-no-clover/"
-    },
-    {
       "judul": "Watashi no Koto Suki ja Nakatta no ka yo!?",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fwatashi_no_koto_suki_ja_nakatta_no_ka_yo__%2Fimg_6992e241c2ca26.84896654.jpg",
@@ -294,13 +364,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-cuckoos-fiancee%2Fmanga_img_horizontal-Manga-The-Cuckoos-Fiancee.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-cuckoos-fiancee/"
-    },
-    {
-      "judul": "Classmate no Moto Idol ga, Tonikaku Kyodou Fushin Nan desu",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fclassmate_no_moto_idol_ga%2Fimg_6855098d7632f8.49471408.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/classmate-no-moto-idol-ga-tonikaku-kyodou-fushin-nan-desu/"
     },
     {
       "judul": "Gimai Seikatsu",
@@ -350,13 +413,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-kitaku-biyori%2Fmanga_img_horizontal-A1-Houkago-Kitaku-Biyori.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/houkago-kitaku-biyori/"
-    },
-    {
-      "judul": "Marika-chan no Koukando wa Bukkowarete iru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmarika-chan_no_koukando_wa_bukkowarete_iru%2Fimg_695b213a9fc086.17739365.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/marika-chan-no-koukando-wa-bukkowarete-iru/"
     },
     {
       "judul": "Osananajimi ni Kage de Tsugou no Yoi Otoko Yobawari Sareta Ore wa, Koui o Reset Shite Futsuu ni Seishun o Okuritai",
@@ -413,13 +469,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F14%2F20260314025843_cdf0f76c453a4908_03a12193.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/criminal-transfer-student/"
-    },
-    {
-      "judul": "Mada Kimi o Miageteru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F05%2F04%2F20260504220836_e8812e3a4d6d6c94_82416881.webp",
-      "tipe": "",
-      "url": "https://komiku.org/manga/mada-kimi-o-miageteru/"
     },
     {
       "judul": "To Not Die",
@@ -695,13 +744,6 @@
       "url": "https://komiku.org/manga/high-school-musical-genius-is-paganini-reincarnated/"
     },
     {
-      "judul": "The Princess Goes to School",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F13%2F20260313210842_d4566f7cf95edc34_97a3f639.webp",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-princess-goes-to-school/"
-    },
-    {
       "judul": "Kuse Tsuyo Kanojo wa Toko ni Izanau (A Quirky Girl Is Inviting Me to Bed)",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F05%2F09%2F20260509122212_58b0c3e5ca667312_78f524d2.jpg",
@@ -735,13 +777,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fisekai_kara_kikan_shitara_chikyuu_mo_kanari_fantajii%2Fimg_68bff77b0c6243.30001472.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/isekai-kara-kikan-shitara-chikyuu-mo-kanari-fantajii-deshita-ato-makeheroin-domo-kocchi-minna/"
-    },
-    {
-      "judul": "Uchi no Seiso-kei Iinchou ga Katsute Chuunibyou Idol Datta Koto wo Ore Dake ga Shitteiru.",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fuchi_no_seiso-kei_iinchou_ga_katsute_chuunibyou_idol_datta_koto_wo_ore_dake_ga_shitteiru_%2Fimg_69217f85aed602.85129884.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/uchi-no-seiso-kei-iinchou-ga-katsute-chuunibyou-idol-datta-koto-wo-ore-dake-ga-shitteiru/"
     },
     {
       "judul": "Takou no Boyish Kanojo (My Boyish Girlfriend is Too Cute)",
@@ -961,20 +996,6 @@
       "url": "https://komiku.org/manga/i-became-the-academy-villains-daughter/"
     },
     {
-      "judul": "Kuroko to Akuyaku-kun",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F04%2F24%2F20260424005056_ecd88123092ba9c3_e03c9ad8.webp",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kuroko-to-akuyaku-kun/"
-    },
-    {
-      "judul": "Eiyuu to Kenja no Tensei Kon",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Feiyuu-to-kenja-no-tensei-kon%2Fmanga_img_horizontal-Back-Eiyuu-to-Kenja-no-Tensei-Kon.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/eiyuu-to-kenja-no-tensei-kon/"
-    },
-    {
       "judul": "Jirai nandesu ka? Chihara-san (That Girl Is Cute… But Dangerous?)",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fjirai_nandesu_ka__chihara-san%2Fimg_684fcc82ded9d6.84615583.jpg",
@@ -1001,13 +1022,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fonna-tomodachi-wa-tanomeba-igaito-yarasete-kureru%2Fmanga_img_horizontal-A1-Onna-Tomodachi-wa-Tanomeba-Igaito-Yarasete-Kureru.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/onna-tomodachi-wa-tanomeba-igaito-yarasete-kureru/"
-    },
-    {
-      "judul": "Gakuen no Madonna no Watanabe san ga, Naze ka Maishu Yotei wo Kitekuru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F04%2F15%2F20260415155612_b4e6e83f627b3ae8_94937c70.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/gakuen-no-madonna-no-watanabe-san-ga-naze-ka-maishu-yotei-wo-kitekuru/"
     },
     {
       "judul": "I Got My Wish and Reincarnated as the Villainess (Last Boss)!",
@@ -1507,13 +1521,6 @@
       "url": "https://komiku.org/manga/suufungo-no-mirai-ga-wakaru-you-ni-natta-kedo-onnagokoro-wa-wakaranai/"
     },
     {
-      "judul": "Dou ka Ore wo Houtte Oitekure",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fdou-ka-ore-wo-houtte-oitekure%2Fmanga_img_horizontal-A1-Dou-ka-Ore-wo-Houtte-Oitekure.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/dou-ka-ore-wo-houtte-oitekure/"
-    },
-    {
       "judul": "My School Life Pretending to Be a Worthless Person",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmy-school-life-pretending-to-be-a-worthless-person%2Fmanga_img_horizontal-Komik-My-School-Life-Pretending-to-Be-a-Worthless-Person.jpg",
@@ -1624,13 +1631,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F13%2F20260313061257_503e77a16151390f_268a808f.webp",
       "tipe": "",
       "url": "https://komiku.org/manga/world-dai-star-encore/"
-    },
-    {
-      "judul": "Transcension Academy",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftranscension-academy%2Fmanga_img_horizontal-TranscensionAcademyPanjang.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/transcension-academy/"
     },
     {
       "judul": "Plaything",
@@ -2872,25 +2872,25 @@
       "url": "https://komiku.org/manga/hard-luck-woman/"
     },
     {
-      "judul": "Watch Dog",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/watch-dog/"
-    },
-    {
-      "judul": "Hundred",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hundred/"
-    },
-    {
       "judul": "Houkago no Cinderella-kun",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/houkago-no-cinderella-kun/"
+    },
+    {
+      "judul": "Hard Luck Woman",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hard-luck-woman/"
+    },
+    {
+      "judul": "Watch Dog",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/watch-dog/"
     },
     {
       "judul": "Koi wo Shiranai Bokutachi wa",
