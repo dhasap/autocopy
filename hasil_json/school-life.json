@@ -2,6 +2,55 @@
   "success": true,
   "data": [
     {
+      "judul": "Teisou Gyakuten Sekai de Tanomeba Yareru to Uwasa no Ore",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fteisou_gyakuten_sekai_de_tanomeba_yareru_to_uwasa_no_ore%2Fimg_693151f928b525.68534082.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/teisou-gyakuten-sekai-de-tanomeba-yareru-to-uwasa-no-ore/"
+    },
+    {
+      "judul": "Kono Oto Tomare!",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkono-oto-tomare%2Fmanga_img_horizontal-Komik-Kono-Oto-Tomare.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/kono-oto-tomare/"
+    },
+    {
+      "judul": "Criminal Transfer Student",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F14%2F20260314025843_cdf0f76c453a4908_03a12193.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/criminal-transfer-student/"
+    },
+    {
+      "judul": "Ogami Tsumiki to Kinichijou",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fogami-tsumiki-to-kinichijou%2Fmanga_img_horizontal-A1-Ogami-Tsumiki-to-Kinichijou.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ogami-tsumiki-to-kinichijou/"
+    },
+    {
+      "judul": "Transcension Academy",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftranscension-academy%2Fmanga_img_horizontal-TranscensionAcademyPanjang.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/transcension-academy/"
+    },
+    {
+      "judul": "Umamusume – Pretty Derby PisuPisu☆SupiSupi – Golshi-chan",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F05%2F07%2F20260507151837_ccb1a976bb4ad009_18ce7a57.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/umamusume-pretty-derby-pisupisu%e2%98%86supisupi-golshi-chan/"
+    },
+    {
+      "judul": "Classmate no Moto Idol ga, Tonikaku Kyodou Fushin Nan desu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fclassmate_no_moto_idol_ga%2Fimg_6855098d7632f8.49471408.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/classmate-no-moto-idol-ga-tonikaku-kyodou-fushin-nan-desu/"
+    },
+    {
       "judul": "The Top Healer of the Offensive Magic Academy",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F05%2F28%2F20260528181223_0115c3c44cb7742c_31cd9044.jpg",
@@ -93,18 +142,18 @@
       "url": "https://komiku.org/manga/the-ss-rank-freshman-at-dawn-academy/"
     },
     {
-      "judul": "The Devil Classroom",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_devil_classroom%2Fimg_695cbb1a5d3be0.87675407.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-devil-classroom/"
-    },
-    {
       "judul": "The Regressed Extra Becomes a Genius",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fboku_no_ikezu_na_konyakusha%2Fimg_69314ef4481a65.11117311.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/the-regressed-extra-becomes-a-genius/"
+    },
+    {
+      "judul": "The Devil Classroom",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_devil_classroom%2Fimg_695cbb1a5d3be0.87675407.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-devil-classroom/"
     },
     {
       "judul": "Ao no Hako",
@@ -352,18 +401,18 @@
       "url": "https://komiku.org/manga/tonari-no-seki-no-yatsu-ga-souiu-me-de-mitekuru/"
     },
     {
-      "judul": "Ryuuzaki-san ga Ore no Mae dake de Dereru Riyuu",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F19%2F20260319234415_6de885601c7d9e13_e6ec1d63.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ryuuzaki-san-ga-ore-no-mae-dake-de-dereru-riyuu/"
-    },
-    {
       "judul": "Ririmu Horikku",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F05%2F21%2F20260521122625_00e70e7c9dc525b8_e7e8d563.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/ririmu-horikku/"
+    },
+    {
+      "judul": "Ryuuzaki-san ga Ore no Mae dake de Dereru Riyuu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F19%2F20260319234415_6de885601c7d9e13_e6ec1d63.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/ryuuzaki-san-ga-ore-no-mae-dake-de-dereru-riyuu/"
     },
     {
       "judul": "Heavenly Demon Goes to High School",
@@ -392,13 +441,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fmaigo_no_onnanoko_o_ie_made_todoketara%2Fimg_68bff71b48f417.90332711.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/maigo-no-onnanoko-o-ie-made-todoketara-genkan-kara-detekita-no-wa-gakunen-ichi-no-bishoujo-deshita/"
-    },
-    {
-      "judul": "Criminal Transfer Student",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F03%2F14%2F20260314025843_cdf0f76c453a4908_03a12193.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/criminal-transfer-student/"
     },
     {
       "judul": "Tsukimino Karma wa Akumade Boku no Pet Nanoni",
@@ -443,20 +485,6 @@
       "url": "https://komiku.org/manga/dou-ka-ore-wo-houtte-oitekure/"
     },
     {
-      "judul": "Classmate no Moto Idol ga, Tonikaku Kyodou Fushin Nan desu",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fclassmate_no_moto_idol_ga%2Fimg_6855098d7632f8.49471408.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/classmate-no-moto-idol-ga-tonikaku-kyodou-fushin-nan-desu/"
-    },
-    {
-      "judul": "Transcension Academy",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ftranscension-academy%2Fmanga_img_horizontal-TranscensionAcademyPanjang.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/transcension-academy/"
-    },
-    {
       "judul": "Uchi no Seiso-kei Iinchou ga Katsute Chuunibyou Idol Datta Koto wo Ore Dake ga Shitteiru.",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fuchi_no_seiso-kei_iinchou_ga_katsute_chuunibyou_idol_datta_koto_wo_ore_dake_ga_shitteiru_%2Fimg_69217f85aed602.85129884.jpg",
@@ -464,18 +492,18 @@
       "url": "https://komiku.org/manga/uchi-no-seiso-kei-iinchou-ga-katsute-chuunibyou-idol-datta-koto-wo-ore-dake-ga-shitteiru/"
     },
     {
-      "judul": "Gakuen no Madonna no Watanabe san ga, Naze ka Maishu Yotei wo Kitekuru",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F04%2F15%2F20260415155612_b4e6e83f627b3ae8_94937c70.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/gakuen-no-madonna-no-watanabe-san-ga-naze-ka-maishu-yotei-wo-kitekuru/"
-    },
-    {
       "judul": "Kuroko to Akuyaku-kun",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F04%2F24%2F20260424005056_ecd88123092ba9c3_e03c9ad8.webp",
       "tipe": "",
       "url": "https://komiku.org/manga/kuroko-to-akuyaku-kun/"
+    },
+    {
+      "judul": "Gakuen no Madonna no Watanabe san ga, Naze ka Maishu Yotei wo Kitekuru",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F04%2F15%2F20260415155612_b4e6e83f627b3ae8_94937c70.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/gakuen-no-madonna-no-watanabe-san-ga-naze-ka-maishu-yotei-wo-kitekuru/"
     },
     {
       "judul": "The Princess Goes to School",
@@ -721,13 +749,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F04%2F01%2F20260401051615_aac7ec0645b0213f_95e08857.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/boku-wa-mada-sono-kanjou-wo-shiranai/"
-    },
-    {
-      "judul": "Umamusume – Pretty Derby PisuPisu☆SupiSupi – Golshi-chan",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F05%2F07%2F20260507151837_ccb1a976bb4ad009_18ce7a57.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/umamusume-pretty-derby-pisupisu%e2%98%86supisupi-golshi-chan/"
     },
     {
       "judul": "Dosanko Gyaru wa Namaramenkoi",
@@ -1178,13 +1199,6 @@
       "url": "https://komiku.org/manga/yagate-kimi-ni-naru/"
     },
     {
-      "judul": "Teisou Gyakuten Sekai de Tanomeba Yareru to Uwasa no Ore",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fteisou_gyakuten_sekai_de_tanomeba_yareru_to_uwasa_no_ore%2Fimg_693151f928b525.68534082.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/teisou-gyakuten-sekai-de-tanomeba-yareru-to-uwasa-no-ore/"
-    },
-    {
       "judul": "Yowa Yowa Sensei",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F04%2F26%2F20260426213735_05422a6d45c363f3_b6a46e17.webp",
@@ -1218,13 +1232,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F04%2F03%2F20260403053354_8bb4236fc546ae90_a7424e70.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/hololive-academy-%ef%bd%9eshiny-smily-stories%ef%bd%9e/"
-    },
-    {
-      "judul": "Kono Oto Tomare!",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fkono-oto-tomare%2Fmanga_img_horizontal-Komik-Kono-Oto-Tomare.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/kono-oto-tomare/"
     },
     {
       "judul": "Douyara Ore wa Imadoki Gal na Toshiue Osananajimi kara Gekiomo Kanjou wo Mukerareteiru Rashii",
@@ -1304,18 +1311,18 @@
       "url": "https://komiku.org/manga/suki-na-ko-ni-kokuttara-futago-no-imouto-ga-omake-de-tsuitekita/"
     },
     {
-      "judul": "Boku no Kokoro no Yabai yatsu",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fboku-no-kokoro-no-yabai-yatsu%2Fmanga_img_horizontal-Komik-Boku-no-Kokoro-no-Yabai-yatsu.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/boku-no-kokoro-no-yabai-yatsu/"
-    },
-    {
       "judul": "Watashi Ga Koibito Ni Nareru Wake Naijan, Muri Muri! (Muri Janakatta!?)",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatashi-ga-koibito-ni-nareru-wake-naijan-muri-muri-muri-janakatta%2Fmanga_img_horizontal-Komik-Watashi-Ga-Koibito-Ni-Nareru-Wake-Naijan-Muri-Muri.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/watashi-ga-koibito-ni-nareru-wake-naijan-muri-muri-muri-janakatta/"
+    },
+    {
+      "judul": "Boku no Kokoro no Yabai yatsu",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fboku-no-kokoro-no-yabai-yatsu%2Fmanga_img_horizontal-Komik-Boku-no-Kokoro-no-Yabai-yatsu.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/boku-no-kokoro-no-yabai-yatsu/"
     },
     {
       "judul": "Oyasumi Punpun",
@@ -1421,13 +1428,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fjitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake%2Fmanga_img_horizontal-Back-Jitsu-wa-Gimai-Imouto-deshita.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/jitsu-wa-gimai-imouto-deshita-saikin-de-kitagiri-no-otouto-no-kyorikan-ga-yatara-chikaiwake/"
-    },
-    {
-      "judul": "Ogami Tsumiki to Kinichijou",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fogami-tsumiki-to-kinichijou%2Fmanga_img_horizontal-A1-Ogami-Tsumiki-to-Kinichijou.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/ogami-tsumiki-to-kinichijou/"
     },
     {
       "judul": "Yarikonda ren’ai game no akuyaku ni tensei shita node, gensaku chishiki de hiroin o kōryaku shimasu",
@@ -2893,20 +2893,6 @@
       "url": "https://komiku.org/manga/assassination-classroom/"
     },
     {
-      "judul": "Hard Luck Woman",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/hard-luck-woman/"
-    },
-    {
-      "judul": "Watch Dog",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/watch-dog/"
-    },
-    {
       "judul": "Hundred",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhundred%2Fmanga_img_horizontal-Manga-Hundred.png",
@@ -2919,6 +2905,20 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhoukago-no-cinderella-kun%2Fmanga_img_horizontal-Komik-Houkago-no-Cinderella-kun.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/houkago-no-cinderella-kun/"
+    },
+    {
+      "judul": "Hard Luck Woman",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fhard-luck-woman%2Fmanga_img_horizontal-2-8.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/hard-luck-woman/"
+    },
+    {
+      "judul": "Watch Dog",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fwatch-dog%2Fmanga_img_horizontal-Komik-Watch-Dog.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/watch-dog/"
     },
     {
       "judul": "Koi wo Shiranai Bokutachi wa",
