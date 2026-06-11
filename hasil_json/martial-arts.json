@@ -2,6 +2,41 @@
   "success": true,
   "data": [
     {
+      "judul": "Revenge of the Bloom Flower",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F04%2F26%2F20260426214252_18553f5896589b95_5eb61669.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/revenge-of-the-bloom-flower/"
+    },
+    {
+      "judul": "The Heavenly Demon Wants A Quiet Life",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-heavenly-demon-wants-a-quiet-life%2Fmanga_img_horizontal-A1-The-Heavenly-Demon-Wants-A-Quiet-Life.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/the-heavenly-demon-wants-a-quiet-life/"
+    },
+    {
+      "judul": "Secret Family",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsecret_family%2Fimg_689acebbacfbe2.91928962.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/secret-family/"
+    },
+    {
+      "judul": "Apex Future Martial Arts",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fapex-future-martial-arts%2Fmanga_img_horizontal-Apex-Future-Martial-Arts-2.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/apex-future-martial-arts/"
+    },
+    {
+      "judul": "Nano Machine",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fnano_machine%2Fimg_693126dac8bab1.32697064.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/nano-machine/"
+    },
+    {
       "judul": "Heavenly Grand Archive’s Young Master",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fheavenly-grand-archives-young-master%2Fmanga_img_horizontal-Heavenly-Grand-Archives-Young-Master-2.png",
@@ -65,11 +100,11 @@
       "url": "https://komiku.org/manga/song-baek/"
     },
     {
-      "judul": "Colorist",
+      "judul": "The Genius Grandson of Namgung Clan",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fcolorist%2Fimg_691e85545473c2.45122286.png",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_genius_grandson_of_namgung_clan%2Fimg_686781abbf5799.45542836.jpg",
       "tipe": "",
-      "url": "https://komiku.org/manga/colorist/"
+      "url": "https://komiku.org/manga/the-genius-grandson-of-namgung-clan/"
     },
     {
       "judul": "Colorist",
@@ -98,13 +133,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F04%2F15%2F20260415160137_bd99260544b8646b_c4452c86.webp",
       "tipe": "",
       "url": "https://komiku.org/manga/golden-martial-god/"
-    },
-    {
-      "judul": "Revenge of the Bloom Flower",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F04%2F26%2F20260426214252_18553f5896589b95_5eb61669.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/revenge-of-the-bloom-flower/"
     },
     {
       "judul": "The Great Ruler",
@@ -310,13 +338,6 @@
       "url": "https://komiku.org/manga/magic-emperor/"
     },
     {
-      "judul": "Apex Future Martial Arts",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fapex-future-martial-arts%2Fmanga_img_horizontal-Apex-Future-Martial-Arts-2.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/apex-future-martial-arts/"
-    },
-    {
       "judul": "The Grand Wudang Saga",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F04%2F18%2F20260418163526_5c2aaf8ad3fc79fd_9e7f8036.webp",
@@ -371,13 +392,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Frebirth_of_the_divine_demon%2Fimg_68f67b00d36702.07474571.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/rebirth-of-the-divine-demon/"
-    },
-    {
-      "judul": "The Heavenly Demon Wants A Quiet Life",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-heavenly-demon-wants-a-quiet-life%2Fmanga_img_horizontal-A1-The-Heavenly-Demon-Wants-A-Quiet-Life.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/the-heavenly-demon-wants-a-quiet-life/"
     },
     {
       "judul": "Martial Wild West",
@@ -441,13 +455,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Freturn-of-the-martial-arts-genius%2Fmanga_img_horizontal-Back-Return-Of-The-Martial-Arts-Genius.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/return-of-the-martial-arts-genius/"
-    },
-    {
-      "judul": "Nano Machine",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fnano_machine%2Fimg_693126dac8bab1.32697064.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/nano-machine/"
     },
     {
       "judul": "Survive As The Hero’s Husband",
@@ -616,13 +623,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fthe_profound_mirror_immortal_clan%2Fimg_68bff98f96c9a0.51111892.png",
       "tipe": "",
       "url": "https://komiku.org/manga/the-profound-mirror-immortal-clan/"
-    },
-    {
-      "judul": "Secret Family",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fsecret_family%2Fimg_689acebbacfbe2.91928962.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/secret-family/"
     },
     {
       "judul": "Reincarnation of the Murim Clan’s Former Ranker",
@@ -5672,11 +5672,11 @@
       "url": "https://komiku.org/manga/more-kill-more-powerful/"
     },
     {
-      "judul": "More Kill More Powerful",
+      "judul": "I Am Really Not an Matchless Genius",
       "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fmore-kill-more-powerful%2Fmanga_img_horizontal-More-Kill-More-Powerful-2.png",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fi_am_really_not_an_matchless_genius%2Fimg_689e20ef97c227.95826489.jpg",
       "tipe": "",
-      "url": "https://komiku.org/manga/more-kill-more-powerful/"
+      "url": "https://komiku.org/manga/i-am-really-not-an-matchless-genius/"
     },
     {
       "judul": "Shuumatsu no Valkyrie: The Legend of Lu Bu Fengxian",
