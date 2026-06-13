@@ -2,6 +2,27 @@
   "success": true,
   "data": [
     {
+      "judul": "Villain To Kill",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fvillain-to-kill%2Fmanga_img_horizontal-Komik-Villain-To-Kill.png",
+      "tipe": "",
+      "url": "https://komiku.org/manga/villain-to-kill/"
+    },
+    {
+      "judul": "Prosecutor Kim Seojin",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fprosecutor_kim_seojin%2Fimg_696df020055e15.86622920.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/prosecutor-kim-seojin/"
+    },
+    {
+      "judul": "I Reincarnated As The Crazed Heir",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-reincarnated-as-the-crazed-heir%2Fmanga_img_horizontal-Komik-I-Reincarnated-As-The-Crazed-Heir.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/i-reincarnated-as-the-crazed-heir/"
+    },
+    {
       "judul": "The Rebirth of the Hero’s Party’s Archmage",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fthe-rebirth-of-the-heros-partys-archmage%2Fmanga_img_horizontal-A1-The-Rebirth-of-the-Heros-Partys-Archmage.jpg",
@@ -23,18 +44,18 @@
       "url": "https://komiku.org/manga/became-the-patron-of-villains/"
     },
     {
-      "judul": "Entomologist in Sichuan Tang Clan",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fentomologist-in-sichuan-tang-clan%2Fmanga_img_horizontal-A1-Entomologist-in-Sichuan-Tang-Clan.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/entomologist-in-sichuan-tang-clan/"
-    },
-    {
       "judul": "From Goblin to Goblin God",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Ffrom-goblin-to-goblin-god%2Fmanga_img_horizontal-A1-From-Goblin-to-Goblin-God.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/from-goblin-to-goblin-god/"
+    },
+    {
+      "judul": "Entomologist in Sichuan Tang Clan",
+      "chapter": "",
+      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fentomologist-in-sichuan-tang-clan%2Fmanga_img_horizontal-A1-Entomologist-in-Sichuan-Tang-Clan.jpg",
+      "tipe": "",
+      "url": "https://komiku.org/manga/entomologist-in-sichuan-tang-clan/"
     },
     {
       "judul": "Suterare Saijo Wa Kazoku To Nonbiri Ikiru Koto Ni Shimasu",
@@ -212,25 +233,11 @@
       "url": "https://komiku.org/manga/oshi-no-teki-ni-natta-node/"
     },
     {
-      "judul": "Prosecutor Kim Seojin",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Fprosecutor_kim_seojin%2Fimg_696df020055e15.86622920.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/prosecutor-kim-seojin/"
-    },
-    {
       "judul": "Reincarnation Of The Fist King",
       "chapter": "",
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fimg%2Fupload%2Freincarnation_of_the_fist_king%2Fimg_6870c0af55c451.31566960.png",
       "tipe": "",
       "url": "https://komiku.org/manga/reincarnation-of-the-fist-king/"
-    },
-    {
-      "judul": "I Reincarnated As The Crazed Heir",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fi-reincarnated-as-the-crazed-heir%2Fmanga_img_horizontal-Komik-I-Reincarnated-As-The-Crazed-Heir.jpg",
-      "tipe": "",
-      "url": "https://komiku.org/manga/i-reincarnated-as-the-crazed-heir/"
     },
     {
       "judul": "Seirei Gensouki: Konna Sekai de Deaeta Kimi ni",
@@ -259,13 +266,6 @@
       "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fnew%2Fimg%2Fimages%2F2026%2F05%2F28%2F20260528180655_ac60e117d1e0b96a_5c96baae.jpg",
       "tipe": "",
       "url": "https://komiku.org/manga/musume-ni-danzai-sareru-akuyaku-koushaku-ni-tensei-shitemashita-akuyaku-muubu-o-yameta-no-ni-nazeka-musume-ga-koori-no-reijou-ka-suru-ken/"
-    },
-    {
-      "judul": "Villain To Kill",
-      "chapter": "",
-      "gambar_sampul": "http://komiku-org.vercel.app/api/image?url=https%3A%2F%2Fthumbnail.komiku.org%2Fuploads%2Fmanga%2Fvillain-to-kill%2Fmanga_img_horizontal-Komik-Villain-To-Kill.png",
-      "tipe": "",
-      "url": "https://komiku.org/manga/villain-to-kill/"
     },
     {
       "judul": "Taidana Akuyaku Kizoku no Ore ni, Konyaku Hakisareta Akuyaku Reijo ga Totsuidara Saikyo no Fufu ni Narimashita",
